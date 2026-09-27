@@ -6,13 +6,9 @@ board). The site list comes from a read-only probe of ~45 boards that day (detai
 priya_jobs/memory.md, "Trial: English-speaking countries").
 
 ## Major Features
-1. **Global job scraping:** LinkedIn in 10 countries + Reed, Totaljobs, CV-Library (UK), IrishJobs,
-   Job Bank (CA), Jora (AU), CareerJunction, PNet (ZA), JobsInMalta — 12 keywords (DevOps,
-   Release/Configuration/Quality/Requirements roles, Technical Writer, EU MDR, ISO 13485).
-2. **Local-LLM screening only:** every job is reviewed by the shared LM Studio server (no
-   Groq/Gemini), against `job_requirements.md`.
-3. **Dashboard:** Firebase Hosting at https://priya-global-jobs.web.app (same UI as the Finland
-   board, which it links to), data served from GitHub Pages.
+1. **Global job scraping:** LinkedIn in 10 English-speaking countries plus 9 national job boards (UK, IE, CA, AU, ZA, MT), 12 role keywords.
+2. **Local-LLM screening only:** every job is reviewed by the shared LM Studio server against `job_requirements.md` — no cloud LLMs.
+3. **Dashboard:** Firebase Hosting at https://priya-global-jobs.web.app, cross-linked with the Finland board, data served from GitHub Pages.
 
 ## Scope decisions (user, 2026-09-27)
 - Countries: UK, Ireland, Canada, Australia, New Zealand, Singapore, India, South Africa, Malta,
