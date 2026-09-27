@@ -49,6 +49,19 @@ priya_jobs/memory.md, "Trial: English-speaking countries").
 - Job Bank's keyword search is loose (a "Release Manager" search returns admin jobs), and
   JobsInMalta ignores keywords entirely — both cost local-LLM time on irrelevant jobs.
 
+## Setup status (2026-09-27)
+- Verified: all 9 boards + LinkedIn Malta return clean job links (live parser test); a test
+  scrape added 15 LinkedIn UK DevOps jobs (still `pending`); both dashboards are deployed and
+  cross-linked; GitHub Pages serves `jobs.json`.
+- **Not yet verified: the local-LLM review step.** The first test review was stopped because
+  another session was benchmarking a model on LM Studio. First real run: the scheduled task at
+  08:00 on 2026-09-28. Check for `LLM: local/...` verdicts in `logs/scraper_*.log`, and that the
+  "SC Cleared" test job (sponsorship/clearance rule) comes back "no".
+- The Firebase Console "Google sign-in" provider is not enabled yet (manual step). Viewing works
+  without it; the dashboard's write actions (applied/feedback) need it.
+- The first Firestore database was accidentally created in `nam5`; it was deleted and recreated in
+  `eur3`. A deleted `(default)` ID can be reused only after ~5 min.
+
 ## Known blocked boards (don't re-add without a new approach)
 Indeed (all countries, Cloudflare), Seek AU/NZ, JobStreet SG, JobsDB HK (Cloudflare), Naukri,
 Foundit (Access Denied), Adzuna (403/429), CTgoodjobs, KeepMePosted (captcha), Eluta, Careers24,
