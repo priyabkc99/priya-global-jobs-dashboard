@@ -1,0 +1,275 @@
+Title: DevOps/Cloud Engineer
+Company: impact.com
+Location: Victoria, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-cloud-engineer-at-impact-com-4465564009
+Posted: 2026-09-28
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in DevOps/CI-CD (Jenkins, infrastructure as code) and configuration management, matching her Elektrobit and Topcon experience. Location is Canada (target country), no US restrictions, and visa sponsorship not explicitly excluded.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps/Cloud Engineer
+impact.com  Victoria, British Columbia, Canada
+20 hours ago  132 applicants
+  
+
+See who impact.com has hired for this role
+
+Apply 
+Save
+About impact.com:
+
+impact.com is the world's leading commerce partnership marketing platform, transforming the way businesses grow by enabling them to discover, manage, and scale partnerships across the entire customer journey. From affiliates and influencers to content publishers, brand ambassadors, and customer advocates, impact.com empowers brands to drive trusted, performance-based growth through authentic relationships. Its award-winning products - Performance (affiliate), Creator (influencer), and Advocate (customer referral) - unify every type of partner into one integrated platform. As consumers increasingly rely on recommendations from people and communities they trust, impact.com helps brands show up where it matters most. Today, over 5,000 global brands - including Walmart, Uber, Shopify, Lenovo, L'Oreal, and Fanatics - rely on impact.com to power more than 350,000 partnerships that deliver measurable business results.
+
+Your Role at impact.com:
+
+As a DevOps/Cloud Engineer, you will be responsible for working hands-on to design, develop and implement processes that automate the build, staging, release & deployment of the software platform. You will also be responsible for infrastructure provisioning through build pipelines. As an enabler of engineering, you will have a direct impact on the productivity of the systems development life cycle.
+
+What You’ll Do:
+
+The main purpose of the DevOps/Cloud Engineer is to homogenize development and operations, and to create a collaborative and complementary development culture.
+
+The methods through which this is most pronounced is automation; including, but not limited to:
+
+
+Continuous integration & deployment
+Continuous code quality monitoring
+Continuous security scanning & license compliance monitoring
+Configuration management
+Infrastructure as Code
+Increase efficiency and optimal use of organizational resources
+Increase cross-team collaboration and employee satisfaction
+Support engineers in debugging & resolving issues surrounding build and staging & production deployments
+
+
+What You’ll Bring:
+
+
+Previous experience as a Cloud / DevOps / Platform Engineer in a Google Cloud (GCP) environment
+Automation and Configuration Management
+CI/CD tools, preferably experience in Jenkins administration and writing pipelines
+Experience with Terraform to programmatically provision the required resources
+Experience using building tools
+Programming and/or scripting language competency, with at least one of; Shell, Java, Groovy
+Gradle with Groovy configuration & plugin authoring, or equivalent Maven experience
+Self starter / Adaptability / Drive / Social Skills / Personal Development / Initiative
+
+
+Nice to Have:
+
+
+Affiliate & Partnerships Industry Fundamentals Certification by PXA
+
+
+Salary Range: $110,000 - $140,000 CAD per year, plus an additional 5% variable annual bonus contingent on Company performance with eligibility to receive Restricted Stock Unit (RSU) grant. *This is the pay range the Company believes is equitable for this position at the time of this posting. Consistent with applicable law, compensation will be determined based on the skills, qualifications, and experience of the applicant along with the requirements of the position, and the Company reserves the right to modify this pay range at any time.
+
+Benefits and Perks:
+
+At impact.com, we believe that when you’re happy and fulfilled, you do your best work. That’s why we’ve built a benefits package that supports your well-being, growth, and work-life balance.
+
+
+Strong extended health benefits: Health & Prescription coverage, vision and dental care, virtual health care, out-of-country medical coverage
+Insurance coverage (life, short-term disability, long-term disability, and more)
+Health Care Spending Account
+Two different Employee Assistance Programs
+Flexible Working: Our Responsible PTO policy means you can take the time off you need to rest and recharge. We're committed to a positive work-life balance and provide a flexible environment that allows you to be happy and fulfilled in both your career and your personal life.
+Health and Wellness: Your well-being is a priority. Our mental health and wellness benefit includes up to 12 fully covered therapy/coaching sessions per year, with additional dependent coverage. We also offer a monthly gym reimbursement policy to support your physical health.
+A Stake in Our Growth: We offer Restricted Stock Units (RSUs) as part of our total compensation, giving you a stake in the company's growth with a 3-year vesting schedule, pending Board approval.
+Investing in Your Growth: We’re committed to your continuous learning. Take advantage of our free Coursera subscription and our PXA courses.
+Parental Support: We offer a generous parental leave policy, 26 weeks of fully paid leave for the primary caregiver and 13 weeks fully paid leave for the secondary caregiver.
+Technology Financial Support: We provide a technology stipend to help you set up your home office and a monthly allowance to cover your internet expenses.
+
+
+Note: Benefits may vary by location and are subject to local regulations.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at impact.com by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Victoria, British Columbia, Canada.
+
+Sign in to create job alert
+Jobs
+Online Campaign Manager jobs
+DevOps/Cloud Engineer
+Similar jobs
+Site Reliability Engineer III
+Site Reliability Engineer III
+Electronic Arts (EA)
+Victoria, British Columbia, Canada
+2 weeks ago
+Data Platform DevOps Engineer - Senior Consultant
+Data Platform DevOps Engineer - Senior Consultant
+Deloitte
+Victoria, British Columbia, Canada
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Buyerlink
+Victoria, British Columbia, Canada
+3 weeks ago
+Advanced DevOps Games Software Engineer - American Football
+Advanced DevOps Games Software Engineer - American Football
+EA SPORTS
+Victoria, British Columbia, Canada
+5 days ago
+Senior Software Engineer, Site Reliability Engineering
+Senior Software Engineer, Site Reliability Engineering
+Thumbtack
+Victoria, British Columbia, Canada
+1 week ago
+Cloud Infrastructure Services Lead
+Cloud Infrastructure Services Lead
+BC Pension Corporation
+Victoria, British Columbia, Canada
+CA$90,900.08 - CA$128,800
+1 week ago
+Show more jobs like this 
+People also viewed
+Technical Lead / Senior Developer - Software Development
+Technical Lead / Senior Developer - Software Development
+
+EY
+
+Victoria, British Columbia, Canada
+1 week ago
+Software Engineer II
+Software Engineer II
+
+Affirm
+
+Victoria, British Columbia, Canada
+2 days ago
+Software Engineer II, Backend (Test Infra)
+Software Engineer II, Backend (Test Infra)
+
+Affirm
+
+Victoria, British Columbia, Canada
+2 weeks ago
+Staff Software Engineer, Backend (Cost Engineering)
+Staff Software Engineer, Backend (Cost Engineering)
+
+Affirm
+
+Victoria, British Columbia, Canada
+2 weeks ago
+Senior Software Engineer, Developer Experience
+Senior Software Engineer, Developer Experience
+
+Thumbtack
+
+Victoria, British Columbia, Canada
+1 week ago
+Staff Software Engineer, Backend (Capacity Modeling)
+Staff Software Engineer, Backend (Capacity Modeling)
+
+Affirm
+
+Victoria, British Columbia, Canada
+2 weeks ago
+Staff CIAM Software Engineer
+Staff CIAM Software Engineer
+
+Affirm
+
+Victoria, British Columbia, Canada
+4 days ago
+Customer Engineer, Data & Analytics #120
+Customer Engineer, Data & Analytics #120
+
+Premier Cloud
+
+Victoria, British Columbia, Canada
+1 month ago
+Product Security Engineer II
+Product Security Engineer II
+
+Affirm
+
+Victoria, British Columbia, Canada
+2 weeks ago
+Senior Software Engineer, Backend (Batch Infrastructure)
+Senior Software Engineer, Backend (Batch Infrastructure)
+
+Affirm
+
+Victoria, British Columbia, Canada
+1 week ago
+Similar Searches
+Online Campaign Manager jobs
+172 open jobs
+Affiliate Manager jobs
+2,919 open jobs
+Search Engine Marketing Specialist jobs
+299 open jobs
+Affiliate Marketing Manager jobs
+2,242 open jobs
+Advertising Account Manager jobs
+27 open jobs
+Features Writer jobs
+234 open jobs
+Lead Generation jobs
+6,357 open jobs
+Manager Account Management jobs
+2,028 open jobs
+Vice President Corporate Communications jobs
+89 open jobs
+Marketing Account Manager jobs
+1,426 open jobs
+Assistant Media Planner jobs
+45 open jobs
+Multimedia Journalist jobs
+65 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at impact.com
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

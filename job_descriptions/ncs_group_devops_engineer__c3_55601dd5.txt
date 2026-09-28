@@ -1,0 +1,229 @@
+Title: DevOps Engineer, C3
+Company: NCS Group
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-c3-at-ncs-group-4424756887
+Posted: 2026-06-30
+Deadline: N/A
+Reason: The DevOps Engineer role at NCS Group in Singapore matches Priya's expertise in CI/CD, Kubernetes, and infrastructure as code, aligning with her background in regulated industries and configuration management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer, C3
+NCS Group  Singapore, Singapore
+3 months ago   Be among the first 25 applicants
+  
+
+See who NCS Group has hired for this role
+
+Apply
+Save
+NCS is a leading AI Tech Services company. With a 15,000-strong team across the Asia Pacific, NCS scales its platforms and capabilities to provide clients with greater agility and AI expertise across a range of Industries. Embracing a strong ecosystem of global partners, NCS transforms technology services delivery combining AI with digital resilience to drive real business impact. NCS is a subsidiary of the Singtel Group.
+
+Job Description
+
+
+Kubernetes Clusters: Install, configure, and maintain Kubernetes clusters on premises.
+Containerization: Work with Docker containers and container for application deployments.
+Kafka Integration: Integrate Kafka for event-driven communication and data streaming within our on-premises setup.
+Guacamole Experience: Leverage Guacamole for secure remote access to our systems.
+Infrastructure as Code: Use tools like Terraform, Ansible, or CloudFormation to manage on-premises infrastructure.
+Monitoring and Alerting: Set up monitoring, logging, and alerting for Kubernetes clusters in our on-premises environment (e.g., Prometheus, Grafana, ELK stack).
+Security Best Practices: Implement Kubernetes security measures within our on premises setup, including RBAC, network policies, and pod security policies.
+
+
+Qualifications
+
+Technical Skills:
+
+
+Proficiency in Kubernetes concepts (pods, services, deployments, stateful sets) within an on-premises context.
+Experience with Docker and container for on-premises container management.
+Familiarity with Kubernetes networking (CNI plugins, ingress controllers, service meshes) in an on-premises environment.
+Knowledge of infrastructure as code tools (e.g., Helm, Kustomize, Terraform) for on-premises deployments.
+Ability to set up monitoring, logging, and alerting for Kubernetes clusters in an on-premises setup.
+Understanding of Kubernetes security best practices within an on-premises context.
+
+
+Soft Skills
+
+
+Strong problem-solving abilities in complex on-premises Kubernetes environments.
+Excellent communication skills for collaboration with cross-functional teams.
+Ability to thrive in a fast-paced, on-premises environment.
+A continuous learning mindset to keep up with the evolving Kubernetes ecosystem.
+Attention to detail when configuring and managing on-premises Kubernetes resources.
+Proactive approach to identifying and resolving potential issues within our on premises systems.
+
+
+Additional Information
+
+We are driven by our AEIOU beliefs—Adventure, Excellence, Integrity, Ownership, and Unity—and we seek individuals who embody these values in both their professional and personal lives. We are committed to our Impact: Valuing our clients, Growing our people, and Creating our future.
+
+We are driven by our AEIOU beliefs—Adventure, Excellence, Integrity, Ownership, and Unity—and we seek individuals who embody these values in both their professional and personal lives. We are committed to our Impact: Valuing our clients, Growing our people, and Creating our future.
+
+Together, we make the extraordinary happen.
+
+Learn more about us at ncs.co and visit our LinkedIn career site.
+
+Scam Alert
+
+We are aware of fraudulent job offers and impersonations of NCS recruiters. Phishing emails using convincing-looking but fake addresses are also commonly used to trick you into thinking that they come from official NCS sources.
+
+Please note that all official communications from NCS Group will only be sent from verified corporate email addresses. Always check that the sender’s email address ends with the genuine NCS domain, @ncs.com.sg and beware of extra letters, symbols or misspellings. When in doubt, verify the sender’s identity by contacting us at reachus@ncs.com.sg.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at NCS Group by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevSecOps Engineer
+DevSecOps Engineer
+Thales
+Singapore, Singapore
+4 days ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Tribe
+Singapore
+1 week ago
+OpenSky DevSecOps Engineer
+OpenSky DevSecOps Engineer
+Thales
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+Kyndryl
+
+Singapore, Singapore
+2 months ago
+AI DevOps Engineer
+AI DevOps Engineer
+
+Millennium
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+HashWhale
+
+Singapore
+10 months ago
+Cloud Site Relibility Engineer - DCS
+Cloud Site Relibility Engineer - DCS
+
+ByteDance
+
+Singapore, Singapore
+2 weeks ago
+Automation and DevSecOps Engineer
+Automation and DevSecOps Engineer
+
+NETS
+
+Singapore, Singapore
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Vanguard Software
+
+Singapore, Singapore
+3 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer, GPUaaS
+DevOps Engineer, GPUaaS
+
+Singtel
+
+Singapore, Singapore
+2 weeks ago
+Infrastructure Operations Engineer (APAC)
+Infrastructure Operations Engineer (APAC)
+
+Lightning AI
+
+Singapore
+2 weeks ago
+Site Reliability Engineer – Kubernetes/Linux Platform (Remote – APAC)
+Site Reliability Engineer – Kubernetes/Linux Platform (Remote – APAC)
+
+Saturn Cloud
+
+Singapore
+6 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NCS Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

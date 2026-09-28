@@ -1,0 +1,247 @@
+Title: Senior DevOps Engineer
+Company: StarHub
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-starhub-4449988418
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at StarHub in Singapore matches Priya's expertise in CI/CD pipelines (Jenkins), infrastructure as code (Terraform/CloudFormation), and cloud operations (AWS) while aligning with her target countries and experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+StarHub  Singapore, Singapore
+1 week ago  125 applicants
+  
+
+See who StarHub has hired for this role
+
+Apply 
+Save
+Role Mission:
+
+The DevOps Engineer will maintain scalable, secure, and highly available cloud infrastructure on AWS. This role is responsible for supporting development stacks in Java and .NET, automating deployment pipelines using tools such as Jenkins, optimizing system performance, and ensuring reliability through robust monitoring and incident response practices. Working closely with development, platform, and DBA teams, the engineer will enable efficient CI/CD workflows, container orchestration using Docker and Kubernetes, and database performance optimization for relational database systems (Oracle, MS SQL Server, PostgreSQL). The role also drives continuous improvement by adopting cloud-native technologies, enhancing security and compliance standards, and promoting DevOps best practices across the organization.
+
+Accountabilities:
+
+
+Maintain scalable, secure AWS infrastructure supporting diverse application stacks and database engines.
+Support software development teams by integrating Java and .NET build, test, and release processes into automated delivery pipelines.
+Build and optimize CI/CD pipelines using Jenkins to enable reliable and automated deployments.
+Implement and manage containerized environments using Docker and Kubernetes (e.g., EKS).
+Monitor, analyze, and fine-tune database performance, query execution plans, and resource utilization across enterprise database platforms (Oracle, MS SQL Server, PostgreSQL).
+Ensure high availability, rapid incident response, and continuous optimization of cloud and database workloads.
+Collaborate with cross-functional teams to improve automation, software delivery, database optimization, and security practices.
+
+
+
+Responsibilities:
+
+
+Manage application build and deployment lifecycles for Java and .NET applications.
+Develop and maintain CI/CD pipelines using Jenkins for automated build, test, and deployment.
+Provision and manage AWS infrastructure and managed database services.
+Analyze slow queries, review execution plans, and implement performance fine-tuning strategies (e.g., indexing, query refactoring, table partitioning, parameter group tuning) for Oracle, MS SQL Server, and PostgreSQL.
+Deploy and manage containerized applications using Docker and Kubernetes, ensuring proper runtime configuration for JVM memory and .NET application environments.
+Monitor system and database performance, troubleshooting bottlenecks, high CPU/memory utilization, and connection pooling issues to ensure maximum availability.
+Implement and enforce security, access control, backup/recovery strategies, and operational best practices across dev, test, and production environments.
+
+
+
+Team Scope / Stakeholders:
+
+
+Collaborate with Java and .NET Software Engineering teams to streamline build configurations, application packaging, and release workflows.
+Work with Database Administration (DBA) teams to optimize SQL queries, improve database performance, and enable efficient release processes.
+Partner with Cloud/Platform Engineering to design and maintain scalable AWS infrastructure.
+Work closely with QA and Testing teams to integrate automated performance and integration testing within CI/CD pipelines.
+Engage with Security teams to ensure compliance with security policies, database access control, and data protection standards.
+Support Product Owners and Business stakeholders by ensuring reliable, high-performing, and timely delivery of applications and services.
+
+
+
+Requirements:
+
+
+Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+3–5+ years of experience in DevOps, cloud engineering, or database reliability roles.
+
+
+
+Programming & Development Skills:
+
+
+Strong knowledge of Java development ecosystems and build tooling (e.g., Maven, Gradle, JVM tuning).
+Strong knowledge of .NET / C# development ecosystems and build tooling (e.g., .NET CLI, MSBuild, .NET Core / .NET 6+).
+Proficiency in scripting and operational programming (e.g., Python, Bash, Shell) for automation.
+Proficient in writing, debugging, and optimizing complex SQL queries.
+
+
+
+Cloud, DevOps & Database Skills:
+
+
+Hands-on experience with AWS services (e.g., EC2, S3, RDS, IAM, EKS).
+Strong experience in CI/CD tools, particularly Jenkins, and version control systems (e.g., Git).
+Strong experience in relational database query optimization and performance fine-tuning for Oracle, MS SQL Server, and PostgreSQL (e.g., execution plan analysis, indexing strategies, deadlocks, lock escalation, buffer pool usage).
+Proficiency in database performance monitoring tools (e.g., AWS RDS Performance Insights, Oracle AWR/ADDM, SQL Server Execution Plans/Profiler, PostgreSQL EXPLAIN ANALYZE / pg_stat_statements).
+Proficiency in Infrastructure as Code tools such as Terraform or CloudFormation.
+Experience with containerization and orchestration using Docker and Kubernetes.
+Familiarity with application and infrastructure monitoring tools (e.g., CloudWatch, Prometheus, Grafana).
+Proven ability to troubleshoot complex systems, diagnose performance bottlenecks, and work in a fast-paced, collaborative environment.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at StarHub by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Vanguard Software
+Singapore, Singapore
+3 weeks ago
+Senior DevOps Engineer - Singapore
+Senior DevOps Engineer - Singapore
+NinjaOne
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Singtel
+Singapore, Singapore
+5 hours ago
+Sr. DevOps Engineer (Blockchain Infra)
+Sr. DevOps Engineer (Blockchain Infra)
+BNB Chain
+Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+1 week ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+Bitdeer (NASDAQ: BTDR)
+Singapore
+2 days ago
+Show more jobs like this 
+People also viewed
+SRE DevOps Engineer
+SRE DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+BIOTRONIK
+
+Singapore, Singapore
+2 months ago
+DevOps Lead
+DevOps Lead
+
+Merquri
+
+Singapore, Singapore
+1 week ago
+Sr. SRE
+Sr. SRE
+
+Visa
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer (AVP)
+DevOps Engineer (AVP)
+
+OCBC
+
+Singapore, Singapore
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Bond Financial Group
+
+Singapore, Singapore
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+PIONEER SERVICES PTE. LTD.
+
+Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Openhill Global
+
+Singapore, Singapore
+1 month ago
+Senior Provisioning DevOps Engineer
+Senior Provisioning DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at StarHub
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

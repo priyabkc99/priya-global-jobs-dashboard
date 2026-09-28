@@ -1,0 +1,225 @@
+Title: Lead Platform Engineer (Azure, Kubernetes & DevOps)
+Company: Hudson Singapore
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/lead-platform-engineer-azure-kubernetes-devops-at-hudson-singapore-4463434397
+Posted: 2026-09-14
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (Azure, Kubernetes, infrastructure-as-code), is located in Singapore (target country), and matches her mid-senior experience level. Visa sponsorship requirements are not explicitly excluded.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead Platform Engineer (Azure, Kubernetes & DevOps)
+Hudson Singapore  Singapore, Singapore
+2 weeks ago  94 applicants
+  
+
+See who Hudson Singapore has hired for this role
+
+Apply
+Save
+Global Supply Chain Solutions Provider
+Newly Created Platform Engineering Role
+Hands-on DevOps & Platform Engineering Position
+
+
+
+
+Our client is a global organization building a new Global Engineering Organization to strengthen internal software delivery, improve production ownership, and build long-term engineering capability. They are now looking to hire a Lead Platform Engineer to build and support delivery platforms, CI/CD pipelines, and release processes across business-critical systems.
+
+
+
+
+Reporting into the Platform, DevOps & Data function, this is a senior role with hands-on responsibility. The role focuses on improving release reliability, automation, observability, and production stability across multiple environments.
+
+
+
+
+Requirement:
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related discipline.
+10+ years of experience in DevOps, Platform Engineering, Infrastructure Engineering, Cloud Engineering, Site Reliability Engineering (SRE), or related technical roles.
+Strong experience supporting and operating both on-premise and cloud-based environments, including hybrid infrastructure architectures.
+Strong hands-on experience building, maintaining, and improving CI/CD pipelines using tools such as Azure DevOps, Jenkins, GitLab CI/CD, or similar platforms.
+Strong scripting and automation skills using PowerShell, Bash, Python, or equivalent technologies.
+Experience managing application deployments, release processes, environment promotion strategies, deployment validation, rollback planning, and production readiness activities.
+Strong understanding of application hosting, infrastructure dependencies, platform reliability, operational support, and production system ownership.
+Hands-on experience with Microsoft-based enterprise environments, including Windows Server, IIS, .NET applications, SQL Server-backed systems, Active Directory, service accounts, and enterprise authentication technologies.
+Hands-on background with Azure cloud services, Azure DevOps, Azure Monitor, Application Insights, or Microsoft-oriented delivery tooling.
+Proficiency with infrastructure-as-code tools such as Terraform, Ansible, or similar tools.
+Practical knowledge of Docker, Kubernetes, container registries, Kustomize, Helm, or container-based deployment models.
+Practical experience deploying, configuring, maintaining, and troubleshooting Kubernetes clusters and load-balancing solutions in bare-metal environments.
+Familiarity with cloud platforms such as Azure, AWS, or GCP beyond the Microsoft ecosystem.
+Working knowledge of observability tools such as Zabbix, Grafana, Prometheus, ELK / OpenSearch, OpenTelemetry, OpenObserve, Datadog, New Relic, Splunk, Azure Monitor, or similar tools.
+Background working with artifact repositories, package management, dependency scanning, static analysis, and software supply chain controls.
+Understanding of DevSecOps practices, security scanning, vulnerability management, policy-as-code, or pipeline-integrated security controls.
+Prior work supporting ERP, warehouse, internal business platforms, B2B transaction systems, e-commerce, supply chain, logistics, or similar business-critical environments.
+Track record of improving DevOps maturity in an organization where process, ownership, and documentation are still developing.
+Familiarity with cost optimization, license awareness, and practical platform efficiency improvements.
+Applicants MUST BE currently based in Singapore and has relevant work experience in Singapore.
+
+
+
+
+NOTE: Please attach your latest resume. Applications without a resume will not be processed. All applications will be treated with strictest confidentiality.
+
+
+
+
+Chua Keow Por | Reg. #:R1105253 | Hudson Global Resources (Singapore) Pte Ltd | EA Licence #:18S9265
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at Hudson Singapore by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Platform Infrastructure Engineer, NEA
+Senior Platform Infrastructure Engineer, NEA
+GovTech Singapore
+Singapore, Singapore
+2 weeks ago
+Principal Engineer/Senior Principal Engineer, Cloud And Platform Engineering
+Principal Engineer/Senior Principal Engineer, Cloud And Platform Engineering
+DSTA
+Singapore, Singapore
+1 week ago
+Tech Lead ART SDA 100%
+Tech Lead ART SDA 100%
+Julius Baer
+Singapore, Singapore
+1 week ago
+Principal Software Engineer - DevOps / Site Reliability Engineer
+Principal Software Engineer - DevOps / Site Reliability Engineer
+Riot Games
+Singapore
+3 days ago
+Principal Platform Infrastructure Engineer
+Principal Platform Infrastructure Engineer
+GovTech Singapore
+Singapore, Singapore
+1 day ago
+Staff Cloud Architect
+Staff Cloud Architect
+Ripple
+Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability (DevOps) Engineer
+Senior Site Reliability (DevOps) Engineer
+
+Rakuten Asia Pte Ltd
+
+Singapore
+1 month ago
+Principal Architect Engineer
+Principal Architect Engineer
+
+Razer
+
+Singapore
+4 months ago
+Infrastructure Lead
+Infrastructure Lead
+
+CareCone Group
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer / SRE (Senior / Lead)
+Site Reliability Engineer / SRE (Senior / Lead)
+
+Reolink
+
+Singapore
+1 month ago
+Head, Cloud Core Engineering
+Head, Cloud Core Engineering
+
+Standard Chartered Singapore
+
+Singapore, Singapore
+1 week ago
+Head of Cloud & Platform Engineering - CONFIDENTIAL HIRE
+Head of Cloud & Platform Engineering - CONFIDENTIAL HIRE
+
+Gravitas Recruitment Group (Global) Ltd
+
+Singapore, Singapore
+8 hours ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Trust Bank Singapore
+
+Singapore
+2 weeks ago
+Senior Cloud Architect
+
+Keppel Ltd, Keppel Technology Solutions
+
+Singapore, Singapore
+3 weeks ago
+Lead Site Reliability Engineer, Athena Core
+Lead Site Reliability Engineer, Athena Core
+
+JPMorganChase
+
+Singapore, Singapore
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Apple
+
+Singapore, Singapore
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Hudson Singapore
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
