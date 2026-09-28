@@ -1,0 +1,229 @@
+Title: DevOps Engineer
+Company: RS2
+Location: Mosta, Malta
+URL: https://mt.linkedin.com/jobs/view/devops-engineer-at-rs2-4464788141
+Posted: 2026-09-14
+Deadline: N/A
+Reason: The job as a DevOps Engineer at RS2 in Mosta, Malta matches Priya’s CI/CD pipeline ownership, infrastructure tooling (AWS/Azure/Docker/Kubernetes), and configuration management experience, aligning with her Elektrobit and Topcon background and the 'configuration management' positive constraint.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+DevOps Engineer
+RS2  Mosta, Malta
+2 weeks ago  77 applicants
+  
+
+See who RS2 has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Company Profile
+
+RS2 offers secure payment services, payment software and managed services to clients in over 35 countries. The company upholds the highest industry standards and RS2’s in-house designed payments solution is the software of choice by many of the world’s leading and most innovative banks and financial institutions.
+
+
+
+
+The Opportunity:
+
+We are seeking a proactive Engineer to manage application deployments, cloud infrastructure, and CI/CD automation across production environments. Utilising Linux, AWS/Azure, Docker, Kubernetes, Terraform, and Bash, you will optimise system performance, monitor environments to ensure high availability, automate workflows, and resolve complex technical issues.
+
+
+
+
+Key Responsibilities:
+
+Installation & configuration of 3rd party middleware software as well as the company’s own application
+Deployment of code releases on various environments, including production
+Monitoring of data centres & environments to ensure minimal downtime
+Designing continuous deployment & automation solutions
+Researching & implementing ways of improving existing processes & workflows
+Creating and maintaining documentation of procedures & systems
+Assisting in performance optimization & IT security exercises
+
+
+
+
+Requirements
+
+Bachelor’s degree in Computer Science or a similar, recognised qualification
+Proficiency in scripting languages such as Bash
+Hands-on experience with cloud computing platforms (preferably AWS and/or Azure)
+Experience working with Linux servers in a production environment
+Experience using Docker and/or Kubernetes
+Experience with Terraform
+Experience with Elastic Stack (beneficial, but not required)
+Experience with troubleshooting and problem-solving situations
+Fluency in written and spoken English
+
+
+
+
+Think you've got what it takes?
+
+Apply directly to get the conversation started! All applications will be treated with strict confidence.
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at RS2 by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Mosta, Malta.
+
+Sign in to create job alert
+Similar jobs
+Database Engineer
+Database Engineer
+HAUD
+Mosta, Mosta, Malta
+4 weeks ago
+Software QA Engineer
+Software QA Engineer
+HAUD
+Mosta, Mosta, Malta
+4 weeks ago
+Platform Architect
+Platform Architect
+KTO Group
+Mosta, Mosta, Malta
+1 week ago
+Back-end Software Developer
+Back-end Software Developer
+RS2
+Mosta, Malta
+1 week ago
+Information Security Officer
+Information Security Officer
+RS2
+Mosta, Malta
+4 hours ago
+Content Creator
+Content Creator
+AX Careers
+Mosta, Malta
+5 days ago
+Show more jobs like this 
+People also viewed
+Business Systems Analyst
+Business Systems Analyst
+
+RS2
+
+Mosta, Malta
+3 weeks ago
+Business Systems Analyst
+Business Systems Analyst
+
+RS2
+
+Mosta, Malta
+3 days ago
+Payroll & Administration Officer
+Payroll & Administration Officer
+
+RS2
+
+Mosta, Malta
+2 weeks ago
+ELECTRICAL INSTALLER
+ELECTRICAL INSTALLER
+
+CE Installations Limited
+
+Mosta, Mosta, Malta
+1 month ago
+Lawyer
+Lawyer
+
+RS2
+
+Mosta, Malta
+2 weeks ago
+Procurement Manager
+Procurement Manager
+
+AX Careers
+
+Mosta, Malta
+5 days ago
+ELECTRICAL TECHNICIAN
+ELECTRICAL TECHNICIAN
+
+CE Installations Limited
+
+Mosta, Mosta, Malta
+1 month ago
+Finance Assistant (Part-Time or FTR)
+Finance Assistant (Part-Time or FTR)
+
+HAUD
+
+Mosta, Mosta, Malta
+4 weeks ago
+Senior Business Systems Analyst
+Senior Business Systems Analyst
+
+RS2
+
+Mosta, Malta
+3 weeks ago
+Tax Senior Team Leader
+Tax Senior Team Leader
+
+R77 PeopleCloud
+
+Mosta, Mosta, Malta
+2 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at RS2
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

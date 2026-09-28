@@ -1,0 +1,284 @@
+Title: Senior DevOps Engineer
+Company: Square One Resources
+Location: Sliema, Malta
+URL: https://mt.linkedin.com/jobs/view/senior-devops-engineer-at-square-one-resources-4462292573
+Posted: 2026-09-14
+Deadline: N/A
+Reason: The job aligns with the candidate's experience in DevOps (CI/CD pipelines, infrastructure as code) and is located in Malta, which is a target country. The role also matches the 'configuration management' positive constraint.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Senior DevOps Engineer
+Square One Resources  Sliema, Malta
+2 weeks ago  40 applicants
+  
+
+See who Square One Resources has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Square One Resources
+
+Ashley Wells
+Ashley Wells
+Helping DevOps, Cloud & Infrastructure Engineers Find Great Opportunities Across Startups, Scale-Ups & Enterprise | iGaming, Tech & Digital | Malta…
+
+Senior DevOps Engineer
+
+€75,000–€80,000 + Benefits
+
+Malta | Hybrid
+
+
+
+
+We’re looking for a Senior DevOps Engineer to join an exciting technology business building a new generation of platforms across iGaming, Sportsbook, Payments, Data & AI and Player Engagement.
+
+
+
+
+This is a hands-on opportunity for someone who enjoys building infrastructure properly from the ground up, working with modern cloud technologies and having genuine ownership over the reliability, scalability and security of a platform.
+
+
+
+
+The Role
+
+You’ll own and evolve the cloud infrastructure supporting a multi-product technology ecosystem. You’ll work closely with SRE, infrastructure and platform engineering teams, writing infrastructure as code, shaping Kubernetes workloads, improving deployment pipelines and ensuring the platform performs reliably under real-world traffic.
+
+Key Responsibilities
+
+
+
+
+Design, build and maintain AWS infrastructure using Terraform, including reusable modules and effective state management.
+Operate and evolve Kubernetes environments, including workload configuration, Helm charts, autoscaling, node provisioning and access control.
+Develop and improve GitOps deployment workflows, using tools such as ArgoCD.
+Own and enhance CI/CD pipelines, particularly GitLab CI.
+Build and operate observability solutions covering metrics, logs, traces, dashboards and alerting.
+Administer and troubleshoot Linux systems, including networking, DNS, TLS, systemd and filesystems.
+Apply cloud security best practices across IAM, secrets, encryption and WAF.
+Monitor infrastructure costs and identify opportunities for optimisation and right-sizing.
+Participate in incident response, post-incident reviews and permanent remediation.
+Produce clear technical documentation, including runbooks, architecture notes and decision records.
+
+
+
+
+What We’re Looking For
+
+
+
+
+5+ years' experience in DevOps, Platform, Infrastructure or Systems Administration.
+Strong, hands-on Terraform experience, including modules, state management and resolving drift.
+Solid AWS experience, ideally including VPC/networking, RDS, S3, IAM and MSK.
+Practical Kubernetes experience, including Helm chart authoring and templating.
+Experience with GitOps practices and ideally ArgoCD.
+Strong Linux and systems administration fundamentals.
+Confident working with and troubleshooting CI/CD pipelines.
+Experience with observability and monitoring is advantageous.
+Fluent written and spoken English.
+
+
+
+
+What We Value
+
+
+
+
+We’re looking for someone who takes ownership and cares about getting things right.
+
+You’ll be someone who:
+
+Is reliable, accountable and communicates early when something is at risk.
+Has excellent attention to detail.
+Can manage multiple technical workstreams in parallel.
+Communicates technical trade-offs clearly to both engineers and senior stakeholders.
+Works collaboratively and proactively challenges potential problems before they become incidents.
+
+
+
+
+Why Join?
+
+Build from the ground up — help shape the DevOps and infrastructure culture of a new platform.
+Real technical ownership across multiple products and technologies.
+Work with a modern AWS + Kubernetes environment.
+Exposure to iGaming, Sportsbook, Payments, Data & AI.
+Opportunity for significant technical and career growth as the business scales.
+Work alongside an experienced technology and industry leadership team.
+
+
+
+
+
+
+
+If you’re a Senior DevOps Engineer who enjoys building robust infrastructure rather than simply maintaining it, we’d love to hear from you.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Gambling Facilities and Casinos and Software Development
+  
+
+Referrals increase your chances of interviewing at Square One Resources by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sliema, Malta.
+
+Sign in to create job alert
+Similar jobs
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+Betsson Group
+Sliema, Sliema, Malta
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Light & Wonder - iGaming
+Sliema, Sliema, Malta
+4 days ago
+Observability Engineer - Infra
+Observability Engineer - Infra
+Betsson Group
+Sliema, Sliema, Malta
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+Pentasia
+Sliema, Malta
+1 week ago
+Cloud Engineer
+Cloud Engineer
+Internet Vikings
+Sliema, Malta
+1 month ago
+Cloud Engineer
+Cloud Engineer
+Internet Vikings
+Sliema, Sliema, Malta
+1 month ago
+Show more jobs like this 
+People also viewed
+Games Delivery Expert F/M
+Games Delivery Expert F/M
+
+Betclic Group
+
+Sliema, Sliema, Malta
+1 week ago
+Lead Product Designer
+Lead Product Designer
+
+Blue Monkeys in Space
+
+Sliema, Sliema, Malta
+5 days ago
+Senior Responsible Gaming Officer
+Senior Responsible Gaming Officer
+
+Kaizen Gaming
+
+Sliema, Sliema, Malta
+1 week ago
+Lead Product Designer
+Lead Product Designer
+
+Blue Monkeys in Space
+
+Sliema, Malta
+4 days ago
+Development Team Lead | Malta | PHP
+Development Team Lead | Malta | PHP
+
+Refactor.
+
+Sliema, Malta
+3 hours ago
+SRE (Site Reliability Engineer)
+SRE (Site Reliability Engineer)
+
+Internet Vikings
+
+Sliema, Sliema, Malta
+4 months ago
+Platform Database Engineer - Infra
+Platform Database Engineer - Infra
+
+Betsson Group
+
+Sliema, Sliema, Malta
+3 weeks ago
+Senior NOC Engineer
+Senior NOC Engineer
+
+Internet Vikings
+
+Sliema, Sliema, Malta
+11 months ago
+Senior NOC Engineer
+Senior NOC Engineer
+
+Internet Vikings
+
+Sliema, Malta
+1 week ago
+Senior Network Engineer
+Senior Network Engineer
+
+Internet Vikings
+
+Sliema, Sliema, Malta
+2 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Square One Resources
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

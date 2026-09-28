@@ -1,0 +1,256 @@
+Title: Senior DevOps Build/CI Engineer
+Company: Altenar
+Location: San Ġiljan, Saint Julian's, Malta
+URL: https://mt.linkedin.com/jobs/view/senior-devops-build-ci-engineer-at-altenar-4387938551
+Posted: 2026-04-01
+Deadline: N/A
+Reason: The job matches as a Senior DevOps Engineer role in Malta (target country), aligning with Priya's CI/CD/configuration management expertise and regulated-industry experience, while meeting all location, language, and experience criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Senior DevOps Build/CI Engineer
+Altenar  San Ġiljan, Saint Julian's, Malta
+6 months ago  27 applicants
+  
+
+See who Altenar has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Altenar is an international IT company founded in 2011, with offices in Malta, Greece, Georgia, the Isle of Man, Brazil and Uruguay. We specialize in high-load software development and provide one of the best technology solutions for the iGaming industry worldwide.
+
+The Senior DevOps Toolchain Engineer is the subject-matter expert within Altenar of the processes and tools that enable development teams to support multiple work streams and achieve quality in the delivered features. The role leads the short-term improvement and support and the long-term evolution of the tools supporting code creation, review and quality assurance and the systems building, storing and publishing software artifacts. The role needs strong social skills as it involves a lot of interaction with Software Development teams and Automation/Infrastructure teams.
+
+The role shall possess all the skills necessary to a) understand the SDLC and code branching model / repository organization required for each Altenar product b) support the Software Development teams by providing code repo management c) create and manage the infrastructure and scripting required to build code , package it into artifacts, and provide it for deployment via automated pipelines d) enter into proof-of-concept/research on new tools that may be required with new projects, and manage onboarding effectively. The role is part of a team and is a very important part of our DevOps practices at Altenar. We are looking to grow our team and welcome candidates who have experience in this area in large software projects.
+
+Must have
+
+
+Degree in a related major (Engineering / CS)
+Proven system administration experience in heterogeneous environments (Windows / Linux with RPM package management predominantly)
+Scripting skills (bash, powershell, python or other)
+Strong understanding of a variety of topics such as code versioning, semantic versioning, merge conflict, code tagging, feature branching, audit trails, authentication, automated deployment
+Proven experience in at least one major build and packaging system
+Experience in the setup of CI/CD in at least one organization
+Excellent knowledge of git and advanced manipulation of branches/patching/rollback
+Strong research and validation skills
+Strong coaching and presentation skills
+Deep understanding of development team practices
+Excellent documentation skills. Fanatical at capturing unstructured feedback, concerns
+Logical, critical-thinker, able to change perspective
+Self-driven, and able to work with local and remote stakeholders
+
+
+Nice to have
+
+
+Experience with container-based deployment workflows
+Experience with different build and packaging systems, and strong grasp of dependency management
+Experience with the Azure DevOps stack
+Experience with Jfrog Artifactory, SonarQube, Sentry
+Strong systems engineering background
+
+
+What you’d be responsible for
+
+
+Streamlined functioning of the software development toolchain
+Planning and implementing incremental improvements to the toolchain along a roadmap
+Major contributor to the development toolchain roadmap
+Point-of-contact for the development departments at Altenar.
+Coaching people in the use of different processes and tools
+Embracing innovation and experimentation in a structured way
+Communicating effectively with peer leaders and subject-matter experts in a matrix organization with overlapping areas of ownership
+Being guided by the principles of security by design and guaranteeing auditability throughout the toolchain
+Owning control of the structure used to implement best practice segregation within the toolchain
+Working in a highly technical, multicultural environment
+
+
+What we are responsible for
+
+
+Providing a fantastic environment to work in
+Supporting your personal and technical development with training opportunities
+Providing career growth in a very interesting company with global customer base
+Providing you with support to ensure you have a good working environment
+Providing guidance and technical direction
+Building a strong Technology Operations team around you to ensure we maintain agility whilst keeping compatible segregation of duties.
+
+
+Benefits
+
+
+Stable and flexible working environment
+Career growth opportunity
+Training and professional development events
+Health insurance for employees and close family members
+Teamwork and accountability
+Sense of community and defined company culture
+International work environment
+Diverse workplace
+Gym reimbursement after successfully passing the probationary period.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Management and Manufacturing
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Altenar by 2x
+
+See who you know
+
+Get notified about new Continuous Improvement Engineer jobs in San Ġiljan, Saint Julian's, Malta.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer - Gaming
+Senior DevOps Engineer - Gaming
+Betsson Group
+Ta' Xbiex, Malta
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Gaming Innovation Group
+San Ġiljan, Saint Julian's, Malta
+1 hour ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+BetForge.ai
+Saint Julian's, Malta
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Platin Gaming Ltd.
+Malta
+4 months ago
+DevOps Engineer
+DevOps Engineer
+Intralot
+Msida, Malta
+€45,000 - €55,000
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Square One Resources
+Sliema, Malta
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior System Engineer
+Senior System Engineer
+
+Financial Intelligence Analysis Unit (FIAU) Malta
+
+Birkirkara, Malta
+2 weeks ago
+Senior QA Engineer (Fully remote)
+Senior QA Engineer (Fully remote)
+
+Konnekt
+
+Valletta, Malta
+€50,000 - €60,000
+1 week ago
+Backend DevOps Developer
+Backend DevOps Developer
+
+Advice Island Ltd
+
+Sliema, Malta
+4 months ago
+Senior Infrastructure & Cloud Engineer
+Senior Infrastructure & Cloud Engineer
+
+Moneybase
+
+Birkirkara, Malta
+4 days ago
+Linux System Engineer
+Linux System Engineer
+
+CARMA
+
+Santa Venera, Santa Venera, Malta
+3 months ago
+Senior Platform Core DevOps Engineer - Infra
+Senior Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+2 weeks ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Sliema, Sliema, Malta
+1 week ago
+DevOps Engineer - Zecure Gaming
+DevOps Engineer - Zecure Gaming
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+2 weeks ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Valletta, Valletta, Malta
+1 week ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+6 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Altenar
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
