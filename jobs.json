@@ -277,15 +277,14 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-devops-engineer-at-newcode-ai-4422987850",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting explicitly states that visa sponsorship is not available and requires existing work authorization in Ireland, which the candidate does not have.",
+    "reason": "The job posting explicitly states that Newcode.ai is unable to provide visa sponsorship, which is required for the candidate to work in Ireland.",
     "id": "4718ac8a",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Engineer, Charles River Development, Senior Associate",
@@ -294,15 +293,14 @@
     "url": "https://ie.linkedin.com/jobs/view/devops-engineer-charles-river-development-senior-associate-at-charles-river-development-4456765139",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a DevOps Engineer position in Ireland, which aligns with her extensive experience in CI/CD, automation, and release management.",
+    "reason": "The role of DevOps Engineer at Charles River Development in Dublin, Ireland aligns with Priya's extensive CI/CD, Infrastructure as Code, and regulated-industry experience, meeting all target criteria including location, role type, and seniority level.",
     "id": "8592734d",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/charles_river_develo_devops_engineer__charles_river_8592734d.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/charles_river_develo_devops_engineer__charles_river_8592734d.txt"
   },
   {
     "title": "Senior DevOps Engineer",
@@ -311,15 +309,14 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-devops-engineer-at-payslip-4420412462",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires applicants to already have the permanent right to work in Ireland, but the candidate requires visa sponsorship.",
+    "reason": "The job requires applicants to have the permanent right to live and work in Ireland, which excludes candidates needing employer-sponsored visas.",
     "id": "73166fe9",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Principal DevOps Engineer",
@@ -327,16 +324,15 @@
     "location": "Galway, County Galway, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/principal-devops-engineer-at-reperio-human-capital-4470979560",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with her extensive experience in CI/CD, scripting, and release management and is located in a target country (Ireland).",
+    "matches_requirements": "maybe",
+    "reason": "The Principal DevOps Engineer role aligns with Priya\u2019s CI/CD and infrastructure-as-code expertise but lacks explicit mention of regulated/safety-critical domains (MDR/ISO 13485 or ASPICE/TUV), which were central to her previous experience at Topcon and Elektrobit.",
     "id": "b29c54dc",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-24",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/reperio_human_capita_principal_devops_engineer_b29c54dc.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -344,16 +340,15 @@
     "location": "Athlone, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/devops-engineer-at-zinkworks-4463026830",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This Senior DevOps Engineer role in Ireland aligns with her extensive experience in CI/CD, release management, and automation.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with the candidate's DevOps and CI/CD expertise but is explicitly labeled as 'Entry level,' which may not match her mid-to-senior experience level preferences.",
     "id": "a72ad60a",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/zinkworks_devops_engineer_a72ad60a.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -362,15 +357,14 @@
     "url": "https://ie.linkedin.com/jobs/view/devops-engineer-at-rws-4466043701",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This Mid-Senior DevOps Engineer role in Ireland matches her extensive expertise in CI/CD, automation, and infrastructure management.",
+    "reason": "The job as a DevOps Engineer at RWS in Dublin, Ireland matches Priya's expertise in CI/CD, infrastructure automation, and regulated industries, aligning with her background in Configuration Management and Release Management.",
     "id": "29549e57",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/rws_devops_engineer_29549e57.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/rws_devops_engineer_29549e57.txt"
   },
   {
     "title": "Lead CI/CD Platform Engineer",
@@ -379,15 +373,14 @@
     "url": "https://ie.linkedin.com/jobs/view/lead-ci-cd-platform-engineer-at-merative-4436626370",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns perfectly with her expertise in CI/CD, release management, and configuration management within a regulated healthcare context.",
+    "reason": "The role aligns with Priya\u2019s CI/CD and release management expertise, located in Ireland (target country), and does not restrict visa sponsorship or require US-based work.",
     "id": "5c8d3bb7",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/merative_lead_ci_cd_platform_engineer_5c8d3bb7.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/merative_lead_ci_cd_platform_engineer_5c8d3bb7.txt"
   },
   {
     "title": "Quantitative Development - DevOps Engineer",
@@ -395,16 +388,15 @@
     "location": "Dublin, County Dublin, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/quantitative-development-devops-engineer-at-millennium-4456204681",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a DevOps Engineer position in Ireland, which aligns with the candidate's extensive experience in CI/CD pipelines, automation, and release management.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with Priya\u2019s DevOps and CI/CD expertise but emphasizes quantitative research/HPC environments which differ from her regulated-industry background; however, the location (Ireland) and configuration-management focus match her profile.",
     "id": "6b4d1f1a",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-14",
-    "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/millennium_quantitative_development___dev_6b4d1f1a.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer, EMEA",
@@ -412,16 +404,15 @@
     "location": "Ireland",
     "url": "https://ie.linkedin.com/jobs/view/senior-devops-engineer-emea-at-keeper-security-inc-4456964240",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires candidates to already reside in Ireland, but the candidate requires visa sponsorship to work there.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with DevOps/CI-CD expertise but requires permanent residency in Ireland without explicit visa sponsorship confirmation, creating uncertainty about work authorization compatibility.",
     "id": "adb368e6",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Java DevOps Engineer - Digital Assets (VP)",
@@ -429,16 +420,15 @@
     "location": "Dublin, County Dublin, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/java-devops-engineer-digital-assets-vp-at-citi-4463654300",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a DevOps Engineer position focusing on infrastructure automation and CI/CD, which aligns with her extensive experience in release management and DevOps.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with DevOps Engineer criteria but requires specific tools (Red Hat OpenShift, Oracle DB administration) not explicitly mentioned in the candidate's skill set, though her CI/CD and automation experience may overlap.",
     "id": "75348021",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-27",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/citi_java_devops_engineer___digital_75348021.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Kubernetes Engineer",

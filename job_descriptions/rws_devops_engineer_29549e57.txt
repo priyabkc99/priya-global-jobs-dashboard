@@ -4,7 +4,7 @@ Location: Dublin, County Dublin, Ireland
 URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-rws-4466043701
 Posted: 2026-09-14
 Deadline: N/A
-Reason: This Mid-Senior DevOps Engineer role in Ireland matches her extensive expertise in CI/CD, automation, and infrastructure management.
+Reason: The job as a DevOps Engineer at RWS in Dublin, Ireland matches Priya's expertise in CI/CD, infrastructure automation, and regulated industries, aligning with her background in Configuration Management and Release Management.
 
 ========================================
 JOB DESCRIPTION:
@@ -22,17 +22,23 @@ LinkedIn
 Jobs
 Clear text
 Clear text
-Sign in
 Join now
+Sign in
 DevOps Engineer
 RWS  Dublin, County Dublin, Ireland
-2 weeks ago  151 applicants
+2 weeks ago  153 applicants
   
 
 See who RWS has hired for this role
 
 Apply 
 Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
 
 Direct message the job poster from RWS
 
@@ -167,7 +173,7 @@ Devops Engineer - DDT
 Devops Engineer - DDT
 Susquehanna International Group
 Dublin, County Dublin, Ireland
-2 weeks ago
+7 hours ago
 Cloud Infrastructure/Engineer
 Cloud Infrastructure/Engineer
 Mars Capital
@@ -209,14 +215,14 @@ Hays
 
 Dublin, County Dublin, Ireland
 €60,000 - €80,000
-2 days ago
+3 days ago
 Kubernetes Engineer
 Kubernetes Engineer
 
 InterSystems
 
 Dublin, County Dublin, Ireland
-6 days ago
+1 week ago
 Cloud Operations Engineer
 Cloud Operations Engineer
 
@@ -230,7 +236,7 @@ Production Systems Engineer
 Meta
 
 Dublin, County Dublin, Ireland
-3 days ago
+4 days ago
 DevOps Engineer, Charles River Development, Senior Associate
 DevOps Engineer, Charles River Development, Senior Associate
 
@@ -258,7 +264,7 @@ Site Reliability Engineer
 E-Solutions
 
 Dublin, County Dublin, Ireland
-3 days ago
+10 hours ago
 Site Reliability Engineer
 Site Reliability Engineer
 
