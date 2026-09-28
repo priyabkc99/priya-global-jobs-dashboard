@@ -1,5 +1,5 @@
 {
-  "target_index": 3,
+  "target_index": 4,
   "last_llm_model": "google/gemma-4-26b-a4b-qat",
   "requirements_hash": "c1eaa367e67fe07b5e9a9a2066c8b09d"
 }

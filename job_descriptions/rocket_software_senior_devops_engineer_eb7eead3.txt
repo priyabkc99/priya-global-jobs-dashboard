@@ -1,0 +1,292 @@
+Title: Senior DevOps Engineer
+Company: Rocket Software
+Location: Canberra, Australian Capital Territory, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-rocket-software-4425463878
+Posted: 2026-09-24
+Deadline: N/A
+Reason: The role is a Senior DevOps Engineer position in Australia, which aligns perfectly with her extensive experience in CI/CD pipelines, Jenkins, Git, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Rocket Software  Canberra, Australian Capital Territory, Australia
+4 days ago  48 applicants
+  
+
+See who Rocket Software has hired for this role
+
+Apply 
+Save
+It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+Job Description Summary:
+
+Rocket’s Data Modernization Business Unit enables organizations to effectively manage, govern, and unlock the full value of their enterprise data. Building on a strong legacy of innovation and industry leadership, Rocket continues to be recognized as a trusted pioneer in data solutions.
+
+As part of our ongoing investment in this strategic platform, we are driving a significant modernization effort to expand its capabilities, support emerging use cases, and scale to meet the needs of a growing customer base.
+
+As a Senior DevOps Software Engineer, you will play a critical role in this transformation. You will design, implement, and optimize infrastructure, CI/CD pipelines, and automation frameworks to improve reliability, performance, and delivery velocity. You will collaborate closely with engineering, operations, and product teams to ensure seamless deployment and operation of our platform in modern ecosystems.
+
+Position Reports To: Senior Software Engineering Manager
+
+Essential Duties and Responsibilities:
+
+
+Design, develop, and maintain CI/CD pipelines using Jenkins.
+Develop, maintain and migrate build scripts using Groovy, or other scripting languages to improve operational efficiency.
+Automate, manage and optimize Jenkins infrastructure ensuring scalability, security, and reliability.
+Maintain and enhance build environments, including deployments, scaling, and monitoring.
+Manage and optimize Git repositories and branching strategies for efficient development workflows.
+Troubleshoot and resolve infrastructure and application issues to ensure system reliability.
+Collaborate with development teams to optimize application deployments and performance.
+Implement DevSec Ops practices, including security scanning, vulnerability management and compliance monitoring across CI/CD pipelines.
+
+
+Required Qualifications:
+
+
+8+ years of software engineering experience
+Expertise in Jenkins for CI/CD pipeline automation.
+Proficiency in Git for version control and collaboration.
+Experience with Kubernetes for container orchestration, scaling, and deployment.
+Strong scripting skills in Groovy or similar languages.
+Solid understanding of Linux system administration and troubleshooting.
+Strong problem-solving skills and ability to work on complex, less-defined projects.
+Effective communication skills and ability to work collaboratively in a team environment.
+Ensure proper versioning and dependency management.
+Establish best practices for publishing, retrieving, and archiving artifacts.
+Enforce dependency version control strategies (e.g., snapshot vs. release versions).
+Clean up unused or outdated artifacts to optimize storage.
+Design, develop and maintain CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI/CD, or other automation tools.
+Automate artifact publishing and retrieval in build and deployment workflows.
+Troubleshoot build failures related to dependency issues.
+Optimize dependency resolution times and caching mechanisms.
+
+
+Preferred Qualifications:
+
+
+Maintain Experience in maintaining build infrastructure, Jenkins build nodes and related tools, including compilers and runtime libraries on Windows, Linux and z/OS.
+Maintain security scan (Blackduck, Polaris) and code signing facilities on those build nodes.
+
+
+Manage Artifactory repository infrastructures, dependencies, and accesses
+
+
+Support release rollout processes.
+Be able to support Windows, Linux, z/OS build nodes.
+Knowledge of security best practices in cloud and containerized environments.
+Familiarity with database management and optimization.
+Experience with observability tools and performance tuning.
+
+
+Education:
+
+Bachelor's degree in Computer Science or equivalent
+
+Travel Requirements:
+
+0 - 10%
+
+Information Security:
+
+Information security is everyone’s responsibility. A fundamental principle of information security at Rocket Software is that all individuals in the organization have a responsibility for the security and protection of company information and IT Resources over which they have control, according to their role.
+
+Diversity, Inclusion & Equity:
+
+At Rocket we are committed to an inclusive workplace environment, where every Rocketeer can thrive by bringing their full selves to work. Being a Rocketeer means you are part of our movement to continually drive inclusivity, diversity and equity in our workforce.
+
+Rocket Software Inc. is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Rocket Software Inc. is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+
+At Rocket Software, we believe AI is a critical enabler of innovation and productivity. All Rocketeers are expected to actively leverage AI-powered tools and technologies, where appropriate, to enhance efficiency, improve decision-making, and deliver greater impact in their roles. Embracing continuous learning and the responsible use of AI is an essential part of how we work.
+
+As part of our commitment to a safe and trustworthy workplace, we include background and reference checks in our hiring process.
+
+Rocket is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. If you need special assistance or an accommodation while seeking employment, please call: 781-577-4321 or send an email to people@rocketsoftware.com. We will make a determination on your request for reasonable accommodation on a case-by-case basis.
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Rocket Software by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Canberra, Australian Capital Territory, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior Engineer - Cloud & DevOps
+Senior Engineer - Cloud & DevOps
+LAB3
+Canberra, Australian Capital Territory, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Hays
+Canberra, Australian Capital Territory, Australia
+A$100 - A$160
+3 weeks ago
+Staff Platform Engineer
+Staff Platform Engineer
+GRIDSIGHT
+Belconnen, Australian Capital Territory, Australia
+3 months ago
+Platform Engineer
+Platform Engineer
+Leidos
+Canberra, Australian Capital Territory, Australia
+3 weeks ago
+Senior Platform Engineer | OpenShift
+Senior Platform Engineer | OpenShift
+Leidos
+Canberra, Australian Capital Territory, Australia
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Leidos Australia
+Canberra, Australian Capital Territory, Australia
+4 days ago
+Show more jobs like this 
+People also viewed
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+randstad digital australia
+
+Belconnen, Australian Capital Territory, Australia
+2 days ago
+IBM Fusion/Red Hat Engineer
+IBM Fusion/Red Hat Engineer
+
+The HR Ally
+
+Canberra, Australian Capital Territory, Australia
+2 months ago
+Tech Lead Manager
+Tech Lead Manager
+
+x-RD
+
+Canberra, Australian Capital Territory, Australia
+1 month ago
+Senior Cloud Architect
+Senior Cloud Architect
+
+Centorrino Technologies
+
+Canberra, Australian Capital Territory, Australia
+1 week ago
+Cloud Engineer / Cloud Architect – Azure & M365
+Cloud Engineer / Cloud Architect – Azure & M365
+
+Saltus Group
+
+Canberra, Australian Capital Territory, Australia
+1 week ago
+Cloud Architect
+Cloud Architect
+
+CareCone Group
+
+Canberra, Australian Capital Territory, Australia
+1 week ago
+Mid/Senior Software Engineer
+Mid/Senior Software Engineer
+
+NetApp
+
+Canberra, Australian Capital Territory, Australia
+3 days ago
+Senior Cloud Engineer: National Security & Defence, Professional Services
+Senior Cloud Engineer: National Security & Defence, Professional Services
+
+Amazon Web Services (AWS)
+
+Canberra, Australian Capital Territory, Australia
+2 weeks ago
+Senior Cloud Architect
+Senior Cloud Architect
+
+Centorrino Technologies
+
+Belconnen, Australian Capital Territory, Australia
+1 week ago
+EL1 Full Stack Engineer
+EL1 Full Stack Engineer
+
+The Network Technology Recruitment
+
+Canberra, Australian Capital Territory, Australia
+3 weeks ago
+Similar Searches
+Progress Developer jobs
+4,446 open jobs
+Mainframe System Programmer jobs
+22 open jobs
+Network Test Engineer jobs
+4,162 open jobs
+Mainframe Developer jobs
+1,279 open jobs
+Peoplesoft Consultant jobs
+13 open jobs
+Rewards Consultant jobs
+38 open jobs
+Implementation Engineer jobs
+4,836 open jobs
+Sales Training Specialist jobs
+124 open jobs
+Test Architect jobs
+568 open jobs
+Sales Engineering Manager jobs
+1,218 open jobs
+Marketing Partner jobs
+5,766 open jobs
+Director of Field Marketing jobs
+43 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Rocket Software
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

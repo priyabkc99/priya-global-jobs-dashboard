@@ -1,0 +1,328 @@
+Title: Senior DevOps Engineer
+Company: HUB24 Limited
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-hub24-limited-4470196570
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The role is a Senior DevOps Engineer in Australia, which aligns with her extensive experience in CI/CD, automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+HUB24 Limited  Sydney, New South Wales, Australia
+2 days ago  26 applicants
+  
+
+See who HUB24 Limited has hired for this role
+
+Apply
+Save
+About HUB24
+
+At HUB24, we’re rethinking the way wealth management works, combining platform, technology and data to create better outcomes for financial professionals and their clients.
+
+Our purpose is simple: Empower better financial futures, together.
+
+What sets us apart is how we work. We back bold thinking, move with pace, and turn ideas into action. You’ll have the opportunity to make a real impact across your team, the business, and for the clients we support every day.
+
+HUB24 Limited is an ASX-listed company (ASX: HUB) and part of the ASX100. We have over 1,100 employees across Australia, with offices in Sydney, Melbourne, Brisbane, Perth and the Gold Coast.
+
+Why you’ll enjoy working here
+
+We create an environment where you can do your best work and see the impact of it.
+
+
+Work with smart, collaborative people who get things done.
+Your ideas won’t sit in a backlog, they’ll be heard, tested and actioned.
+Grow your career your way, with support to learn, stretch and explore new opportunities.
+
+
+We also offer benefits to support you inside and outside of work:
+
+
+Genuinely flexible and hybrid ways of working.
+Employee Share Scheme.
+Additional leave and wellbeing support.
+Enhanced parental leave and support through different life stages.
+Everyday benefits, including discounts and financial wellbeing support.
+
+
+Why this is an exciting opportunity
+
+The Senior DevOps Engineer is a senior technical specialist responsible for designing, implementing, automating, and continuously improving cloud platforms, infrastructure, CI/CD pipelines, observability solutions, and operational excellence practices. This role partners closely with Platform, Cyber Security, Software Engineering, Product, and Test teams to deliver secure, scalable, reliable, and highly available technology solutions. The position provides technical leadership, drives DevOps maturity, and champions automation, innovation, and engineering best practices across the organisation.
+
+What You’ll Be Doing
+
+Cloud & Platform Engineering
+
+
+Design, implement, and maintain scalable cloud platforms across AWS and/or Google Cloud Platform (GCP).
+Develop and manage Infrastructure as Code (IaC) solutions using Terraform, CloudFormation, or similar technologies.
+Establish cloud networking, security, identity management, governance, and platform standards.
+Build reusable infrastructure modules to support consistency and operational efficiency.
+Design, administer, and optimise container platforms, including Kubernetes environments.
+
+
+DevOps & Automation
+
+
+Design, implement, and optimise CI/CD pipelines and deployment frameworks.
+Automate software build, testing, deployment, and release processes.
+Drive adoption of DevOps principles, developer enablement, and self-service platform capabilities.
+Establish engineering standards, controls, quality gates, and automation-first practices.
+
+
+Reliability, Security & Operations
+
+
+Implement and enhance monitoring, logging, tracing, and alerting capabilities.
+Support Site Reliability Engineering (SRE) practices, including SLIs, SLOs, error budgets, resilience testing, and service reliability improvements.
+Lead production incident management, root cause analysis, and continuous service improvement initiatives.
+Manage vulnerability remediation, patching, secrets management, and compliance requirements.
+Collaborate with Cyber Security teams to ensure secure-by-design solutions and adherence to governance standards.
+
+
+Technical Leadership
+
+
+Provide technical leadership, mentoring, coaching, and peer reviews across engineering teams.
+Contribute to architecture decisions, technology roadmaps, and platform strategy.
+Lead the resolution of complex technical challenges and operational issues.
+Drive continuous improvement initiatives and promote engineering excellence across the organisation.
+
+
+What You Bring
+
+You don’t need to tick every box, but experience in the below will set you up for success.
+
+Experience & Skills
+
+
+Minimum 7 years' experience in DevOps, Cloud Engineering, Platform Engineering, or related disciplines.
+Proven experience operating and supporting enterprise-scale cloud environments.
+Demonstrated success implementing DevOps, automation, and platform engineering practices.
+Experience leading cloud migration, platform transformation, or modernization initiatives.
+Experience supporting business-critical production systems in high-availability environments.
+Experience working within Agile delivery frameworks.
+Relevant certifications such as AWS Solutions Architect, AWS DevOps Engineer, Kubernetes, or Terraform are highly desirable.
+
+
+Leadership & Communication
+
+
+Strong stakeholder engagement and relationship management skills.
+Ability to influence technical direction and engineering standards.
+Proven mentoring and coaching capability.
+Excellent verbal, written, documentation, and presentation skills.
+Ability to lead technical initiatives across multiple teams and functions.
+Takes ownership and accountability for outcomes and commitments.
+Demonstrates a strong focus on operational excellence and service reliability.
+Continuously seeks opportunities to improve efficiency, automation, and customer outcomes.
+Embraces innovation, AI capabilities, and automation-first thinking.
+Promotes collaboration, knowledge sharing, and team success.
+Prioritises reliability, performance, security, and user experience.
+Remains calm and effective when managing incidents and competing priorities.
+Adapts quickly to changing business and technology requirements.
+Acts with professionalism, transparency, and integrity.
+Upholds security, compliance, and governance standards in all activities.
+
+
+Our process
+
+We aim to keep the process simple and respectful of your time:
+
+
+You’ll receive an acknowledgement after applying.
+Our Talent team will review your application and keep you updated.
+If shortlisted, we’ll connect to learn more about you.
+Interviews may be virtual or in person.
+You’ll receive an outcome and feedback.
+
+
+If you need any adjustments, please let us know - we’re here to support you.
+
+Our commitment
+
+We’re committed to building an inclusive environment where everyone feels valued and supported to do their best work. We welcome applications from people of all backgrounds, identities and experiences.
+
+Agencies, we work with a panel of preferred suppliers and are not accepting any unsolicited CVs.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at HUB24 Limited by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Settify
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CORTO
+Millers Point, New South Wales, Australia
+1 week ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software
+Sydney, New South Wales, Australia
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+2 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software Australia
+Sydney, New South Wales, Australia
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+2 days ago
+Show more jobs like this 
+People also viewed
+Senior AI DevOps Engineer
+Senior AI DevOps Engineer
+
+Allianz Australia
+
+Sydney, New South Wales, Australia
+5 days ago
+Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
+Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
+
+Anduril Industries
+
+Sydney, New South Wales, Australia
+3 days ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Sydney, New South Wales, Australia
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior Engineer, Platform Engineering
+Senior Engineer, Platform Engineering
+
+News Corp
+
+Surry Hills, New South Wales, Australia
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pet Circle
+
+Sydney, New South Wales, Australia
+3 days ago
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+6 days ago
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Senior Account Officer jobs
+2,355 open jobs
+Investment Administrator jobs
+1,147 open jobs
+Head of Operational Risk jobs
+87 open jobs
+Risk Compliance Officer jobs
+347 open jobs
+Financial Planning Associate jobs
+143 open jobs
+Portfolio Administrator jobs
+1,530 open jobs
+Technical Business Analyst jobs
+1,625 open jobs
+Paraplanner jobs
+1,107 open jobs
+Risk Compliance Manager jobs
+483 open jobs
+News Reporter jobs
+188 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at HUB24 Limited
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

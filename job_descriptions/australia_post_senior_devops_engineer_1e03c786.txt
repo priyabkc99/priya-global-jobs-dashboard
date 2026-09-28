@@ -1,0 +1,241 @@
+Title: Senior DevOps Engineer
+Company: Australia Post
+Location: Cremorne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-australia-post-4469848360
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a Senior DevOps Engineer position in Australia, which aligns with her extensive experience in CI/CD, automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Australia Post  Cremorne, Victoria, Australia
+1 week ago  62 applicants
+  
+
+See who Australia Post has hired for this role
+
+Apply 
+Save
+
+Help us deliver like never before  
+
+We’re looking for a Senior DevOps Engineer to join our diverse, talented and innovative digital technology team who together are helping our customers and communities build a better future. Together, we design, build and maintain products, services and experiences that Australian's love and trust, while delivering a sustainable future for Australia Post, and you could be part of that.  
+ 
+We're empowered to deliver for our teams and to delight our customers. We provide an inclusive and supportive environment that nurtures talented people, trusts our teams to deliver their best, and leverages modern work practices and technologies. It's an unexpectedly dynamic and collaborative culture that feels more like a start-up than a 213-year old icon.  
+ 
+What you’ll deliver with us 
+
+Working within a collaborative team-based culture of continual experimentation and learning, the Senior DevOps Engineer possesses a deep understanding and passion for DevOps. The Senior DevOps Engineer works with a range of technical teams to implement technical solutions and support our existing platforms to deliver operational excellence and a high-quality customer experience. 
+ 
+The Senior DevOps Engineer is responsible for automation of processes, support and maintenance of continuous integration delivery systems and the support, maintenance and uplift of application platform infrastructure to provide stable, robust and secure systems and services to our customers and provide speed to market for new solutions. 
+
+You’ll also   
+
+Work on integration with and migration from legacy platforms.
+Build strong relationships with technical teams staying connected to all facets of technology in order to continuously automate, integrate and deliver sustainable software in highly managed systems
+ Collaborate with technical teams to resolve technical queries as well as implementing strategic solutions to maintain and uplift our application infrastructure.
+Build at scale and deploy at speed
+Work in an Agile/Scrum development environment, aligning to the goals and objectives for project and agile development.
+This role focuses on both project work and BAU 
+  
+
+About you  
+
+We are seeking a good communicator with strong presentation and interpersonal skills and ability to clearly articulate and document solution design. This is because you’ll be working closely with developers, designers, architecture, business analysts, quality assurance, testing services, information security and technology operation teams. From a technical perspective you’ll get to work with GCP, GITLAB/Jenkins, SNYK, Checkmarx, Nexus, SonarQube and Tomcat in this position, so someone who is a passionate technologist is a wonderful fit for this team.
+
+
+
+You’ll also need   
+
+Technical background working with Python, NodeJS or equivalent language and NoSql databases (DynamoDb,  redis)
+Proven ability with AWS, Azure is required and with Google Cloud Platform (GCP) an advantage but not required
+Expert Knowledge of source code management tools and CI/CD principles allowing application source code to be built, packaged, versioned and deployed (Maven, Jenkins/GitLab, GIT, SonarQube, Nexus or equivalent) 
+Expert knowledge with Docker and containers as well as security scanning (Snyk etc)
+Comfortable working in an Agile environment with on-call responsibilities
+Demonstrated experience working with CloudFormation / Terraform, Parameter Store, Secrets Manager, API Gateway, Route 53, RDS, Load balancers
+Demonstrated experience working with AWS Cloud Watch, AWS CloudTrail, SumoLogic, New Relic, Lambda, ECS -Fargate, ECR, Elastic Beanstalk, EC2
+  
+
+How we’ll deliver for you  
+
+Work with cutting edge technology including Terraform and GCP
+Hybrid work environment in our Burnley Office
+
+
+ We’re delivering together 
+
+At Australia Post, we acknowledge the Traditional Custodians of the land on which we operate, live and gather as employees. 
+
+We believe our business should reflect the diverse communities we operate in and are proud to be an inclusive workplace for people from all walks of life. We encourage applications from people of all ages, genders and backgrounds including Aboriginal and Torres Strait Islander peoples, People with Disability, LGBTQIA+ and Refugees. 
+
+We are one of the largest organisations in Australia to successfully achieve Disability Confident Recruiter status. We are committed to providing an inclusive and barrier-free recruitment process and workplace for those living with a disability and are committed to reviewing and removing bias in our processes to create a gender-equitable recruitment experience and workplace.  If you have any questions about accessibility, please contact our Diversity & Inclusion team on inclusivecareers@auspost.com.au.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Consumer Services
+  
+
+Referrals increase your chances of interviewing at Australia Post by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Cremorne, Victoria, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior Cloud / DevOps Engineer
+Senior Cloud / DevOps Engineer
+Eightcap
+Melbourne, Victoria, Australia
+6 days ago
+DevOps / Cloud Engineer
+DevOps / Cloud Engineer
+Accenture Australia
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior DevOps and Platform Engineer
+Senior DevOps and Platform Engineer
+TheDriveGroup
+Melbourne, Victoria, Australia
+1 week ago
+Cloud & DevOps Engineer
+Cloud & DevOps Engineer
+Accenture Australia
+Melbourne, Victoria, Australia
+4 days ago
+Senior DevOps/ Site Reliability Engineer
+Senior DevOps/ Site Reliability Engineer
+HCLTech - Australia and New Zealand
+Melbourne, Victoria, Australia
+A$100,000 - A$130,000
+6 days ago
+Senior Platform Engineer - DevSecOps
+Senior Platform Engineer - DevSecOps
+Rosterfy
+Melbourne, Victoria, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+CloudOps Engineer - Software
+CloudOps Engineer - Software
+
+Gallagher Animal Management
+
+Melbourne, Victoria, Australia
+4 days ago
+Cloud Engineer
+Cloud Engineer
+
+HESTA
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Blinq
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Bell Financial Group (ASX:BFG)
+
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Future Secure AI
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Salt
+
+Melbourne, Victoria, Australia
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Transurban
+
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Platform Engineer
+DevOps Platform Engineer
+
+Leidos
+
+Melbourne, Victoria, Australia
+2 months ago
+Site Reliability Engineer - Liquidity Platform
+Site Reliability Engineer - Liquidity Platform
+
+Macquarie Group
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Tech Lead
+Cloud Tech Lead
+
+Medibank
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Similar Searches
+General Manager Information Technology jobs
+32 open jobs
+Cruise Director jobs
+85 open jobs
+Head of Property jobs
+199 open jobs
+Buyers Agent jobs
+59 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Australia Post
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

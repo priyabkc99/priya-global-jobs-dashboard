@@ -1,0 +1,287 @@
+Title: AWS Devops
+Company: Luxoft Australia
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/aws-devops-at-luxoft-australia-4462139184
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role aligns with her DevOps, CI/CD, and release management expertise and is located in a target country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AWS Devops
+Luxoft Australia  Sydney, New South Wales, Australia
+1 week ago  130 applicants
+  
+
+See who Luxoft Australia has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Luxoft Australia
+
+Wei Yuan Chen
+Wei Yuan Chen
+Looking for Murex profiles across all streams. Drop me a message if you are interested!
+
+Project details
+
+An opportunity is available to join the OTC Clearing team, which is responsible for the delivery, support, and modernization of the Calypso platform for our client, a leading Australian financial market infrastructure provider.
+
+
+
+
+As part of the technology transformation agenda, you will participate in strategic initiatives such as Calypso cloud migration, Aurora PostgreSQL adoption, DevOps automation enhancement, GitLab SaaS migration, observability improvements, and overall platform modernization. The team operates within a cross-functional Agile framework, encompassing Engineering, Quality Engineering, DevOps, Product, Business Analysis, and Application Support roles.
+
+
+
+
+Responsibilities
+
+- Build, maintain, and support AWS cloud infrastructure hosting the core platform and related services.
+
+- Develop and manage CI/CD pipelines using GitLab SaaS to enable automated, repeatable deployments across environments.
+
+- Support migration of workloads from on-premise infrastructure to AWS cloud platforms.
+
+- Implement and maintain Infrastructure as Code (IaC) using Terraform and Ansible.
+
+- Automate application deployments, database refreshes, environment provisioning, and operational support processes.
+
+- Collaborate with Engineering, QA, Application Support, Infrastructure, and Architecture teams to enhance delivery efficiency and platform resilience.
+
+- Support migration activities including deployment automation, configuration management, and environment support for Aurora PostgreSQL.
+
+- Drive observability improvements through logging, monitoring, alerting, OpenTelemetry, CloudWatch, and associated tools.
+
+- Manage secrets, certificates, credentials, and access controls following enterprise security patterns and tools.
+
+- Support release governance, production readiness assessments, change management, and incident response activities.
+
+- Troubleshoot application, infrastructure, networking, and deployment issues across multiple environments.
+
+- Contribute to DevOps standards, reusable pipeline patterns, and cloud deployment frameworks within the technology domain.
+
+
+
+
+Requirements
+
+9+ years of experience in DevOps, Platform, Cloud Engineering, and Site Reliability Engineering to support and optimize cloud-based infrastructure. They possess advanced hands-on skills with AWS services including compute, container orchestration, storage, identity and access management, networking, monitoring, secrets management, and databases.
+
+
+
+
+Hard skills include:
+
+- Experienced in implementing DevOps pipeline for leading capital markets trading applications like Calypso, Murex, FIS..etc
+
+- Designing and managing CI/CD pipelines using GitLab SaaS for automated deployments and release orchestration
+
+- Implementing Infrastructure as Code with Terraform alongside configuration management via Ansible
+
+- Administering Linux systems and developing automation scripts in Bash and Python
+
+- Supporting mission-critical production environments within regulated industries
+
+- Applying deployment strategies, change and environment management, and release governance best practices
+
+- Establishing monitoring, logging, observability, and incident response frameworks
+
+- Executing comprehensive troubleshooting across applications, databases, infrastructure, and networks
+
+- Managing secrets securely using tools like HashiCorp Vault
+
+
+
+
+Soft skills emphasize effective communication and collaboration:
+
+- Engaging with diverse teams including Engineering, QA, Operations, Security, and Architecture
+
+- Facilitating stakeholder alignment to ensure successful project delivery and operational stability
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Luxoft Australia by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 week ago
+Cloud Engineer
+Cloud Engineer
+Slalom
+Sydney, New South Wales, Australia
+3 days ago
+Devops Engineer
+Devops Engineer
+ASX
+Sydney, New South Wales, Australia
+1 week ago
+*AWS Cloud Engineer*
+*AWS Cloud Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+CMSN Group Pty Ltd
+Greater Sydney Area
+2 months ago
+AWS DevOps Engineer (with Java based trading platform)
+AWS DevOps Engineer (with Java based trading platform)
+Luxoft
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
+Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
+
+Anduril Industries
+
+Sydney, New South Wales, Australia
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+Infotrust (AU)
+
+Sydney, New South Wales, Australia
+3 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+FIS
+
+Millers Point, New South Wales, Australia
+5 days ago
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Hatch
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
+
+Sydney, New South Wales, Australia
+1 week ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+IAG
+
+Sydney, New South Wales, Australia
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Australian Payments Plus
+
+Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Acquisition Specialist jobs
+931 open jobs
+Data Modeler jobs
+5,365 open jobs
+Software Engineering Manager jobs
+1,069 open jobs
+Contract Software Engineer jobs
+703 open jobs
+Program Manager jobs
+4,711 open jobs
+Chief Technology Officer jobs
+132 open jobs
+Statistical Programmer jobs
+641 open jobs
+User Experience Designer jobs
+507 open jobs
+Java Software Engineer jobs
+760 open jobs
+Senior Test Engineer jobs
+312 open jobs
+Engineering Manager jobs
+3,371 open jobs
+Software Tester jobs
+120 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Luxoft Australia
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,419 @@
+Title: DevOps Engineer
+Company: Cloud Raptor
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-cloud-raptor-4462567632
+Posted: 2026-09-14
+Deadline: N/A
+Reason: The role is a Senior DevOps Engineer in Australia, aligning with her extensive experience in CI/CD, automation, and regulated environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Cloud Raptor  Sydney, New South Wales, Australia
+2 weeks ago  92 applicants
+  
+
+See who Cloud Raptor has hired for this role
+
+Apply
+Save
+Cloud Raptor provided pay range
+
+This range is provided by Cloud Raptor. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+A$150,000.00/yr - A$170,000.00/yr
+
+Direct message the job poster from Cloud Raptor
+
+Nick W.
+Nick W.
+Director of Talent and Business Development | Career Match-Maker | Animal Obsessed
+
+Cloud Raptor is a modern technology and digital transformation partner helping organisations design, build, and scale intelligent, future-ready solutions. We exist to close the gap between business ambition and technology execution—delivering outcomes that are measurable, secure, and built to last.
+
+Our teams bring together experienced consultants, product specialists, and certified engineers with deep expertise across cloud platforms, enterprise software engineering, DevOps, AI/ML, cybersecurity, and large-scale digital transformation. We work closely with our clients to modernise legacy environments, optimise operations, and launch digital products that create real competitive advantage.
+
+We support organisations across BFSI, Retail, Utilities, Education, and the Public Sector, delivering tailored solutions that align with each client’s strategic goals, risk profile, and growth roadmap. Our approach blends strong domain knowledge with pragmatic delivery—ensuring technology decisions translate into real business value.
+
+Headquartered in Australia, with delivery hubs across India, the Philippines, the UK, the US, and the UAE, Cloud Raptor combines global scale with strong local expertise. Whether modernising core platforms, scaling cloud infrastructure, or building AI-driven products, we help organisations move faster with confidence.
+
+At our core, Cloud Raptor is built on long-term partnerships, continuous learning, and outcome-driven delivery. We don’t just implement technology—we help shape what’s next. Let’s calibrate your future with technology.
+
+
+
+
+Cloud Raptor – Senior DevOp Engineer
+
+Capital Markets, Post Trade & Payments
+
+Location: Sydney
+
+Client: Enterprise Financial Services Organisation
+
+Role Type: Senior DevOps Engineer
+
+Overview
+
+The client is seeking an experienced Senior DevOps & Platform Engineer to support the delivery, automation, security, and operational excellence of critical post-trade and payments platforms.
+
+Working across cloud, infrastructure, application, and engineering teams, you will help build and operate secure, highly available, cloud-native platforms that support trading operations, settlements, payments processing, and enterprise technology services.
+
+This role is ideally suited to a DevOps or Platform Engineer with strong Kubernetes expertise, cloud engineering capability, Infrastructure-as-Code experience, and a passion for automation, platform reliability, and developer enablement.
+
+
+
+
+Key Responsibilities
+
+**Terraform Experience
+
+**EKS SME
+
+•Design, build and maintain enterprise CI/CD pipelines and deployment automation frameworks.
+
+•Develop and operate Kubernetes-based platforms supporting multiple engineering teams.
+
+•Implement GitOps deployment practices using tools such as ArgoCD, FluxCD, Helm and Terraform.
+
+•Automate infrastructure provisioning and platform lifecycle management through Infrastructure-as-Code.
+
+•Support cloud-native application delivery across AWS, Azure, and hybrid environments.
+
+•Build and maintain observability solutions including monitoring, logging, alerting and operational dashboards.
+
+•Improve platform reliability, scalability, security and operational resilience.
+
+•Implement secrets management and secure platform controls across multiple environments.
+
+•Support release management, production deployments and service reliability initiatives.
+
+•Collaborate with development teams to improve developer experience and delivery velocity.
+
+•Assist with incident management, root cause analysis and continuous improvement activities.
+
+•Contribute to platform governance, security standards and operational best practices.
+
+Essential Experience
+
+Terraform
+
+•Solid understanding of core Terraform concepts, including resources, modules, data sources, locals, variables, providers, and outputs.
+
+•Experience with different Terraform code execution whether running locally or through CI/CD pipelines, and the ability to troubleshoot pipeline-related issues.
+
+•Awareness of Terraform security best practices, including state file protection, policy enforcement (OPA/Sentinel), and code scanning/security validation.
+
+EKS/Kubernetes
+
+•Good understanding of Kubernetes architecture, including the control plane, worker nodes, scheduler, and other core components.
+
+•Experience with workload types such as Deployments, Stateful Sets, Replica Sets, Jobs etc.
+
+•Knowledge of EKS security concepts, including IAM integration, RBAC, network access controls/endpoints, and policy enforcement tools such as Kyverno or Gatekeeper.
+
+CI/CD
+
+•Experience designing and implementing CI/CD pipelines with appropriate validation, error handling, and logging.
+
+•Understanding of Docker builds, container images, image scanning, and container registries.
+
+•Experience with reusable pipeline components/shared libraries and secure secrets management practices.
+
+•Strong DevOps, Platform Engineering or Site Reliability Engineering experience.
+
+•Strong AWS experience with exposure to Azure and/or GCP highly regarded.
+
+•Experience implementing GitOps operating models.
+
+•Expertise with:
+
+o Kubernetes o Helm o Docker o Terraform o GitHub Actions o Jenkins o ArgoCD o FluxCD
+
+•Strong automation and scripting capability using Python, Bash or similar languages.
+
+•Experience implementing Infrastructure-as-Code solutions.
+
+•Experience with secure platform engineering and secrets management solutions.
+
+•Strong understanding of Linux systems and cloud-native architectures.
+
+•Experience supporting business-critical enterprise platforms in regulated environments.
+
+Highly Desirable
+
+Capital Markets Domain
+
+•Exposure to Post Trade platforms.
+
+•Payments and Settlements environments.
+
+•Trade lifecycle workflows.
+
+•Institutional Banking or Financial Markets technology.
+
+•Calypso platform exposure.
+
+•Treasury or Custody platforms. Platform Engineering • HashiCorp Vault.
+
+•Prometheus.
+
+•Grafana.
+
+•ELK Stack.
+
+•Kyverno.
+
+•Policy-as-Code.
+
+•Service mesh technologies.
+
+•Multi-cloud platform operations.
+
+•Shared platform engineering models.
+
+
+
+
+Technical Environment
+
+Experience across several of:
+
+Cloud & Infrastructure
+
+•AWS
+
+•Azure
+
+•GCP
+
+•Kubernetes
+
+•Docker
+
+•OpenShift
+
+•Terraform • Ansible
+
+CI/CD & GitOps
+
+•GitHub Actions
+
+•Jenkins
+
+•ArgoCD
+
+•FluxCD
+
+•GitLab CI
+
+•Helm
+
+•Kustomize
+
+Security & Governance
+
+•Vault
+
+•IAM
+
+•Secrets Management
+
+•Policy-as-Code
+
+•Vulnerability Management
+
+Observability
+
+•Prometheus
+
+•Grafana
+
+•ELK
+
+
+
+
+•Splunk
+
+•Dynatrace
+
+•CloudWatch
+
+Languages
+
+•Python
+
+•Bash
+
+•PowerShell
+
+•Go (desirable)
+
+Ideal Candidate
+
+The successful candidate will combine strong DevOps and Platform Engineering experience with deep Kubernetes and cloud-native expertise. They will be passionate about automation, developer enablement, platform security, observability, and operational excellence.
+
+They will understand the importance of reliability, governance, scalability and resilience within highly regulated financial services environments and will be comfortable supporting platforms used by multiple engineering teams across critical post-trade and payments systems.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Cloud Raptor by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+CMSN Group Pty Ltd
+Greater Sydney Area
+2 months ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Colonial First State
+Sydney, New South Wales, Australia
+3 weeks ago
+Devops Engineer
+Devops Engineer
+ASX
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Future Secure AI
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+1 week ago
+Site Reliability Engineer - Liquidity Platform
+Site Reliability Engineer - Liquidity Platform
+
+Macquarie Group
+
+Sydney, New South Wales, Australia
+1 week ago
+Cloud DevOps Engineer - GCP
+Cloud DevOps Engineer - GCP
+
+Westpac Group
+
+Kogarah, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+6 days ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+CORTO
+
+Millers Point, New South Wales, Australia
+1 week ago
+Cloud Site Reliability Engineer
+Cloud Site Reliability Engineer
+
+Intrinzic
+
+Sydney, New South Wales, Australia
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Silicon Quantum Computing
+
+Sydney, New South Wales, Australia
+1 week ago
+Site Reliability Engineer (Australia, Remote)
+Site Reliability Engineer (Australia, Remote)
+
+Axon
+
+Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Recruiter jobs
+2,501 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cloud Raptor
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
