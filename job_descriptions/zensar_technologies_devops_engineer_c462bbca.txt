@@ -1,0 +1,277 @@
+Title: DevOps Engineer
+Company: Zensar Technologies
+Location: Johannesburg Metropolitan Area
+URL: https://za.linkedin.com/jobs/view/devops-engineer-at-zensar-technologies-4466266076
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Johannesburg, South Africa matches Priyanga's expertise in CI/CD pipelines, Azure DevOps, Infrastructure as Code, and regulated environments, along with her preference for South Africa as a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Zensar Technologies  Johannesburg Metropolitan Area
+1 week ago  49 applicants
+  
+
+See who Zensar Technologies has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Zensar Technologies
+
+Natalie Akermann
+Natalie Akermann
+Global Talent Partner at Foolproof, a Zensar Company
+
+
+
+Azure DevOps Engineer
+
+
+
+
+Location: Johannesburg
+Experience: 8+ years
+Workplace Type: in office 5 days a week
+
+
+
+
+About the opportunity
+
+Are you an experienced Azure DevOps Engineer who enjoys building reliable cloud platforms, automating delivery, and helping teams ship software faster and more securely? This is an opportunity to play a key role in designing, implementing, and managing scalable Microsoft Azure environments, CI/CD pipelines, infrastructure automation, and DevSecOps practices for enterprise-grade solutions.
+
+You’ll work closely with development, testing, security, and operations teams to improve deployment quality, strengthen cloud resilience, and support modern engineering practices across the software delivery lifecycle.
+
+
+
+
+What you’ll be doing
+
+Design, build, and maintain secure, scalable Azure cloud infrastructure and DevOps solutions.
+Develop, optimise, and manage CI/CD pipelines using Azure DevOps, GitHub Actions, or similar tools.
+Automate infrastructure provisioning using Terraform, ARM Templates, or Bicep.
+Implement and manage containerised workloads using Docker and Kubernetes, including Azure Kubernetes Service.
+Monitor application and infrastructure performance using Azure Monitor, Log Analytics, and Application Insights.
+Embed DevSecOps controls, security best practices, and vulnerability management into delivery processes.
+Collaborate with cross-functional teams to streamline releases and improve engineering efficiency.
+Manage Git-based source control, branching strategies, and release management processes.
+Troubleshoot deployment, performance, infrastructure, and platform issues.
+Support high availability, scalability, and disaster recovery across Azure environments.
+
+
+
+
+What we’re looking for
+
+You’ll bring strong hands-on experience in Microsoft Azure, automation, CI/CD, and modern DevOps practices. You should be comfortable working in complex environments where reliability, security, collaboration, and continuous improvement matter.
+
+
+
+
+Required experience
+
+8+ years’ relevant experience, with strong exposure to Azure DevOps engineering or cloud platform engineering.
+Strong experience with Microsoft Azure cloud services, including networking, security, identity, monitoring, and resilience.
+Hands-on experience building and maintaining CI/CD pipelines using Azure DevOps, GitHub Actions, or similar tooling.
+Practical experience with Infrastructure as Code using Terraform, ARM Templates, or Bicep.
+Experience with Docker, Kubernetes, and Azure Kubernetes Service.
+Strong scripting capability using PowerShell, Bash, or Python.
+Experience with Git-based source control and release management practices.
+Understanding of Agile, DevOps, and Site Reliability Engineering practices.
+
+
+
+
+Preferred qualifications and experience
+
+Microsoft Azure certifications such as Azure Administrator Associate, Azure DevOps Engineer Expert, or Azure Solutions Architect Expert.
+Experience in banking, financial services, or another regulated environment.
+Exposure to multi-cloud environments such as AWS or Google Cloud Platform.
+
+
+
+
+Show more 
+Seniority level
+Director
+Employment type
+Contract
+Job function
+Engineering
+Industries
+Technology, Information and Media, Investment Banking, and Financial Services
+  
+
+Referrals increase your chances of interviewing at Zensar Technologies by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Johannesburg Metropolitan Area.
+
+Sign in to create job alert
+Jobs
+Access Developer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+DevOps Engineer (M-Pesa)
+DevOps Engineer (M-Pesa)
+Paracon
+Midrand, Gauteng, South Africa
+3 weeks ago
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+Johannesburg, Gauteng, South Africa
+8 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Site Reliability Engineer (SRE)
+Site Reliability Engineer (SRE)
+Impronics Technologies
+Johannesburg, Gauteng, South Africa
+1 year ago
+Senior DevOps & Site Reliability Engineer
+Senior DevOps & Site Reliability Engineer
+Indsafri
+Johannesburg Metropolitan Area
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Azure Cloud/Platform Engineer - MF
+Senior Azure Cloud/Platform Engineer - MF
+
+DVT
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Support Engineer I, Operations
+Support Engineer I, Operations
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Platform Engineering Lead
+Platform Engineering Lead
+
+Talent Shore
+
+Johannesburg, Gauteng, South Africa
+6 days ago
+Support Engineer I, Safety Systems
+Support Engineer I, Safety Systems
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Principal Security & DevOps Engineer
+Principal Security & DevOps Engineer
+
+Integrity360
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Data Engineer
+Data Engineer
+
+Nedbank
+
+Johannesburg, Gauteng, South Africa
+6 days ago
+Infrastructure/Cloud Architecture z/OS
+Infrastructure/Cloud Architecture z/OS
+
+Kyndryl
+
+Sandton, Gauteng, South Africa
+2 months ago
+Azure Senior Cloud Infrastructure Consultant
+Azure Senior Cloud Infrastructure Consultant
+
+Netsurit
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Similar Searches
+Access Developer jobs
+18 open jobs
+Plant Metallurgist jobs
+92 open jobs
+Sharepoint Architect jobs
+12 open jobs
+SAP Co Consultant jobs
+39 open jobs
+Citrix Administrator jobs
+51 open jobs
+Associate Software Engineer jobs
+4,100 open jobs
+Java Software Engineer jobs
+1,208 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Sharepoint Specialist jobs
+3,599 open jobs
+Commercial Broker jobs
+25 open jobs
+Automation Test Analyst jobs
+116 open jobs
+SAP Support Analyst jobs
+78 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

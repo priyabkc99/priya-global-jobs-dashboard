@@ -1,0 +1,277 @@
+Title: Senior DevOps Engineer
+Company: Style Analytics
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-devops-engineer-at-style-analytics-4450308422
+Posted: 2026-08-29
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps and CI/CD pipeline ownership, located in South Africa (a target country), and matches her experience in configuration management and release processes.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Style Analytics  Cape Town, Western Cape, South Africa
+1 month ago   Be among the first 25 applicants
+  
+
+See who Style Analytics has hired for this role
+
+Apply 
+Save
+Location - Cape Town, South Africa
+
+Why Confluence?
+
+At Confluence, we’ve always been driven by a commitment to innovation, precision, and partnership in the investment data space. Our global footprint now spans multiple countries, giving our employees the opportunity to get exposure to other countries and cultures. And it stands to reason that none of this would have been possible without the hundreds of hard-working employees who work at Confluence.
+
+We are hiring for a Senior DevOps Engineer to support a major platform transformation.
+
+You’ll join a team modernising a core solution, moving from a legacy environment to a cloud first architecture on Azure.
+
+This role is focused on building and scaling the platform that underpins our applications. You’ll design and optimise CI/CD pipelines, deliver infrastructure as code, and enable developers to deploy and operate systems more efficiently and reliably.
+
+You’ll work closely with engineering teams, but your primary focus will be on automation, infrastructure, and deployment processes, rather than building product features.
+
+You’ll be joining at a point where the DevOps foundations are still evolving, so there is real opportunity to shape standards, tooling, and ways of working.
+
+Why should you apply?
+
+
+Build and scale DevOps foundations, not just maintain them
+Cloud first, Azure environment with modern tooling
+High ownership across CI/CD, infrastructure, and reliability
+Work closely with engineering teams on large scale systems
+Opportunity to shape platform standards and practices
+
+
+Essential Requirements
+
+
+Experience in DevOps, SRE, or platform engineering roles
+Hands-on experience with Infrastructure as Code (Terraform essential)
+Experience designing and managing CI/CD pipelines
+Experience working with cloud platforms (Azure preferred, AWS also considered)
+Experience with containerisation (Docker) and orchestration (Kubernetes)
+Experience with monitoring and observability tools (e.g. Prometheus, Grafana, ELK)
+Scripting or coding experience (Python, PowerShell or similar)
+Understanding of security, compliance, and deployment practices
+Comfortable working across infrastructure and development teams
+
+
+Desirable requirements
+
+
+Experience supporting .NET or web based applications
+Exposure to hybrid or enterprise environments (cloud and on-prem)
+Experience with release strategies such as blue green or canary deployments
+Exposure to financial services or data platforms
+Experience with modern cloud architecture patterns
+
+
+Benefits
+
+Confluence offers generous benefit packages for team members. As a growing, global organization, we are always looking for ways to ensure that our employees can access benefits that matter to them and their families. This includes:
+
+🕚 Generous Time Off packages including additional half days with each public holiday in your location.
+
+🌎 Global Career Development opportunities
+
+🎊 Social Events
+
+💵 Referral Bonus scheme - Upto $3,000 per successful referral
+
+🚀 Plus many more!
+
+More about the Location
+
+We offer flexible working options for all employees. This role will be based in Cape Town, with some hybrid working from our Cape Town office. You should therefore be within a commutable distance.
+
+Values
+
+We look for people who align with our 4 values.
+
+Integrity
+
+Face reality with honesty, courage and accountability
+
+Imagination
+
+Deal creatively with challenges and envision what the world could be
+
+Discipline
+
+Build good habits into reflexes which become a part of our life
+
+Service
+
+Committed to the success of others
+
+If you would like to find out more about a Career at Confluence, please apply today.
+
+Note that you will be required to attend an in person interview during the hiring process.
+
+Confluence is an Equal Opportunity Employer in line with the Employment Equity Act.
+
+Note that Preference will be given to previously disadvantaged individuals (PDIs) in line with our Employment Equity (EE) plan.
+
+Pre-Employment Screening Disclaimer
+
+As part of our recruitment process, we carry out identity checks on all candidates. Offers of employment are conditional upon the completion of satisfactory background checks prior to the commencement of work. These checks may include verification of identity, right to work in the UK, employment history, and other relevant pre-employment screening.
+
+Please note that additional checks may be required depending on the nature of the role and the jurisdiction in which the role is based or operates. These may include, but are not limited to, criminal record checks or financial background checks where applicable.
+
+As a leading global technology solutions provider to the investment management industry, Confluence helps clients solve complex investment data challenges across the front, middle and back office. Headquartered in Pittsburgh, PA, Confluence services over 1000 clients in 40 countries, with locations across Europe, North America, South Africa, Australia and Asia.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Style Analytics by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Cape Town, Western Cape, South Africa.
+
+Sign in to create job alert
+Similar jobs
+Senior/Intermediate DevOps Engineer
+Senior/Intermediate DevOps Engineer
+First Point Group
+City of Cape Town, Western Cape, South Africa
+6 days ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+LexisNexis
+City of Cape Town, Western Cape, South Africa
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Amaris Consulting | Part of Mantu
+Cape Town, Western Cape, South Africa
+6 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+20 hours ago
+Senior Cloud Engineer (AWS)
+Senior Cloud Engineer (AWS)
+Lesaka Technologies Inc.
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+Amaris Consulting | Part of Mantu
+Cape Town, Western Cape, South Africa
+4 days ago
+Show more jobs like this 
+People also viewed
+Platform Engineering Manager - Cape Town
+Platform Engineering Manager - Cape Town
+
+Collinson Group
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Principal AWS Cloud Architect
+Principal AWS Cloud Architect
+
+NTT DATA, Inc.
+
+Cape Town, Western Cape, South Africa
+1 minute ago
+Full Stack Engineer
+Full Stack Engineer
+
+flyp
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Senior Machine Learning Engineer
+Senior Machine Learning Engineer
+
+Lula
+
+City of Cape Town, Western Cape, South Africa
+3 days ago
+Senior Back End Engineer
+Senior Back End Engineer
+
+Elixirr Digital
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Data Engineer
+Senior Data Engineer
+
+Keyrock
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Software Development Engineer in Test (SDET)
+Software Development Engineer in Test (SDET)
+
+Kuda
+
+Cape Town, Western Cape, South Africa
+3 weeks ago
+SENIOR MACHINE LEARNING ENGINEER – Build Production ML at FinTech Scale – CAPE TOWN (Hybrid), R1.35m – R1.45m
+SENIOR MACHINE LEARNING ENGINEER – Build Production ML at FinTech Scale – CAPE TOWN (Hybrid), R1.35m – R1.45m
+
+Acuity Consultants
+
+City of Cape Town, Western Cape, South Africa
+ZAR 1,350,000 - ZAR 1,450,000
+5 days ago
+S3 Engineer – Cloud & Business Applications
+S3 Engineer – Cloud & Business Applications
+
+ExecutivePlacements.com
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Quality Assurance Automation Engineer
+Senior Quality Assurance Automation Engineer
+
+Acuity Consultants
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

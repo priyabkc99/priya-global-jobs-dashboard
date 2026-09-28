@@ -1,0 +1,273 @@
+Title: DevOps Engineer
+Company: Amaris Consulting  | Part of Mantu
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/devops-engineer-at-amaris-consulting-part-of-mantu-4461077675
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Cape Town, South Africa matches Priya's expertise in CI/CD pipelines (Jenkins/GitLab CI), infrastructure automation, and regulated-industry experience, aligning with her background at Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Amaris Consulting | Part of Mantu  Cape Town, Western Cape, South Africa
+6 days ago  49 applicants
+  
+
+See who Amaris Consulting | Part of Mantu has hired for this role
+
+Apply 
+Save
+Job Description
+
+Join our team and start a new adventure in an international and dynamic environment, where you will be able to fulfil your career expectations in a fast-growing organization.
+
+Your missions
+
+
+
+Design, implement, and maintain cloud infrastructure solutions on AWS for banking and finance projects
+Manage and optimize Linux-based operating systems for high availability and security
+Develop and maintain CI/CD pipelines using Jenkins or GitLab CI
+Deploy and orchestrate containerized applications using Docker and Kubernetes
+Automate infrastructure provisioning and configuration using tools such as SaltStack, Chef, Ansible, Puppet, or Terraform
+Configure and manage web servers (Apache, Nginx, FPM, Node)
+Set up and manage load balancers to ensure system reliability and scalability
+Administer and optimize database technologies, including AWS RDS (MariaDB, MySQL), and NoSQL databases such as Redis and MongoDB
+Implement and manage replication technologies and messaging queues (RabbitMQ, MQ)
+Collaborate with networking teams to ensure robust connectivity, including AWS TGW and on-premises OSI model integration
+
+
+
+Your profile
+
+
+
+Experience in DevOps engineering, with at least 5 years in a similar role within banking and finance environments
+High level of proficiency in Linux-based operating systems
+Cloud infrastructure: AWS Associate Certification is required
+Experience with containers: Docker and Kubernetes
+Experience with CI/CD pipelines: Jenkins or GitLab CI
+Proficiency in scripting and application languages: Bash, Python, PHP, Perl, Java, Go
+Proven experience with Infrastructure as Code tools: SaltStack, Chef, Ansible, Puppet, or Terraform
+Experience with web servers: Apache, Nginx, FPM, Node
+Experience with load balancers
+Knowledge of database technologies: AWS RDS (MariaDB, MySQL)
+Experience with NoSQL databases, pub/sub, and key/value stores: Redis, MongoDB
+Experience with replication technologies
+Experience in networking: OSI model, AWS TGW, and basic on-premises networking
+Certification (Bachelor’s, RHCE, ISO 27001, PCI) is a plus
+You demonstrate strong problem-solving and communication skills
+
+
+
+What We Offer
+
+
+
+An international community, bringing together 110+ different nationalities
+An environment where trust has a central place: 70% of our key leaders started their careers at the first level of responsibilities
+A robust training system with our internal Academy and 250+ available modules
+A vibrant workplace that frequently gathers for internal events (afterworks, team buildings, etc.)
+At Mantu, sustainability is part of everything we do. You’ll have the opportunity to turn your ideas into action and make a tangible impact. Every day, our teams bring our ESG commitments to life, from reducing our footprint to driving positive change within our communities. Through our WeCare Together program, you’ll be empowered to design and lead projects that create real social or environmental impact, with the company’s full support.
+
+
+
+Amaris Consulting is proud to be an equal-opportunity workplace. We are committed to promoting diversity within the workforce and creating an inclusive working environment. For this purpose, we welcome applications from all qualified candidates regardless of gender, sexual orientation, race, ethnicity, beliefs, age, marital status, disability, or other characteristics.
+
+Who are we?
+
+Amaris Consulting is an independent technology consulting firm providing guidance and solutions to businesses. With more than 1,000 clients across the globe, we have been rolling out solutions in major projects for over a decade – this is made possible by an international team of 7,600 people spread across 5 continents and more than 60 countries. Our solutions focus on four different Business Lines: Information System & Digital, Telecom, Life Sciences and Engineering. We’re focused on building and nurturing a top talent community where all our team members can achieve their full potential. Amaris is your steppingstone to cross rivers of change, meet challenges and achieve all your projects with success.
+
+At Amaris, we strive to provide our candidates with the best possible recruitment experience. We like to get to know our candidates, challenge them, and be able to give them proper feedback as quickly as possible. Here's what our recruitment process looks like:
+
+Brief Call: Our process typically begins with a brief virtual/phone conversation to get to know you! The objective? Learn about you, understand your motivations, and make sure we have the right job for you!
+
+Interviews (the average number of interviews is 3 - the number may vary depending on the level of seniority required for the position). During the interviews, you will meet people from our team: your line manager of course, but also other people related to your future role. We will talk in depth about you, your experience, and skills, but also about the position and what will be expected of you. Of course, you will also get to know Amaris: our culture, our roots, our teams, and your career opportunities!
+
+Case study: Depending on the position, we may ask you to take a test. This could be a role play, a technical assessment, a problem-solving scenario, etc.
+
+As you know, every person is different and so is every role in a company. That is why we have to adapt accordingly, and the process may differ slightly at times. However, please know that we always put ourselves in the candidate's shoes to ensure they have the best possible experience.
+
+We look forward to meeting you!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Amaris Consulting | Part of Mantu by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Cape Town, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Information Engineer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+EQPLUS TECHNOLOGIES PTY LTD
+Cape Town, Western Cape, South Africa
+1 month ago
+Junior DevOps Engineer
+Junior DevOps Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+1 week ago
+DevOps, Platform & Support Engineer
+DevOps, Platform & Support Engineer
+MVIA
+Southern Suburbs, Western Cape, South Africa
+1 month ago
+Senior/Intermediate DevOps Engineer
+Senior/Intermediate DevOps Engineer
+First Point Group
+City of Cape Town, Western Cape, South Africa
+6 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Kiberon Labs
+City of Cape Town, Western Cape, South Africa
+5 days ago
+AI-Focused DevOps Engineer
+AI-Focused DevOps Engineer
+Full Stack
+City of Cape Town, Western Cape, South Africa
+4 months ago
+Show more jobs like this 
+People also viewed
+Platform and Compute Engineer
+Platform and Compute Engineer
+
+All jobs
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+S3 Engineer – Cloud & Business Applications
+S3 Engineer – Cloud & Business Applications
+
+ExecutivePlacements.com
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+OryxAlign
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Data Engineer - Cape Town
+Data Engineer - Cape Town
+
+Ten Lifestyle Group
+
+Cape Town, Western Cape, South Africa
+4 weeks ago
+Systems & Automation Engineer - QSR
+Systems & Automation Engineer - QSR
+
+Hungry Lion
+
+Stellenbosch, Western Cape, South Africa
+1 week ago
+Full Stack Engineer
+Full Stack Engineer
+
+flyp
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Incident Management Engineer (Portuguese/English bilingual), Incident Detection and Response, AWS Incident Detection and Response
+Incident Management Engineer (Portuguese/English bilingual), Incident Detection and Response, AWS Incident Detection and Response
+
+Amazon Web Services (AWS)
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Data Engineer
+Data Engineer
+
+Unifi
+
+Stellenbosch, Western Cape, South Africa
+5 days ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Data Engineer
+Data Engineer
+
+Capitec
+
+Stellenbosch, Western Cape, South Africa
+2 days ago
+Similar Searches
+Information Engineer jobs
+129 open jobs
+Electronic Designer jobs
+3,489 open jobs
+Assistant Process Engineer jobs
+80 open jobs
+Consulting Business Analyst jobs
+84 open jobs
+Production Engineering Manager jobs
+270 open jobs
+Avionics Engineer jobs
+32 open jobs
+Recruitment Associate jobs
+121 open jobs
+Senior Service Delivery Manager jobs
+104 open jobs
+Radio Engineer jobs
+50 open jobs
+J2Ee Developer jobs
+636 open jobs
+Web Application Developer jobs
+1,217 open jobs
+Structural Design Engineer jobs
+195 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

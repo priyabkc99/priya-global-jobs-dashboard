@@ -1,0 +1,266 @@
+Title: DevOps Engineer
+Company: EQPLUS TECHNOLOGIES PTY LTD
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/devops-engineer-at-eqplus-technologies-pty-ltd-4459826077
+Posted: 2026-08-29
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps Engineer background (CI/CD pipelines, infrastructure automation) and is located in South Africa (target country). The job explicitly mentions regulated environments, matching her experience with MDR/ISO 13485 and ASPICE/TUV compliance.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+EQPLUS TECHNOLOGIES PTY LTD  Cape Town, Western Cape, South Africa
+1 month ago  30 applicants
+  
+
+See who EQPLUS TECHNOLOGIES PTY LTD has hired for this role
+
+Apply 
+Save
+A leading enterprise within the financial services sector is seeking an experienced DevOps Engineer to support and optimise modern cloud and hybrid infrastructure environments.
+
+This role requires a highly independent, delivery-focused professional with deep expertise in DevOps principles, CI/CD automation, and multi-environment deployments across cloud and on-premise platforms. The successful candidate will work within a fast-paced, compliance-driven environment where reliability, scalability, and security are critical.
+
+Key Responsibilities
+
+
+Design, implement and optimise CI/CD pipelines
+Automate infrastructure provisioning and deployment processes
+Deploy and manage workloads across AWS, Kubernetes, and on-premise environments
+Implement DevOps best practices, patterns, and governance standards
+Collaborate with development, QA, security, and infrastructure teams
+Improve release cycles, build reliability, and deployment automation
+Monitor, troubleshoot, and optimise system performance and availability
+Ensure secure DevOps practices within a regulated enterprise environment
+
+
+Experience
+
+Minimum Requirements
+
+
+Proven experience as a DevOps Engineer within enterprise environments
+Strong hands-on experience with Azure DevOps
+Experience with GitHub Actions (advantageous)
+Experience deploying solutions to:
+AWS
+Kubernetes (K8s)
+On-premise server environments
+Solid understanding of CI/CD pipeline design and automation
+Experience working in regulated or financial services environments (advantageous)
+
+
+Technical Skills
+
+
+DevOps principles and patterns
+CI/CD pipeline implementation
+Infrastructure as Code (Terraform/ARM/Bicep advantageous)
+Containerisation and orchestration (Docker, Kubernetes)
+Cloud deployments (AWS; Azure exposure advantageous)
+Source control and branching strategies
+Release management and deployment governance
+Scripting (PowerShell, Bash, or Python advantageous)
+Monitoring and logging tools
+
+
+Behavioural Competencies
+
+
+Highly independent and self-driven
+Strong delivery and deadline focus
+Analytical problem-solving ability
+Excellent stakeholder communication skills
+Ability to operate within structured governance environments
+
+
+Desired Skills
+
+
+DevOps Engineer
+Azure DevOps
+CI/CD Pipelines
+Kubernetes
+K8s
+Infrastructure as Code
+IaC
+Cloud Deployment
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at EQPLUS TECHNOLOGIES PTY LTD by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Cape Town, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Trading Analyst jobs
+DevOps Engineer
+Similar jobs
+Junior DevOps Engineer
+Junior DevOps Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+1 week ago
+DevOps, Platform & Support Engineer
+DevOps, Platform & Support Engineer
+MVIA
+Southern Suburbs, Western Cape, South Africa
+1 month ago
+Senior/Intermediate DevOps Engineer
+Senior/Intermediate DevOps Engineer
+First Point Group
+City of Cape Town, Western Cape, South Africa
+6 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Kiberon Labs
+City of Cape Town, Western Cape, South Africa
+5 days ago
+AI-Focused DevOps Engineer
+AI-Focused DevOps Engineer
+Full Stack
+City of Cape Town, Western Cape, South Africa
+4 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Style Analytics
+Cape Town, Western Cape, South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+S3 Engineer – Cloud & Business Applications
+S3 Engineer – Cloud & Business Applications
+
+ExecutivePlacements.com
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+OryxAlign
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Data Engineer - Cape Town
+Data Engineer - Cape Town
+
+Ten Lifestyle Group
+
+Cape Town, Western Cape, South Africa
+4 weeks ago
+Systems & Automation Engineer - QSR
+Systems & Automation Engineer - QSR
+
+Hungry Lion
+
+Stellenbosch, Western Cape, South Africa
+1 week ago
+Full Stack Engineer
+Full Stack Engineer
+
+flyp
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Incident Management Engineer (Portuguese/English bilingual), Incident Detection and Response, AWS Incident Detection and Response
+Incident Management Engineer (Portuguese/English bilingual), Incident Detection and Response, AWS Incident Detection and Response
+
+Amazon Web Services (AWS)
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Data Engineer
+Data Engineer
+
+Unifi
+
+Stellenbosch, Western Cape, South Africa
+5 days ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Data Engineer
+Data Engineer
+
+Capitec
+
+Stellenbosch, Western Cape, South Africa
+2 days ago
+MACHINE LEARNING ENGINEER - Solve the Hard Problems of Production ML in FinTech - CAPE TOWN (Hybrid), up to R1.4m
+MACHINE LEARNING ENGINEER - Solve the Hard Problems of Production ML in FinTech - CAPE TOWN (Hybrid), up to R1.4m
+
+Acuity Consultants
+
+City of Cape Town, Western Cape, South Africa
+38 minutes ago
+Similar Searches
+Trading Analyst jobs
+297 open jobs
+Administrative Officer jobs
+267 open jobs
+Analyst jobs
+3,898 open jobs
+Marketing Specialist jobs
+411 open jobs
+Platform Engineer jobs
+524 open jobs
+Junior Business Analyst jobs
+636 open jobs
+System Administrator jobs
+215 open jobs
+Project Manager jobs
+1,811 open jobs
+Engineer jobs
+4,853 open jobs
+Human Resources Intern jobs
+19 open jobs
+Human Resources Specialist jobs
+117 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
