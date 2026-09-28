@@ -128,3 +128,6 @@ MyCareersFuture (JS-only), JobsPlus MT (404), Guardian Jobs / Trade Me (ignore k
 
 ---
 Last updated: 2026-09-27
+
+## Mobile bottom nav: filter indicator (2026-09-29)
+While any filter is set (column filters, date limits, location text, LLM pills, and on the global board countries), the Filters tab shows an amber dot and its label becomes `shown/total` (e.g. 32/222), set at the end of `filterTable()` (`#mnav-filters.has-filters`). Total = rows in the table, i.e. excluding archived 'no' jobs unless shown. Also 2026-09-29: the header board link is now a prominent `.board-switch` button (icon-only on phones) on both Priya boards.
