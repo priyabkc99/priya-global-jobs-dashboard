@@ -168,5 +168,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Publications Manager",
+    "company": "Aviation Careers Australia",
+    "location": "Enoggera Reservoir, Queensland, Australia",
+    "url": "https://au.linkedin.com/jobs/view/publications-manager-at-aviation-careers-australia-4461091251",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role involves technical data management and publications, which partially aligns with Priya's background in technical communication and regulatory compliance but lacks explicit mention of CI/CD, configuration management, or release processes she specializes in.",
+    "id": "db3f1a68",
+    "source": "linkedin_au_configuration_manager",
+    "added_at": "2026-09-29T01:48:05+03:00",
+    "posted_date": "2026-09-01",
+    "deadline": "2026-09-14",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-14) passed by more than 2 days and unreviewed"
   }
 ]
