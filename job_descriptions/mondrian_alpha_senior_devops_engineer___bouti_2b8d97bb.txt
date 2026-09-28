@@ -1,0 +1,254 @@
+Title: Senior DevOps Engineer - Boutique Hedge Fund - London
+Company: Mondrian Alpha
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-boutique-hedge-fund-london-at-mondrian-alpha-4461163561
+Posted: 2026-09-07
+Deadline: N/A
+Reason: The role aligns with her extensive experience in DevOps, CI/CD, and automation and is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer - Boutique Hedge Fund - London
+Mondrian Alpha  London Area, United Kingdom
+3 weeks ago  80 applicants
+  
+
+See who Mondrian Alpha has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Mondrian Alpha
+
+Harvey Gilbert
+Harvey Gilbert
+Hedge Fund Technology Search | Mondrian Alpha
+
+My client, a technology-first hedge fund, is seeking a Senior DevOps Engineer to join their London team.
+
+
+
+
+The successful individual will be responsible for designing, automating, and optimising cloud infrastructure and application delivery pipelines within a on prem and cloud environment. You will partner closely with engineering teams to enable scalable, secure, and resilient solutions, with a strong focus on automation and continuous improvement.
+
+
+
+
+You should have deep hands-on expertise across containerisation, infrastructure as code, and CI/CD, with a solid grounding in modern DevOps practices. Experience with Python/Java/Go/C# is highly desirable.
+
+
+
+
+Ideal candidates should have experience with the below:
+
+Kubernetes experience - K8s
+Infrastructure as code using Terraform; familiarity with Bicep is a plus
+Building and maintaining CI/CD pipelines using tools such as Tekton and Azure DevOps
+Docker and containerisation best practices
+Git-based version control systems including Bitbucket and GitHub
+
+
+
+
+My client has committed to paying a strong increase on any base salary and is known for offering highly competitive bonuses. In addition, they provide an excellent benefits package and a collaborative, high-performance environment where engineers are empowered to make an impact.
+
+
+
+
+Apply now by following the link below or send your resume directly to harvey.gilbert@mondrian-alpha.com
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Investment Management and Investment Banking
+  
+
+Referrals increase your chances of interviewing at Mondrian Alpha by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London Area, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Senior Security Administrator jobs
+Senior DevOps Engineer - Boutique Hedge Fund - London
+Similar jobs
+Dev Ops Engineer
+Dev Ops Engineer
+Millennium
+London, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Tempest Vane Partners
+London Area, United Kingdom
+£120,000 - £160,000
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Systematica Investments
+London Area, United Kingdom
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Akuna Capital
+London, England, United Kingdom
+1 week ago
+Platform Engineer - Hedge Fund - £120K+
+Platform Engineer - Hedge Fund - £120K+
+Oliver Bernard
+London Area, United Kingdom
+6 days ago
+Platform Engineer - Trading - £150K
+Platform Engineer - Trading - £150K
+Oliver Bernard
+London Area, United Kingdom
+6 days ago
+Show more jobs like this 
+People also viewed
+Production DevOps Engineer
+Production DevOps Engineer
+
+Camber Morris - Quantitative Talent
+
+London Area, United Kingdom
+£120,000 - £160,000
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Hunter Bond
+
+London Area, United Kingdom
+2 days ago
+Senior Cloud Engineer – Leading Quantitative Investment Firm - London
+Senior Cloud Engineer – Leading Quantitative Investment Firm - London
+
+Mondrian Alpha
+
+London Area, United Kingdom
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+London, England, United Kingdom
+£105,000 - £125,000
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+LocalStack
+
+London, England, United Kingdom
+£70,000 - £90,000
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Griffin
+
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Deliveroo
+
+London, England, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Global Relay
+
+London Area, United Kingdom
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+REMIUM
+
+City Of London, England, United Kingdom
+1 month ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Fundment
+
+London Area, United Kingdom
+4 days ago
+Similar Searches
+Senior Security Administrator jobs
+483 open jobs
+Assistant Investment Manager jobs
+280 open jobs
+Derivatives Broker jobs
+20 open jobs
+Executive Director Finance jobs
+628 open jobs
+Director Financial Control jobs
+1,595 open jobs
+Money Market Trader jobs
+180 open jobs
+Desktop Manager jobs
+565 open jobs
+Fixed Income Portfolio Manager jobs
+277 open jobs
+Advanced Business Analyst jobs
+2,657 open jobs
+Trading Assistant jobs
+953 open jobs
+Global Chief Information Officer jobs
+160 open jobs
+Deputy Director of Human Resources jobs
+785 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Mondrian Alpha
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

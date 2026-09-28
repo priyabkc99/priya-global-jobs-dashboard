@@ -1,0 +1,289 @@
+Title: Senior DevOps Engineer
+Company: DWP Digital
+Location: Newcastle Upon Tyne, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-dwp-digital-4467732222
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a Senior DevOps Engineer position in the UK, which aligns with her extensive experience in CI/CD, automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+DWP Digital  Newcastle Upon Tyne, England, United Kingdom
+1 week ago  29 applicants
+  
+
+See who DWP Digital has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+DWP Digital provided pay range
+
+This range is provided by DWP Digital. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£57,946.00/yr - £80,664.00/yr
+
+Direct message the job poster from DWP Digital
+
+Richard Hanley
+Richard Hanley
+Talent Acquisition Manager
+
+Senior DevOps Engineer
+
+Pay up to £80,664 plus 28.97% employer pension contributions, hybrid working, flexible hours, and great work life balance.
+
+This is a real and significant DevOps leadership role in the UK's largest government department. Here you will have the freedom and autonomy to drive the development of our technical landscape and define what DevOps looks like in DWP.
+
+DWP. Digital with Purpose.
+
+You'll be a leading, expert voice in a DWP Digital community that is driving a once-in-a-generation transformation of public services.
+
+We have a unique purpose, putting better, more efficient services in the hands of DWP users. The scale of our engineering challenge is also huge:
+
+We have 1bn lines of code in over 12,000 code repos and 90+ programming languages.
+We run around 294 days' worth of testing every day through automation.
+Our APIs receive 173 million requests, and we spin up 280,000 AWS servers every month.
+Over 22 million people - 1/3 of the UK's adult population access our services daily.
+Over 100,000 colleagues and agents use the kit, tools and systems we roll out. We build and maintain systems behind payments worth over £280bn payments annually.
+
+What skills, knowledge and experience will you need?
+
+Demonstrable experience of developing and supporting AWS cloud-based applications.
+Demonstrable knowledge of writing and maintaining Infrastructure, and Configuration as Code.
+Demonstrable experience of using Unix/Linux in a support and/or development environment including scripting languages.
+Demonstrable experience of working in a DevOps environment - Continuous Integration & Deployment, Delivery methods and techniques, including agile scrum experience.
+Demonstrable knowledge of implementing and maintaining CI/CD pipelines.
+Experience of supporting, guiding, and developing Engineers across multi-disciplinary teams in an agile environment.
+
+You and your role
+
+In this role, you and your teams will help shape and support modern cloud platforms by designing, building and improving secure, scalable and resilient AWS solutions. Working closely with engineering teams, you'll drive automation, enhance CI/CD pipelines and use Infrastructure as Code to enable the delivery of reliable digital services.
+
+You'll tackle complex technical challenges, champion engineering best practices and support a culture of ownership, continuous improvement and operational excellence, while mentoring other engineers and helping evolve our DevOps capabilities.
+
+Details. Wages. Perks.
+
+Location: You'll join us in one of our brilliant digital hubs in Birmingham, Blackpool, Leeds, Manchester, Newcastle or Sheffield, whichever is most convenient for you.
+
+Hybrid Working: We work a hybrid model - you'll spend some time working at home and some time collaborating face to face in a hub.
+
+Pay: We offer competitive pay of up to £80,664.
+
+Pension: You'll get a brilliant civil service pension with employer contributions worth 28.97%, worth over £16,000 per year.
+
+Holidays: A generous leave package starting at 26 days rising to 31 days over time.
+
+You can also take up to 3 extra days off a month on flexi-time. You'll also get all the usual public holidays.
+
+We have a broad benefits package built around your work-life balance which includes:
+
+Flexible working including flexible hours and flex-friendly policies
+Time off volunteering and charitable giving
+Bring your authentic self to work with 'I Can Be Me in DWP'
+Discounts and savings on shopping, fun days out and more
+Interest-free loans to buy a bike or a season ticket, so it's even easier for you to get to work and start making a difference
+Professional development, coaching, mentoring and career progression opportunities.
+
+And we have an award-winning environment and culture:
+
+DWP have been recognised as 2024 Diversity Employer of the Year at the Computing Women in Tech Excellence awards
+Diverse and Inclusive Leadership at Digital Leaders Awards 2024
+Commended as Best Place to Work in Digital category in the Computing Digital Technology Leaders awards 2025
+Recognised as one of the Best Public Sector Employers at 2025 Women In Tech Employer Awards
+
+Process:
+
+We know your time is valuable, so our application and selection process are just two stages:
+
+Apply: complete your application on Civil Service Jobs. There'll be full instructions when you click through.
+
+Interview: a single stage interview online.
+
+CLICK APPLY for more information and to start your application.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering, Information Technology, and Management
+Industries
+Embedded Software Products, Technology, Information and Internet, and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at DWP Digital by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Newcastle Upon Tyne, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Education Marketing Manager jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer - Newcastle
+Senior DevOps Engineer - Newcastle
+Accenture UK & Ireland
+Newcastle Upon Tyne, England, United Kingdom
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Causeway Technologies
+Middlesbrough, England, United Kingdom
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CAUSEWAY CONSTRUCTION LIMITED
+Middlesbrough, England, United Kingdom
+3 days ago
+DevOps Engineer - Newcastle
+DevOps Engineer - Newcastle
+Accenture UK & Ireland
+Newcastle Upon Tyne, England, United Kingdom
+2 days ago
+DevOps Engineer — AWS | SC Cleared | Remote Working
+UK Government
+Newcastle Upon Tyne, England, United Kingdom
+1 week ago
+Platform Engineer (Senior/Lead)
+Platform Engineer (Senior/Lead)
+Scott Logic
+Newcastle Upon Tyne, England, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer - SC Clearance Essential
+
+UK Government
+
+Newcastle Upon Tyne, England, United Kingdom
+1 week ago
+Lead Infrastructure Engineer
+Lead Infrastructure Engineer
+
+HM Revenue & Customs
+
+Newcastle Upon Tyne, England, United Kingdom
+1 week ago
+Data Platform Engineer
+Data Platform Engineer
+
+Norton Rose Fulbright
+
+Newcastle Upon Tyne, England, United Kingdom
+2 weeks ago
+Infrastructure Manager
+Infrastructure Manager
+
+Bentley Whitaker Search and Selection
+
+Newcastle Upon Tyne, England, United Kingdom
+£80,000 - £90,000
+3 weeks ago
+Senior Software Engineer
+Senior Software Engineer
+
+Printed.com
+
+Cramlington, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Cpl
+
+Newcastle Upon Tyne, England, United Kingdom
+1 month ago
+Senior Infrastructure Engineer - Consulting
+Senior Infrastructure Engineer - Consulting
+
+Razorblue Group
+
+Stockton-On-Tees, England, United Kingdom
+£50,000 - £55,000
+5 days ago
+DevSecOps Engineer - DV Cleared (IT) / Contractor
+DevSecOps Engineer - DV Cleared (IT) / Contractor
+
+Free-Work UK
+
+Hart, England, United Kingdom
+2 days ago
+Senior Application Operations Engineer
+Senior Application Operations Engineer
+
+DWP Digital
+
+Newcastle Upon Tyne, England, United Kingdom
+£44,447 - £46,547
+6 days ago
+Platform Architect (Cloud Services)
+Platform Architect (Cloud Services)
+
+ITPS
+
+Chester-Le-Street, England, United Kingdom
+£50,000 - £60,000
+1 week ago
+Similar Searches
+Education Marketing Manager jobs
+178 open jobs
+Creative Artworker jobs
+5,284 open jobs
+Quality Assurance Test Analyst jobs
+703 open jobs
+Mental Health Practitioner jobs
+1,410 open jobs
+Principal System Engineer jobs
+576 open jobs
+Business Objects Consultant jobs
+904 open jobs
+Integration Lead jobs
+6,897 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at DWP Digital
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

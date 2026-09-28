@@ -1,0 +1,277 @@
+Title: Senior DevOps Engineer (Azure)
+Company: Darktrace
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-azure-at-darktrace-4414685232
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The candidate's extensive experience in CI/CD, Docker, Python, and Azure, combined with her background in release management, aligns well with the Senior DevOps Engineer role.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (Azure)
+Darktrace  London, England, United Kingdom
+1 week ago   Over 200 applicants
+  
+
+See who Darktrace has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Darktrace is a global leader in AI-driven cybersecurity, helping organizations stay ahead of evolving threats every day.
+
+Darktrace was built on a genuinely differentiated idea: that Adaptive AI could detect and respond to novel, real-time cyber threats. That approach matters more than ever in the era of AI. Today, our customers depend on us to stay ahead.
+
+At Darktrace, we are energized by that responsibility. We work across teams and rally around a shared goal. We own outcomes end to end - step in, step up and see things through without waiting to be asked. We make decisions with urgency, say the hard thing, and hold each other to high standards with care and directness. We move first and learn fast anticipating where our customers are going next, continuously challenging ourselves.
+
+We invest in the skills, learning and opportunities that help people deliver at the level their roles demand, and reward the aptitude and curiosity to grow beyond them.
+
+Our Values: Own It | Win as One | Raise Our Bar | Move First. Learn Fast
+
+Job Description:
+
+Join our esteemed R&D teams where groundbreaking innovations fuel our company's meteoric rise. As a Senior DevOps Engineer, you'll play a pivotal role in crafting and refining the backbone of our products across a diverse spectrum of projects, leveraging a rich tapestry of tools and technologies that define the cutting edge of our industry.
+
+This role offers a hybrid setup, with a minimum requirement of two days per week in our London office.
+
+What will I be doing:
+
+Your responsibilities will be multifaceted, encompassing the development, management, configuration, and automation of systems and services within the dynamic landscapes of Azure (primary) and AWS (secondary) Additionally you will be:
+
+
+Collaborating within agile, specialized teams, you'll infuse your expertise into projects, whether working independently or fostering fresh ideas to propel our endeavors forward.
+Your adept prioritization skills will ensure seamless integration into broader organizational goals, addressing immediate challenges while advancing our collective progress.
+
+
+What experience do I need:
+
+To be suitable for the role you will have had hands-on experience with containerization and orchestration tools such as Docker and Kubernetes, along with supporting technologies like ArgoCD and Helm.
+
+You should also be familiar and well-versed in monitoring, logging, and observability tools including: Prometheus; Grafana; Loki; OpenTelemetry; and the ELK stack. Amongst this, you should be able to demonstrate:
+
+
+Proven experience as a DevOps Engineer, with a solid background in building and supporting software applications,
+Proven experience designing, deploying, and maintaining enterprise solutions on Microsoft Azure as the core cloud platform, alongside familiarity with AWS, GCP, or other commercial cloud services,
+Experience in infrastructure provisioning tools (e.g., Terraform, Ansible, Chef, AWS CloudFormation) and Infrastructure as Code (IaC) approaches,
+Proven experience in designing and implementing scalable systems capable of handling high loads,
+Excellent problem-solving and troubleshooting skills, combined with effective communication abilities to articulate technical concepts,
+Proficiency in at least one programming language (e.g., Python, Node.JS, Go) with a focus on automation and scripting,
+Strong Linux experience and sound understanding of core networking and best security principles,
+Hands-on experience designing and managing CI/CD pipelines for large-scale systems (experience with GitLab CI/CD, GitHub Actions, Jenkins, or similar).
+
+
+Benefits:
+
+
+23 days’ holiday + all public holidays, rising to 25 days after 2 years of service,
+Additional day off for your birthday,
+Private medical insurance which covers you, your cohabiting partner and children,
+Life insurance of 4 times your base salary,
+Salary sacrifice pension scheme,
+Enhanced family leave,
+Confidential Employee Assistance Program,
+Cycle to work scheme.
+
+
+As a growing business strengthening its governance and controls, this role plays a part in supporting high standards of integrity and accountability.
+
+Darktrace is an Equal Opportunity Employer. We consider all qualified applicants for employment without regard to race, color, religion, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, veteran or military status, or any other characteristic protected by applicable federal, state, or local law.
+
+Darktrace is committed to providing reasonable accommodations to qualified individuals with disabilities in accordance with applicable laws. If you require a reasonable accommodation to participate in the application or interview process, please contact your Talent Partner.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at Darktrace by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Technical Presales Engineer jobs
+Senior DevOps Engineer (Azure)
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Metrea
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Oliver Bernard
+London Area, United Kingdom
+£100,000 - £125,000
+1 hour ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+XYZ Reality
+London, England, United Kingdom
+1 week ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+SMG
+London Area, United Kingdom
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Triple Point
+City Of London, England, United Kingdom
+1 week ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+Moneycorp
+London, England, United Kingdom
+6 days ago
+Show more jobs like this 
+People also viewed
+Senior Azure Cloud & Platform Engineer - London - Hybrid
+Senior Azure Cloud & Platform Engineer - London - Hybrid
+
+Portfolio BI
+
+London, England, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Maxwell Bond
+
+London Area, United Kingdom
+5 days ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Hanson Lee
+
+London Area, United Kingdom
+£80,000 - £90,000
+2 weeks ago
+Devops Engineer
+Devops Engineer
+
+Caspian One
+
+London Area, United Kingdom
+£80 - £110
+1 week ago
+Azure Engineer
+Azure Engineer
+
+Methods
+
+London, England, United Kingdom
+£75,000 - £85,000
+1 week ago
+DevOps Engineer (FTC)
+DevOps Engineer (FTC)
+
+BlueCrest Capital Management
+
+London, England, United Kingdom
+1 week ago
+Senior Cloud Engineering Consultant (Azure)
+Senior Cloud Engineering Consultant (Azure)
+
+Colibri Digital
+
+London, England, United Kingdom
+2 months ago
+Senior AWS / Azure SRE – Multi-Strategy Hedge Fund (London)
+Senior AWS / Azure SRE – Multi-Strategy Hedge Fund (London)
+
+Winston Fox
+
+London Area, United Kingdom
+£140,000 - £200,000
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Marex
+
+London, England, United Kingdom
+5 days ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+
+mthree
+
+London Area, United Kingdom
+2 weeks ago
+Similar Searches
+Technical Presales Engineer jobs
+1,778 open jobs
+Carrier Account Manager jobs
+973 open jobs
+Channel Director jobs
+943 open jobs
+Learning Technologist jobs
+105 open jobs
+Channel Business Manager jobs
+754 open jobs
+Inside Account Executive jobs
+6,347 open jobs
+Customer Support Engineer jobs
+4,806 open jobs
+Channel Account Manager jobs
+4,867 open jobs
+Director of Studies jobs
+590 open jobs
+Named Account Manager jobs
+2,620 open jobs
+Regional Account Manager jobs
+2,943 open jobs
+Technology Account Manager jobs
+677 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Darktrace
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
