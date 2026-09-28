@@ -81,6 +81,19 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
 - The first Firestore database was accidentally created in `nam5`; it was deleted and recreated in
   `eur3`. A deleted `(default)` ID can be reused only after ~5 min.
 
+## Error-retry cap: fixed a commit storm (2026-09-29)
+Five Totaljobs detail pages failed every time with `ERR_HTTP2_PROTOCOL_ERROR` (most Totaljobs
+pages load fine). `error` jobs counted as pending, so each loop retried them (~1s each), found
+nothing else to do, saved a history snapshot, and committed+pushed: 258 commits in one hour.
+Fix: `_needs_review()` / `_record_review_outcome()`. An `error` job is retried at most
+`ERROR_MAX_ATTEMPTS` (3) times, no sooner than `ERROR_RETRY_SECONDS` (6h) apart; `error_attempts`
+/ `last_error_at` are stored on the job and cleared by any real verdict. Jobs that exhaust their
+retries stay `error` on the dashboard. The same retry-every-loop pattern exists in the sibling
+scrapers (priya_jobs, manju_jobs, vineeth_jobs) — not ported yet.
+**Gotcha (cost a scare):** `open(path, "w", newline=<invalid>)` truncates the file BEFORE raising
+ValueError. It emptied scraper.py once (restored with `git checkout`). Patch files via a temp file
++ `os.replace`, never by rewriting in place from an inline PowerShell here-string.
+
 ## Dashboard: "Jobs by country" card + jobs-added timeline (2026-09-28)
 - Card under the Today card, with one tile per country: total jobs, "+N today" (by `added_at`, local
   date), and yes count (Firestore `shared_state/job_status` override wins, like the Today card).

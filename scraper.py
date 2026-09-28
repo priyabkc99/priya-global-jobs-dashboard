@@ -1548,6 +1548,42 @@ def _call_llm_with_fallback(messages, llm_endpoint, llm_model, temperature=0.1, 
         print(f"  [LLM] WARNING: local model '{llm_model}' used its whole {local_max_tokens}-token budget without a verdict.")
     return resp_json, f"local/{llm_model}"
 
+# A job whose review failed ('error': page wouldn't load, empty/unparseable LLM output) is
+# retried at most ERROR_MAX_ATTEMPTS times, and not sooner than ERROR_RETRY_SECONDS after
+# the last failure. Without this, a page that always fails (e.g. Totaljobs detail pages
+# answering ERR_HTTP2_PROTOCOL_ERROR) was retried every loop - ~1s per attempt - and each
+# pass committed+pushed, 258 commits in one hour on 2026-09-29.
+ERROR_MAX_ATTEMPTS = 3
+ERROR_RETRY_SECONDS = 6 * 3600
+
+
+def _needs_review(job):
+    """True if the job should go to the reviewer now."""
+    if job.get('needs_re_review') is True or job.get('matches_requirements') == 'pending':
+        return True
+    if job.get('matches_requirements') != 'error':
+        return False
+    if job.get('error_attempts', 0) >= ERROR_MAX_ATTEMPTS:
+        return False
+    last = job.get('last_error_at')
+    if not last:
+        return True
+    try:
+        return (datetime.now().astimezone() - datetime.fromisoformat(last)).total_seconds() >= ERROR_RETRY_SECONDS
+    except ValueError:
+        return True
+
+
+def _record_review_outcome(job, match):
+    """Track consecutive failures for _needs_review; a real verdict clears them."""
+    if match == 'error':
+        job['error_attempts'] = job.get('error_attempts', 0) + 1
+        job['last_error_at'] = datetime.now().astimezone().isoformat(timespec='seconds')
+    else:
+        job.pop('error_attempts', None)
+        job.pop('last_error_at', None)
+
+
 def review_pending_jobs(specific_urls=None):
     """Visit URLs of pending jobs, extract description, and evaluate using a local LLM."""
     if not os.path.exists(JOBS_FILE):
@@ -1557,9 +1593,9 @@ def review_pending_jobs(specific_urls=None):
         jobs = json.load(f)
 
     if specific_urls is not None:
-        pending_jobs = [j for j in jobs if (j.get('matches_requirements') in ['pending', 'error'] or j.get('needs_re_review') == True) and j['url'] in specific_urls]
+        pending_jobs = [j for j in jobs if _needs_review(j) and j['url'] in specific_urls]
     else:
-        pending_jobs = [j for j in jobs if j.get('matches_requirements') in ['pending', 'error'] or j.get('needs_re_review') == True]
+        pending_jobs = [j for j in jobs if _needs_review(j)]
 
     if not pending_jobs:
         return
@@ -1726,6 +1762,7 @@ Do not include any conversational intro/outro or explanations outside the JSON o
                 job['posted_date'] = posted_date
                 job['deadline'] = deadline
                 job.pop('needs_re_review', None)
+                _record_review_outcome(job, match)
                 if llm_used:
                     job['eval_model'] = llm_used
 
@@ -1770,6 +1807,7 @@ Do not include any conversational intro/outro or explanations outside the JSON o
                 job['deadline'] = "N/A"
                 job['description_file'] = None
                 job.pop('needs_re_review', None)
+                _record_review_outcome(job, 'error')
 
             # Save aggressively after each evaluation
             with open(JOBS_FILE, 'w', encoding='utf-8') as f:
@@ -2364,7 +2402,7 @@ def main():
             try:
                 with open(JOBS_FILE, 'r', encoding='utf-8') as f:
                     jobs_data = json.load(f)
-                    pending_jobs = [j for j in jobs_data if j.get('matches_requirements') in ['pending', 'error'] or j.get('needs_re_review') == True]
+                    pending_jobs = [j for j in jobs_data if _needs_review(j)]
             except Exception as e:
                 print(f"Error reading jobs file: {e}")
 
