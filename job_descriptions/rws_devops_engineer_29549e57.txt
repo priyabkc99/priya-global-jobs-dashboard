@@ -1,0 +1,288 @@
+Title: DevOps Engineer
+Company: RWS
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-rws-4466043701
+Posted: 2026-09-14
+Deadline: N/A
+Reason: This Mid-Senior DevOps Engineer role in Ireland matches her extensive expertise in CI/CD, automation, and infrastructure management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+RWS  Dublin, County Dublin, Ireland
+2 weeks ago  151 applicants
+  
+
+See who RWS has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from RWS
+
+Iryna Vasyliuk
+Iryna Vasyliuk
+Talent Acquisition Consultant – RWS Group
+
+We are looking for an experienced DevOps Engineer to join the Propylon LWB 360 team and help design, build, automate, and operate our cloud infrastructure.
+
+This role has a strong focus on AWS, Terraform, Linux, Docker, and infrastructure automation. You will play an important role in designing and maintaining reliable, secure, and scalable infrastructure while working closely with development and product teams.
+
+We value engineers who:
+
+Understand the technology they operate rather than treating infrastructure as a black box.
+Can troubleshoot systematically across application, container, operating system, network and cloud layers.
+Prefer automation over repetitive manual work.
+Write infrastructure code and tooling that other engineers can safely reuse.
+Think about failure modes before they become production incidents.
+Take ownership of problems from investigation through to resolution.
+Can explain technical decisions and their trade-offs.
+Care about reliability, security, maintainability and operational excellence.
+
+The role provides an opportunity to work across cloud, operating systems, networking, containerisation, and automation layers, troubleshooting complex production issues and continuously improving the reliability and maintainability of our environments.
+
+Technology Stack
+
+AWS: EC2, ECS, ECR, S3, CloudFront, ALB, VPC, Transit Gateway, IAM, routing, NAT and security groups.
+
+Infrastructure & Automation: Terraform, Ansible, Python and Git-based infrastructure workflows.
+
+Systems & Networking: Debian/Ubuntu Linux, Docker, nginx, StrongSwan/IPSec, TCP/IP, DNS, routing, NAT and firewalls.
+
+About Propylon
+
+Propylon is a company within the RWS group, focused on delivering innovative solutions that simplify complex legal workflows and connect people with the law. The Propylon team works to understand business challenges, design practical technical solutions, and solve problems while embracing change. The company has consistently been recognised as one of the “Great Places To Work” in Ireland (2016, 2018, 2020, 2022, and 2024), reflecting a culture of learning, growth, and employee development.
+
+Working at Propylon allows employees to combine the entrepreneurial, innovation-driven environment of a smaller company with the global scale, resources, and reach of RWS, contributing to RWS’s mission of unlocking understanding across languages and industries.
+
+
+
+
+Responsibilities:
+
+Design, deploy, and maintain AWS infrastructure using Terraform.
+Develop and maintain reusable, internally owned Terraform modules and infrastructure patterns.
+Manage and troubleshoot Linux-based production systems.
+Build and operate containerised workloads using Docker and AWS ECS.
+Manage Docker images and registries using Amazon ECR.
+Design and troubleshoot AWS networking, including VPCs, routing, ALBs, Transit Gateway, NAT, security groups and IAM.
+Configure and troubleshoot IPSec VPN connections, including StrongSwan-based deployments.
+Configure and maintain nginx-based services and reverse proxies.
+Automate infrastructure configuration and operational tasks using Ansible and Python.
+Investigate production incidents across application, operating system, networking, container and cloud infrastructure layers.
+Improve infrastructure reliability, security, observability, performance and maintainability.
+Contribute to CI/CD and Git-based infrastructure and deployment workflows.
+Review infrastructure changes and contribute to technical design decisions.
+Reduce manual operations through automation and better tooling.
+Document infrastructure architecture, operational procedures and reusable solutions.
+Support operational issues and BAU activities across the platform.
+
+
+
+
+Requirements:
+
+Strong hands-on experience with Terraform, including modules, state, providers, dependencies, lifecycle and infrastructure design.
+Hands-on experience with AWS, particularly EC2, ECS, ECR, S3, CloudFront, ALB, VPC networking and IAM.
+Strong Linux administration and troubleshooting skills, preferably Debian/Ubuntu.
+Good understanding of TCP/IP, routing, DNS, NAT, firewalls and VPN concepts.
+Practical experience with Docker and containerised applications.
+Experience configuring and troubleshooting nginx.
+Experience with Ansible and infrastructure automation.
+Ability to write automation and operational tooling using Python.
+Experience troubleshooting real production environments across multiple infrastructure layers.
+Good understanding of Git-based development and infrastructure workflows.
+
+
+
+
+Highly Valuable:
+
+AWS Transit Gateway and multi-VPC or multi-account network architectures.
+IPSec VPNs / StrongSwan.
+Designing reusable Terraform modules for multiple environments or teams.
+Production experience with AWS ECS.
+AWS security and IAM design.
+Network troubleshooting using tools such as tcpdump, ss, dig, curl, openssl and traceroute.
+Designing highly available and resilient cloud infrastructure.
+Experience with CI/CD, monitoring, observability and incident response.
+Experience with PostgreSQL, Redis, Elasticsearch or similar technologies.
+
+
+
+
+Life at RWS - If you like the idea of working with smart people who are passionate about growing the value of ideas, data and content by making sure organizations are understood, then you’ll love life at RWS.
+
+Our purpose is to unlock global understanding. This means our work fundamentally recognizes the value of every language and culture. So, we celebrate difference, we are inclusive and believe that diversity makes us strong. We want every employee to grow as an individual and excel in their career.
+
+In return, we expect all our people to live by the values that unite us: to partner, putting clients fist and winning together, to pioneer, innovating fearlessly and leading with vision and courage, to progress, aiming high and growing through actions and to deliver, owning the outcome and building trust with our colleagues and clients.
+
+RWS embraces DEI and promotes equal opportunity, we are an Equal Opportunity Employer and prohibit discrimination and harassment of any kind. RWS is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at RWS are based on business needs, job requirements and individual qualifications, without regard to race, religion, nationality, ethnicity, sex, age, disability, or sexual orientation. RWS will not tolerate discrimination based on any of these characteristics.
+
+RWS Values
+
+Get the 3Ps right – Partner, Pioneer, Progress – and we´ll Deliver together as RWS.
+
+Recruitment Agencies: RWS Holdings PLC does not accept agency resumes. Please do not forward any unsolicited resumes to any RWS employees. Any unsolicited resume received will be treated as the property of RWS and Terms & Conditions associated with the use of such resume will be considered null and void.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Software Development and Translation and Localization
+  
+
+Referrals increase your chances of interviewing at RWS by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Devops Engineer - DDT
+Devops Engineer - DDT
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+2 weeks ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin, County Dublin, Ireland
+2 weeks ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin 4, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Arista Networks
+Dublin, County Dublin, Ireland
+1 month ago
+DevOps Engineer
+DevOps Engineer
+GemPool Recruitment
+Dublin, County Dublin, Ireland
+2 weeks ago
+DevOps Engineer (Azure)
+DevOps Engineer (Azure)
+DOCOsoft
+Dublin, County Dublin, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Staff Engineer, DevOps
+Staff Engineer, DevOps
+
+LearnUpon
+
+Dublin, County Dublin, Ireland
+5 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Hays
+
+Dublin, County Dublin, Ireland
+€60,000 - €80,000
+2 days ago
+Kubernetes Engineer
+Kubernetes Engineer
+
+InterSystems
+
+Dublin, County Dublin, Ireland
+6 days ago
+Cloud Operations Engineer
+Cloud Operations Engineer
+
+Laserfiche
+
+Dublin, County Dublin, Ireland
+1 week ago
+Production Systems Engineer
+Production Systems Engineer
+
+Meta
+
+Dublin, County Dublin, Ireland
+3 days ago
+DevOps Engineer, Charles River Development, Senior Associate
+DevOps Engineer, Charles River Development, Senior Associate
+
+Charles River Development
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Fivetran
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+RECRUITERS
+
+Dublin, County Dublin, Ireland
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+E-Solutions
+
+Dublin, County Dublin, Ireland
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+DOCOsoft
+
+Dublin, County Dublin, Ireland
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at RWS
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

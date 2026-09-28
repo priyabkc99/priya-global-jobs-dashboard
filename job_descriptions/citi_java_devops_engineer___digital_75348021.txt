@@ -1,0 +1,265 @@
+Title: Java DevOps Engineer - Digital Assets (VP)
+Company: Citi
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/java-devops-engineer-digital-assets-vp-at-citi-4463654300
+Posted: 2026-09-27
+Deadline: N/A
+Reason: The role is a DevOps Engineer position focusing on infrastructure automation and CI/CD, which aligns with her extensive experience in release management and DevOps.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Java DevOps Engineer - Digital Assets (VP)
+Citi  Dublin, County Dublin, Ireland
+1 day ago  44 applicants
+  
+
+See who Citi has hired for this role
+
+Apply 
+Save
+Discover your future at Citi
+
+Working at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.
+
+Job Overview
+
+Engineer the future of global finance. At Citi, our Tech team doesn’t just support finance – we are helping to redefine it. Every day, $5 trillion crosses through our network. We do business in 180+ countries operating at a scale few can match. From deploying advanced AI to helping shape global markets, we build systems that matter. Look to join a team where your work helps influence economies, your ideas can drive innovation and outcomes, and your growth is backed by mentorship, continuous learning and flexibility with potential hybrid work opportunities. Help solve real-world challenges that touch millions and get the opportunity to build the future of finance with Citi Tech.
+
+We are looking for a talented and driven Java DevOps Engineer to join the Citi Integrated Digital Asset Platform (CIDAP) team. In this role, you will play a key part in building, hardening, maintaining, and continuously improving the Technology Infrastructure that underpins mission-critical financial systems operating at a global scale. You will collaborate closely with the CIDAP Engineering Team and a broad network of Citi Infrastructure Partners, contributing to the full lifecycle of platform operations — from design and implementation through to advanced troubleshooting and issue resolution. Your work will be central to platform stabilization, performance optimization, and ensuring the highest levels of system reliability.
+
+Responsibilities
+
+
+Design, architect, and deliver seamless integrations between the CIDAP platform and key Citi Infrastructure components, driving platform scalability and capability enhancements to meet both current operational needs and future business demands.
+Lead root cause analysis efforts for system outages, performance degradations, and application failures in lower and production environments, proactively surfacing emerging risks and drive timely, well-defined remediation strategies to minimize impact and prevent recurrence.
+Proactively identify, drive the automation of infrastructure build and configuration through approved tooling, reduce manual overhead and ensure greater consistency, repeatability, and reliability across all environments.
+Conduct security vulnerability assessments and Infrastructure risk reviews across CIDAP services, deliver actionable mitigation recommendations and leading the implementation of robust remediation measures to strengthen the platform's overall security posture.
+Build and maintain deep, cross-functional knowledge of how key Business domains, including architecture and infrastructure interconnect and collaborate to drive overarching business objectives, enabling more informed decision-making and delivering well-aligned technical solutions.
+Develop, maintain, and continuously refine internal knowledge base articles, FAQ guides, and technical documentation, ensuring teams have access to accurate, up to date reference material to environment setup, configuration, and day-to-day operational workflows.
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behaviour, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+
+Requirements And Qualifications
+
+
+Significant hands-on experience in a DevOps Engineering capacity or an equivalent software engineering role, with a proven track record of delivering complex infrastructure and platform solutions.
+Deep expertise in Red Hat OpenShift administration, with comprehensive knowledge of Docker for building, optimizing, and managing container images, and strong proficiency in YAML based configuration management.
+Advanced scripting and automation capabilities, with the ability to design and implement robust, scalable automation workflows.
+Strong foundational knowledge of microservices architecture, including security considerations, design patterns, and implementation best practices.
+Extensive experience with GitHub, including branching strategies, merging workflows, and version control best practices.
+Solid experience in Oracle database administration and seamless application integration.
+Proven ability in configuring, maintaining, and optimizing Load Balancers for high-availability environments.
+Hands-on experience with alerting, monitoring, and observability tooling, including OTEL, Google Cloud Observability, Grafana, Kibana, and Splunk.
+Knowledge in messaging and event streaming platform – Kafka
+Knowledge in managing Certificates, Secrets, Keys and access controls.
+Experience in network connectivity and troubleshooting including TCP/IP, DNS, HTTP/HTTPS, ports, firewall, proxies and routing.
+Soft Skills: Exceptional written and verbal communication skills, with the ability to clearly articulate complex technical concepts to both technical and non-technical audiences; strong analytical and problem-solving aptitude with a collaborative, solution-oriented mindset.
+Bachelor’s degree in computer science, Information Technology, or a related engineering discipline.
+
+
+By joining Citi Dublin, you will not only be part of a business casual workplace with a hybrid working model (up to 2 days working at home per week), but also receive a competitive base salary (which is annually reviewed) and enjoy a whole host of additional benefits that support you (and your family) to be well, live well and save well. Discover more here.
+
+Alongside these benefits Citi is committed to ensuring our workplace is where everyone feels comfortable coming to work as their whole self every day. We want the best talent around the world to be energised to join us, motivated to stay, and empowered to thrive.
+
+Sounds like Citi has everything you need? Then apply to discover the true extent of your capabilities.
+
+------------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+------------------------------------------------------
+
+Job Family:
+
+Applications Development
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Primary Location Full Time Salary Range:
+
+€93,280.00 - €139,920.00
+
+------------------------------------------------------
+
+Most Relevant Skills
+
+Please see the requirements listed above.
+
+------------------------------------------------------
+
+Other Relevant Skills
+
+For complementary skills, please see above and/or contact the recruiter.
+
+------------------------------------------------------
+
+Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.
+
+If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View Citi’s EEO Policy Statement and the Know Your Rights poster.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Banking, Financial Services, and Investment Banking
+  
+
+Referrals increase your chances of interviewing at Citi by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Quantitative Development - DevOps Engineer
+Quantitative Development - DevOps Engineer
+Millennium
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Software Engineer I
+Senior Software Engineer I
+RELX
+Dublin, County Dublin, Ireland
+1 month ago
+Staff Engineer
+Staff Engineer
+Solance
+Dublin, County Dublin, Ireland
+2 months ago
+Senior Software Engineer I
+Senior Software Engineer I
+LexisNexis Risk Solutions
+Dublin, County Dublin, Ireland
+1 month ago
+Devops Engineer - DDT
+Devops Engineer - DDT
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+Apple
+Dublin, County Dublin, Ireland
+4 months ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Senior Platform Engineer - Infra & Cloud Delivery (f/m/d) , L5
+Senior Platform Engineer - Infra & Cloud Delivery (f/m/d) , L5
+
+Personio
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer - Cloud Infrastructure
+Site Reliability Engineer - Cloud Infrastructure
+
+TikTok
+
+Dublin, County Dublin, Ireland
+4 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+RECRUITERS
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Software Engineer, Reliability (f/m/d)
+Senior Software Engineer, Reliability (f/m/d)
+
+Personio
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Application Reliability Engineer
+Senior Application Reliability Engineer
+
+Merative
+
+Dublin, County Dublin, Ireland
+6 days ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+ServiceNow
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+Guidewire Software
+
+Dublin, County Dublin, Ireland
+3 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Sprinklr
+
+Dublin, County Dublin, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Citi
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

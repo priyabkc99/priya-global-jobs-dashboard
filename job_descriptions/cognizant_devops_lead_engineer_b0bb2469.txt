@@ -1,0 +1,214 @@
+Title: DevOps Lead Engineer
+Company: Cognizant
+Location: Limerick, County Limerick, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-lead-engineer-at-cognizant-4467788700
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a strong match for her expertise in DevOps, release management, and configuration management within a highly regulated life sciences environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Lead Engineer
+Cognizant  Limerick, County Limerick, Ireland
+1 week ago  26 applicants
+  
+
+See who Cognizant has hired for this role
+
+Apply 
+Save
+Cognizant is a world leader in delivering digital transformation solutions to Life Sciences. Through our knowledge and expertise in Automation, MES & Digital, we deliver stable manufacturing systems that are optimized to improve operational efficiencies, whilst maintaining compliance.
+
+Our specialist engineering teams have the aptitude to deliver and support Pharma 4.0 architectures and solutions covering all IT, OT and IoT applications, infrastructures and services.
+
+Operating across 5 continents and with over 300.000 skilled employees, Cognizant partners with the leading Life Sciences companies globally to provide performance improvements, reduced costs and improve time to market. We are your single end to end partner for consultancy, design implementation, optimization and support for all applications in the Pharmaceutical and Biotechnology Manufacturing stack.
+
+Cognizant is seeking a DevOps Lead Engineer to join a greenfield MES rollout at a biotech manufacturing site in Limerick, Ireland.
+
+We're looking for someone with a strong track record as a Lead or Senior DevOps Engineer, comfortable pushing configuration changes through dev, test, and live production environments, with solid grounding in version control for MES configuration, CI/CD pipeline design, and automated testing support.
+
+Key Responsibilities
+
+
+Build, implement, and refine CI/CD pipelines for consistent, dependable deployments across dev, test, and production
+Take ownership of the DevOps toolchain and environment lifecycle: source control, infrastructure-as-code, configuration management, release management, monitoring, and observability
+Provision and manage secure, resilient, scalable infrastructure underpinning MES platforms, keeping availability and performance high
+Manage MES platforms (Emerson Syncade experience preferred) — deployments, configuration, patching, upgrades, and day-to-day operational support
+Set and enforce development standards, branching strategy, code review practice, release governance, and change control suited to a regulated manufacturing setting
+Work alongside software engineering, QA, MES vendors, system integrators, and business stakeholders to deliver automated deployments and infrastructure-as-code
+Build automated testing and quality gates into CI/CD pipelines with QA, pushing shift-left testing and stronger release quality
+Stand up monitoring, logging, and alerting to stay ahead of platform health and performance issues
+Underpin CSV, audit readiness, disaster recovery, and business continuity with compliant documentation and deployment records
+Drive ongoing improvement across the delivery lifecycle, clearing deployment bottlenecks and tracking progress via metrics
+Serve as technical authority and escalation point for complex infrastructure, deployment, and operational issues
+
+
+Requirements
+
+
+Demonstrated experience as a DevOps Lead or Senior DevOps Engineer on complex enterprise programme
+Hands-on development background with a strong grasp of the SDLC and modern DevOps practice
+Solid CI/CD, infrastructure-as-code, automation, and scripting skills
+Experience managing enterprise application environments — release management, configuration management, infrastructure provisioning
+Strong background supporting MES platforms, ideally Emerson Syncade, across deployment, configuration, upgrades, and operational support
+Experience in regulated pharma/life sciences environments preferred, with working knowledge of GxP, CSV, and GAMP 5
+Familiarity with MES integrations into SAP, LIMS, and historian systems, plus containerisation (Docker, Kubernetes)
+Strong problem-solving, communication, and stakeholder management skills
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Management and Manufacturing
+Industries
+IT Services and IT Consulting and Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Cognizant by 2x
+
+See who you know
+
+Get notified about new DevOps Manager jobs in Limerick, County Limerick, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Principal DevOps Engineer
+Principal DevOps Engineer
+Octostar
+Galway Metropolitan Area
+6 days ago
+Principal DevOps Engineer
+Principal DevOps Engineer
+Reperio Human Capital
+Galway, County Galway, Ireland
+€80,000 - €100,000
+4 days ago
+DevOps Lead @ Limerick, Ireland - 24 Months with Ext - Onsite
+DevOps Lead @ Limerick, Ireland - 24 Months with Ext - Onsite
+Cbase Inc
+County Limerick, Ireland
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Rent The Runway
+Galway, County Galway, Ireland
+2 days ago
+Site Reliability Engineering Technical Lead
+Site Reliability Engineering Technical Lead
+AMCS Group
+Limerick, County Limerick, Ireland
+3 weeks ago
+Cloud Engineer
+Cloud Engineer
+Ministry Brands
+Galway, County Galway, Ireland
+1 month ago
+Show more jobs like this 
+People also viewed
+Staff Engineer (IT Automation & AI-native Transformation)
+Staff Engineer (IT Automation & AI-native Transformation)
+
+SoSafe
+
+Ireland
+2 weeks ago
+Senior / Cloud Software Engineer - Shannon, Ireland (Hybrid)
+Senior / Cloud Software Engineer - Shannon, Ireland (Hybrid)
+
+Siemens EDA (Siemens Digital Industries Software)
+
+Shannon, County Clare, Ireland
+2 weeks ago
+Observability & Tooling Manager
+Observability & Tooling Manager
+
+Planet
+
+Galway, County Galway, Ireland
+2 weeks ago
+Principle Cloud Developer
+Principle Cloud Developer
+
+Hewlett Packard Enterprise
+
+Galway, County Galway, Ireland
+1 week ago
+Staff Engineer for IT Automation & AI transformation (Remote)
+Staff Engineer for IT Automation & AI transformation (Remote)
+
+SoSafe
+
+Ireland
+2 weeks ago
+Sr Engineer, Technical Onboarding
+Sr Engineer, Technical Onboarding
+
+Analog Devices
+
+Limerick, County Limerick, Ireland
+2 weeks ago
+Platform Engineering Manager
+Platform Engineering Manager
+
+Precisely
+
+Ireland
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Jobgether
+
+Ireland
+6 days ago
+Software Test Solutions Engineer
+Software Test Solutions Engineer
+
+Analog Devices
+
+Limerick, County Limerick, Ireland
+4 days ago
+Staff Software Engineer - Reliability (d/f/m)
+Staff Software Engineer - Reliability (d/f/m)
+
+Personio
+
+Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cognizant
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

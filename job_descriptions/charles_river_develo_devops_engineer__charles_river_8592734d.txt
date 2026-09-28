@@ -1,0 +1,241 @@
+Title: DevOps Engineer, Charles River Development, Senior Associate
+Company: Charles River Development
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-charles-river-development-senior-associate-at-charles-river-development-4456765139
+Posted: 2026-09-07
+Deadline: N/A
+Reason: The role is a DevOps Engineer position in Ireland, which aligns with her extensive experience in CI/CD, automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer, Charles River Development, Senior Associate
+Charles River Development  Dublin, County Dublin, Ireland
+3 weeks ago  103 applicants
+  
+
+See who Charles River Development has hired for this role
+
+Apply 
+Save
+We are looking for a DevOps engineer to join our growing Platform Engineering / DevOps Enablement team. Our Platform Engineering organization is modernizing the platform through cloud-native technologies built on Microsoft Azure, Kubernetes, Infrastructure as Code, and modern CI/CD tooling. The DevOps team plays a critical role in this transformation.
+
+Responsibilities:
+
+
+Design, develop, and maintain CI/CD pipelines and supporting automation.
+Build and maintain Infrastructure as Code for cloud environments.
+Support Kubernetes-based deployment workflows including Helm.
+Use standard tooling such as (or similar to) GitHub, Azure DevOps, TeamCity, and JFrog Artifactory.
+Support secure delivery practices including SSO, access management, and security scanning.
+Troubleshoot and resolve build, pipeline, and environment issues.
+Collaborate with engineers, architects, and security partners.
+Contribute to operational documentation and runbooks.
+Engage in agile ceremonies and global platform initiatives.
+
+
+
+Qualifications:
+
+Recommended Education:
+
+Bachelor’s degree in computer science, engineering or related field.
+
+Recommended Experience:
+
+
+2+ years of professional experience in DevOps or related engineering roles.
+Hands-on experience with CI/CD pipelines and automation concepts.
+Hands-on experience with Infrastructure as Code (e.g. Terraform).
+Familiarity with Azure services and Azure Portal usage.
+Basic Kubernetes and container workflow experience.
+Familiarity with artifact repositories and build tooling.
+Awareness of secure delivery and documentation practices.
+Experience leveraging AI tools as part of routine development activities.
+
+
+
+Supervisory Responsibility:
+
+☒ Individual Contributor
+
+About State Street
+
+What we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation, we’re making our mark on the financial services industry. For more than two centuries, we’ve been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients.
+
+Work, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary by location, but you may expect generous medical care, insurance and savings plans, among other perks. You’ll have access to flexible Work Programs to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential.
+
+Inclusion, Diversity and Social Responsibility. We truly believe our employees’ diverse backgrounds, experiences and perspectives are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift programs and access to employee networks that help you stay connected to what matters to you.
+
+State Street is an equal opportunity and affirmative action employer.
+
+About State Street
+
+Across the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success.
+
+We are committed to fostering an environment where every employee feels valued and empowered to reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities, flexible work-life support, paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future.
+
+As an Equal Opportunity Employer, we consider all qualified applicants for all positions without regard to race, creed, color, religion, national origin, ancestry, ethnicity, age, disability, genetic information, sex, sexual orientation, gender identity or expression, citizenship, marital status, domestic partnership or civil union status, familial status, military and veteran status, and other characteristics protected by applicable law.
+
+Discover more information on jobs at StateStreet.com/careers
+
+Read our CEO Statement
+
+Job ID: R-795729
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services, Investment Banking, and Investment Management
+  
+
+Referrals increase your chances of interviewing at Charles River Development by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Payslip
+Dublin, County Dublin, Ireland
+4 months ago
+Quantitative Development - DevOps Engineer
+Quantitative Development - DevOps Engineer
+Millennium
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Amach
+Dublin, County Dublin, Ireland
+1 month ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin, County Dublin, Ireland
+2 weeks ago
+Devops Engineer - DDT
+Devops Engineer - DDT
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+2 weeks ago
+AI DevOps Engineer
+AI DevOps Engineer
+The Citco Group Limited
+Dublin, County Dublin, Ireland
+3 months ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+Fulcrum Digital Inc
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+LexisNexis Risk Solutions
+
+Dublin, County Dublin, Ireland
+6 days ago
+Platform Engineer
+Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Holafly
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Site Reliability Engineer - GIPHY
+Senior Site Reliability Engineer - GIPHY
+
+TurboSquid by Shutterstock
+
+Dublin, County Dublin, Ireland
+1 week ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Fivetran
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer - Foundation Team
+Site Reliability Engineer - Foundation Team
+
+Global-e
+
+Dublin, County Dublin, Ireland
+5 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+RECRUITERS
+
+Dublin, County Dublin, Ireland
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Hays
+
+Dublin, County Dublin, Ireland
+€60,000 - €80,000
+2 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Sprinklr
+
+Dublin, County Dublin, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Charles River Development
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,263 @@
+Title: Lead CI/CD Platform Engineer
+Company: Merative
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/lead-ci-cd-platform-engineer-at-merative-4436626370
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role aligns perfectly with her expertise in CI/CD, release management, and configuration management within a regulated healthcare context.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead CI/CD Platform Engineer
+Merative  Ireland
+1 week ago  185 applicants
+  
+
+See who Merative has hired for this role
+
+Apply 
+Save
+Healthcare providers, poison control centers, and government departments need trusted evidence to protect patients and public health. Universities need reliable resources to educate the clinicians of tomorrow, while pharmaceutical organizations and health plans need timely insights to advance their work.
+
+Micromedex by Merative has been trusted by users around the world for over 50 years:
+
+Patient Safety: Impartial and curated clinical evidence that’s continually reviewed and updated to inform safe decision-making at the point of care and optimal patient outcomes.
+
+Clinical Efficiency: Innovative search functionality for fast insights, and seamless workflow integration in electronic health records (EHR) for clinical efficiency and enhanced digital maturity of your organization.
+
+Organizational Performance: Trusted resources on a single platform to enhance clinician experience, with tools to manage medication costs and support patient satisfaction, including HCAHPS scores.
+
+Micromedex is in transformation, and we are seeking a top-tier Lead CI/CD Platform Engineer who can help modernize how MDX builds, deploys, operates, and scales mission-critical clinical applications in production.
+
+This is a transformative senior individual contributor role for an engineer who combines deep CI/CD capability, platform architecture judgement, release discipline, and enough SRE and operations systems expertise to improve how MDX delivers safely into vendor-operated production.
+
+You will bring strong CI/CD depth, practical platform engineering judgement, required streaming model expertise, transformation capability, and the ability to translate engineering intent into reliable deployment models, release runbooks, SLOs, incident response practices, controls, and handoffs for a vendor-led production operations model.
+
+Key Responsibilities:
+
+
+Build CI/CD golden paths: Design and improve GitHub- and Jenkins-based pipelines, deployment automation, packaging, feature flags, rollback patterns, and release controls that reduce time to deployment while improving quality and repeatability.
+Transform delivery and release maturity: Standardize deployment practices, release runbooks, environment promotion, operational readiness, and engineering patterns so teams can release faster with stronger control and lower production risk.
+Enable vendor-operated production: Translate engineering intent into deployment procedures, runbooks, SLOs, incident response handoffs, escalation paths, and measurable service controls that a production operations partner can execute reliably.
+Provide platform and streaming architecture expertise: Work across application architecture, infrastructure, streaming models, databases, caching, environments, security, observability, and deployment dependencies to shape delivery patterns that support MDX transformation.
+Improve automation and Infrastructure-as-Code: Use GitHub, Jenkins, Ansible, deployment scripting, configuration management, and Infrastructure-as-Code to reduce manual effort, environment drift, and deployment variability.
+Strengthen SRE and operations practices: Improve SLO readiness, observability hooks, incident response, post-incident actions, deployment resilience, and production operability without becoming a pure operations role.
+Partner across and outside the organization: Work with engineering, architecture, security, infrastructure, product, vendor operations, and external partners to remove delivery bottlenecks and embed platform standards across squads.
+
+
+
+Basic Qualifications:
+
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+8+ years of hands-on engineering experience across CI/CD, DevOps, platform engineering, or release engineering, with proven depth in complex production software environments.
+Demonstrated expertise building and improving CI/CD pipelines, automated deployments, rollback patterns, feature flag practices, release controls, environment promotion models, and deployment approaches that reduce time to production.
+Strong proficiency in deployment scripting, with practical experience using languages such as Python, Bash, or Groovy for automation, CI/CD integration, and operational tooling.
+Ability to manage and improve GitHub-based engineering workflows, repositories, branching strategies, pull request controls, pipeline integrations, and release automation, with strong proficiency in Jenkins, Ansible, Infrastructure-as-Code, source control, build automation, test automation, artifact management, configuration management, and deployment scripting.
+Advanced CI/CD engineering experience across GitHub, Jenkins, pipeline design, artifact management, deployment automation, feature flags, rollback patterns, and release controls.
+Experience enabling vendor-operated production through release runbooks, deployment procedures, operational handoffs, knowledge transfer, and service controls.
+Strong streaming skills, including hands-on experience with streaming models, event-driven architecture, asynchronous processing, and operational patterns required to run streaming workloads reliably in production.
+Experience supporting production readiness through SLOs, observability, incident management practices, escalation procedures, and post-incident continuous improvement.
+Ability to operate as a transformation-minded engineer who can identify delivery maturity gaps, simplify complex deployment processes, improve release runbooks, strengthen feature flag adoption, reduce time to deployment, and influence better engineering standards across teams.
+Strong troubleshooting and triage skills, with the ability to diagnose build, deployment, environment, and production-readiness issues under pressure and drive them to resolution.
+Clear, confident communication and partnership skills with the ability to work across engineering, architecture, product, security, infrastructure, vendor operations, and external partner teams.
+Self-driven, detail-oriented, and highly technical, with a passion for automation, operational excellence, and improving developer productivity.
+
+
+
+Preferred Skills:
+
+
+Infrastructure-as-Code and automation capability using tools such as Ansible, Terraform, scripting, configuration management, and environment automation.
+Experience in Java.
+Practical SRE and operations systems knowledge, including SLOs, observability, alerting, incident management, resilience, post-incident improvement, and production readiness reviews.
+Platform architecture depth across Java applications, cloud infrastructure, databases, caching, streaming models, event-driven services, Kubernetes, Docker, Cloudflare, and related production dependencies.
+Experience in regulated, clinical, or high-availability environments where auditability, resilience, change control, and data privacy are important.
+
+
+
+Work Environment:
+
+The role may occasionally require flexibility across time zones to support release windows, operational readiness, incident follow-up, and knowledge transfer with production partners.
+
+Compensation
+
+The salary range provided in this job posting is intended to reflect the general market value for the position. The actual salary offered may vary based on factors such as the candidate’s experience, qualifications, skills, and the specific requirements of the role. This range may also be subject to change as market conditions evolve. We encourage open communication throughout the interview process to discuss compensation expectations. For base-salary + commission sales roles, the range represents On-Target Earnings.
+
+Min – Max :
+
+€71,273.53 - €106,910.29 (EUR)
+
+Benefits
+
+The benefits described represent the current offerings at our organization, however, benefits are subject to change and may vary by location and employment status. We strive to provide a comprehensive benefits package that supports our employees’ health, wellness, and financial goals. Please note that benefits may be discussed in more detail during the hiring process.
+
+
+Vacation to help you rest, recharge, and connect with loved ones
+Paid leave benefits
+Health plan cover through Irish Life Health
+Employer and employee pension contributions
+Bike2work program/benefits
+Tuition reimbursement, life insurance, EAP – and more!
+
+
+
+It is the policy of Merative to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, HIV status, or any other characteristic protected by federal, state or local law. In addition, Merative will provide reasonable accommodations for qualified individuals with disabilities.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Merative by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Ireland.
+
+Sign in to create job alert
+Similar jobs
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+Ireland
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Autodesk
+Greater Dublin
+3 days ago
+Senior Site Reliability Engineer (EMEA)
+Senior Site Reliability Engineer (EMEA)
+Reap
+Ireland
+17 hours ago
+Principal Software Engineer, Release Engineering
+Principal Software Engineer, Release Engineering
+HubSpot
+Ireland
+3 weeks ago
+Senior DevOps Engineer, EMEA
+Senior DevOps Engineer, EMEA
+Keeper Security, Inc.
+Ireland
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Ireland
+3 months ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability Engineer - CloudVision
+Senior Site Reliability Engineer - CloudVision
+
+Arista Networks
+
+Dublin, County Dublin, Ireland
+2 days ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+The Citco Group Limited
+
+Cork, County Cork, Ireland
+6 days ago
+Engineering Manager - SRE & Platform
+Engineering Manager - SRE & Platform
+
+Jobgether
+
+Ireland
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+ACI Worldwide
+
+Limerick, County Limerick, Ireland
+2 days ago
+Staff Engineer, DevOps
+Staff Engineer, DevOps
+
+LearnUpon
+
+Dublin, County Dublin, Ireland
+5 days ago
+Tech Lead (Backend)
+Tech Lead (Backend)
+
+Isla Health | B Corp™
+
+Sligo, County Sligo, Ireland
+€92,000 - €110,000
+4 months ago
+Senior Platform Engineer - Infra & Cloud Delivery (f/m/d) , L5
+Senior Platform Engineer - Infra & Cloud Delivery (f/m/d) , L5
+
+Personio
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+DevOps Lead Engineer
+DevOps Lead Engineer
+
+Cognizant
+
+Limerick, County Limerick, Ireland
+1 week ago
+Software Engineering Technical Leader
+Software Engineering Technical Leader
+
+Cisco
+
+Galway, County Galway, Ireland
+2 days ago
+Technical Lead - GPU Infrastructure
+Technical Lead - GPU Infrastructure
+
+Tether.io
+
+Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Merative
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

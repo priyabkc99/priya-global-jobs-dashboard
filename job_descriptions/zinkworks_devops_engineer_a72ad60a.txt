@@ -1,0 +1,241 @@
+Title: DevOps Engineer
+Company: Zinkworks
+Location: Athlone, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-zinkworks-4463026830
+Posted: 2026-09-14
+Deadline: N/A
+Reason: This Senior DevOps Engineer role in Ireland aligns with her extensive experience in CI/CD, release management, and automation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Zinkworks  Athlone, Ireland
+2 weeks ago  87 applicants
+  
+
+See who Zinkworks has hired for this role
+
+Apply 
+Save
+About Zinkworks
+
+Zinkworks partners with leading Telecommunications and Financial Services organizations to modernize legacy systems, migrate mission-critical platforms to the cloud, and engineer AI-driven automation. From OSS transformation to rApp development and network intelligence, our teams simplify complexity and turn it into competitive advantage. Based in Ireland and operating across the EU, UK, and US, Zinkworks combines deep domain expertise with delivery excellence to help clients modernize faster and operate smarter.
+
+The Role
+
+Zinkworks is building a small product discovery team developing AI, machine learning, and software capabilities for next-generation telecom networks, taking new product ideas from concept through to working prototypes.
+
+We are looking for a Senior DevOps / Platform Engineer to own the cloud and deployment foundations that allow that team to move quickly.
+
+You will be involved from day one of new product ideas: helping establish environments, deployment approaches and delivery pipelines before infrastructure becomes an afterthought. You will own our internal product and demo environments, make it easy to spin up new projects, and establish common patterns across products being built by different engineers and using different technology stacks. As ideas mature, you will also help turn prototypes into robust, repeatable and production-ready solutions.
+
+This is not a ticket-driven DevOps role. We want someone who brings their own judgement to the team, challenges unnecessary complexity, proposes better approaches, and helps us make good technical decisions early.
+
+What You’ll Do
+
+
+Own the cloud and deployment foundations for the product development team, primarily on GCP.
+Work alongside product, engineering and applied-science colleagues from the beginning of new product discovery, helping teams get from idea to deployed prototype quickly.
+Design, build and maintain CI/CD pipelines so deploying software becomes routine rather than a manual exercise.
+Own the setup and management of internal development, test and demonstration environments.
+Establish reusable patterns for spinning up new projects, reducing the amount of infrastructure work required every time the team starts something new.
+Help bring consistency to products being developed across different technology stacks without forcing unnecessary standardisation.
+Design and maintain release pipelines, secrets management and environment configuration.
+Build and operate Kubernetes-based infrastructure where appropriate.
+Help troubleshoot difficult cloud and infrastructure problems and, more importantly, put systems and practices in place so the same problems do not keep happening.
+Work with engineers to harden successful prototypes, improving deployment, observability, reliability, security and operational readiness as products mature.
+Challenge architecture and infrastructure choices when there is a simpler or more effective approach.
+Improve the team’s DevOps practices continuously, identifying friction and removing it before it slows product development.
+
+
+What You Bring
+
+
+Strong hands-on experience building and operating cloud infrastructure, ideally on GCP.
+Solid experience designing and implementing CI/CD pipelines for modern software applications.
+Practical Kubernetes experience, including deploying, configuring and troubleshooting applications in containerised environments.
+Experience managing development, test and production-like environments in a repeatable way.
+Strong understanding of secrets management, configuration management and secure deployment practices.
+A track record of taking loosely defined infrastructure requirements and turning them into practical, maintainable solutions.
+The ability to troubleshoot complex cloud and deployment problems independently.
+Strong engineering judgement. You know when to build something robustly, when to keep things deliberately simple, and when infrastructure is becoming more complicated than the problem requires.
+A collaborative mindset. You enjoy working directly with software engineers, ML engineers, product managers and other technical specialists rather than operating as a separate infrastructure function.
+The confidence to bring your own ideas to the table, challenge assumptions constructively and take ownership of problems through to resolution.
+Comfort working in a fast-moving product discovery environment where not every requirement will be known upfront.
+
+
+Nice to Have
+
+
+Infrastructure-as-code experience with tools such as Terraform.
+Experience with GKE and other GCP services commonly used to build modern cloud-native applications.
+Experience supporting AI or machine-learning workloads, including environments that integrate with platforms such as Vertex AI.
+Experience building shared internal platforms or developer tooling that make engineering teams more productive.
+Experience taking prototypes or proof-of-concepts and hardening them into reliable deployable products.
+Familiarity with observability tooling and establishing useful logging, monitoring and alerting practices.
+Experience working in telecoms, network automation or other technically complex environments.
+
+
+Inclusion & Diversity at Zinkworks
+
+At Zinkworks, we are deeply committed to fostering a culture of diversity, inclusion, and belonging. We believe that our strength lies in the unique backgrounds, perspectives, and experiences of our team members. By embracing an inclusive environment, we empower innovation and collaboration across all levels of our organisation. Based in Ireland, we are proud to support and engage with our local communities through meaningful initiatives that promote equity and opportunity. Our commitment extends beyond the workplace, as we actively contribute to creating a more inclusive and connected society for all.
+
+Zinkworks is a trusted partner to Telecoms and Financial Services organizations around the world. We help modernize legacy systems, move mission-critical systems into the cloud, and exploit the power of AI-driven automation. Our people thrive in technically complex environments where our commitment to quality and our expertise in software innovation and cutting-edge technologies helps our clients prepare for the future, accelerate growth and improve operational efficiency. We build long-lasting relationships with our customers to accompany them through their innovation journey.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Zinkworks by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Athlone, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Cloud Engineer
+Cloud Engineer
+Ministry Brands
+Galway, County Galway, Ireland
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Zinkworks
+Athlone, Ireland
+1 week ago
+Principal DevOps Engineer
+Principal DevOps Engineer
+Octostar
+Galway Metropolitan Area
+6 days ago
+Cloud Engineer
+Cloud Engineer
+Solas IT Recruitment
+Galway, County Galway, Ireland
+1 week ago
+Cloud Ops Engineer
+Cloud Ops Engineer
+Dotmatics
+Ireland
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Rent The Runway
+Galway, County Galway, Ireland
+2 days ago
+Show more jobs like this 
+People also viewed
+Site Reliability Developer 2
+Site Reliability Developer 2
+
+Oracle
+
+Ireland
+3 weeks ago
+Senior Site Reliability Engineer - Platform Reliability (Resilience)
+Senior Site Reliability Engineer - Platform Reliability (Resilience)
+
+Elastic
+
+Ireland
+€98,400 - €126,900
+3 days ago
+Senior Azure Cloud Engineer
+Senior Azure Cloud Engineer
+
+PFH Technology Group
+
+Ireland
+1 week ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+County Galway, Ireland
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Archer Recruitment
+
+Kildare, County Kildare, Ireland
+1 week ago
+Test Automation Engineer
+Test Automation Engineer
+
+Covalen
+
+Galway, County Galway, Ireland
+1 week ago
+Data Platform Engineer
+Data Platform Engineer
+
+Block Labs
+
+Ireland
+1 week ago
+Enterprise Application Support Engineer
+Enterprise Application Support Engineer
+
+Datavant Ireland
+
+Galway, County Galway, Ireland
+3 days ago
+Senior Platform Engineer (Reliability) - Unannounced Project
+Senior Platform Engineer (Reliability) - Unannounced Project
+
+Scopely
+
+Ireland
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Jobgether
+
+Ireland
+6 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Zinkworks
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

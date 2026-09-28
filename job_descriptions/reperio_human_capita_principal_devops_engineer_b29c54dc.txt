@@ -1,0 +1,229 @@
+Title: Principal DevOps Engineer
+Company: Reperio Human Capital
+Location: Galway, County Galway, Ireland
+URL: https://ie.linkedin.com/jobs/view/principal-devops-engineer-at-reperio-human-capital-4470979560
+Posted: 2026-09-24
+Deadline: N/A
+Reason: The role aligns with her extensive experience in CI/CD, scripting, and release management and is located in a target country (Ireland).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Principal DevOps Engineer
+Reperio Human Capital  Galway, County Galway, Ireland
+4 days ago   Be among the first 25 applicants
+  
+
+See who Reperio Human Capital has hired for this role
+
+Apply
+Save
+Reperio Human Capital provided pay range
+
+This range is provided by Reperio Human Capital. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+€80,000.00/yr - €100,000.00/yr
+
+Principal DevOps Engineer
+
+
+A fast-growing, venture-backed software company building an AI-driven data analytics platform. Its clients are government, security and financial-services organisations. The platform runs in the cloud, on-premise and in fully air-gapped environments.
+
+The role
+You'll be a senior, hands-on engineer who owns the platform's infrastructure from design through to production. You'll report directly to the CTO and work alongside a small DevOps team. This is an individual contributor role with real influence over technical direction. Most of your time will be remote, with 1-2 days a month in the Galway office.
+
+What you'll do
+
+Build and run all environments as infrastructure-as-code, from CI through to production
+Design and operate Kubernetes clusters, both in the cloud and on-premise
+Build and maintain an offline installer for air-gapped customer deployments
+Own the CI/CD pipelines and keep local developer environments consistent with production
+Run secure private networks with controlled egress
+Look after self-hosted observability: monitoring, logging, tracing and alerting
+Deploy and operate AI model endpoints and inference serving, including GPU capacity planning
+Support customer IT teams during installations and upgrades
+Keep architecture docs, a decision log and runbooks up to date
+
+What you'll bring
+
+Extensive experience running production Kubernetes, both in the cloud and on-premise
+A track record of owning infrastructure end to end
+Strong Linux administration, networking and troubleshooting skills
+Infrastructure-as-code and CI/CD experience
+Scripting ability in Bash, Python or similar
+Experience with self-hosted observability tools such as Prometheus, Loki or similar
+Clear technical writing and excellent spoken and written English
+Experience working directly with customer IT teams on on-prem installs
+
+Nice to have
+
+Experience delivering software into air-gapped environments
+RKE2/K3s
+Postgres, ClickHouse, OpenSearch, Temporal and S3-compatible storage
+LLM and model serving, such as vLLM, Ray Serve or similar
+
+Interested? Apply now or get in touch for a confidential conversation.
+
+
+
+
+
+Reperio Human Capital acts as an Employment Agency and an Employment Business.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Reperio Human Capital by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Galway, County Galway, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Principal DevOps Engineer
+Principal DevOps Engineer
+Octostar
+Galway Metropolitan Area
+6 days ago
+DevOps Lead Engineer
+DevOps Lead Engineer
+Cognizant
+Limerick, County Limerick, Ireland
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Payslip
+County Mayo, Ireland
+4 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+ACI Worldwide
+Limerick, County Limerick, Ireland
+2 days ago
+Software Engineering Technical Leader
+Software Engineering Technical Leader
+Cisco
+Galway, County Galway, Ireland
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Rent The Runway
+Galway, County Galway, Ireland
+2 days ago
+Show more jobs like this 
+People also viewed
+Observability & Tooling Manager
+Observability & Tooling Manager
+
+Planet
+
+Galway, County Galway, Ireland
+2 weeks ago
+Principal, Full Stack Engineer
+Principal, Full Stack Engineer
+
+Fidelity Investments
+
+Galway, County Galway, Ireland
+5 days ago
+Observability & Tooling Engineer
+Observability & Tooling Engineer
+
+Planet
+
+Galway, County Galway, Ireland
+2 weeks ago
+Autonomous Driving Principal Architect
+Autonomous Driving Principal Architect
+
+Valeo
+
+Tuam, County Galway, Ireland
+2 weeks ago
+AI Solutions Architect-Tech Lead
+AI Solutions Architect-Tech Lead
+
+Zinkworks
+
+Athlone, Ireland
+1 week ago
+Senior Software Engineer
+Senior Software Engineer
+
+Cisco
+
+Galway, County Galway, Ireland
+3 days ago
+Senior Software Engineer (Configuration as Code)
+Senior Software Engineer (Configuration as Code)
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Software Engineer
+Software Engineer
+
+Cisco
+
+Galway, County Galway, Ireland
+2 days ago
+Platform Engineer II
+Platform Engineer II
+
+Medtronic
+
+Galway, County Galway, Ireland
+1 month ago
+Software Engineer - Platform Services
+Software Engineer - Platform Services
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Reperio Human Capital
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
