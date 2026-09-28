@@ -1,0 +1,208 @@
+Title: DevOps / Operations Development Engineer
+Company: 国泰君安国际 Guotai Junan International
+Location: Sheung Wan, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/devops-operations-development-engineer-at-%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9B%BD%E9%99%85-guotai-junan-international-4462783683
+Posted: 2026-09-07
+Deadline: N/A
+Reason: The DevOps / Operations Development Engineer role at 国泰君安国际 Guotai Junan International in Hong Kong SAR aligns with Priyanga's CI/CD pipeline ownership, release automation, and infrastructure tooling experience, while meeting location, seniority, and language criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps / Operations Development Engineer
+国泰君安国际 Guotai Junan International  Sheung Wan, Hong Kong SAR
+3 weeks ago  26 applicants
+  
+
+See who 国泰君安国际 Guotai Junan International has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+
+Improve release speed by standardizing and automating build/deploy/verify/rollback processes.
+Maintain and enhance CI/CD pipelines and deployment scripts/tools.
+Build and optimize monitoring, logging, and alerting for key systems.
+Lead alert governance (severity, routing, de-duplication, noise reduction) and maintain runbooks/SOPs.
+Perform production support, incident troubleshooting, RCA, and continuous improvement.
+Ensure change records, access control, and audit-friendly operational documentation.
+
+
+Job Requirements
+
+
+3+ years in DevOps/SRE/Operations Engineering.
+Strong Linux troubleshooting and operations skills.
+Strong Shell scripting; proficient in Python automation.
+Experience with CI/CD and production release management.
+
+
+Benefits & Others
+
+We offer an attractive remuneration package and fringe benefits to the right candidate. Interested applicants please send detailed resume stating present and expected salaries, as well as date of availability, by clicking "Apply" or by sending it to recruitment@gtjas.com.hk.
+
+(Data collected will be kept strictly confidential and used for recruitment purpose only.)
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at 国泰君安国际 Guotai Junan International by 2x
+
+See who you know
+
+Get notified about new Operations Engineer jobs in Sheung Wan, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Operations & DevOps Engineer
+Operations & DevOps Engineer
+Datago Technology Limited
+Hong Kong, Hong Kong SAR
+1 week ago
+DevOps Engineer, Infra
+DevOps Engineer, Infra
+Binance
+Hong Kong, Hong Kong SAR
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Itarle
+Hong Kong, Hong Kong SAR
+4 days ago
+Platform / Site Reliability Engineer
+Platform / Site Reliability Engineer
+Millennium
+Hong Kong, Hong Kong SAR
+1 week ago
+DevOps Engineer, Cloud Infra
+DevOps Engineer, Cloud Infra
+Binance
+Hong Kong, Hong Kong SAR
+1 week ago
+Site Reliability Engineer - APAC
+Site Reliability Engineer - APAC
+Tyk
+Hong Kong, Hong Kong SAR
+1 month ago
+Show more jobs like this 
+People also viewed
+OpenShift Platform Engineer | Permanent | 3–5 Months Bonus
+OpenShift Platform Engineer | Permanent | 3–5 Months Bonus
+
+Alexis Services
+
+Hong Kong, Hong Kong SAR
+5 hours ago
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+
+Reap
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Platform Engineer
+Platform Engineer
+
+Options Technology
+
+Central, Hong Kong SAR
+6 days ago
+Platform Engineer
+Platform Engineer
+
+Options Technology
+
+Hong Kong SAR
+1 month ago
+Site Reliability Engineer - Global Financial Institution - Hong Kong
+Site Reliability Engineer - Global Financial Institution - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+4 days ago
+Site Reliable Engineer (SRE) for Equity Trading Platform
+Site Reliable Engineer (SRE) for Equity Trading Platform
+
+Jefferies
+
+Hong Kong SAR
+2 weeks ago
+DevOps/High Performance Trading System Engineer
+DevOps/High Performance Trading System Engineer
+
+CW Talent Solutions
+
+Hong Kong, Hong Kong SAR
+$300,000 - $400,000
+1 week ago
+Sr. DevOps Engineer (Blockchain Infra)
+Sr. DevOps Engineer (Blockchain Infra)
+
+BNB Chain
+
+Hong Kong, Hong Kong SAR
+2 months ago
+Senior Site Reliability Engineer (SRE)
+Senior Site Reliability Engineer (SRE)
+
+GFT Technologies APAC & GCC
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+E-Frontiers
+
+Hong Kong, Hong Kong SAR
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at 国泰君安国际 Guotai Junan International
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
