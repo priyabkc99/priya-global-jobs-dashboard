@@ -4,7 +4,7 @@ Location: Kitchener, Ontario, Canada
 URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-canadian-solar-inc-4449869927
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The role aligns with her extensive experience in CI/CD, release management, and automation, and Canada is a target country for her relocation.
+Reason: The job aligns with the candidate's expertise in DevOps engineering (CI/CD pipelines, infrastructure as code) and is located in Canada, a target country; she has relevant experience in regulated industries and matches the 'configuration management' positive constraint.
 
 ========================================
 JOB DESCRIPTION:
@@ -171,6 +171,9 @@ See who you know
 Get notified about new DevOps Engineer jobs in Kitchener, Ontario, Canada.
 
 Sign in to create job alert
+Jobs
+Utilities Director jobs
+Senior DevOps Engineer
 Similar jobs
 Senior DevOps Engineer
 Senior DevOps Engineer
@@ -211,7 +214,7 @@ Sr. Cloud Platform Specialist
 McKesson
 
 Mississauga, Ontario, Canada
-3 weeks ago
+42 minutes ago
 Senior Site Reliability Engineer, AI Infrastructure
 Senior Site Reliability Engineer, AI Infrastructure
 
@@ -226,7 +229,7 @@ Lead Site Reliability Administrator
 OpenText
 
 Waterloo, Ontario, Canada
-2 days ago
+3 days ago
 DevOps Engineer
 DevOps Engineer
 
@@ -250,27 +253,27 @@ Morson Edge (Canada)
 Oakville, Ontario, Canada
 CA$95,000 - CA$135,000
 2 days ago
-Kafka Devops Engineer
-Kafka Devops Engineer
+DevOps Manager
+DevOps Manager
 
-Dexian
+NLB Services
 
-Mississauga, Ontario, Canada
-2 days ago
+Brampton, Ontario, Canada
+2 hours ago
 Staff Software Engineer (Continuous Integration)
 Staff Software Engineer (Continuous Integration)
 
 Affirm
 
 Kitchener, Ontario, Canada
-2 days ago
+3 days ago
 Staff Software Engineer (Continuous Integration)
 Staff Software Engineer (Continuous Integration)
 
 Affirm
 
 Hamilton, Ontario, Canada
-2 days ago
+3 days ago
 Principal DataOps Engineer (DevOps for Data)
 Principal DataOps Engineer (DevOps for Data)
 
@@ -317,11 +320,6 @@ Brand Policy
 Guest Controls
 Community Guidelines
 Language
-Sign in to see who you already know at e-STORAGE
-Sign in with Email
-
-or
-
-New to LinkedIn? Join now
-
-By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

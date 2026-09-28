@@ -261,15 +261,14 @@
     "url": "https://ie.linkedin.com/jobs/view/devops-engineer-azure-at-docosoft-4469201390",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with Priya's DevOps and CI/CD expertise, but the 'Entry level' designation may conflict with her mid-to-senior experience expectations, though the responsibilities suggest a more advanced role.",
+    "reason": "The job aligns with DevOps Engineer role type and location (Dublin, Ireland) but is listed as 'Entry level,' which may not match Priya's mid-to-senior experience level preferences.",
     "id": "1d531e69",
     "source": "linkedin_ie_devops_engineer",
     "added_at": "2026-09-28T08:00:40+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer",
@@ -611,16 +610,15 @@
     "location": "Brampton, Ontario, Canada",
     "url": "https://ca.linkedin.com/jobs/view/devops-specialist-at-mda-space-4426969780",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The candidate's extensive experience in DevOps, CI/CD, Python, and Azure aligns well with the role's requirements in a regulated industry.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with DevOps Engineer role requirements and is located in Canada (target country), but requires security clearance (CGP/ITAR) which may pose challenges given the candidate's Finnish residence permit and lack of Canadian citizenship/residency history.",
     "id": "5c04d4ac",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/mda_space_devops_specialist_5c04d4ac.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Staff Platform Engineer",
@@ -628,16 +626,15 @@
     "location": "Vancouver, British Columbia, Canada",
     "url": "https://ca.linkedin.com/jobs/view/devops-staff-platform-engineer-at-orion-digital-4467775359",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a DevOps/Platform Engineering position in Canada, matching the candidate's extensive experience in CI/CD, automation, and working within regulated environments.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns partially with Priya\u2019s CI/CD and infrastructure experience but emphasizes agentic engineering and cloud platform ownership beyond her regulated-industry release/configuration management focus. Location (Canada) and experience level match, but domain fit is uncertain.",
     "id": "e5f4d699",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/orion_digital_devops_staff_platform_engineer_e5f4d699.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Programmer \u2013 Core Technologies",
@@ -646,15 +643,14 @@
     "url": "https://ca.linkedin.com/jobs/view/devops-programmer-%E2%80%93-core-technologies-at-behaviour-interactive-4405812174",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Priya has strong CI/CD and automation experience, but the role's specific requirements for Kubernetes, Terraform, and Ansible are not explicitly mentioned in her profile.",
+    "reason": "The job aligns with DevOps Engineer domain and location (Montreal, Canada), but requires specific Kubernetes and cloud platform expertise not explicitly detailed in the candidate\u2019s skills, though her CI/CD and infrastructure experience may overlap.",
     "id": "18f16aa7",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps (SRE)",
@@ -663,15 +659,14 @@
     "url": "https://ca.linkedin.com/jobs/view/devops-sre-at-bounce-4462045112",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The candidate has extensive DevOps and CI/CD experience, but the role requires specific expertise in TypeScript and Kubernetes which are not explicitly listed in her profile.",
+    "reason": "The DevOps (SRE) role at Bounce aligns with Priya's CI/CD and infrastructure automation expertise but requires TypeScript/Kubernetes experience not explicitly stated in her profile, though her scripting and cloud tooling background may offer transferable skills.",
     "id": "26d008ca",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Sp\u00e9cialiste principal.e DevOps //  Senior DevOps Specialist",
@@ -679,16 +674,15 @@
     "location": "Montreal, Quebec, Canada",
     "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-principal-e-devops-senior-devops-specialist-at-ssense-4470763174",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior DevOps position in Canada, which aligns with the candidate's extensive experience in CI/CD, automation, and infrastructure management.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns partially with DevOps Engineer responsibilities (CI/CD, infrastructure-as-code) but lacks explicit mention of configuration management, compliance, or quality gatekeeping focus that matches Priya's specialized background in regulated industries.",
     "id": "8bd1bbd4",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-26",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/ssense_sp_cialiste_principal_e_devops_8bd1bbd4.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps/Cloud Engineer",
@@ -696,16 +690,15 @@
     "location": "Victoria, British Columbia, Canada",
     "url": "https://ca.linkedin.com/jobs/view/devops-cloud-engineer-at-impact-com-4465564009",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Priya's expertise in DevOps/CI-CD (Jenkins, infrastructure as code) and configuration management, matching her Elektrobit and Topcon experience. Location is Canada (target country), no US restrictions, and visa sponsorship not explicitly excluded.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with DevOps Engineer responsibilities (CI/CD, infrastructure automation) and is located in Canada (target country), but does not explicitly mention regulated/safety-critical domains (though this is not a hard requirement). The candidate's Topcon experience with MDR/ISO 13485 may not directly map to this role, but her configuration management and DevOps skills are relevant.",
     "id": "ae57e859",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-28",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/impact_com_devops_cloud_engineer_ae57e859.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer, DevOps",
@@ -713,16 +706,15 @@
     "location": "Vancouver, British Columbia, Canada",
     "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-devops-at-binance-us-4456383683",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This Senior DevOps role in Canada matches her extensive background in CI/CD, automation, and release management.",
+    "matches_requirements": "no",
+    "reason": "The job is located in Canada (target country) and aligns with DevOps/CI-CD skills, but the posting explicitly states 'Binance.US' as the employer, which operates under U.S. regulatory frameworks and may require U.S.-based work authorization despite the Canadian location.",
     "id": "574b1f29",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-08-29",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/binance_us_senior_software_engineer__devo_574b1f29.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Intermediate DevOps Specialist",
@@ -731,15 +723,14 @@
     "url": "https://ca.linkedin.com/jobs/view/intermediate-devops-specialist-at-mda-space-4442916026",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role is a strong technical match, but the requirement for Secret-level security clearance and Controlled Goods Program assessment often requires citizenship or permanent residency, which may be difficult for a candidate requiring visa sponsorship.",
+    "reason": "The job aligns with DevOps Engineer responsibilities (CI/CD pipelines, infrastructure-as-code) and is located in Canada (target country), but requires a Secret-level security clearance which may conflict with the candidate's lack of Canadian citizenship/residency. Visa sponsorship is not explicitly mentioned.",
     "id": "d075dc31",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-25",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer",
@@ -748,15 +739,14 @@
     "url": "https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-canadian-solar-inc-4449869927",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with her extensive experience in CI/CD, release management, and automation, and Canada is a target country for her relocation.",
+    "reason": "The job aligns with the candidate's expertise in DevOps engineering (CI/CD pipelines, infrastructure as code) and is located in Canada, a target country; she has relevant experience in regulated industries and matches the 'configuration management' positive constraint.",
     "id": "22b0534c",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/canadian_solar_inc__senior_devops_engineer_22b0534c.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/canadian_solar_inc__senior_devops_engineer_22b0534c.txt"
   },
   {
     "title": "Senior DevOps Engineer",
