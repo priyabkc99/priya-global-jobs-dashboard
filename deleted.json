@@ -32,5 +32,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "DevOps Platform Engineer",
+    "company": "Leidos Australia",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/devops-platform-engineer-at-leidos-australia-4438149923",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires Australian citizenship and TSPV clearance, which the candidate does not have and cannot obtain without employer sponsorship, falling under the 'No Visa Sponsorship' hard rejection.",
+    "id": "c01db6a8",
+    "source": "linkedin_au_devops_engineer",
+    "added_at": "2026-09-28T10:15:57+03:00",
+    "posted_date": "2026-09-14",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

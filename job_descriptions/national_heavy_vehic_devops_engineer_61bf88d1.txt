@@ -1,0 +1,277 @@
+Title: DevOps Engineer
+Company: National Heavy Vehicle Regulator
+Location: Brisbane City, Queensland, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-national-heavy-vehicle-regulator-4467168855
+Posted: 2026-09-21
+Deadline: 2026-10-05
+Reason: The DevOps Engineer role at National Heavy Vehicle Regulator in Brisbane, Australia aligns with Priya's CI/CD pipeline ownership, infrastructure automation, and Azure tooling experience, while meeting location, visa sponsorship flexibility, and mid-senior level requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+National Heavy Vehicle Regulator  Brisbane City, Queensland, Australia
+1 week ago   Be among the first 25 applicants
+  
+
+See who National Heavy Vehicle Regulator has hired for this role
+
+Apply 
+Save
+
+About the role
+
+Based at our Newstead, QLD or Paramatta, NSW office the DevOps Engineer will play a pivotal role in making pipeline and application developers lives easier by streamlining the software development lifecycle to improve productivity, delivery speed, and code quality. This will be done by overseeing GIT repos, developing intuitive deployment pipelines, providing platform and infrastructure automation and tooling as needed, and ensuring production environments are secure and highly available.
+
+Key responsibilities of this role are:
+
+Research, design, and develop intuitive, fully automated CI/CD release pipelines, test plans, infrastructure as code deployments, and DevOps status dashboards.
+Propose and develop automation and integration solutions to support the software and data engineering functions.
+Deploy, configure, and maintain cloud resources used to perform function of DevSecOps.
+Participate and collaborate in a high performing SCRUM team to deliver on key BAU activities and milestones from the Project Roadmap, and Data & Technology Strategic Plans.
+Demonstrate excellent judgement skills at interpreting business requirements, estimating workloads, prioritizing tasks, and managing time in the delivery of quality solutions to meet deadlines.
+
+
+NHVR’s Data and Technology team are going through considerable transformation, and this is an exciting time to join the organisation.
+
+To learn more, the position description can be found on the NHVR Careers site - https://careers.nhvr.gov.au/jobs/search
+
+About You
+
+As the ideal candidate you will have demonstratable programming skills (object orientated programming) along with experience with Azure DevOp’s pipelines, and Azure Cloud Infrastructure experience.
+
+You will have a security focused mindset which including understanding the basic security principles and need to be able to make and work within a high security environment whilst developing DevOps plan.
+
+Working within and developing a DataOp’s environment you will be motivated to contribute to outcomes, you will be an out of the box thinker, who thrives in solving complex technical matters and discussions. Your exceptional communication and stakeholder management skills will see you successfully work with a diverse internal and external group.
+
+To be successful in this role you will possess:
+
+5+ years in platform engineering, DevOps or cloud infrastructure roles, including at least 2-3 years administering Databricks in production.
+Proven experience managing Databricks on Azure, including private networking (VNet injection, Private Link), secrets management with Azure Key Vault, IP access lists and audit logging.
+Demonstrated experience monitoring Databricks jobs and pipelines for reliability, performance and cost, using Databricks system tables, and Azure Monitor/Log Analytics and alerting. You should also be able to lead incident response and root cause analysis when jobs fail or services go down.
+Experience automating platform configuration (security, storage, networking, connections) using Terraform or other IaC tooling. This includes the Databricks and AzureRM providers, remote state management and promotion across environments.
+Experience with Azure DevOps YAML deployment pipelines for both infrastructure and workload deployments, including CI/CD for Databricks jobs and pipeline code.
+Scripting ability in Python, PowerShell, Bash, Databricks CLI for automation and operational tooling.
+Ability to produce clear documentation, runbooks and architecture or network diagrams, and to explain technical issues to both technical and non-technical stakeholders.
+Degree in Computer Science or equivalent.
+
+
+Why join us?
+
+The National Heavy Vehicle Regulator (NHVR) commenced operations in 2013 as the national entity responsible for regulating all vehicles in Australia over 4.5 tonnes gross vehicle mass. The NHVR minimises the compliance burden on the heavy vehicle transport industry, reduces duplication and inconsistences across state and territory borders, and ultimately for the heavy vehicle business with government in Australia.
+
+We are headquartered in Brisbane and employ more than 1000 people across the ACT, New South Wales, Queensland, South Australia, Tasmania and Victoria.
+
+We offer
+
+A competitive salary package up to $152,511.56 + superannuation
+Monthly RDO and paid leave over Christmas closure.
+Hybrid working environment - up to 2 days from home
+Up to 15.25% superannuation through a co-contribution scheme
+Leave loading 17.5%
+Wellbeing programs - discounted fitness through Fitness Passport, Discount health insurance, flu vaccine, financial programs including discounted banking products, finance information sessions.
+Salary packaging options including novated lease.
+Discounted IT products including Microsoft and free family password security plan.
+Ongoing training and professional development support
+Professional membership
+
+
+Application Process
+
+Please apply with your CV and cover letter addressing the essential requirements of the role.
+
+Applications close: 5:00pm, 5th October 2026 (applications may close earlier than the listed closing date if suitable candidate/s are identified prior).
+
+If you have any questions, please don’t hesitate to contact the NHVR recruitment team on recruitment@nhvr.gov.au.
+
+Successful applicants will be required to complete standard pre-employment checks including a national police and work rights check.
+
+Please Note: We will not require any support from Recruitment Agencies at this time and kindly request no contact is made. Only direct applications will be considered.
+
+We are committed to being an inclusive, diverse and flexible workplace where differences are valued. We welcome applications from people of all backgrounds, experience and abilities.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Transportation, Logistics, Supply Chain and Storage
+  
+
+Referrals increase your chances of interviewing at National Heavy Vehicle Regulator by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Principal Policy Officer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Future Secure AI
+Brisbane, Queensland, Australia
+2 weeks ago
+DevOps Software Engineer
+DevOps Software Engineer
+Gameloft Brisbane
+Brisbane, Queensland, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+Slalom
+Brisbane, Queensland, Australia
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Great Southern Bank
+Brisbane, Queensland, Australia
+1 week ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+Future Secure AI
+Brisbane, Queensland, Australia
+16 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Australian Broadcasting Corporation (ABC)
+Brisbane, Queensland, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Staff Production Engineer
+Staff Production Engineer
+
+Canva
+
+Brisbane, Queensland, Australia
+5 hours ago
+Principle Platform Engineer
+Principle Platform Engineer
+
+Australian Energy Market Operator (AEMO)
+
+Brisbane, Queensland, Australia
+6 days ago
+Cloud Architect
+Cloud Architect
+
+Southern Cross University
+
+Gold Coast, Queensland, Australia
+2 weeks ago
+Cloud Infrastructure & Azure Engineer
+Cloud Infrastructure & Azure Engineer
+
+Sonata Software North America Inc.
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Engineering | Multiple Opportunities Available
+Engineering | Multiple Opportunities Available
+
+Deloitte
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Software Developer
+Software Developer
+
+RWS Global
+
+Brisbane, Queensland, Australia
+1 month ago
+Deployment Engineer
+Deployment Engineer
+
+Megaport
+
+Brisbane, Queensland, Australia
+1 week ago
+Referrals for Google Cloud Practitioners (EoI)
+Referrals for Google Cloud Practitioners (EoI)
+
+Accenture Australia
+
+Brisbane, Queensland, Australia
+1 week ago
+Principal Production Engineer
+Principal Production Engineer
+
+Canva
+
+Brisbane, Queensland, Australia
+5 hours ago
+Implementation Engineer
+Implementation Engineer
+
+EngFlow
+
+Brisbane, Queensland, Australia
+$80,000 - $120,000
+7 months ago
+Similar Searches
+Principal Policy Officer jobs
+70 open jobs
+Senior Policy Officer jobs
+221 open jobs
+Legal Consultant jobs
+1,482 open jobs
+Senior Lawyer jobs
+2,161 open jobs
+Country Director jobs
+459 open jobs
+Change Management Consultant jobs
+335 open jobs
+Senior Legal Counsel jobs
+251 open jobs
+Head of Legal jobs
+347 open jobs
+Principal Enterprise Architect jobs
+104 open jobs
+Principal Scientist jobs
+141 open jobs
+Dentist jobs
+537 open jobs
+Change Manager jobs
+4,510 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at National Heavy Vehicle Regulator
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
