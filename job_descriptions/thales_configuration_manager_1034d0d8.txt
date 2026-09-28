@@ -1,0 +1,254 @@
+Title: Configuration Manager
+Company: Thales
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/configuration-manager-at-thales-4424196045
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The role of Configuration Manager at Thales in Singapore aligns with Priyanga Ramachandran's extensive experience in configuration management, release documentation, and audit support, as well as her preference for regulated/safety-critical domains.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Configuration Manager
+Thales  Singapore, Singapore
+1 week ago  65 applicants
+  
+
+See who Thales has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Location: Singapore, Singapore
+
+Thales is a global technology leader trusted by governments, institutions, and enterprises to tackle their most demanding challenges. From quantum applications and artificial intelligence to cybersecurity and 6G innovation, our solutions empower critical decisions rooted in human intelligence. Operating at the forefront of aerospace and space, cybersecurity and digital identity, we’re driven by a mission to build a future we can all trust.
+
+In Singapore, Thales has been a trusted partner since 1973, originally focused on aerospace activities in the Asia-Pacific region. With 2,000 employees across three local sites, we deliver cutting-edge solutions across aerospace (including air traffic management), defence and security, and digital identity and cybersecurity sectors. Together, we’re shaping the future by enabling customers to make pivotal decisions that safeguard communities and power progress.
+
+RESPONSIBILITIES (Key Accountabilities And Responsibilities)
+
+The Configuration Manager is responsible for:
+
+
+To provide functional leadership of the configuration management discipline at the domain level.
+The definition during the bid phase of the scope of work for configuration management activities during the program.
+The (where delegated by the Project Manager) execution of the work package manager role for the configuration management work packages on programs.
+The analysis of contract requirements with respect to configuration management during the bid phase.
+The interaction with the customer to clarify or adjust configuration management requirements.
+The management of defined baselines and customer configuration management related requirements for a program/product line.
+The creation and maintenance of the Configuration Management Plan (CMP) for the program/product lines.
+Working with Customers, Partners, Sub-contractors and Suppliers to:
+assess their configuration management capability;
+to manage the flow-down of configuration management requirements via a defined statement of work (SOW);
+audit the implementation of configuration management requirements by sub-contractors and suppliers.
+To actively manage the configuration management interactions across the Thales to Customer/Partner/Subcontractor/Supplier boundaries to ensure the efficient & effective management of build to spec, or design to spec practices.
+Working with engineering staff to determine the choice of, using the defined criteria:
+of configuration items;
+of items to be controlled.
+The organisation of the product structure of common elements, variants and options, in support of, and with the agreement of the Program/Product Line Manager.
+The definition of, and organising and steering the Configuration Control Board (CCB) including pre and post CCB activities (including clerical work).
+The management of Contract, Functional, Allocated and Product Configuration Baselines (CBL, FBL, ABL, PBL) for the program/product line.
+The provision to the customer, under project management control, of configuration management deliverables.
+The verification and audit of the contents and integrity of the CMS.
+The provision of configuration management support of engineering and program phase reviews and milestone events.
+Ensuring that the program/product lines are fully and comprehensively managed within the CMS.
+The conduct of Functional and Physical Configuration Audits. (FCA, PCA) for the program/product line.
+The coordination of the configuration management actions across departments for program/product lines.
+Working with program/product line management, and sales & marketing to cater for the creation of new versions of the product or system.
+The line management of the staff in the configuration management team.
+other related duties as assigned.
+
+
+Qualifications
+
+KNOWLEDGE, SKILLS & EXPERIENCE
+
+
+Graduate Technical or Business qualification(s) or equivalent in a related area of Configuration Management.
+
+
+
+Essential Experience
+
+
+For a graduate experience in a related technical discipline or at least extensive experience in Configuration Management.
+Knowledge of Product Lifecycle Management.
+Demonstrated communication skills.
+Solid experience with Tools such as PTC Windchill or Siemens Teamcenter or equivalent
+Knowledge of configuration Management standards & processes.
+Demonstrated leadership, negotiation and coordination skills.
+Knowledge of the Systems Engineering discipline
+
+
+
+Desirable Experience
+
+
+Systems Engineering, Software Engineering, Hardware Engineering, Customer Service Engineering.
+Relevant experience in standards such as SAE EIA-649, MIL-HDBK-61B, ISO 10007, etc
+Team management.
+Transversal management.
+Knowledge of the product.
+
+
+
+At Thales, we’re committed to fostering a workplace where respect, trust, collaboration, and passion drive everything we do. Here, you’ll feel empowered to bring your best self, thrive in a supportive culture, and love the work you do. Join us, and be part of a team reimagining technology to create solutions that truly make a difference – for a safer, greener, and more inclusive world.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Aviation and Aerospace Component Manufacturing and Defense and Space Manufacturing
+  
+
+Referrals increase your chances of interviewing at Thales by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+R&D Documentation Control and Configuration Management Specialist
+R&D Documentation Control and Configuration Management Specialist
+Jabil
+Singapore, Singapore
+7 months ago
+Lead, Service Asset & Configuration Management
+Lead, Service Asset & Configuration Management
+Maybank
+Singapore
+1 week ago
+Configuration Analyst
+Configuration Analyst
+KLA
+Singapore, Singapore
+1 day ago
+Lead, Service Asset & Configuration Management
+Lead, Service Asset & Configuration Management
+Maybank Singapore
+Singapore, Singapore
+2 weeks ago
+Data & Digital Systems Manager
+Data & Digital Systems Manager
+A*STAR - Agency for Science, Technology and Research
+Singapore, Singapore
+1 week ago
+Senior Executive (NS System Management)
+Senior Executive (NS System Management)
+Ministry of Defence of Singapore
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Assistant Manager, IT (SAP S4 HANA)
+Assistant Manager, IT (SAP S4 HANA)
+
+Scoot
+
+East Region, Singapore
+3 days ago
+ATM Operational Specialist
+ATM Operational Specialist
+
+Thales
+
+Singapore, Singapore
+4 days ago
+GIS Program Manager 4
+GIS Program Manager 4
+
+Lam Research
+
+Singapore, Singapore
+1 day ago
+Integration, Verification, Validation, and Qualification Manager (IVVQM)
+Integration, Verification, Validation, and Qualification Manager (IVVQM)
+
+Thales
+
+Singapore, Singapore
+1 week ago
+Manager (Procurement Systems Project Implementation & Administration Support)
+Manager (Procurement Systems Project Implementation & Administration Support)
+
+SP Group
+
+Singapore, Singapore
+3 weeks ago
+Application & Integration Manager
+Application & Integration Manager
+
+Evooq
+
+Singapore, Singapore
+4 days ago
+Senior Programme Manager (Content & Collaboration Systems)
+Senior Programme Manager (Content & Collaboration Systems)
+
+DSTA
+
+Singapore, Singapore
+2 weeks ago
+Application Support Specialist
+Application Support Specialist
+
+Evooq
+
+Singapore, Singapore
+4 days ago
+Servicenow Lead
+Servicenow Lead
+
+Base Camp Digital
+
+Singapore, Singapore
+3 weeks ago
+SENIOR SYSTEM DEPLOYMENT ENGINEER
+SENIOR SYSTEM DEPLOYMENT ENGINEER
+
+Collins Aerospace
+
+Singapore, Singapore
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Thales
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

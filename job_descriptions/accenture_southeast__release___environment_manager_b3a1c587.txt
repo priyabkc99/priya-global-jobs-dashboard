@@ -1,0 +1,211 @@
+Title: Release & Environment Manager
+Company: Accenture Southeast Asia
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/release-environment-manager-at-accenture-southeast-asia-4453263006
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The role of Release & Environment Manager aligns with Priya's extensive experience in release management, environment synchronization, and cross-team coordination, as demonstrated in her roles at Elektrobit and Topcon Healthcare. The location (Singapore) is within her target countries, and the job does not impose any visa or language restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release & Environment Manager
+Accenture Southeast Asia  Singapore, Singapore
+1 week ago  65 applicants
+  
+
+See who Accenture Southeast Asia has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+The Release Manager / Environment Manager will be responsible for owning and managing the release processes across DEV/SIT, UAT, Preprod, and Production environments. This role ensures that all environments remain in sync, coordinates cutovers with infrastructure and DevOps teams, and drives smooth, controlled deployments across the delivery lifecycle.
+
+Key Responsibilities:
+
+
+
+Manage and oversee end-to-end release processes across all environments.
+
+Ensure environment consistency, version control, and alignment between development and production.
+
+Coordinate release cutovers and deployments with cross-functional teams (infra, DevOps, application owners).
+
+Track and report release progress and issues using established tools and governance frameworks.
+
+Work closely with project and operations teams to ensure release readiness and minimize downtime.
+
+
+
+Required Skills:
+
+
+
+Strong experience in Agile/Scrum environments.
+
+Proficiency in release orchestration and environment management.
+
+Hands-on experience with Jira and ServiceNow.
+
+Excellent communication and cross-team coordination skills.
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology and Engineering
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Accenture Southeast Asia by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Release Manager
+Senior Release Manager
+StarHub
+Singapore, Singapore
+1 week ago
+Release Train Engineer
+Release Train Engineer
+Dyson
+Singapore, Singapore
+3 days ago
+Delivery Manager
+Delivery Manager
+Singtel
+Singapore, Singapore
+2 weeks ago
+Technology Lead - Lending Applications Stability & Release Management (Vice President)
+Technology Lead - Lending Applications Stability & Release Management (Vice President)
+Citi
+Singapore, Singapore
+3 days ago
+Software Engineer (Global Markets)
+Software Engineer (Global Markets)
+OCBC
+Singapore, Singapore
+1 week ago
+Murex Environment Management
+BOUNTEOUSXACCOLITE SINGAPORE PTE. LTD.
+Singapore, Singapore
+3 weeks ago
+Show more jobs like this 
+People also viewed
+IT Infrastructure Ops Lead
+IT Infrastructure Ops Lead
+
+Univers
+
+Singapore, Singapore
+4 days ago
+Product Operations Principal Engineer
+Product Operations Principal Engineer
+
+Dell Technologies
+
+South West Community Development Council, Singapore
+3 weeks ago
+Engineering Manager II - Deployment Platform
+Engineering Manager II - Deployment Platform
+
+Grab
+
+Singapore, Singapore
+2 months ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Thales
+
+Singapore, Singapore
+4 days ago
+Senior Manager, DevOps & Production Support Engineer
+Senior Manager, DevOps & Production Support Engineer
+
+FWD Insurance
+
+Singapore, Singapore
+12 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Dropsuite
+
+Singapore, Singapore
+3 weeks ago
+DevOps Lead
+DevOps Lead
+
+Merquri
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+MSCI Inc.
+
+Singapore, Singapore
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Apple
+
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture Southeast Asia
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Accenture Southeast Asia
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
