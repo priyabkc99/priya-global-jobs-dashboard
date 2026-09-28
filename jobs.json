@@ -564,15 +564,14 @@
     "url": "https://ca.linkedin.com/jobs/view/devops-specialist-%E2%80%93-ci-cd-openshift-cloud-automation-at-thoughtstorm-4465188265",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns perfectly with her expertise in CI/CD, GitHub Actions, and automation, and is located in a target country (Canada).",
+    "reason": "The role aligns with Priya's DevOps/CI-CD expertise (GitHub Actions, automation), is located in Canada (target country), and matches her configuration management background and Technical Communication Specialist experience.",
     "id": "b6fd94b2",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/thoughtstorm_devops_specialist___ci_cd__ope_b6fd94b2.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/thoughtstorm_devops_specialist___ci_cd__ope_b6fd94b2.txt"
   },
   {
     "title": "Sp\u00e9cialiste DevOps",

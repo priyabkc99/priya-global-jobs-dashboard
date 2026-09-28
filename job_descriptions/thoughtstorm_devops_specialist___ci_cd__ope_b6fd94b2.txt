@@ -4,7 +4,7 @@ Location: Edmonton, Alberta, Canada
 URL: https://ca.linkedin.com/jobs/view/devops-specialist-%E2%80%93-ci-cd-openshift-cloud-automation-at-thoughtstorm-4465188265
 Posted: 2026-09-14
 Deadline: N/A
-Reason: The role aligns perfectly with her expertise in CI/CD, GitHub Actions, and automation, and is located in a target country (Canada).
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (GitHub Actions, automation), is located in Canada (target country), and matches her configuration management background and Technical Communication Specialist experience.
 
 ========================================
 JOB DESCRIPTION:
@@ -26,7 +26,7 @@ Sign in
 Join now
 DevOps Specialist – CI/CD, OpenShift & Cloud Automation
 ThoughtStorm  Edmonton, Alberta, Canada
-2 weeks ago  137 applicants
+2 weeks ago  138 applicants
   
 
 See who ThoughtStorm has hired for this role
@@ -69,10 +69,11 @@ Business Consulting and Services
 Referrals increase your chances of interviewing at ThoughtStorm by 2x
 
 See who you know
-
-Get notified about new DevOps Specialist jobs in Edmonton, Alberta, Canada.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
+Jobs
+Editor in Chief jobs
+DevOps Specialist – CI/CD, OpenShift & Cloud Automation
 Similar jobs
 Intermediate DevOps Engineer
 Intermediate DevOps Engineer
@@ -94,19 +95,27 @@ Infrastructure Engineer/SRE
 Infrastructure Engineer/SRE
 Cresta
 Canada
-1 week ago
+2 weeks ago
+DevSecOps Specialist (12 month contract)
+DevSecOps Specialist (12 month contract)
+Ateko, backed by Bell Canada
+Canada
+2 hours ago
 DevOps Engineer
 DevOps Engineer
 Modaxo
 Canada
 7 months ago
-Senior Deployment Engineer - Canada
-Senior Deployment Engineer - Canada
-Atolio
-Canada
-7 months ago
 Show more jobs like this 
 People also viewed
+DevOps Engineer (Azure ARO)
+DevOps Engineer (Azure ARO)
+
+PLATO
+
+Canada
+CA$75 - CA$100
+1 week ago
 Cloud Engineer- Remote
 Cloud Engineer- Remote
 
@@ -170,13 +179,6 @@ Lillio (formerly HiMama)
 
 Canada
 6 months ago
-Senior Developer - Delivery Engineering
-Senior Developer - Delivery Engineering
-
-Jane App
-
-Canada
-1 month ago
 Similar Searches
 Editor in Chief jobs
 15 open jobs
