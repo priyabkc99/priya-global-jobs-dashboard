@@ -1,0 +1,272 @@
+Title: DevOps Engineer
+Company: EQPlus
+Location: Cape Town Region, South Africa
+URL: https://www.careerjunction.co.za/devops-engineer-job-2643105.aspx
+Posted: 2026-09-01
+Deadline: N/A
+Reason: The job aligns with Priya's DevOps Engineer experience (CI/CD pipelines, infrastructure automation), is located in South Africa (target country), and matches her senior-level expertise in regulated environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+DEVOPS ENGINEER
+EQPLUS
+Undisclosed
+Contract Senior position
+Cape Town Region
+Posted 01 Sep 2026 by EQPlus
+Expires in 7 days
+Job 2643105
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+A leading enterprise within the financial services sector is seeking an experienced DevOps Engineer to support and optimise modern cloud and hybrid infrastructure environments.
+
+This role requires a highly independent, delivery-focused professional with deep expertise in DevOps principles, CI/CD automation, and multi-environment deployments across cloud and on-premise platforms. The successful candidate will work within a fast-paced, compliance-driven environment where reliability, scalability, and security are critical.
+
+Key Responsibilities
+
+Design, implement and optimise CI/CD pipelines
+Automate infrastructure provisioning and deployment processes
+Deploy and manage workloads across AWS, Kubernetes, and on-premise environments
+Implement DevOps best practices, patterns, and governance standards
+Collaborate with development, QA, security, and infrastructure teams
+Improve release cycles, build reliability, and deployment automation
+Monitor, troubleshoot, and optimise system performance and availability
+Ensure secure DevOps practices within a regulated enterprise environment
+
+Minimum Requirements
+Experience
+
+Proven experience as a DevOps Engineer within enterprise environments
+Strong hands-on experience with Azure DevOps
+Experience with GitHub Actions (advantageous)
+Experience deploying solutions to:
+AWS
+Kubernetes (K8s)
+On-premise server environments
+Solid understanding of CI/CD pipeline design and automation
+Experience working in regulated or financial services environments (advantageous)
+
+Technical Skills
+
+DevOps principles and patterns
+CI/CD pipeline implementation
+Infrastructure as Code (Terraform/ARM/Bicep advantageous)
+Containerisation and orchestration (Docker, Kubernetes)
+Cloud deployments (AWS; Azure exposure advantageous)
+Source control and branching strategies
+Release management and deployment governance
+Scripting (PowerShell, Bash, or Python advantageous)
+Monitoring and logging tools
+
+Behavioural Competencies
+
+Highly independent and self-driven
+Strong delivery and deadline focus
+Analytical problem-solving ability
+Excellent stakeholder communication skills
+Ability to operate within structured governance environments
+
+Desired Skills:
+
+DevOps Engineer
+Azure DevOps
+CI/CD Pipelines
+Kubernetes
+K8s
+Infrastructure as Code
+IaC
+Cloud Deployment
+
+APPLY NOW
+EQPLUS
+
+VIEW AGENCY PROFILE
+
+SEE ALL EQPLUS JOBS
+
+ABOUT THE AGENCY
+
+EQPlus is a Specialist IT & Financial Recruitment Consultancy with a team of highly experienced staff and shareholders, representative of South Africa's unique diversity. EQPlus is a Specialist Resourcing Services organization, specialising in the provision of contracting staff, permanent staff as well as Executive Search. We do IT your way. EQPlus is a leading provider of IT and Financial talent, on all levels of your business Founded in 1999, th...
+
+read more
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+Software Engineer
+
+EQPlus
+
+Contract Senior position
+
+Cape Town Region
+
+Expires in 7 days
+
+Oracle Developer At QE Services
+
+QE Services (QE Services)
+
+Contract Intermediate position
+
+Bellville
+
+Expires in 15 days
+
+Full Stack Software Developer
+
+Zeal HR
+
+Permanent Intermediate position
+
+Bellville
+
+Job expires today
+
+Junior-Intermediate Software Developer (C#.Net, Angular, MS SQL) (CPT Onsite)
+
+Datafin
+
+Permanent Executive position
+
+Pinelands
+
+Expires in 8 days
+
+Java Developer
+
+EQPlus
+
+Contract Intermediate position
+
+Cape Town Region
+
+Expires in 28 days
+
+Project Manager IT At QES
+
+QE Services (QE Services)
+
+Contract Intermediate position
+
+Bellville
+
+Expires in 9 days
+
+Email me jobs similar to: DEVOPS ENGINEER
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    
