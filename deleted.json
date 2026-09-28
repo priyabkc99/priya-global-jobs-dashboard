@@ -185,5 +185,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-14) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Software and Hardware Asset Manager",
+    "company": "K\u0101inga Ora - Homes and Communities",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/software-and-hardware-asset-manager-at-k%C4%81inga-ora-homes-and-communities-4468977717",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job involves software/hardware asset management and ServiceNow/CMDB tools, which may align with configuration management aspects but does not explicitly match her target roles (DevOps, Release Management, Technical Writing) or regulated-industry compliance focus.",
+    "id": "6878bc18",
+    "source": "linkedin_nz_configuration_manager",
+    "added_at": "2026-09-29T02:01:14+03:00",
+    "posted_date": "2026-09-24",
+    "deadline": "2023-10-01",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-01) passed by more than 2 days and unreviewed"
   }
 ]
