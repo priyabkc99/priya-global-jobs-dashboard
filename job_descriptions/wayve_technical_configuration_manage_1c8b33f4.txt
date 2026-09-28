@@ -1,0 +1,276 @@
+Title: Technical Configuration Manager
+Company: Wayve
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/technical-configuration-manager-at-wayve-4466226558
+Posted: 2026-09-21
+Deadline: Open until filled
+Reason: The job as Technical Configuration Manager at Wayve in London, UK matches Priya's expertise in configuration management, Automotive SPICE compliance, and regulated industries, aligning with her background at Elektrobit and Topcon Healthcare.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Configuration Manager
+Wayve  London, England, United Kingdom
+1 week ago   Be among the first 25 applicants
+  
+
+See who Wayve has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Us
+
+Founded in 2017, Wayve is the leading developer of Embodied AI technology. Our advanced AI software and foundation models enable vehicles to perceive, understand, and navigate any complex environment, enhancing the usability and safety of automated driving systems.
+
+Our vision is to create autonomy that propels the world forward. Our intelligent, mapless, and hardware-agnostic AI products are designed for automakers, accelerating the transition from assisted to automated driving.
+
+In our fast-paced environment big problems ignite us—we embrace uncertainty, leaning into complex challenges to unlock groundbreaking solutions. We aim high and stay humble in our pursuit of excellence, constantly learning and evolving as we pave the way for a smarter, safer future.
+
+At Wayve, your contributions matter. We value diversity, embrace new perspectives, and foster an inclusive work environment; we back each other to deliver impact.
+
+Make Wayve the experience that defines your career!
+
+The Configuration Manager is responsible for establishing and operating effective configuration and change management across the engineering lifecycle. Working within the Technical Process Excellence team, the role ensures that engineering work products, baselines, releases and changes are controlled, traceable and compliant with Wayve's engineering processes and automotive development standards.
+
+Beyond core configuration management, the role will support requirements management and wider engineering process activities, making it well suited to someone with broad experience of automotive development processes and Automotive SPICE.
+
+Key Responsibilities
+
+
+Configuration Management: Define, implement and continuously improve configuration management processes covering configuration identification, baselining, change control, status accounting and configuration audits.
+Engineering Lifecycle: Establish and maintain configuration structures and baselines across requirements, architecture, software, verification evidence and releases, ensuring consistency and end-to-end traceability.
+Requirements Management: Support requirements management practices, including requirements structure, attributes, traceability, baselining, change management and requirements tooling.
+Process & Compliance: Support engineering teams in applying Automotive SPICE processes, identifying process gaps and preparing engineering evidence for internal, customer and external assessments.
+Tools & Improvement: Develop and improve workflows, tooling, automation, metrics and guidance across configuration and requirements management, working closely with engineering teams and process owners.
+
+
+Experience
+
+Essential
+
+
+Experience in configuration management within automotive, aerospace or another complex software/systems engineering environment.
+Practical knowledge of configuration identification, baselines, change control, status accounting and configuration audits.
+Experience working across software, systems engineering and requirements management lifecycles.
+Familiarity with modern engineering toolchains such as Git/GitHub, Jama Connect, Jira or equivalent.
+Strong communication skills and the ability to establish effective processes across multiple engineering teams.
+
+
+Desirable
+
+
+Good working knowledge of Automotive SPICE, particularly SUP.8, SUP.9 and the requirements engineering processes.
+Experience with requirements management and traceability in Jama Connect or a comparable requirements management tool.
+Knowledge of ISO 26262, ISO 21434 or other automotive engineering standards.
+intacs™ Automotive SPICE Process Expert or Assessor qualification.
+Experience improving or automating engineering lifecycle, configuration or compliance workflows.
+
+
+This is a full-time role based in our office in Leonberg or London. At Wayve we want the best of all worlds so we operate a hybrid working policy that combines time together in our offices and workshops to fuel innovation, culture, relationships and learning, and time spent working from home.
+
+Wayve is committed to creating an inclusive interview experience. If you require any accommodations or adjustments to participate fully in our interview process, please let us know.
+
+We understand that everyone has a unique set of skills and experiences and that not everyone will meet all of the requirements listed above. If you’re passionate about self-driving cars and think you have what it takes to make a positive impact on the world, we encourage you to apply.
+
+At Wayve we're committed to creating a diverse, fair and respectful culture that is inclusive of everyone based on their unique skills and perspectives, and regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, veteran status, pregnancy or related condition (including breastfeeding) or any other basis as protected by applicable law.
+
+For more information visit Careers at Wayve.
+
+To learn more about what drives us, visit Values at Wayve
+
+For US candidates only, please visit E-Verify Notice and Participation and Right to Work
+
+DISCLAIMER: We will not ask about marriage or pregnancy, care responsibilities or disabilities in any of our job adverts or interviews. However, we do look to capture information about care responsibilities, and disabilities among other diversity information as part of an optional DEI Monitoring form to help us identify areas of improvement in our hiring process and ensure that the process is inclusive and non-discriminatory.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Wayve by 2x
+
+See who you know
+
+Get notified about new Configuration Manager jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Configuration Management Consultant jobs
+Technical Configuration Manager
+Similar jobs
+Lead Configuration and Change Manager
+Lead Configuration and Change Manager
+Leonardo
+Luton, England, United Kingdom
+£70,000 - £76,000
+9 hours ago
+Configuration Manager - Principal/Associate
+Configuration Manager - Principal/Associate
+AtkinsRéalis
+London, England, United Kingdom
+6 months ago
+Service Lifecycle Management (SLM) SME
+Service Lifecycle Management (SLM) SME
+MBDA
+Stevenage, England, United Kingdom
+1 week ago
+Configuration Lead (NI)
+Configuration Lead (NI)
+Sizewell C
+London, England, United Kingdom
+6 days ago
+Configuration Manager
+Configuration Manager
+BAM UK & Ireland
+London, England, United Kingdom
+1 week ago
+Configuration Process Lead
+Configuration Process Lead
+Amentum
+London, England, United Kingdom
+4 days ago
+Show more jobs like this 
+People also viewed
+Information Manager - Systems Integration
+Information Manager - Systems Integration
+
+KBR, Inc.
+
+Leatherhead, England, United Kingdom
+3 weeks ago
+Technical Systems Analyst
+Technical Systems Analyst
+
+Civil Aviation Authority
+
+Crawley, England, United Kingdom
+1 week ago
+Defined Benefit - Technical Services Manager
+Defined Benefit - Technical Services Manager
+
+Legal & General
+
+Brighton And Hove, England, United Kingdom
+3 days ago
+Senior Configuration Engineer
+Senior Configuration Engineer
+
+MBDA
+
+Stevenage, England, United Kingdom
+5 days ago
+Global Technical Lead - DataCentres
+Global Technical Lead - DataCentres
+
+Schneider Electric
+
+Little London, England, United Kingdom
+2 months ago
+Technical Change & Delivery Manager
+Technical Change & Delivery Manager
+
+Sagacity
+
+London, England, United Kingdom
+3 days ago
+NetSuite Technology Manager
+NetSuite Technology Manager
+
+Oliver Bonas
+
+Chessington, England, United Kingdom
+2 weeks ago
+Workplace Service Lead
+Workplace Service Lead
+
+Sopra Steria
+
+North Warnborough, England, United Kingdom
+1 week ago
+Technical Coordinator - 12 month FTC (Maternity Cover)
+Technical Coordinator - 12 month FTC (Maternity Cover)
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+COUPA Technical/Functional Lead
+COUPA Technical/Functional Lead
+
+Sony Interactive Entertainment
+
+London, England, United Kingdom
+2 weeks ago
+Similar Searches
+Configuration Management Consultant jobs
+92 open jobs
+Change And Configuration Manager jobs
+386 open jobs
+Software Configuration Management Engineer jobs
+2,318 open jobs
+Configuration Management Engineer jobs
+181 open jobs
+Configuration Engineer jobs
+21,560 open jobs
+Configuration Analyst jobs
+2,372 open jobs
+Software System Analyst jobs
+106 open jobs
+Configurator jobs
+21,780 open jobs
+Change And Release Manager jobs
+228 open jobs
+Productivity Consultant jobs
+64 open jobs
+Release Manager jobs
+5,967 open jobs
+Community Development Director jobs
+284 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Wayve
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

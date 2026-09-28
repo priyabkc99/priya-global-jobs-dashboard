@@ -1,0 +1,308 @@
+Title: Release Manager
+Company: Allianz UK
+Location: Guildford, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/release-manager-at-allianz-uk-4467740343
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role of Release Manager at Allianz UK aligns with Priya’s extensive experience in release governance, compliance, and regulated environments (matching her Elektrobit/Topcon background), located in the UK with hybrid work flexibility.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager
+Allianz UK  Guildford, England, United Kingdom
+1 week ago  53 applicants
+  
+
+See who Allianz UK has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Role Description
+
+Join Allianz UK’s Service Delivery Team and play a pivotal role in shaping and maturing Release Management governance across our business. You will lead the operationalisation of a newly designed Release Management Governance & Control Framework, driving best practice, strengthening oversight, and helping to improve release delivery through effective governance, automation opportunities, and centralised release planning.
+
+Location: This role can be based in our Guildford, Bournemouth or Birmingham office. Please note that this is a hybrid working role with the expectation that you attend the office twice a week.
+
+Salary Information
+
+Pay: Up to £78,000 per year.
+
+Pay is based on experience, skills and location and forms part of a competitive total rewards package.
+
+About You
+
+
+Own and operate the Release Readiness Assurance (RRA) process, assessing evidence submitted by delivery teams and issuing formal readiness decisions.
+Provide independent governance oversight for high-risk releases, ensuring deployment plans, risk assessments and readiness evidence meet agreed standards.
+Review and maintain oversight of the Forward Schedule of Change and Release Calendar, ensuring planned activity is fully documented and accurately reflected.
+Challenge delivery teams and suppliers where governance documentation, impact assessments or release plans do not meet required standards.
+Ensure Service Acceptance and Operational Readiness evidence is completed before release deployment.
+Produce governance reporting, insight and risk visibility for senior stakeholders and leadership teams.
+Identify trends and drive continuous improvement across release governance practices and controls.
+Contribute to the ongoing development of Allianz UK's Release Management framework, ensuring alignment with Allianz Group standards and regulatory expectations.
+Build trusted relationships with delivery teams, suppliers and business stakeholders, becoming the go-to authority for release governance and assurance.
+
+
+Essential Skills
+
+
+Demonstrable experience in Release Management, Change Management or IT Governance.
+Strong understanding of governance oversight, assurance and control frameworks within technology environments.
+Experience participating in governance forums such as CAB, Release Readiness, Go/No-Go reviews or equivalent decision-making bodies.
+Ability to make evidence-based governance decisions, including withholding approval where standards have not been met.
+ITIL v4 qualification or equivalent practical experience.
+Strong stakeholder management skills with the ability to influence and challenge across technical, supplier and business audiences.
+Experience using ServiceNow, including Change Management and Forward Schedule of Change processes, or equivalent tooling.
+Excellent analytical and documentation skills with an evidence-led approach to governance.
+Experience working in a regulated enterprise environment where compliance, auditability and risk management are key considerations.
+Understanding of Responsible Artificial Intelligence usage and opportunities to improve release management processes through automation and AI-enabled capabilities.
+
+
+We support the government scheme "Access to Work". Please feel free to ask us about the Access to Work scheme.
+
+Desirable Skills
+
+
+Experience working within a SIAM or multi-supplier operating model.
+Experience within financial services or another highly regulated industry.
+Knowledge of regulatory frameworks such as PRA, FCA or DORA.
+Exposure to large-scale transformation programmes and complex multi-team release events.
+Understanding of Agile, DevOps and modern software delivery methodologies.
+Experience supporting the implementation of governance frameworks and operating models.
+Familiarity with release automation and AI-driven operational improvements.
+
+
+What We Will Offer You
+
+Recognised and rewarded for a job well done, we have a range of flexible benefits for you to choose from- so you can pick a package that’s perfect for you. We also offer flexible working options, global career opportunities across the wider Allianz Group, and fantastic career development and training. That’s on top of enjoying all the benefits you’d expect from the world’s number one insurance brand, including:
+
+
+Flexible buy/sell holiday options
+Hybrid working
+Annual performance related bonus
+Contributory pension scheme
+Development days
+A discount up to 50% on a range of insurance products including car, home and pet
+Retail discounts
+Volunteering days
+
+
+Our Ways of Working
+
+Do you need flexibility with the hours you work? Let us know as part of your application and if it’s right for our customers, our business and for you, then we’ll do everything we can to make it happen. Here at Allianz, we are signatories of the ABIs flexible working charter. We believe in supporting hybrid work patterns, which balance the needs of our customers, with your personal circumstances and our business requirements. Our aim with this is to help innovation, creativity, and you to thrive - Your work life balance is important to us.
+
+Inclusive Support & Accessibility
+
+At Allianz, we are committed to fostering building an inclusive, accessible workplace where everyone can thrive. As a Disability Confident employer, we welcome applications from disabled and neurodivergent candidates and offer tailored adjustments throughout the recruitment process and in the workplace, whether that’s assistive technology, ergonomic equipment, flexible working arrangements, mentoring or coaching. We want to encourage candidates to speak with us about any adjustments they may need. We’re here to support you.
+
+If you have a disability or long‑term health condition and meet the essential criteria, you can choose to be considered through our Offer an Interview Scheme.
+
+Contact our Resourcing team to opt into this scheme or for assistance with your application, including larger text, hard copies, or spoken applications. Hr-recruitment@allianz.co.uk
+
+For any inquiries or to submit your application, please contact: Matthew Irvine
+
+If you are an at-risk candidate facing potential redeployment, please include this information in your CV
+
+Closing date: 29/9/2026
+
+We reserve the right to close the advert early if we reach enough applications.
+
+Join us – Let’s Care for Tomorrow.
+
+105606 | Operations | Professional | Non-Executive | Allianz UK | Full-Time | Permanent
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Financial Services and Insurance
+  
+
+Referrals increase your chances of interviewing at Allianz UK by 2x
+
+See who you know
+
+Get notified about new Release Manager jobs in Guildford, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Change And Release Manager jobs
+Release Manager
+Similar jobs
+Product - Release Manager
+Product - Release Manager
+Whitbread
+Houghton Regis, England, United Kingdom
+2 weeks ago
+Release Manager — AI Models
+Release Manager — AI Models
+Wayve
+London, England, United Kingdom
+2 weeks ago
+Staff / Senior Deployment & Release Manager
+Staff / Senior Deployment & Release Manager
+AeroVect
+London, England, United Kingdom
+1 month ago
+Release Train Engineer
+Release Train Engineer
+Leidos
+Farnborough, England, United Kingdom
+3 weeks ago
+Release Train Engineer
+Release Train Engineer
+Leidos
+Ham, England, United Kingdom
+3 weeks ago
+Software Release Manager CI/CD Automation SaaS
+Software Release Manager CI/CD Automation SaaS
+Client Server
+Reigate, England, United Kingdom
+£110,000 - £130,000
+1 week ago
+Show more jobs like this 
+People also viewed
+Delivery Manager
+Delivery Manager
+
+Global
+
+London, England, United Kingdom
+2 months ago
+Workday Global HCM Support Lead
+Workday Global HCM Support Lead
+
+WPP
+
+London, England, United Kingdom
+1 month ago
+Agile Release Train (ART) Owner, Core Value Stream - Equity
+Agile Release Train (ART) Owner, Core Value Stream - Equity
+
+Fidelity International
+
+London, England, United Kingdom
+5 days ago
+Technical Program Manager
+Technical Program Manager
+
+Warner Bros. Discovery
+
+London, England, United Kingdom
+3 days ago
+Dynamics 365 Release & Environment Specialist
+Dynamics 365 Release & Environment Specialist
+
+Safetykleen
+
+Brentford, England, United Kingdom
+20 hours ago
+Delivery Manager - JP Morgan Personal Investing
+Delivery Manager - JP Morgan Personal Investing
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+1 week ago
+Lead Technical Program Manager, Applied AI - Markets Operations
+Lead Technical Program Manager, Applied AI - Markets Operations
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+2 weeks ago
+Release Engineer
+Release Engineer
+
+HCLTech
+
+London Area, United Kingdom
+3 weeks ago
+Release Engineer
+Release Engineer
+
+Valarian
+
+London, England, United Kingdom
+2 weeks ago
+Lead IT Security Engineer
+Lead IT Security Engineer
+
+The Depository Trust & Clearing Corporation (DTCC)
+
+London, England, United Kingdom
+3 days ago
+Similar Searches
+Change And Release Manager jobs
+228 open jobs
+Unix Consultant jobs
+319 open jobs
+Release Engineer jobs
+2,904 open jobs
+Deployment Manager jobs
+11,482 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Configuration Manager jobs
+661 open jobs
+Change Manager jobs
+19,466 open jobs
+Problem Manager jobs
+4,516 open jobs
+Contract Test Engineer jobs
+393 open jobs
+Assistant Professor of Mathematics jobs
+120 open jobs
+Delivery Manager jobs
+32,530 open jobs
+Game Producer jobs
+190 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Allianz UK
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

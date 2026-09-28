@@ -134,5 +134,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/ioco_senior_devops_engineer__ioco00_ba288f15.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Configuration Manager",
+    "company": "Office for National Statistics",
+    "location": "Titchfield, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/configuration-manager-at-office-for-national-statistics-4469460902",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a valid right to work in the UK and UK residency for 3 consecutive years prior to applying, which Priya does not have, and no visa sponsorship is offered.",
+    "id": "beea04c2",
+    "source": "linkedin_uk_configuration_manager",
+    "added_at": "2026-09-28T22:52:15+03:00",
+    "posted_date": "2026-09-23",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
