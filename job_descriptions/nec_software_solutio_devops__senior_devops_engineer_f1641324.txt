@@ -1,0 +1,260 @@
+Title: Devops/ Senior Devops Engineer
+Company: NEC Software Solutions (India)
+Location: Mumbai, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/devops-senior-devops-engineer-at-nec-software-solutions-india-4471612922
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps expertise (CI/CD, infrastructure as code), is located in India (a target country), and does not have visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Devops/ Senior Devops Engineer
+NEC Software Solutions (India)  Mumbai, Maharashtra, India
+3 days ago   Over 200 applicants
+  
+
+See who NEC Software Solutions (India) has hired for this role
+
+Apply 
+Save
+Company Description
+
+NEC Software Solutions (India)
+
+On 1st July 2021, Rave Technologies became NEC Software Solutions India. This change brought us under the global NEC Corporation brand. We are proud to be part of an organisation with 122 years of experience in evolution with technology and innovation.
+
+We have more than 30 years of experience in providing end to end IT services across the globe and have earned a reputation for delighting our customers by consistently surpassing expectations and helping them deliver robust, market-ready software products that meet the highest standards of engineering and user experience. Supported by more than 1300 exceptionally talented manpower, we are a hub for offshore support and technology services.
+
+We work with diverse industry verticals which include publishing, media, financial services, retail, healthcare and technology companies around the world. Our customers range from two-person startups to $bn listed companies.
+
+For more information, visit at www.necsws.com/india.
+
+About NEC Corporation
+
+NEC Corporation is a Japanese multinational information technology and electronics company, headquartered in Tokyo, Japan. It is recognised as a ‘Top 50 Innovative Company’ globally and the NEC Group globally provides “Solutions for Society” that promote the safety, security, fairness and equality of society. Their main goal is to help create a safer society with their innovations in technologies.
+
+NEC Corporation has established itself as a leader in the integration of IT and network technologies while promoting the brand statement of “Orchestrating a brighter world.” NEC enables businesses and communities to adapt to rapid changes taking place in both society and the market as it provides for the social values of safety, security, fairness and efficiency to promote a more sustainable world where everyone has the chance to reach their full potential.
+
+For more information, visit NEC at https://www.nec.com.  
+
+Job Description
+
+Experience- 5-7 yrs
+
+Location- Mumbai (WFH with travel on need basis)
+
+Shift timings- UK, 12-12:30pm to 9-9:30pm
+
+Notice- 15-30 days
+
+Below is the JD
+
+
+Excellent comm skills
+IT domain BA
+Monitoring: DataDog , CloudWatch
+Infrastructure as Code: Terraform
+CI/CD: GitLab CI
+Code Repository: GitLab
+IDE: Visual Studio Code
+Cloud: AWS, ECS Fargate, ALB (Application Load Balancer), Route53, ACM (Certificate Manager), Secrets Manager, API Gateway, AWS Shield
+Dynamo DB, RDS Aurora PostgreSQL-compatible Lambda, Elastic Container Registry, Elasticache for Redis, AWS Backup
+WFH but should be flexible to travel on need basis
+
+
+Qualifications
+
+Any Graduated
+
+Additional Information
+
+Excellent communication skills
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at NEC Software Solutions (India) by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Network Support Engineer jobs
+Devops/ Senior Devops Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+novio
+Mumbai Metropolitan Region
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Newfold Digital
+Mumbai Metropolitan Region
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Kodo
+Mumbai Metropolitan Region
+₹2,000,000 - ₹3,500,000
+2 months ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions
+Mumbai Metropolitan Region
+3 days ago
+DevOps Engineer
+DevOps Engineer
+JioSaavn
+Navi Mumbai, Maharashtra, India
+2 weeks ago
+Devops Engineer/ Senior Devops Engineer
+Devops Engineer/ Senior Devops Engineer
+WebEngage
+Mumbai, Maharashtra, India
+6 months ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Whitefield Careers
+
+Mumbai Metropolitan Region
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Emkay Global Financial Services Ltd
+
+Mumbai, Maharashtra, India
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+Larsen & Toubro
+
+Mumbai Metropolitan Region
+1 month ago
+Senior Software Engineer - DevOps
+Senior Software Engineer - DevOps
+
+IDfy
+
+Mumbai Metropolitan Region
+₹2,200,000 - ₹2,700,000
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+Sia
+
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps Manager
+DevOps Manager
+
+Dentsu Global Services
+
+Mumbai Metropolitan Region
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Tradelab Technologies
+
+Mumbai Metropolitan Region
+₹700,000 - ₹1,800,000
+9 months ago
+DevOps Engineer
+DevOps Engineer
+
+Kodo
+
+Mumbai Metropolitan Region
+₹1,500,000 - ₹2,500,000
+1 year ago
+Azure DevOps
+Azure DevOps
+
+ArkInfoCubes LLC
+
+Mumbai, Maharashtra, India
+3 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+JiBe ERP
+
+Mumbai, Maharashtra, India
+3 weeks ago
+Similar Searches
+Network Support Engineer jobs
+2,247 open jobs
+Senior Finance Executive jobs
+1,764 open jobs
+Product Support Engineer jobs
+47,604 open jobs
+Software Analyst jobs
+56,836 open jobs
+Principal Software Engineer jobs
+12,675 open jobs
+Staff Software Engineer jobs
+11,667 open jobs
+Senior Java Architect jobs
+9,901 open jobs
+Senior Quality Assurance Engineer jobs
+849 open jobs
+Technical Consultant jobs
+14,779 open jobs
+Software Architect jobs
+23,965 open jobs
+Senior Test Engineer jobs
+3,186 open jobs
+SAP Technical Consultant jobs
+1,585 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NEC Software Solutions (India)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

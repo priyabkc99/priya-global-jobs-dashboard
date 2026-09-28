@@ -4,7 +4,7 @@ Location: Mumbai Metropolitan Region
 URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-newfold-digital-4469258161
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The job aligns with the candidate's experience as a Senior DevOps Engineer, located in Mumbai, India (a target country), and involves CI/CD pipeline ownership, infrastructure as code, and cloud-native architecture, which match her skills in regulated/safety-critical domains.
+Reason: The job matches as a Senior DevOps Engineer role with CI/CD pipeline ownership and infrastructure-as-code responsibilities, located in India (a target country), and aligns with the candidate's experience in release management, configuration strategies, and regulated-industry compliance.
 
 ========================================
 JOB DESCRIPTION:
@@ -95,10 +95,8 @@ Software Development
 Referrals increase your chances of interviewing at Newfold Digital by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Mumbai Metropolitan Region.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
 Jobs
 Solaris System Administrator jobs
 Senior DevOps Engineer
@@ -205,7 +203,7 @@ DevOps Engineer
 Emkay Global Financial Services Ltd
 
 Mumbai, Maharashtra, India
-4 days ago
+5 days ago
 Similar Searches
 Solaris System Administrator jobs
 917 open jobs

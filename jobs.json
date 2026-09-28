@@ -1568,15 +1568,14 @@
     "url": "https://in.linkedin.com/jobs/view/senior-devops-engineer-at-newfold-digital-4469258161",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job aligns with the candidate's experience as a Senior DevOps Engineer, located in Mumbai, India (a target country), and involves CI/CD pipeline ownership, infrastructure as code, and cloud-native architecture, which match her skills in regulated/safety-critical domains.",
+    "reason": "The job matches as a Senior DevOps Engineer role with CI/CD pipeline ownership and infrastructure-as-code responsibilities, located in India (a target country), and aligns with the candidate's experience in release management, configuration strategies, and regulated-industry compliance.",
     "id": "7b1572dc",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/newfold_digital_senior_devops_engineer_7b1572dc.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/newfold_digital_senior_devops_engineer_7b1572dc.txt"
   },
   {
     "title": "Devops/ Senior Devops Engineer",
@@ -1584,16 +1583,15 @@
     "location": "Mumbai, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/devops-senior-devops-engineer-at-nec-software-solutions-india-4471612922",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job aligns with Priya's DevOps/CI-CD expertise and location preferences (India), but lacks explicit mention of regulated/safety-critical domains (MDR/ISO 13485/ASPICE) which were a strong fit in her previous roles.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's DevOps expertise (CI/CD, infrastructure as code), is located in India (a target country), and does not have visa sponsorship restrictions.",
     "id": "f1641324",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/nec_software_solutio_devops__senior_devops_engineer_f1641324.txt"
   },
   {
     "title": "DevOps CI/CD with Kotlin Expert",
@@ -1602,15 +1600,14 @@
     "url": "https://in.linkedin.com/jobs/view/devops-ci-cd-with-kotlin-expert-at-kpit-4453118342",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job requires Kotlin expertise which is not explicitly listed in the candidate's key skills, though she has relevant CI/CD experience and the location (India) matches her target countries.",
+    "reason": "The job requires Kotlin expertise (a mandatory skill), which is not explicitly listed in the candidate's key skills, though she has programming experience and CI/CD expertise that aligns with DevOps responsibilities.",
     "id": "9e8b5f1c",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Devops/ Senior Devops Engineer",
@@ -1619,15 +1616,14 @@
     "url": "https://in.linkedin.com/jobs/view/devops-senior-devops-engineer-at-nec-software-solutions-4469679713",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with DevOps Engineer criteria (CI/CD, infrastructure as code) and is located in India (target country), but lacks explicit mention of visa sponsorship and the candidate's Topcon Healthcare experience may not directly map to this role.",
+    "reason": "The job aligns with DevOps Engineer role type and is located in India (a target country), but visa sponsorship requirements for India are not explicitly mentioned in the posting, creating uncertainty about work authorization compatibility.",
     "id": "cd4ae8df",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps / Cloud Engineer",
@@ -1636,15 +1632,14 @@
     "url": "https://in.linkedin.com/jobs/view/senior-devops-cloud-engineer-at-milestone-technologies-inc-4466299709",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role aligns with DevOps Engineer criteria (CI/CD pipeline ownership, release validation) but requires GitLab CI/CD and AWS-specific skills not explicitly detailed in the candidate's experience. The job is located in India (a target country), and the candidate has relevant configuration management experience that matches one of the positive constraints.",
+    "reason": "The role aligns with DevOps Engineer criteria but requires specific tools (GitLab CI/CD, AWS EKS) not explicitly detailed in the candidate\u2019s skills, though her CI/CD and cloud experience may overlap partially.",
     "id": "a5a75365",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -2931,13 +2926,14 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/devops-engineer/sanderson-recruitment-job108005885",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job title 'DevOps Engineer' aligns with Priya's CI/CD/release management expertise, but the inaccessible job description prevents verification of location/work model, visa sponsorship availability, or other critical details.",
     "id": "1b62f72e",
     "source": "totaljobs_devops_engineer",
     "added_at": "2026-09-28T16:40:05+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/qwen/qwen3-14b"
   }
 ]
