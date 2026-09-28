@@ -1,0 +1,223 @@
+Title: DevOps Engineer
+Company: Signature Recruitment Limited
+Location: Bristol, UK
+URL: https://www.reed.co.uk/jobs/devops-engineer/57306315
+Posted: 3 september
+Deadline: N/A
+Reason: The DevOps Engineer role in Bristol, UK aligns with Priya's CI/CD, infrastructure management, and automation expertise from Elektrobit and Topcon, meeting all target criteria including regulated industry experience and location.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Engineer
+Dev Ops Engineer
+Job details
+DevOps Engineer
+3 September by Signature Recruitment Limited
+£50,000 - £60,000 per annum
+Bristol, Avon
+Permanent, full-time
+Hybrid
+Skills: 
+CI/CD (DevOps), Docker Containerization
+ + 3 more
+Apply now
+Save
+Full job description
+
+DevOps Engineer | Bristol | £50,000 - £60,000 | Permanent
+
+About the Role
+
+Signature Recruitment is delighted to be supporting an innovative, high-growth organisation in the search for a DevOps Engineer. This is a unique opportunity to take ownership of critical infrastructure and data systems that support cutting-edge operations and business growth.
+
+As a DevOps Engineer, you will inherit a modern technical environment and play a key role in maintaining, improving and evolving core systems. You'll work closely with technical specialists and operational teams to ensure reliability, scalability and performance.
+
+Key Responsibilities
+
+Own, operate and improve the organisation's time-series data platform
+Maintain and extend infrastructure using Infrastructure as Code, Docker and GitOps approaches
+Manage edge devices and on-site collection systems
+Build and maintain monitoring and observability tools
+Support integration between hardware, control systems and software platforms
+Create and maintain technical documentation and operational runbooks
+
+What We're Looking For
+
+Strong experience in Systems, Infrastructure, Platform or DevOps Engineering
+Strong Linux administration and networking skills
+Experience with Docker, Terraform/OpenTofu and CI/CD pipelines
+Exposure to cloud platforms and on-premise infrastructure
+Understanding of SQL databases, MQTT or similar messaging technologies
+A pragmatic, curious mindset with a passion for continuous improvement
+Comfortable working across teams and taking ownership of critical systems
+
+Location & Working Hours
+
+Bristol
+Flexible hybrid working with an expectation of 2-3 days onsite
+Monday to Friday, 9am-5pm
+Parking available
+
+Why Join?
+
+Genuine ownership of business-critical systems
+Varied work across cloud, infrastructure, data and hardware environments
+Opportunity to shape technical direction and future architecture
+Join a mission-driven, innovative organisation with ambitious growth plans
+Supportive team environment with freedom to learn and develop
+
+Call to Action
+
+If you're an experienced DevOps Engineer looking for a role that offers real ownership, impact and variety, we'd love to hear from you. Contact Julianna Suki at Signature Recruitment today to discuss this DevOps Engineer opportunity and take the next step in your career.
+
+Skills
+CI/CD (DevOps)Docker ContainerizationLinux Operating SystemsLinux System EngineeringTerraform (Infrastructure as Code)
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Similar Jobs
+Easy Apply
+DevOps Engineer
+3 days ago by F5
+£65,000 - £75,000 per annum
+Bristol, Avon
+Permanent, full-time
+Featured
+Easy Apply
+Senior DevOps Engineer
+10 September by Granite Recruitment and Consulting Limited
+£65,000 - £85,000 per annum
+Bristol, Avon
+Permanent, full-time
+Easy Apply
+Platform Engineer
+3 September by Signature Recruitment Limited
+£50,000 - £60,000 per annum
+Bristol, Avon
+Permanent, full-time
+Easy Apply
+Infrastructure Engineer
+20 August by Adecco
+£40,000 - £55,000 per annum
+Bristol, Avon
+Permanent, full-time
+New
+AWS Devops Engineer
+Yesterday by Appcast Enterprise
+Competitive salary
+Bristol, Avon
+Permanent, full-time
+Senior Systems Engineer
+4 September by Eclectic Recruitment
+£37,000 - £47,000 per annum
+Bristol, Avon
+Permanent, full-time
+See more jobs like this
+Reference: 57306315
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+DevOps Engineer
+Bristol
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Recommended courses
+DevOps Engineer Career Change Bootcamp | Fortray
+Online with live classes
+£3,999.99
+Maters in DevOps Engineer IT Program job ready | Bundle 13 Courses | Live Projects
+Online with live classes
+£3,999.99
+DevOps Engineer Job Guarantee OR Money Back Bootcamp | Fortray
+Online, Self-paced
+£3,000
+View IT security courses
+Posted by Signature Recruitment Limited
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026
+
+We Value Your Privacy
+We and our 1029 partners use cookies and process your data to personalise content and ads, measure performance and improve our services. You can update or withdraw your consent at any time via Manage Preferences. See our Privacy Policy.
+We and our partners process data to provide:
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+Partner List
+
+Show Purposes
+Reject All I Accept

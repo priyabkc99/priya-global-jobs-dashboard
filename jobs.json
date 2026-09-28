@@ -13,7 +13,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior Devops Engineer",
@@ -29,7 +30,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -45,7 +47,8 @@
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -61,7 +64,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/lseg_devops_engineer_a9432b63.txt"
+    "description_file": "job_descriptions/lseg_devops_engineer_a9432b63.txt",
+    "needs_re_review": true
   },
   {
     "title": "Sr DevOps Engineer",
@@ -77,7 +81,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/xe_com_sr_devops_engineer_0df95a48.txt"
+    "description_file": "job_descriptions/xe_com_sr_devops_engineer_0df95a48.txt",
+    "needs_re_review": true
   },
   {
     "title": "Lead DevOps Engineer",
@@ -93,7 +98,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -109,7 +115,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/dexory_devops_engineer_0032069d.txt"
+    "description_file": "job_descriptions/dexory_devops_engineer_0032069d.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer (Azure)",
@@ -125,7 +132,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer- SC Cleared",
@@ -141,7 +149,8 @@
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/searchability_ns_d_devops_engineer__sc_cleared_1c3ade47.txt"
+    "description_file": "job_descriptions/searchability_ns_d_devops_engineer__sc_cleared_1c3ade47.txt",
+    "needs_re_review": true
   },
   {
     "title": "Platform Engineer (DevOps & Kubernetes)",
@@ -157,7 +166,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/be_it_platform_engineer__devops___ku_8af09324.txt"
+    "description_file": "job_descriptions/be_it_platform_engineer__devops___ku_8af09324.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -173,7 +183,8 @@
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "AWS DevOps Engineer",
@@ -189,7 +200,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer - Boutique Hedge Fund - London",
@@ -205,7 +217,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/mondrian_alpha_senior_devops_engineer___bouti_2b8d97bb.txt"
+    "description_file": "job_descriptions/mondrian_alpha_senior_devops_engineer___bouti_2b8d97bb.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer (Azure)",
@@ -221,7 +234,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/darktrace_senior_devops_engineer__azure__58ce665c.txt"
+    "description_file": "job_descriptions/darktrace_senior_devops_engineer__azure__58ce665c.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -237,7 +251,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/dwp_digital_senior_devops_engineer_bda8a76b.txt"
+    "description_file": "job_descriptions/dwp_digital_senior_devops_engineer_bda8a76b.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer (Azure)",
@@ -253,7 +268,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -269,7 +285,8 @@
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer, Charles River Development, Senior Associate",
@@ -285,7 +302,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/charles_river_develo_devops_engineer__charles_river_8592734d.txt"
+    "description_file": "job_descriptions/charles_river_develo_devops_engineer__charles_river_8592734d.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -301,7 +319,8 @@
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Principal DevOps Engineer",
@@ -317,7 +336,8 @@
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/reperio_human_capita_principal_devops_engineer_b29c54dc.txt"
+    "description_file": "job_descriptions/reperio_human_capita_principal_devops_engineer_b29c54dc.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -333,7 +353,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/zinkworks_devops_engineer_a72ad60a.txt"
+    "description_file": "job_descriptions/zinkworks_devops_engineer_a72ad60a.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -349,7 +370,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/rws_devops_engineer_29549e57.txt"
+    "description_file": "job_descriptions/rws_devops_engineer_29549e57.txt",
+    "needs_re_review": true
   },
   {
     "title": "Lead CI/CD Platform Engineer",
@@ -365,7 +387,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/merative_lead_ci_cd_platform_engineer_5c8d3bb7.txt"
+    "description_file": "job_descriptions/merative_lead_ci_cd_platform_engineer_5c8d3bb7.txt",
+    "needs_re_review": true
   },
   {
     "title": "Quantitative Development - DevOps Engineer",
@@ -381,7 +404,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/millennium_quantitative_development___dev_6b4d1f1a.txt"
+    "description_file": "job_descriptions/millennium_quantitative_development___dev_6b4d1f1a.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer, EMEA",
@@ -397,7 +421,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Java DevOps Engineer - Digital Assets (VP)",
@@ -413,7 +438,8 @@
     "posted_date": "2026-09-27",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/citi_java_devops_engineer___digital_75348021.txt"
+    "description_file": "job_descriptions/citi_java_devops_engineer___digital_75348021.txt",
+    "needs_re_review": true
   },
   {
     "title": "Kubernetes Engineer",
@@ -429,7 +455,8 @@
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior GCP DevOps Engineer",
@@ -445,7 +472,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/tata_consultancy_ser_senior_gcp_devops_engineer_df239c11.txt"
+    "description_file": "job_descriptions/tata_consultancy_ser_senior_gcp_devops_engineer_df239c11.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Lead Engineer",
@@ -461,7 +489,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/cognizant_devops_lead_engineer_b0bb2469.txt"
+    "description_file": "job_descriptions/cognizant_devops_lead_engineer_b0bb2469.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -477,7 +506,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/tata_consultancy_ser_devops_engineer_cd295129.txt"
+    "description_file": "job_descriptions/tata_consultancy_ser_devops_engineer_cd295129.txt",
+    "needs_re_review": true
   },
   {
     "title": "Sp\u00e9cialiste principal(e) DevOps | Senior DevOps Specialist",
@@ -493,7 +523,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/tait_sp_cialiste_principal_e__devop_c64559f1.txt"
+    "description_file": "job_descriptions/tait_sp_cialiste_principal_e__devop_c64559f1.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Specialist - Kubernetes (35700)",
@@ -509,7 +540,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/myticas_consulting_devops_specialist___kubernetes_aa80175f.txt"
+    "description_file": "job_descriptions/myticas_consulting_devops_specialist___kubernetes_aa80175f.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps / Platform Engineer \u2014 Cloud",
@@ -525,7 +557,8 @@
     "posted_date": "2026-07-30",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/dominion_dynamics_senior_devops___platform_engin_9907cb59.txt"
+    "description_file": "job_descriptions/dominion_dynamics_senior_devops___platform_engin_9907cb59.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Specialist \u2013 CI/CD, OpenShift & Cloud Automation",
@@ -541,7 +574,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/thoughtstorm_devops_specialist___ci_cd__ope_b6fd94b2.txt"
+    "description_file": "job_descriptions/thoughtstorm_devops_specialist___ci_cd__ope_b6fd94b2.txt",
+    "needs_re_review": true
   },
   {
     "title": "Sp\u00e9cialiste DevOps",
@@ -557,7 +591,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/delan___it_talent_so_sp_cialiste_devops_4df1b0c1.txt"
+    "description_file": "job_descriptions/delan___it_talent_so_sp_cialiste_devops_4df1b0c1.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Programmer - Core Technologies  | Programmeur\u00b7euse DevOps - Technologies centrales",
@@ -573,7 +608,8 @@
     "posted_date": "2026-06-30",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/behaviour_interactiv_devops_programmer___core_techn_69956ed9.txt"
+    "description_file": "job_descriptions/behaviour_interactiv_devops_programmer___core_techn_69956ed9.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Specialist",
@@ -589,7 +625,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/mda_space_devops_specialist_5c04d4ac.txt"
+    "description_file": "job_descriptions/mda_space_devops_specialist_5c04d4ac.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Staff Platform Engineer",
@@ -605,7 +642,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/orion_digital_devops_staff_platform_engineer_e5f4d699.txt"
+    "description_file": "job_descriptions/orion_digital_devops_staff_platform_engineer_e5f4d699.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Programmer \u2013 Core Technologies",
@@ -621,7 +659,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps (SRE)",
@@ -637,7 +676,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Sp\u00e9cialiste principal.e DevOps //  Senior DevOps Specialist",
@@ -653,7 +693,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/ssense_sp_cialiste_principal_e_devops_8bd1bbd4.txt"
+    "description_file": "job_descriptions/ssense_sp_cialiste_principal_e_devops_8bd1bbd4.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps/Cloud Engineer",
@@ -669,7 +710,8 @@
     "posted_date": "2026-09-28",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/impact_com_devops_cloud_engineer_ae57e859.txt"
+    "description_file": "job_descriptions/impact_com_devops_cloud_engineer_ae57e859.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior Software Engineer, DevOps",
@@ -685,7 +727,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/binance_us_senior_software_engineer__devo_574b1f29.txt"
+    "description_file": "job_descriptions/binance_us_senior_software_engineer__devo_574b1f29.txt",
+    "needs_re_review": true
   },
   {
     "title": "Intermediate DevOps Specialist",
@@ -701,7 +744,8 @@
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -717,7 +761,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/canadian_solar_inc__senior_devops_engineer_22b0534c.txt"
+    "description_file": "job_descriptions/canadian_solar_inc__senior_devops_engineer_22b0534c.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -733,7 +778,8 @@
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/rocket_software_senior_devops_engineer_eb7eead3.txt"
+    "description_file": "job_descriptions/rocket_software_senior_devops_engineer_eb7eead3.txt",
+    "needs_re_review": true
   },
   {
     "title": "Platform DevOps Engineer",
@@ -749,7 +795,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/future_secure_ai_platform_devops_engineer_169e5242.txt"
+    "description_file": "job_descriptions/future_secure_ai_platform_devops_engineer_169e5242.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -765,7 +812,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/cloud_raptor_devops_engineer_1cf14a98.txt"
+    "description_file": "job_descriptions/cloud_raptor_devops_engineer_1cf14a98.txt",
+    "needs_re_review": true
   },
   {
     "title": "Devops Engineer",
@@ -781,7 +829,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -797,7 +846,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/australia_post_senior_devops_engineer_1e03c786.txt"
+    "description_file": "job_descriptions/australia_post_senior_devops_engineer_1e03c786.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -813,7 +863,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/hub24_limited_senior_devops_engineer_b363a6d8.txt"
+    "description_file": "job_descriptions/hub24_limited_senior_devops_engineer_b363a6d8.txt",
+    "needs_re_review": true
   },
   {
     "title": "Sr DevOps Engineer",
@@ -829,7 +880,8 @@
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/xpt_software_sr_devops_engineer_72e1f3d3.txt"
+    "description_file": "job_descriptions/xpt_software_sr_devops_engineer_72e1f3d3.txt",
+    "needs_re_review": true
   },
   {
     "title": "AWS Devops",
@@ -845,7 +897,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/luxoft_australia_aws_devops_47a02609.txt"
+    "description_file": "job_descriptions/luxoft_australia_aws_devops_47a02609.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Platform Engineer",
@@ -861,7 +914,8 @@
     "posted_date": "2026-07-30",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Platform Engineer",
@@ -877,7 +931,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -893,7 +948,8 @@
     "posted_date": "2026-09-21",
     "deadline": "2026-10-05",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Software Engineer, DevOps",
@@ -909,7 +965,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior Cloud / DevOps Engineer",
@@ -925,7 +982,8 @@
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/eightcap_senior_cloud___devops_engineer_3cb4a57f.txt"
+    "description_file": "job_descriptions/eightcap_senior_cloud___devops_engineer_3cb4a57f.txt",
+    "needs_re_review": true
   },
   {
     "title": "Sr DevOps Engineer",
@@ -941,7 +999,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/xpt_software_austral_sr_devops_engineer_5bf3e986.txt"
+    "description_file": "job_descriptions/xpt_software_austral_sr_devops_engineer_5bf3e986.txt",
+    "needs_re_review": true
   },
   {
     "title": "Platform DevOps Engineer",
@@ -957,7 +1016,8 @@
     "posted_date": "2026-09-28",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/future_secure_ai_platform_devops_engineer_00c52f9f.txt"
+    "description_file": "job_descriptions/future_secure_ai_platform_devops_engineer_00c52f9f.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer - Mandarin Speaking",
@@ -973,7 +1033,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "CloudOps Engineer - Software",
@@ -989,7 +1050,8 @@
     "posted_date": "2026-09-23",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/gallagher_cloudops_engineer___software_a619a6ca.txt"
+    "description_file": "job_descriptions/gallagher_cloudops_engineer___software_a619a6ca.txt",
+    "needs_re_review": true
   },
   {
     "title": "CloudOps Engineer - Software",
@@ -1005,7 +1067,8 @@
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/gallagher_animal_man_cloudops_engineer___software_2ee7cb1a.txt"
+    "description_file": "job_descriptions/gallagher_animal_man_cloudops_engineer___software_2ee7cb1a.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1021,7 +1084,8 @@
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Product Manager",
@@ -1037,7 +1101,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1053,7 +1118,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/softwareone_devops_engineer_7dd2cf7e.txt"
+    "description_file": "job_descriptions/softwareone_devops_engineer_7dd2cf7e.txt",
+    "needs_re_review": true
   },
   {
     "title": "Cloud Platform Engineer",
@@ -1069,7 +1135,8 @@
     "posted_date": "2026-09-25",
     "deadline": "2026-10-04",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/iag_cloud_platform_engineer_62462e7d.txt"
+    "description_file": "job_descriptions/iag_cloud_platform_engineer_62462e7d.txt",
+    "needs_re_review": true
   },
   {
     "title": "Unix OpenShift Dev Ops Specialist",
@@ -1085,7 +1152,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/one_new_zealand_unix_openshift_dev_ops_special_28b57dd5.txt"
+    "description_file": "job_descriptions/one_new_zealand_unix_openshift_dev_ops_special_28b57dd5.txt",
+    "needs_re_review": true
   },
   {
     "title": "Site Reliability Engineer",
@@ -1101,7 +1169,8 @@
     "posted_date": "2026-09-23",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/future_secure_ai_site_reliability_engineer_57c7d9ad.txt"
+    "description_file": "job_descriptions/future_secure_ai_site_reliability_engineer_57c7d9ad.txt",
+    "needs_re_review": true
   },
   {
     "title": "Technical Specialist",
@@ -1117,7 +1186,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/bank_of_new_zealand_technical_specialist_25d51285.txt"
+    "description_file": "job_descriptions/bank_of_new_zealand_technical_specialist_25d51285.txt",
+    "needs_re_review": true
   },
   {
     "title": "Site Reliability Engineer",
@@ -1133,7 +1203,8 @@
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/future_secure_ai_site_reliability_engineer_380ba7c2.txt"
+    "description_file": "job_descriptions/future_secure_ai_site_reliability_engineer_380ba7c2.txt",
+    "needs_re_review": true
   },
   {
     "title": "Platform Engineer",
@@ -1149,7 +1220,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/share_platform_engineer_a47a2d5b.txt"
+    "description_file": "job_descriptions/share_platform_engineer_a47a2d5b.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior Platform Engineer",
@@ -1165,7 +1237,8 @@
     "posted_date": "2026-09-21",
     "deadline": "2026-10-01",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/westpac_new_zealand_senior_platform_engineer_3839aa6d.txt"
+    "description_file": "job_descriptions/westpac_new_zealand_senior_platform_engineer_3839aa6d.txt",
+    "needs_re_review": true
   },
   {
     "title": "Lead Automation Engineer",
@@ -1181,7 +1254,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Cloud Infrastructure Engineer",
@@ -1197,7 +1271,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1213,7 +1288,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1229,7 +1305,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/openhill_global_devops_engineer_61ed3c5d.txt"
+    "description_file": "job_descriptions/openhill_global_devops_engineer_61ed3c5d.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1245,7 +1322,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/biotronik_devops_engineer_db43887a.txt"
+    "description_file": "job_descriptions/biotronik_devops_engineer_db43887a.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1261,7 +1339,8 @@
     "posted_date": "2026-09-28",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/singtel_senior_devops_engineer_7606c186.txt"
+    "description_file": "job_descriptions/singtel_senior_devops_engineer_7606c186.txt",
+    "needs_re_review": true
   },
   {
     "title": "Sr. DevOps Engineer (Blockchain Infra)",
@@ -1277,7 +1356,8 @@
     "posted_date": "2026-07-30",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/bnb_chain_sr__devops_engineer__blockchai_4045786e.txt"
+    "description_file": "job_descriptions/bnb_chain_sr__devops_engineer__blockchai_4045786e.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer - Singapore",
@@ -1293,7 +1373,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Cloud Senior DevOps Engineer",
@@ -1309,7 +1390,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/bitdeer__nasdaq__btd_cloud_senior_devops_engineer_9511ba66.txt"
+    "description_file": "job_descriptions/bitdeer__nasdaq__btd_cloud_senior_devops_engineer_9511ba66.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1325,7 +1407,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1341,7 +1424,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/merquri_devops_engineer_9bcad5be.txt"
+    "description_file": "job_descriptions/merquri_devops_engineer_9bcad5be.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer (Trading Platform)",
@@ -1357,7 +1441,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/crypto_com_senior_devops_engineer__tradin_35753138.txt"
+    "description_file": "job_descriptions/crypto_com_senior_devops_engineer__tradin_35753138.txt",
+    "needs_re_review": true
   },
   {
     "title": "Platform Engineer",
@@ -1373,7 +1458,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/vitol_platform_engineer_2346038a.txt"
+    "description_file": "job_descriptions/vitol_platform_engineer_2346038a.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1389,7 +1475,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/vanguard_software_senior_devops_engineer_ea88b8f3.txt"
+    "description_file": "job_descriptions/vanguard_software_senior_devops_engineer_ea88b8f3.txt",
+    "needs_re_review": true
   },
   {
     "title": "Lead Platform Engineer (Azure, Kubernetes & DevOps)",
@@ -1405,7 +1492,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/hudson_singapore_lead_platform_engineer__azure__77a32a7e.txt"
+    "description_file": "job_descriptions/hudson_singapore_lead_platform_engineer__azure__77a32a7e.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1421,7 +1509,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/starhub_senior_devops_engineer_5d54027f.txt"
+    "description_file": "job_descriptions/starhub_senior_devops_engineer_5d54027f.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer, C3",
@@ -1437,7 +1526,8 @@
     "posted_date": "2026-06-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/ncs_group_devops_engineer__c3_55601dd5.txt"
+    "description_file": "job_descriptions/ncs_group_devops_engineer__c3_55601dd5.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer - EMEA/US Shift",
@@ -1453,7 +1543,8 @@
     "posted_date": "2026-01-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/bluematrix_devops_engineer___emea_us_shif_55740539.txt"
+    "description_file": "job_descriptions/bluematrix_devops_engineer___emea_us_shif_55740539.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior Devops Engineer",
@@ -1469,7 +1560,8 @@
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1485,7 +1577,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/newfold_digital_senior_devops_engineer_7b1572dc.txt"
+    "description_file": "job_descriptions/newfold_digital_senior_devops_engineer_7b1572dc.txt",
+    "needs_re_review": true
   },
   {
     "title": "Devops/ Senior Devops Engineer",
@@ -1501,7 +1594,8 @@
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps CI/CD with Kotlin Expert",
@@ -1517,7 +1611,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Devops/ Senior Devops Engineer",
@@ -1533,7 +1628,8 @@
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps / Cloud Engineer",
@@ -1549,7 +1645,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1565,7 +1662,8 @@
     "posted_date": "2026-06-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "AWS Devops",
@@ -1581,7 +1679,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1597,7 +1696,8 @@
     "posted_date": "2026-03-02",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Developer",
@@ -1613,7 +1713,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer  - GitLab Enterprise",
@@ -1629,7 +1730,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/luxoft_devops_engineer____gitlab_ente_1c9b79d7.txt"
+    "description_file": "job_descriptions/luxoft_devops_engineer____gitlab_ente_1c9b79d7.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1645,7 +1747,8 @@
     "posted_date": "2026-01-01",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior AWS DevOps & Platform Engineer (6-9 Years)",
@@ -1661,7 +1764,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1677,7 +1781,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/hitachi_energy_devops_engineer_8fc74340.txt"
+    "description_file": "job_descriptions/hitachi_energy_devops_engineer_8fc74340.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior Cloud DevOps Engineer",
@@ -1693,7 +1798,8 @@
     "posted_date": "2026-01-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1709,7 +1815,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/style_analytics_senior_devops_engineer_6d499999.txt"
+    "description_file": "job_descriptions/style_analytics_senior_devops_engineer_6d499999.txt",
+    "needs_re_review": true
   },
   {
     "title": "Junior DevOps Engineer",
@@ -1725,7 +1832,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer (Architecture)",
@@ -1741,7 +1849,8 @@
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "AI-Focused DevOps Engineer",
@@ -1757,7 +1866,8 @@
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1773,7 +1883,8 @@
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/amaris_consulting____devops_engineer_4c2f99ea.txt"
+    "description_file": "job_descriptions/amaris_consulting____devops_engineer_4c2f99ea.txt",
+    "needs_re_review": true
   },
   {
     "title": "Intermediate SRE / DevOps Engineer",
@@ -1789,7 +1900,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1805,7 +1917,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior AWS DevOps Engineer",
@@ -1821,7 +1934,8 @@
     "posted_date": "2026-07-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior AWS DevOps Engineer",
@@ -1837,7 +1951,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1853,7 +1968,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/eqplus_technologies__devops_engineer_d8db6da0.txt"
+    "description_file": "job_descriptions/eqplus_technologies__devops_engineer_d8db6da0.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer (Infrastructure)",
@@ -1869,7 +1985,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -1885,7 +2002,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/zensar_technologies_devops_engineer_c462bbca.txt"
+    "description_file": "job_descriptions/zensar_technologies_devops_engineer_c462bbca.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior AWS DevOps Engineer",
@@ -1901,7 +2019,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/lexisnexis_senior_aws_devops_engineer_c1405556.txt"
+    "description_file": "job_descriptions/lexisnexis_senior_aws_devops_engineer_c1405556.txt",
+    "needs_re_review": true
   },
   {
     "title": "Lead DevOps Engineer",
@@ -1917,7 +2036,8 @@
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Platform Core DevOps Engineer - Infra",
@@ -1933,7 +2053,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/betsson_group_platform_core_devops_engineer__9b871387.txt"
+    "description_file": "job_descriptions/betsson_group_platform_core_devops_engineer__9b871387.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer (Naxxar, Malta)",
@@ -1949,7 +2070,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/novibet_devops_engineer__naxxar__malta_73f6ab0c.txt"
+    "description_file": "job_descriptions/novibet_devops_engineer__naxxar__malta_73f6ab0c.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1965,7 +2087,8 @@
     "posted_date": "2026-09-28",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/gaming_innovation_gr_senior_devops_engineer_c9122d9c.txt"
+    "description_file": "job_descriptions/gaming_innovation_gr_senior_devops_engineer_c9122d9c.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1981,7 +2104,8 @@
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Blockchain DevOps Engineer",
@@ -1997,7 +2121,8 @@
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Junior DevOps Engineer",
@@ -2013,7 +2138,8 @@
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer",
@@ -2029,7 +2155,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/square_one_resources_senior_devops_engineer_ef81e153.txt"
+    "description_file": "job_descriptions/square_one_resources_senior_devops_engineer_ef81e153.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -2045,7 +2172,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/rs2_devops_engineer_5beaad31.txt"
+    "description_file": "job_descriptions/rs2_devops_engineer_5beaad31.txt",
+    "needs_re_review": true
   },
   {
     "title": "DEVOPS",
@@ -2061,7 +2189,8 @@
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -2077,7 +2206,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/client_server_devops_engineer_22cb60b0.txt"
+    "description_file": "job_descriptions/client_server_devops_engineer_22cb60b0.txt",
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Build/CI Engineer",
@@ -2093,7 +2223,8 @@
     "posted_date": "2026-04-01",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/altenar_senior_devops_build_ci_enginee_f74174a9.txt"
+    "description_file": "job_descriptions/altenar_senior_devops_build_ci_enginee_f74174a9.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -2109,7 +2240,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Cloud Engineer",
@@ -2125,7 +2257,8 @@
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior Infrastructure Engineer",
@@ -2141,7 +2274,8 @@
     "posted_date": "2026-06-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior Cloud Platform Engineer (Azure)",
@@ -2157,7 +2291,8 @@
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Core DevOps Engineer",
@@ -2166,7 +2301,7 @@
     "url": "https://hk.linkedin.com/jobs/view/core-devops-engineer-at-selby-jennings-4453061817",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with DevOps Engineer criteria (CI/CD, infrastructure tooling) and is located in Hong Kong (target country), but the posting does not explicitly confirm visa sponsorship availability despite mentioning relocation support for suitable candidates.",
+    "reason": "The job aligns with DevOps Engineer role type and Hong Kong location, but lacks explicit mention of configuration management/requirements traceability (key aspects of her Topcon/Elektrobit experience) and visa sponsorship availability is unclear despite relocation support being mentioned.",
     "id": "2b165d9f",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
@@ -2182,7 +2317,7 @@
     "url": "https://hk.linkedin.com/jobs/view/senior-devops-engineer-devops-engineer-at-ex-io-4296417637",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job matches the DevOps Engineer role type and location (Hong Kong SAR), but lacks explicit mention of configuration management or technical documentation responsibilities which were previously approved as positive constraints.",
+    "reason": "The job aligns with the candidate's DevOps expertise and location (Hong Kong SAR), but lacks explicit mention of regulated compliance or configuration management focus, which were key factors in previous approvals.",
     "id": "f696093a",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
@@ -2205,7 +2340,8 @@
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -2221,7 +2357,8 @@
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer - Global Trading Firm - Hong Kong",
@@ -2237,7 +2374,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/nls_executive_search_senior_devops_engineer___globa_17e576e5.txt"
+    "description_file": "job_descriptions/nls_executive_search_senior_devops_engineer___globa_17e576e5.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -2253,7 +2391,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Sr. DevOps Engineer (Blockchain Infra)",
@@ -2269,7 +2408,8 @@
     "posted_date": "2026-07-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer (Servers & VMs)",
@@ -2285,7 +2425,8 @@
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer, Infra",
@@ -2301,7 +2442,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior DevOps Engineer (Trading Platform)",
@@ -2317,7 +2459,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer, Cloud Infra",
@@ -2333,7 +2476,8 @@
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps / Operations Development Engineer",
@@ -2349,7 +2493,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/_______guotai_junan__devops___operations_developmen_4a545f16.txt"
+    "description_file": "job_descriptions/_______guotai_junan__devops___operations_developmen_4a545f16.txt",
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer",
@@ -2365,7 +2510,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "DevOps Engineer (Securities Firm/Up to 60K + bonus/ Multiple Headcounts)",
@@ -2381,7 +2527,8 @@
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
+    "description_file": null,
+    "needs_re_review": true
   },
   {
     "title": "Senior Staff, Platform Engineer, DevOps",
@@ -2395,6 +2542,215 @@
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-23",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "needs_re_review": true
+  },
+  {
+    "title": "Coding and Programming Trainee",
+    "company": "ITOL Recruit",
+    "location": "United Kingdom",
+    "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57302723",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is explicitly an entry-level training program requiring no prior experience, which falls under the 'Entry-Level Only' hard rejection criterion given Priya's ~15 years of experience.",
+    "id": "8eeca98f",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "2 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "14 September by Matchtech",
+    "location": "Portsmouth, Hampshire, United Kingdom",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57340750",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the candidate to be a British national from birth due to national security requirements, which is a hard rejection as Priya does not meet this criterion and would require visa sponsorship for UK roles.",
+    "id": "515a186a",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "14 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "22 September by Noir",
+    "location": "London, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57376905",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to have the right to work in the UK but does not mention visa sponsorship availability, which is a hard rejection criterion.",
+    "id": "66c94822",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "22 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Noir",
+    "location": "Newcastle Upon Tyne, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57369129",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to have the right to work in the UK, but does not mention visa sponsorship availability, which is a hard rejection criterion for this candidate.",
+    "id": "423a0003",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "2026-09-21",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Adria Solutions",
+    "location": "Manchester, Lancashire, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57246093",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The job matches Priya's DevOps Engineer expertise, is located in the UK (a target country), and aligns with her configuration management background and previous roles at Topcon Healthcare.",
+    "id": "7bb4fe5c",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "17 august",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/adria_solutions_devops_engineer_7bb4fe5c.txt"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Searchability NS&D",
+    "location": "Newcastle Upon Tyne, Tyne and Wear, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57376869",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires SC Clearance eligibility, which is a hard rejection as per the candidate's criteria.",
+    "id": "60ac5546",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "22 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Signature Recruitment Limited",
+    "location": "Bristol, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57306315",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The DevOps Engineer role in Bristol, UK aligns with Priya's CI/CD, infrastructure management, and automation expertise from Elektrobit and Topcon, meeting all target criteria including regulated industry experience and location.",
+    "id": "52211d3a",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "3 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/signature_recruitmen_devops_engineer_52211d3a.txt"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "11 September by Cpl UK",
+    "location": "Glasgow, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57334833",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The DevOps Engineer role matches Priya's extensive CI/CD/configuration-management expertise (Jenkins/GitHub Actions), regulated-industry quality gatekeeping experience, and fits the target country (UK) with on-site work model.",
+    "id": "722a0e21",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "11 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/11_september_by_cpl__devops_engineer_722a0e21.txt"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "31 August by Harnham - Data & Analytics Recruitment",
+    "location": "London, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57291510",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with Priya's CI/CD and infrastructure automation expertise but requires specific tools like Puppet/Terraform (not explicitly mentioned in her skill set) and operates in Financial Services (a different regulated domain than her medical device/MEDR experience).",
+    "id": "890833c2",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "31 august",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "TXP Technology x People",
+    "location": "London, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57371633",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an Active SC Clearance, which is a hard rejection criterion as it necessitates government security clearance that the candidate cannot meet.",
+    "id": "882dbfc3",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "2026-09-21",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Adria Solutions",
+    "location": "Manchester, Lancashire, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57357837",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The job matches Priya's profile as a DevOps Engineer with CI/CD pipeline ownership (Azure DevOps), infrastructure management (Terraform/Bicep), and automation experience, located in Manchester, UK (target country) with hybrid work model.",
+    "id": "efa05e13",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "17 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/adria_solutions_devops_engineer_efa05e13.txt"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "1 September by Harnham - Data & Analytics Recruitment",
+    "location": "London, UK",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57298791",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with the candidate's DevOps/CI-CD expertise and regulated-industry experience, but visa sponsorship availability is unclear in the posting.",
+    "id": "7842eff1",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "1 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "6 hrs ago by SR2",
+    "location": "Wiltshire, South West England",
+    "url": "https://www.reed.co.uk/jobs/devops-engineer/57397400",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an Active SC Clearance or higher, which is a mandatory government security clearance that Priya cannot meet due to lack of citizenship/residence history in the UK.",
+    "id": "38b6b5b9",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-28T15:33:48+03:00",
+    "posted_date": "6 hrs ago",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null
