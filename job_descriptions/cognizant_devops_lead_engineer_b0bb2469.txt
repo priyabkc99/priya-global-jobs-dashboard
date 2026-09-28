@@ -4,7 +4,7 @@ Location: Limerick, County Limerick, Ireland
 URL: https://ie.linkedin.com/jobs/view/devops-lead-engineer-at-cognizant-4467788700
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The role is a strong match for her expertise in DevOps, release management, and configuration management within a highly regulated life sciences environment.
+Reason: The DevOps Lead Engineer role at Cognizant in Ireland aligns with Priya's expertise in CI/CD pipelines, regulated environments (pharma/life sciences), and configuration/release management, matching her background at Elektrobit and Topcon.
 
 ========================================
 JOB DESCRIPTION:
@@ -91,11 +91,6 @@ Sign in to create job alert
 Similar jobs
 Principal DevOps Engineer
 Principal DevOps Engineer
-Octostar
-Galway Metropolitan Area
-6 days ago
-Principal DevOps Engineer
-Principal DevOps Engineer
 Reperio Human Capital
 Galway, County Galway, Ireland
 €80,000 - €100,000
@@ -114,21 +109,19 @@ Site Reliability Engineering Technical Lead
 Site Reliability Engineering Technical Lead
 AMCS Group
 Limerick, County Limerick, Ireland
-3 weeks ago
+4 hours ago
 Cloud Engineer
 Cloud Engineer
 Ministry Brands
 Galway, County Galway, Ireland
 1 month ago
+Senior Platform Engineer
+Senior Platform Engineer
+ACI Worldwide
+Limerick, County Limerick, Ireland
+3 days ago
 Show more jobs like this 
 People also viewed
-Staff Engineer (IT Automation & AI-native Transformation)
-Staff Engineer (IT Automation & AI-native Transformation)
-
-SoSafe
-
-Ireland
-2 weeks ago
 Senior / Cloud Software Engineer - Shannon, Ireland (Hybrid)
 Senior / Cloud Software Engineer - Shannon, Ireland (Hybrid)
 
@@ -156,7 +149,7 @@ Staff Engineer for IT Automation & AI transformation (Remote)
 SoSafe
 
 Ireland
-2 weeks ago
+3 weeks ago
 Sr Engineer, Technical Onboarding
 Sr Engineer, Technical Onboarding
 
@@ -177,7 +170,7 @@ Senior Site Reliability Engineer
 Jobgether
 
 Ireland
-6 days ago
+1 week ago
 Software Test Solutions Engineer
 Software Test Solutions Engineer
 
@@ -192,6 +185,13 @@ Personio
 
 Ireland
 1 week ago
+Capacity & Performance Lead
+Capacity & Performance Lead
+
+Planet
+
+Galway, County Galway, Ireland
+2 weeks ago
 LinkedIn
 © 2026
 About
