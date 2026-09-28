@@ -1,0 +1,246 @@
+Title: Cloud Platform Engineer
+Company: IAG
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/cloud-platform-engineer-at-iag-4471864441
+Posted: 2026-09-25
+Deadline: 2026-10-04
+Reason: The role focuses on DevOps and platform engineering (CI/CD, GitOps, Terraform), which aligns with her extensive experience in release management and automation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Platform Engineer
+IAG  Auckland, Auckland, New Zealand
+3 days ago   Be among the first 25 applicants
+  
+
+See who IAG has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+At IAG, we’re ready for you. We're the largest general insurance group in Australia and New Zealand. Our family of brands turns the IAG purpose of making your world a safer place into action by helping everyday Aussies and New Zealanders, supporting their ambitions and making insurance accessible.
+
+Join us as a Senior Cloud Platform Engineer and help build the future of IAG’s engineering platform.
+
+We run IAG's multi-cloud estate across AWS, GCP and Azure, supporting insurance operations in Australia and New Zealand under APRA and RBNZ obligations. We are building this out into a self-service platform with golden paths and guardrails. Foundations are in place; the platform layer is what we are hiring for.
+
+A key focus of this role is evolving our GCP estate as we migrate workloads from an end-of-life on-premises container platform to Cloud Run. You'll help build and enhance the cloud foundations these workloads rely on, including networking, identity, security, observability and reusable platform patterns, while contributing to a unified Enterprise Cloud Platform across GCP and AWS. In this role, you’ll work hands on with our strategic vendors, uplift IAG’s engineering community and shape the experience layer that brings the platform to life. This is a permanent full-time role based in multiple locations in Auckland, Melbourne or Sydney.
+
+Ngā Mahi Hei Whakatutuki Māu | What You'll Do
+
+
+Build self-service platform capabilities (GKE, Cloud Run, EKS) using Terraform, GitOps, and day 2 operational automation.
+Contribute to BAU platform operations, including triaging and resolving support requests from engineering teams, incident response, and continuous improvement work alongside greenfield delivery.
+Enhance GCP foundations, including networking, hybrid connectivity, workload identity, secrets management and observability.
+Develop and maintain golden-path Terraform modules, with standards enforced at deploy time.
+Develop and enhance IAG’s IDP, including service catalogues, templates, and golden paths that lift engineering productivity and experience.
+Create platform guardrails & policy as code that enable fast delivery while maintaining reliability, security, and compliance.
+Design observability and operational tooling, improving platform reliability and enabling strong on call support patterns. OpenTelemetry exposure is highly valued.
+Support workload migration to Cloud Run and uplift cloud security through Wiz and CNAPP capabilities.
+Work closely with strategic vendors (Google, Wiz, AWS and others), embedding into delivery teams and sharing knowledge back into IAG via pairing, learning hours, and lightweight communities of practice.
+Influence platform direction, challenging approaches with data driven insights and supporting solution governance as part of IAG’s engineering ways of working.
+Participate in a rotating on-call roster, responding to platform incidents out of hours and contributing to PIRs to drive reliability improvements
+
+
+Ōu Pūkenga me ōu Wheako | What You'll Bring
+
+
+3–5+ years’ experience building cloud infrastructure with GCP and/or AWS, and strong platform‑product thinking.
+Experience building cloud foundations, including networking, identity, observability and security controls.
+Experience in Infrastructure‑as‑Code (Terraform), Kubernetes, containers, GitOps and CI/CD (GitHub Actions).
+Exposure to Cloud Run, OpenTelemetry and modern platform engineering practices is highly desirable.
+Ability to work confidently with vendors and cross‑functional teams, engaging internal customers and communicating clearly.
+Understanding of modern software engineering practices and microservices architectures, and how developers build and ship services.
+You pair solid engineering judgement with action — moving work forward, communicating clearly, and avoiding analysis paralysis.
+You help others grow — sharing knowledge, pairing, and building a strong learning culture as we transition from vendor‑led to in‑house capability.
+Nice to have: Backstage, TypeScript, Crossplane, ArgoCD, Wiz, and observability tools (e.g., New Relic, Splunk); FinOps experience is a plus.
+
+
+Tā Mātau ki a Koutou| What We Offer
+
+
+Boosted KiwiSaver with 4.5% employer contribution and life insurance as standard.
+20 days annual leave + 5 days MyLeave (extra leave for what’s important to you).
+Work from home and many more flexibility options with myFlex.
+Up to 50% off personal insurance, including home and motor insurance.
+Annual $500 health & wellbeing payment.
+14 Weeks paid parental leave.
+Access to LinkedIn Learning, the award-winning IAG Academy, study assistance and secondment opportunities.
+employment type eligibility criteria apply 
+
+
+Applications close: Sunday 4 October 2026 11:59PM NZDT
+
+Please note – full time, part time, and job-sharing arrangements will be considered.
+
+ 
+
+Tā Mātau Ratonga Tautoko | Adjustments & Support
+
+ If you require any support or adjustments to participate equitably in our recruitment process, we encourage you to reach out to careers@iag.co.nz for a confidential conversation.
+
+He pitopito kōrero anō mō mātau | More About Us
+
+As part of IAG you'll enjoy a world of career opportunities, a purpose-led place focused on creating connection and belonging, and where you can create meaningful impact every day and grow your career beyond the expected. That’s not just words. It’s our people promise. We're ready for you with unexpected opportunities for your career, your work-life and your ability to make a difference. We acknowledge Tāngata Whenua in Aotearoa and are committed to growing Māori prosperity and wellbeing in Aotearoa through He Rautaki Māori (IAG’s Māori Strategy). We celebrate unique viewpoints shaped by life experiences, cultures and passions. And expand careers, genuinely connect with community, lead with a powerful purpose and celebrate what makes you individual.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at IAG by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Auckland, Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Technical Specialist
+Technical Specialist
+Bank of New Zealand
+Auckland, Auckland, New Zealand
+1 week ago
+Cloud Engineer - AWS
+Cloud Engineer - AWS
+Datacom
+Auckland, Auckland, New Zealand
+3 weeks ago
+Cloud Engineer
+Cloud Engineer
+Southern Cross Health Insurance
+Auckland, Auckland, New Zealand
+5 days ago
+Senior Platform Engineer (Connected Aircraft)
+Senior Platform Engineer (Connected Aircraft)
+Air New Zealand
+Auckland, New Zealand
+1 week ago
+Digital Platform Engineer
+Digital Platform Engineer
+Sky New Zealand
+Auckland, Auckland, New Zealand
+2 weeks ago
+AI Engineer Cloud Platforms
+AI Engineer Cloud Platforms
+Deloitte
+Auckland, Auckland, New Zealand
+1 week ago
+Show more jobs like this 
+People also viewed
+IT Systems Engineer I
+IT Systems Engineer I
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Security Engineer - Cloud Platform
+Senior Security Engineer - Cloud Platform
+
+Xero
+
+Auckland, Auckland, New Zealand
+1 week ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Accenture New Zealand
+
+Auckland, Auckland, New Zealand
+6 days ago
+Prinicipal Engineer
+Prinicipal Engineer
+
+Xero
+
+Auckland, Auckland, New Zealand
+3 days ago
+Data Platform Engineer
+Data Platform Engineer
+
+Southern Cross Health Insurance
+
+Auckland, Auckland, New Zealand
+3 days ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+FIS
+
+Auckland, Auckland, New Zealand
+1 week ago
+Staff AI Platform Engineer
+Staff AI Platform Engineer
+
+Pushpay
+
+Auckland, Auckland, New Zealand
+1 week ago
+Technical Lead - AWS Integration Services
+Technical Lead - AWS Integration Services
+
+Tata Consultancy Services
+
+Auckland, New Zealand
+6 hours ago
+AI Engineer
+AI Engineer
+
+Deloitte
+
+Auckland, Auckland, New Zealand
+1 week ago
+Tech Lead - AWS Integration Services
+Tech Lead - AWS Integration Services
+
+One New Zealand
+
+Auckland, Auckland, New Zealand
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at IAG
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

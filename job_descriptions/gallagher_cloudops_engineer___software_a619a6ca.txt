@@ -1,0 +1,283 @@
+Title: CloudOps Engineer - Software
+Company: Gallagher
+Location: Hamilton, Waikato, New Zealand
+URL: https://nz.linkedin.com/jobs/view/cloudops-engineer-software-at-gallagher-4469419578
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role aligns with her DevOps, CI/CD, and automation expertise and is located in a target country (New Zealand).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+CloudOps Engineer - Software
+Gallagher  Hamilton, Waikato, New Zealand
+5 days ago   Be among the first 25 applicants
+  
+
+See who Gallagher has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Build the Cloud Platform Behind Global AgTech Innovation
+
+At eShepherd, we're transforming livestock farming through world-leading virtual fencing technology.
+
+Our platform combines solar-powered neckbands, mobile applications and cloud software to help farmers manage livestock without physical fences. With deployments across Australia, New Zealand, North America and beyond, we're scaling rapidly and looking for a CloudOps Engineer to help build the platform that powers it all.
+
+This is an opportunity to work on a global IoT platform, solve complex engineering challenges and have a direct impact on technology used every day by farmers around the world.
+
+The Opportunity
+
+As our customer base, device volumes and product offerings grow, so does the complexity of the cloud infrastructure supporting them.
+
+You'll help ensure our platform remains secure, reliable, scalable and ready for growth by:
+
+
+Designing, building and optimising AWS cloud infrastructure
+Improving platform reliability, performance and scalability
+Building and maintaining Infrastructure as Code, automation and CI/CD pipelines
+Strengthening monitoring, observability and incident response practices
+Supporting multi-region deployments and global platform architecture
+Improving database performance and operational efficiency
+Investigating and solving complex performance challenges before customers experience them
+Working closely with software engineers to deliver secure, scalable solutions
+
+
+This is a hands-on role with plenty of autonomy, ownership and influence.
+
+What You'll Bring
+
+You'll enjoy solving difficult technical problems and understanding how systems work beneath the surface.
+
+Ideally, You'll Bring
+
+
+Experience operating and scaling production AWS environments
+Strong DevOps and cloud engineering capability
+Experience with ECS, EKS or containerised platforms
+Infrastructure as Code experience, ideally Terraform
+Strong CI/CD and automation skills
+Experience with monitoring, alerting and incident response
+Database optimisation and performance tuning experience
+Python, Node.js or similar scripting capability
+Strong communication skills and the ability to collaborate across distributed teams
+
+
+Highly Regarded
+
+
+IoT platforms and connected devices
+MQTT, LTE-M, NB-IoT or LoRa
+Grafana, Prometheus or similar tooling
+Multi-region cloud deployments
+DevSecOps practices
+High-volume telemetry or time-series workloads
+
+
+Why This Role Is Different
+
+The systems you build don't just support software. They help farmers manage livestock, improve productivity and enhance animal welfare.
+
+Your Work Will Influence
+
+
+A rapidly growing global technology platform
+Thousands of connected devices in the field
+Customer experience and platform reliability
+The future of digital agriculture
+
+
+You'll see the real-world impact of what you build.
+
+Supporting a Global Customer Base
+
+A key aspect of this role is supporting our growing North American customer base.
+
+To provide strong coverage during US business hours, this role requires flexibility to work outside standard New Zealand business hours when needed. We recognise this commitment and offer a compensation package that reflects the additional flexibility and coverage responsibilities associated with the role.
+
+Benefits We Offer
+
+We know talented engineers have options, so we invest in creating an environment where great people can do meaningful work and continue to grow their careers.
+
+We Offer
+
+
+Competitive salary + performance incentives
+Real career growth as we scale products globally
+Modern tools, technology and equipment to do your best work
+A practical, collaborative team that gets things done
+KiwiSaver contributions
+Boost App membership and staff discounts across New Zealand
+Life & Disability Insurance for added peace of mind
+Free parking, subsidised on-site café and excellent amenities on our Hamilton campus
+Employee Assistance Programme (EAP)
+Ongoing learning and development opportunities
+Flexible working arrangements
+The backing of Gallagher's global network combined with the pace and innovation of a high-growth technology business
+
+
+If you're excited by cloud infrastructure, AWS, platform engineering and building technology that is transforming agriculture globally, we'd love to hear from you.
+
+Applications will be reviewed as they are received and an appointment may be made before the closing date, so don't delay in applying.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Gallagher by 2x
+
+See who you know
+
+Get notified about new Software Engineer jobs in Hamilton, Waikato, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Senior Digital Infrastructure Engineer
+Senior Digital Infrastructure Engineer
+The University of Waikato
+Hamilton, Waikato, New Zealand
+1 week ago
+Software Engineer - Internal Platform Team
+Software Engineer - Internal Platform Team
+Gallagher Security
+Hamilton, Waikato, New Zealand
+1 week ago
+Information Security Engineer
+Information Security Engineer
+Gallagher
+Hamilton, Waikato, New Zealand
+2 weeks ago
+Software Engineer – Intermediate/Senior
+Software Engineer – Intermediate/Senior
+Gallagher Security
+Hamilton, Waikato, New Zealand
+2 weeks ago
+Support Technician
+Support Technician
+First Focus
+Hamilton, Waikato, New Zealand
+2 months ago
+Software Engineer
+Software Engineer
+Gallagher
+Hamilton, Waikato, New Zealand
+5 days ago
+Show more jobs like this 
+People also viewed
+Research & Development Specialist
+Research & Development Specialist
+
+Halter
+
+Island Block, Waikato, New Zealand
+1 week ago
+Field Support Officer
+Field Support Officer
+
+Livestock Improvement Corporation (LIC)
+
+Hamilton, Waikato, New Zealand
+1 week ago
+Senior Automation Systems Engineer
+Senior Automation Systems Engineer
+
+AllRecruits
+
+Hamilton, Waikato, New Zealand
+1 week ago
+Technical Specialist
+Technical Specialist
+
+Sandvik
+
+Waikato, New Zealand
+3 weeks ago
+Embedded Software Engineer
+Embedded Software Engineer
+
+Gallagher Security
+
+Hamilton, Waikato, New Zealand
+2 weeks ago
+Solution Architect
+Solution Architect
+
+Datacom
+
+Hamilton, Waikato, New Zealand
+8 hours ago
+Solution Architect
+Solution Architect
+
+Datacom
+
+Tauranga, Bay of Plenty, New Zealand
+8 hours ago
+Senior Developer / Tech Lead - AI LAB
+Senior Developer / Tech Lead - AI LAB
+
+Datacom
+
+Tauranga, Bay of Plenty, New Zealand
+5 days ago
+Senior Developer / Tech Lead - AI LAB
+Senior Developer / Tech Lead - AI LAB
+
+Datacom
+
+Hamilton, Waikato, New Zealand
+5 days ago
+Software Asset & Licensing Coordinator
+Software Asset & Licensing Coordinator
+
+Gallagher
+
+Hamilton, Waikato, New Zealand
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Gallagher
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

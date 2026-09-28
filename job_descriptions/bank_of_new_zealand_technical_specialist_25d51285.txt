@@ -1,0 +1,250 @@
+Title: Technical Specialist
+Company: Bank of New Zealand
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/technical-specialist-at-bank-of-new-zealand-4465927209
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role's focus on cloud platform engineering, automation, and CI/CD aligns well with her DevOps and release management background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Specialist
+Bank of New Zealand  Auckland, Auckland, New Zealand
+1 week ago  71 applicants
+  
+
+See who Bank of New Zealand has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Here at BNZ, it's about more than just banking. We work together in an agile, energising environment to create innovative solutions through our promise "If you can imagine a better future, let's find a way."
+
+We support wellbeing, flexible working and have a generous leave offering. There is the opportunity for growth, learning and career development. No two days are the same.
+
+
+
+
+Ko mātou tēnei | This is Us
+
+
+At BNZ, our Platforms Domain is focused on enabling engineers through platform products that are simple to use, secure, resilient, and fit for purpose. We embrace Infrastructure as Code, automation, and cloud-native engineering practices to help teams deliver great outcomes for our customers.
+
+The Cloud team builds and operates BNZ's core AWS and Azure platforms, enabling hundreds of engineers to build, deploy, and run applications safely and efficiently across cloud environments. We also support related infrastructure technologies and services that form part of BNZ's wider container ecosystem.
+
+Our mission is simple: reduce complexity, automate wherever possible, and create self-service experiences that help engineering teams move faster. Whether it's pre-configured cloud environments, guard rails and default compliance, automation tooling, or developer enablement, we're constantly looking for ways to make life easier for our customers.
+
+We're a team that values learning, experimentation, collaboration, and continuous improvement. If you're passionate about cloud technologies, platform engineering, and helping others succeed, you'll feel right at home.
+
+
+Mō te Tūranga | About the Role
+
+We sat down with the People Leader (who you would report to) and they told us the following about the role:
+
+This role will be based in Auckland. It is a hybrid role with three days in the office and two days where you can work flexibly.
+
+What are 5 day to day tasks the person in this role will complete?
+
+
+Build, operate, and improve core AWS and Azure platforms.
+Automate platform operations, provisioning, patching, and compliance activities.
+Solve complex platform, reliability, and performance challenges.
+Partner with engineering teams to improve platform adoption and self-service capabilities.
+Work with the team to create platform standards, documentation, and engineering guidance.
+Help drive improvements in security, reliability, automation, and developer experience.
+
+
+What is the team culture and environment like?
+
+We're a collaborative, high-trust team that enjoys solving complex problems together. We value autonomy, continuous learning, and knowledge sharing, giving people the freedom to drive improvements and make an impact. You'll work alongside experienced engineers who are passionate about cloud technologies, automation, and helping others succeed.
+
+What skills and experiences are required for this role?
+
+Cloud platforms (AWS and/or Azure)
+Security and compliance cloud-native services
+Infrastructure as Code
+CI/CD pipelines and deployment automation
+GitOps concepts and tooling
+Scripting and automation (Python, PowerShell, Bash)
+Observability and monitoring platforms
+Networking, security, and platform troubleshooting skills
+
+
+
+
+
+
+
+
+
+
+This is an exciting opportunity to join us! We're bold thinkers who are taking brave steps to create a company that people want to work for, and customers want to bank with. If you're ready to join a fun organisation where we are proud of our culture and how we are helping New Zealander's to 'Find their way', then show your interest by submitting your application - we can't wait to read it.
+
+Ehara taku toa i te toa takitahi, engari he toa takitini" - Success is not the work of an individual, but the work of many."
+
+Applications will be reviewed regularly across the advertising period, but we do reserve the right to close applications early.
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Bank of New Zealand by 2x
+
+See who you know
+
+Get notified about new Technical Specialist jobs in Auckland, Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Technical Specialist - Network
+Technical Specialist - Network
+Halter
+Auckland, New Zealand
+2 weeks ago
+Mobility Specialist (12 Months Fixed Term Contract)
+Mobility Specialist (12 Months Fixed Term Contract)
+Datacom
+Auckland, Auckland, New Zealand
+1 week ago
+Engineering Operations Technician, AKL Cluster
+Engineering Operations Technician, AKL Cluster
+Amazon Web Services (AWS)
+Auckland, Auckland, New Zealand
+2 weeks ago
+BMS Senior Technical Services Lead
+BMS Senior Technical Services Lead
+Honeywell Technologies
+Auckland, Auckland, New Zealand
+4 days ago
+Technical Lead - Remote Operations
+Technical Lead - Remote Operations
+Sky New Zealand
+Auckland, Auckland, New Zealand
+3 weeks ago
+Enterprise Solutions Specialist
+Enterprise Solutions Specialist
+Wesco Anixter NZ
+Auckland, New Zealand
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Junior Core Systems Specialist (12 months FTC)
+Junior Core Systems Specialist (12 months FTC)
+
+AIA NZ
+
+Auckland, Auckland, New Zealand
+1 week ago
+Field Service Engineer (New Zealand)
+Field Service Engineer (New Zealand)
+
+Beckman Coulter Life Sciences
+
+Auckland, Auckland, New Zealand
+4 days ago
+Modern Workplace Engineer
+Modern Workplace Engineer
+
+Les Mills Brasil 🇧🇷
+
+Auckland, Auckland, New Zealand
+3 months ago
+Field Service Engineer
+Field Service Engineer
+
+Stryker
+
+Auckland, Auckland, New Zealand
+6 days ago
+Junior Fleet Operations Engineer
+Junior Fleet Operations Engineer
+
+Halter
+
+Auckland, New Zealand
+1 month ago
+Support Technician
+Support Technician
+
+First Focus
+
+Auckland, Auckland, New Zealand
+2 months ago
+Technical Lead
+Technical Lead
+
+Danone
+
+Auckland, Auckland, New Zealand
+1 week ago
+Manhattan WMS Specialist
+Manhattan WMS Specialist
+
+Tata Consultancy Services
+
+Auckland, New Zealand
+2 weeks ago
+Field Services Engineer
+Field Services Engineer
+
+NCR Voyix
+
+Auckland, New Zealand
+5 days ago
+Neutron Composite Technician
+Neutron Composite Technician
+
+Rocket Lab
+
+Warkworth, Auckland, New Zealand
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Bank of New Zealand
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,251 @@
+Title: Senior Platform Engineer
+Company: Westpac New Zealand
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/senior-platform-engineer-at-westpac-new-zealand-4465964232
+Posted: 2026-09-21
+Deadline: 2026-10-01
+Reason: The role focuses on automation, CI/CD, and configuration management, which aligns perfectly with her extensive experience in DevOps and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer
+Westpac New Zealand  Auckland, New Zealand
+1 week ago  47 applicants
+  
+
+See who Westpac New Zealand has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Mō te tūranga | About the Role
+
+As an experienced Senior Platform Engineer, you will lead the evolution of our operating system image management and automation capabilities across enterprise infrastructure.
+
+This is a technical role where you'll drive the design, implementation, and continual improvement of our automated operating system build and configuration management platforms. You'll play a key role in implementing and enhancing our Image Factory capability.
+
+Working within a collaborative engineering environment, you'll help deliver secure, standardised, and automated operating system platforms that support both on-premises and cloud-based services.
+
+Nā tāu rourou | What will you bring?
+
+Essential Skills
+
+
+Strong experience in infrastructure, platform engineering, or systems engineering environments.
+Experience designing, developing, and delivering end-to-end automation solutions, from requirements gathering and solution design through to implementation, testing, deployment, and operational support.
+Strong base knowledge of Windows and Linux Operating Systems particularly around build standards, provisioning, patching, upgrade planning, vulnerability remediation, and compliance.
+Strong experience with infrastructure automation and configuration management tools including Packer, Terraform, Ansible.
+Strong scripting and automation capability using PowerShell, Python, Bash, or similar languages.
+Expertise with source control and collaborative development practices using Git, GitHub, or Bitbucket.
+Experience implementing and maintaining CI/CD pipelines using tools such as Jenkins, CloudBees, GitLab CI and Azure DevOps.
+Experience supporting highly available, resilient, and secure enterprise platforms.
+
+
+Desirable Skills
+
+
+Experience with VMware technologies, particularly: VMware vSphere, VMware Aria Suite.
+Experience with containerisation technologies including Docker and Kubernetes.
+Understanding of networking fundamentals including: VLANs, Subnets, Firewalls.
+Experience working within Agile methodologies and practices.
+Experience working with vulnerability management and patching platforms including Nessus, Microsoft Endpoint Configuration Manager (MECM), Red Hat Satellite
+Experience working within a complex or highly regulated environment.
+Exposure to cloud platforms and hybrid infrastructure environments.
+Relevant tertiary qualification in Information Technology, Engineering, Computer Science, or a related discipline.
+
+
+Westpac Hei Wāhi Mahi | Working at Westpac
+
+In addition to immersing yourself in a supportive team environment, you'll receive some great job perks and benefits including:
+
+
+4 weeks standard holiday + 5 additional days of wellbeing leave to support you to be your best
+Additional purchased leave options up to 4 weeks per year
+Banking benefits, insurance discounts and superannuation scheme
+Growth and development – we provide opportunities for development and promote internal mobility
+Recognition - we recognise and reward our star performers
+School holiday subsidy - help you balance work and family during school holiday
+2 Volunteer days per year
+
+
+Ko mātou tēnei | Our Organisation
+
+At Westpac, we’re working together to build a fairer and stronger New Zealand for our people, customers, and communities. For over 160 years we’ve been driven by our purpose to Create Better Futures Together.
+
+What makes us unique are the incredible people we’re lucky enough to have walk through our doors every day. The giant ‘W’ on our building doesn’t just stand for Westpac – it says, double you. We’re a place that values, rewards and recognises individuality. Where you can be your whole self, your true self, and your best self. We’re recognised as a place where talent is developed, where passions are fuelled and where ambitions of all shapes and sizes thrive. And it all starts with you!
+
+Tono mai ināianei! | Apply Now!
+
+Apply today with your CV and Cover Letter.
+
+The people of Aotearoa, New Zealand hail from many cultures and backgrounds. At Westpac New Zealand, we draw on this enormous talent pool to cultivate a team rich in ability and empowered to reach its full potential. Our aim is to be brave challengers, celebrating our differences and relentlessly advocating for our customers. It starts with us – we believe that when we care deeply and do our best for our people, they’ll do their best for our customers. We encourage people from all walks of life to apply, including those who are neurodiverse, have chronic health conditions or disabilities – your attitude and passion are as important to us as your experience, qualifications and capabilities.
+
+Mahi tahi tātou, kaha ake tātou | Together Greater
+
+Applications Close
+
+1 October 2026
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at Westpac New Zealand by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Cloud Platform Engineer
+Cloud Platform Engineer
+IAG
+Auckland, Auckland, New Zealand
+3 days ago
+Senior Platform Engineer (Connected Aircraft)
+Senior Platform Engineer (Connected Aircraft)
+Air New Zealand
+Auckland, New Zealand
+1 week ago
+Senior Software Engineer - Platform
+Senior Software Engineer - Platform
+Halter
+Auckland, New Zealand
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Tracksuit
+Auckland, Auckland, New Zealand
+NZ$150,000 - NZ$190,000
+6 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Tracksuit
+Auckland, New Zealand
+NZ$150,000 - NZ$190,000
+6 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+Level
+Auckland, Auckland, New Zealand
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer - AWS
+Cloud Engineer - AWS
+
+Datacom
+
+Auckland, Auckland, New Zealand
+3 weeks ago
+Senior Backend Engineer (Go) (Location - Australia or New Zealand)
+Senior Backend Engineer (Go) (Location - Australia or New Zealand)
+
+Creative Fabrica
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Systems Engineer - Private Cloud
+Systems Engineer - Private Cloud
+
+ASB Bank
+
+Auckland, New Zealand
+5 days ago
+Senior Machine Learning Systems Engineer
+Senior Machine Learning Systems Engineer
+
+Atlassian
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Principal Engineer
+Principal Engineer
+
+Tribe Group
+
+Auckland, Auckland, New Zealand
+2 days ago
+Staff Engineer
+Staff Engineer
+
+Kernel
+
+Auckland, Auckland, New Zealand
+1 month ago
+Senior Security Engineer - Cloud Platform
+Senior Security Engineer - Cloud Platform
+
+Xero
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Software Engineer (ASR - Edge)
+Senior Software Engineer (ASR - Edge)
+
+Auror
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+IT Systems Engineer II
+IT Systems Engineer II
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+1 day ago
+Platform Tech Lead
+Platform Tech Lead
+
+Generate KiwiSaver Scheme
+
+Auckland, Auckland, New Zealand
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Westpac New Zealand
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,251 @@
+Title: Unix OpenShift Dev Ops Specialist
+Company: One New Zealand
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/unix-openshift-dev-ops-specialist-at-one-new-zealand-4468336766
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a DevOps/Automation position in a target country (New Zealand) that aligns with the candidate's extensive experience in CI/CD, automation, and technical leadership.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Unix OpenShift Dev Ops Specialist
+One New Zealand  Auckland, Auckland, New Zealand
+1 week ago   Be among the first 25 applicants
+  
+
+See who One New Zealand has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from One New Zealand
+
+Dean Whittingham
+Dean Whittingham
+Senior TA Leader with experience in delivery, systems and operations in high growth environments.
+He aha ai tātou – Why us?
+
+At One NZ we’re not just imagining the future, we’re building it. Our purpose? A better-connected Aotearoa New Zealand. Kia renarena te taukaea i Aotearoa New Zealand.
+
+Our ambition? To become the most AI-enabled telco on the planet. This isn’t just about our technology, It’s about you. We’re investing in our people like never before.... empowering them to grow, lead, and shape what’s next.
+
+Through our AI School, access to world-class learning platforms, or career pathways that evolve with you, we create an environment where your curiosity thrives, and your skills accelerate.
+
+Join us and be part of something extraordinary: connect with purpose and help redefine what’s possible.
+
+Uia mai koe te pātai, he aha te mea nui o tēnei ao? Māku koe e ki atu he tangata, he tangata, he tangata.
+
+“If you asked me, what is the greatest thing in this world, I would say it is people, it is people, it is people.”
+
+Ko tō tūranga – your role
+
+As the Unix OpenShift Dev Ops Specialist, you’ll be a technical leader at the heart of One NZ’s Private d Infrastructure environment. Your key responsibilities will be for our Private Cloud OpenShift platforms, covering both IT and Network workloads, both build and operate. You will be experienced in automation tools such as Ansible Automation and be a driver of developing DevOps capability across our onshore and offshore teams. Your expertise in OpenShift and Kubernetes will help us build more reliable, resilient and high-performing infrastructure, all critical to One NZ.
+
+Ko Tō Mahi – What You’ll Do
+
+
+Develop and maintain Private Cloud platforms, including Red Hat OpenShift, Ansible Automation and OpenShift Virtualisation.
+Drive automation across OpenShift clusters and technologies, including automated cluster builds and hardware configuration.
+Champion Ansible Automation and promote its use across the wider IT community.
+Provide technical leadership, mentoring and continual knowledge sharing for Unix engineers onshore and offshore.
+Proactively manage One NZ’s virtual and physical *Nix environments to maintain platform availability and stability.
+Provide technical input into the future design of server-based operating environments.
+Consult with projects to guide and direct technical design.
+Support technology projects to achieve agreed time, cost and quality outcomes.
+
+
+Na Tōu Rourou - What You’ll Bring
+
+
+At least 10 years’ Unix operating systems experience and/or a relevant tertiary qualification.
+Recognised expertise across Red Hat technologies including RHEL, OpenShift, Ansible and Virtualisation.
+Excellent OpenShift and Kubernetes capability, with a strong automation mindset.
+Experience with programming and scripting languages, specifically YAML.
+Red Hat OpenShift certifications preferred.
+Strong technical leadership skills with the ability to coach, mentor and support a high-performing team.
+Ability to make decisions under pressure and prioritise effectively according to business needs.
+Strong stakeholder management skills and the ability to build effective internal and external relationships.
+Excellent written and verbal communication skills, with strong attention to detail and quality.
+
+
+Nā Mātou Te Rourou – What You’ll Get
+
+
+One New Zealand is leading the way by ensuring you can have a truly balanced life. Most roles allow flexibility to work from home and flex your hours to enjoy work & whānau commitments.
+A fully subsidised Southern Cross health insurance cover for you and your family.
+Lifestyle leave, giving you the option to purchase an extra week or two of annual leave.
+Discounts on One New Zealand products, services and much more!
+
+
+We are proudly Rainbow Tick certified and champion diversity of thought, perspective and background. Joining our whānau is more than starting a new job - it’s the beginning of a journey that will challenge and inspire you to play a role in something bigger.
+
+Tū hikitia rā, tū hāpainga. Tū hāpainga, tū hikitia rā.
+
+We stand to uplift, to support and to elevate others.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at One New Zealand by 2x
+
+See who you know
+
+Get notified about new Unix Specialist jobs in Auckland, Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Architect – Red Hat OpenShift & Cloud-Native Solutions
+Architect – Red Hat OpenShift & Cloud-Native Solutions
+Red Hat
+Auckland, Auckland, New Zealand
+1 week ago
+Technical Specialist
+Technical Specialist
+Bank of New Zealand
+Auckland, Auckland, New Zealand
+1 week ago
+Systems Reliability Engineer
+Systems Reliability Engineer
+Propellerhead
+Auckland, New Zealand
+2 days ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+IAG
+Auckland, Auckland, New Zealand
+3 days ago
+DevOps Product Manager
+DevOps Product Manager
+Global Wave Group
+Auckland, New Zealand
+2 weeks ago
+Cloud Engineer - AWS
+Cloud Engineer - AWS
+Datacom
+Auckland, Auckland, New Zealand
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability Engineer, ANZ
+Senior Site Reliability Engineer, ANZ
+
+Partly
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Tracksuit
+
+Auckland, Auckland, New Zealand
+NZ$150,000 - NZ$190,000
+6 days ago
+solution architect (cloud, devops & security)
+solution architect (cloud, devops & security)
+
+Randstad Digital New Zealand
+
+Auckland, Auckland, New Zealand
+3 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Tracksuit
+
+Auckland, New Zealand
+NZ$150,000 - NZ$190,000
+6 days ago
+Lead Software Engineer - Platform
+Lead Software Engineer - Platform
+
+Halter
+
+Auckland, New Zealand
+1 month ago
+Cloud Engineer
+Cloud Engineer
+
+Southern Cross Health Insurance
+
+Auckland, Auckland, New Zealand
+5 days ago
+Senior Software Engineer - Platform
+Senior Software Engineer - Platform
+
+Halter
+
+Auckland, New Zealand
+1 month ago
+Senior System Engineer, Dev Ops
+Senior System Engineer, Dev Ops
+
+MAS - Medical Assurance Society
+
+Auckland Metropolitan Area
+1 week ago
+Platform Security Engineer, NZ
+Platform Security Engineer, NZ
+
+Partly
+
+Auckland, Auckland, New Zealand
+3 weeks ago
+Salesforce Software Specialist - SRE - Lend & Protect
+Salesforce Software Specialist - SRE - Lend & Protect
+
+ASB Bank
+
+Auckland, Auckland, New Zealand
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at One New Zealand
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,218 @@
+Title: Platform Engineer
+Company: Share
+Location: Wellington, Wellington, New Zealand
+URL: https://nz.linkedin.com/jobs/view/platform-engineer-at-share-4465925331
+Posted: 2026-09-21
+Deadline: N/A
+Reason: This senior Platform Engineer role in New Zealand aligns with her extensive experience in DevOps, CI/CD, and infrastructure automation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer
+Share  Wellington, Wellington, New Zealand
+1 week ago  36 applicants
+  
+
+See who Share has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Share
+
+Share is a venture backed company building the marketplace for bandwidth: the infrastructure layer that connects internet capacity suppliers to every individual and business that runs on it.
+
+Today, bandwidth is the most in-demand asset in the world, but its buy/sell process is highly fragmented and inefficiently priced. Share brings the supply and demand together by building distributed routing nodes and connecting carriers, ISPs, data centers, and enterprise buyers through a neutral exchange, turning bandwidth into a liquid, tradeable resource.
+
+We're building the category-defining marketplace for how bandwidth gets bought, sold, and delivered globally.
+
+The Role
+
+Share's infrastructure runs the marketplace: every API call, every monitoring signal, every system that keeps carriers, ISPs, and enterprise buyers transacting without interruption. We're looking for a senior Platform Engineer to scale that infrastructure at the pace the marketplace is growing: modern, cloud-native infrastructure: Kubernetes, cloud architecture, containers and virtualization, and the APIs and DevOps practices holding it all together.
+
+This isn't just an operational role. We need someone who leads, who catches problems before they escalate, who pushes the team toward better decisions based on knowledge and experience. You'll work alongside our systems engineer and very closely with the network and software teams.
+
+Our Ideal Candidate
+
+
+7+ years of professional systems/infrastructure engineering experience, with real ownership of infrastructure at scale.
+A leadership mindset, not just an operational one; you take responsibility for outcomes, catch issues before they become incidents, and push for the right call for your team and the company.
+Deep Kubernetes expertise: you've deployed, scaled, and debugged production clusters.
+Strong cloud infrastructure experience (GCP preferred): networking, IAM, cost and capacity planning, multi-region architecture.
+Real depth across the full stack, old and new: production Docker and container orchestration, and virtualization technologies (VMware, KVM, Hyper-V or similar). You're equally comfortable from the VM layer up through containers and orchestration, not specialized in just one.
+Deep production API design and management experience.
+AI-native in your workflow: you've built with these tools, not just used them, and can show the leverage you've gained.
+You ship, and you drive. Handed a systems problem, you scope it, build it, own it through production, and use what you've learned to push the department forward.
+
+
+Compensation & Benefits
+
+Competitive salary (top of the local market where you are located) and meaningful equity in a mission-driven, investor-backed company A high-ownership environment with a steep but well-supported learning curve, and a team that writes things down.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Share by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Wellington, Wellington, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+New Zealand
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+IgniteTech
+New Zealand
+$100,000 - $100,000
+3 days ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+centrapay
+New Zealand
+NZ$90,000 - NZ$125,000
+3 days ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+centrapay
+Wellington, Wellington, New Zealand
+NZ$90,000 - NZ$125,000
+3 days ago
+Software Engineer
+Software Engineer
+Microsoft
+New Zealand
+3 weeks ago
+Principal Engineer - Cloud & DevOps
+Principal Engineer - Cloud & DevOps
+LAB3
+Wellington, Wellington, New Zealand
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Backend Engineer (NZ-based)
+Senior Backend Engineer (NZ-based)
+
+Ticketure
+
+Wellington, Wellington, New Zealand
+1 month ago
+Senior Cloud & Modern Workplace Engineer
+Senior Cloud & Modern Workplace Engineer
+
+Morrison
+
+Wellington, New Zealand
+3 weeks ago
+IT Generalist
+IT Generalist
+
+Rex.zone
+
+New Zealand
+NZ$63,360 - NZ$126,720
+5 days ago
+Seeking Systems/Software, Data, Dev/Ops, and Test Engineers!
+Seeking Systems/Software, Data, Dev/Ops, and Test Engineers!
+
+Stats NZ
+
+Wellington, Wellington, New Zealand
+1 week ago
+Senior Software Engineer
+Senior Software Engineer
+
+LawVu
+
+New Zealand
+6 days ago
+Solutions Engineer, Auckland
+Solutions Engineer, Auckland
+
+Verkada
+
+New Zealand
+4 days ago
+Senior Systems Engineer | Kaipūkaha Pūnaha Matua
+Senior Systems Engineer | Kaipūkaha Pūnaha Matua
+
+Stats NZ
+
+Wellington, Wellington, New Zealand
+3 days ago
+Data Engineer – Data Platforms
+Data Engineer – Data Platforms
+
+Kiwibank
+
+Wellington, Wellington, New Zealand
+3 days ago
+Senior Security Engineer - Cloud Platform
+Senior Security Engineer - Cloud Platform
+
+Xero
+
+Wellington, Wellington, New Zealand
+1 week ago
+Senior Full Stack Developer
+Senior Full Stack Developer
+
+LAB3
+
+Wellington, Wellington, New Zealand
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Share
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

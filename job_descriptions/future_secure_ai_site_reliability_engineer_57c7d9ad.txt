@@ -1,0 +1,266 @@
+Title: Site Reliability Engineer
+Company: Future Secure AI
+Location: Wellington, Wellington, New Zealand
+URL: https://nz.linkedin.com/jobs/view/site-reliability-engineer-at-future-secure-ai-4451382447
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role aligns with her extensive experience in DevOps, CI/CD, and automation within a target country (New Zealand).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer
+Future Secure AI  Wellington, Wellington, New Zealand
+5 days ago   Be among the first 25 applicants
+  
+
+See who Future Secure AI has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+About the Company
+
+At Future Secure AI, we're building something genuinely new — and we're looking for people bold enough to build it with us. We work at the frontier of AI, tackling big, real-world problems for global enterprises across multiple industries, armed with state-of-the-art technology and a culture that prizes courage, rigor, and relentless curiosity. Our BRAVER values aren't just words on a wall — they describe the kind of people we are and the standard we hold ourselves to every day. Our leadership team is entrepreneurial, experienced, and accessible, with an open-door policy that means you'll never be just a number here. We invest seriously in your growth because we know our success depends on yours. If you're ready to work alongside some of the brightest minds in the industry, push into uncharted territory, and do work that genuinely matters, Future Secure AI is the place for you.
+
+
+
+
+About the Company
+
+At Future Secure AI, we're building something genuinely new — and we're looking for people bold enough to build it with us. We work at the frontier of AI, tackling big, real-world problems for global enterprises across multiple industries, armed with state-of-the-art technology and a culture that prizes courage, rigor, and relentless curiosity. Our BRAVER values aren't just words on a wall — they describe the kind of people we are and the standard we hold ourselves to every day. Our leadership team is entrepreneurial, experienced, and accessible, with an open-door policy that means you'll never be just a number here. We invest seriously in your growth because we know our success depends on yours. If you're ready to work alongside some of the brightest minds in the industry, push into uncharted territory, and do work that genuinely matters, Future Secure AI is the place for you.
+
+We are looking for a Site Reliability Engineer to help design and deploy, and operate the platforms that power AI Co-Workers. This is a hands-on role for an engineer who enjoys owning reliability end-to-end and working closely with product, AI, and engineering teams.
+
+
+
+
+What You'll Do
+
+Design, build, and operate reliable production infrastructure supporting AI Co-Workers
+Own Kubernetes-based platforms used to deploy and run AI workloads
+Build and maintain infrastructure as code using Terraform
+Implement and maintain Helm-based deployment workflows
+Build and improve observability across monitoring, logging, and alerting
+Partner closely with engineers to ensure systems are resilient, scalable, and secure
+
+
+
+
+What You'll Have
+
+Hands-on Kubernetes experience designing, building, or operating workloads on EKS, AKS, GKE, or self-managed Kubernetes
+Hands-on Terraform experience for infrastructure provisioning and automation
+Hands-on Helm experience for Kubernetes application deployment
+Professional experience using at least two programming or scripting languages such as Python, Go, Java, Bash, PowerShell, or Ruby
+Strong communication skills, with the ability to run technical conversations at engineer level and adjust for leadership-level discussions
+
+
+
+
+Should-Have Criteria
+
+Experience working within a defined SDLC, including CI/CD, release processes, and end-to-end delivery from design to operations
+Hands-on experience with at least one major cloud provider such as AWS, Azure, or Google Cloud
+Experience with ArgoCD or GitOps-style deployment approaches
+Five or more years of relevant professional experience
+DevOps experience, including CI/CD ownership, infrastructure automation, and security considerations
+
+Preferable Criteria
+
+
+
+
+Relevant certifications such as CKA, CKAD, cloud certifications, DevOps, DevSecOps, or programming credentials
+
+
+
+
+Why Join Us?
+
+A high-performance culture
+State-of-the-art technology
+World-class leadership
+Scale of impact and purpose
+A competitive salary and strong growth trajectory
+Work alongside the best in the industry
+Flexible work environment
+Diversity and creativity
+
+
+
+
+Disclaimer: We do not wish to be contacted by recruitment agencies. Our hiring process is managed in-house, and the best way for candidates to express interest is by applying with your resume through our company website.
+
+
+
+
+Future Secure AI Privacy Policy
+
+At Future Secure AI, we are committed to protecting your privacy and adhering to the principles of the General Data Protection Regulation (GDPR) and the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth). Our Privacy Policy outlines how we collect, use, share, and protect your personal data when you visit our website at www.futuresecure.ai (the "Website") and use our services.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Future Secure AI by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Wellington, Wellington, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+centrapay
+Wellington, Wellington, New Zealand
+NZ$90,000 - NZ$125,000
+3 days ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+Comply365
+Wellington, Wellington, New Zealand
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Share
+Wellington, Wellington, New Zealand
+1 week ago
+Cloud Engineer - AWS
+Cloud Engineer - AWS
+Datacom
+Wellington, Wellington, New Zealand
+3 weeks ago
+Systems Engineer
+Systems Engineer
+Share
+Wellington, Wellington, New Zealand
+1 week ago
+Cloud Engineer
+Cloud Engineer
+ACC New Zealand
+Wellington, Wellington, New Zealand
+NZ$138,573 - NZ$166,288
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Engineer - Database
+Senior Engineer - Database
+
+Xero
+
+Wellington City, Wellington, New Zealand
+2 weeks ago
+Senior Cloud & Modern Workplace Engineer
+Senior Cloud & Modern Workplace Engineer
+
+Morrison
+
+Wellington, New Zealand
+3 weeks ago
+Cloud & AI Solution Engineer - Azure Platform
+Cloud & AI Solution Engineer - Azure Platform
+
+Microsoft
+
+Wellington, Wellington, New Zealand
+2 weeks ago
+Principal Engineer
+Principal Engineer
+
+Westpac New Zealand
+
+Wellington, New Zealand
+3 hours ago
+Senior Backend Engineer (Go) (Location - Australia or New Zealand)
+Senior Backend Engineer (Go) (Location - Australia or New Zealand)
+
+Creative Fabrica
+
+Wellington, Wellington, New Zealand
+2 weeks ago
+Senior Operations Engineer
+Senior Operations Engineer
+
+Veolia | Australia & New Zealand
+
+Wellington, New Zealand
+1 week ago
+Founding Engineer, Wellington
+Founding Engineer, Wellington
+
+Marloo
+
+Wellington, Wellington, New Zealand
+NZ$100,000 - NZ$140,000
+5 months ago
+Senior HPC & AI Deployment Engineer
+Senior HPC & AI Deployment Engineer
+
+Hewlett Packard Enterprise
+
+Wellington, Wellington, New Zealand
+4 hours ago
+Senior Backend Engineer (NZ-based)
+Senior Backend Engineer (NZ-based)
+
+Ticketure
+
+Wellington, Wellington, New Zealand
+1 month ago
+Solution Architect
+Solution Architect
+
+Ministry of Education New Zealand
+
+Wellington, Wellington, New Zealand
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Future Secure AI
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
