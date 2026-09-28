@@ -1536,15 +1536,14 @@
     "url": "https://in.linkedin.com/jobs/view/devops-engineer-emea-us-shift-at-bluematrix-4358234859",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job aligns with Priya's DevOps expertise (CI/CD, infrastructure automation) and is located in India (a target country), while meeting her visa sponsorship needs (posting does not restrict right-to-work).",
+    "reason": "The job as a DevOps Engineer in Hyderabad, India matches Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated environments, along with her openness to relocating to India.",
     "id": "55740539",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-01-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/bluematrix_devops_engineer___emea_us_shif_55740539.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/bluematrix_devops_engineer___emea_us_shif_55740539.txt"
   },
   {
     "title": "Senior Devops Engineer",
@@ -1552,16 +1551,15 @@
     "location": "Mumbai Metropolitan Region",
     "url": "https://in.linkedin.com/jobs/view/senior-devops-engineer-at-shopse-digital-finance-4416731996",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role aligns with DevOps Engineer criteria (CI/CD pipeline ownership, infrastructure management) and is located in India (target country), but the candidate\u2019s primary experience in configuration/release management may require further evaluation against the job\u2019s specific infrastructure-as-code and cloud-ops focus.",
+    "matches_requirements": "yes",
+    "reason": "The Senior DevOps Engineer role at ShopSe Digital Finance aligns with Priya's expertise in CI/CD pipelines, infrastructure management, and automation, matching the 'DevOps Engineer' category under target job criteria. The location (India) is within her approved countries, and the senior-level position fits her experience.",
     "id": "0feda647",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/shopse_digital_finan_senior_devops_engineer_0feda647.txt"
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1823,15 +1821,14 @@
     "url": "https://za.linkedin.com/jobs/view/junior-devops-engineer-at-digioutsource-4301344205",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is explicitly entry-level (Junior DevOps Engineer) and targets candidates with little to no experience, which does not align with Priya's mid-to-senior level experience and career focus.",
+    "reason": "The job is explicitly entry-level (Junior DevOps Engineer) and targets candidates with little to no experience, which conflicts with Priya\u2019s mid-to-senior level experience and career stage.",
     "id": "3b552504",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer (Architecture)",
@@ -1839,16 +1836,15 @@
     "location": "Durban, KwaZulu-Natal, South Africa",
     "url": "https://za.linkedin.com/jobs/view/senior-devops-engineer-architecture-at-betsoftware-4358189402",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role aligns with DevOps Engineer (CI/CD pipeline ownership, infrastructure automation) but lacks explicit mention of regulated/safety-critical domains or technical documentation responsibilities, which were strongly preferred based on the candidate's background.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's expertise in CI/CD pipeline ownership, infrastructure automation (Terraform, Ansible), and DevOps practices, matching her background at Elektrobit and Topcon. The location (South Africa) is within her target countries, and the mid-senior level fits her experience.",
     "id": "02cd93eb",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-25",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/betsoftware_senior_devops_engineer__archit_02cd93eb.txt"
   },
   {
     "title": "AI-Focused DevOps Engineer",
@@ -1857,15 +1853,14 @@
     "url": "https://za.linkedin.com/jobs/view/ai-focused-devops-engineer-at-full-stack-4407732981",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role aligns with DevOps Engineer criteria (CI/CD, IaC) and is located in South Africa (target country), but the 'Entry level' designation may not accommodate her senior experience level.",
+    "reason": "The role aligns with DevOps Engineer (CI/CD experience) and is located in South Africa (target country), but it's explicitly entry-level while the candidate has ~15 years of senior experience, and visa sponsorship requirements are unclear.",
     "id": "77506a42",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -1873,16 +1868,15 @@
     "location": "Cape Town, Western Cape, South Africa",
     "url": "https://za.linkedin.com/jobs/view/devops-engineer-at-amaris-consulting-part-of-mantu-4461077675",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job as a DevOps Engineer in Cape Town, South Africa matches Priya's expertise in CI/CD pipelines (Jenkins/GitLab CI), infrastructure automation, and regulated-industry experience, aligning with her background at Elektrobit and Topcon.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with DevOps Engineer role requirements (CI/CD pipelines, infrastructure as code) but lacks explicit mention of regulated/safety-critical domains or technical documentation responsibilities that match Priya's Topcon/Elektrobit background.",
     "id": "4c2f99ea",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/amaris_consulting____devops_engineer_4c2f99ea.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intermediate SRE / DevOps Engineer",
@@ -1891,15 +1885,14 @@
     "url": "https://za.linkedin.com/jobs/view/intermediate-sre-devops-engineer-at-kriterion-4465990645",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with Priya's DevOps and CI/CD expertise but is listed as 'Entry level' despite the 'Intermediate' title, which may not match her mid-to-senior experience level.",
+    "reason": "The role aligns with DevOps/Configuration Management expertise but is listed as 'Entry level', which may not match the candidate\u2019s preference for mid-to-senior roles despite her extensive experience.",
     "id": "60efb6b4",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -1908,15 +1901,14 @@
     "url": "https://za.linkedin.com/jobs/view/devops-engineer-at-equal-experts-south-africa-4464308340",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job matches on location (South Africa) and DevOps Engineer role type, but requires work authorization in South Africa which may necessitate visa sponsorship not explicitly confirmed by the posting.",
+    "reason": "The job aligns with DevOps Engineer role type and South Africa location, but visa sponsorship requirements are unclear as the posting only states 'must be based and have right to work in South Africa' without mentioning sponsorship availability.",
     "id": "4d44628c",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior AWS DevOps Engineer",
@@ -1925,15 +1917,14 @@
     "url": "https://za.linkedin.com/jobs/view/senior-aws-devops-engineer-at-lexisnexis-4443103322",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with Priya's DevOps expertise but lacks explicit mention of regulated/safety-critical industry experience, which she has strong background in.",
+    "reason": "The job aligns with the 'DevOps Engineer' role type (CI/CD pipeline ownership, infrastructure as code) and is located in South Africa (a target country), but requires specific AWS/Terraform expertise not explicitly listed in Priya's skills, though her CI/CD and automation experience may overlap.",
     "id": "617c6db9",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior AWS DevOps Engineer",
@@ -1942,15 +1933,14 @@
     "url": "https://za.linkedin.com/jobs/view/senior-aws-devops-engineer-at-relx-4446762840",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with DevOps Engineer role type and South Africa location, but requires specific AWS/Terraform expertise not explicitly detailed in the candidate\u2019s background, though her CI/CD and automation experience may overlap.",
+    "reason": "The role aligns with the candidate's DevOps/CI-CD expertise (Jenkins, GitHub Actions, Python automation) but requires specific AWS infrastructure-as-code tools (Terraform/AWS CloudFormation) not explicitly mentioned in her skills. Location (South Africa) and experience level are suitable.",
     "id": "4c5ea6fd",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -1958,16 +1948,15 @@
     "location": "Cape Town, Western Cape, South Africa",
     "url": "https://za.linkedin.com/jobs/view/devops-engineer-at-eqplus-technologies-pty-ltd-4459826077",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Priya's DevOps Engineer background (CI/CD pipelines, infrastructure automation) and is located in South Africa (target country). The job explicitly mentions regulated environments, matching her experience with MDR/ISO 13485 and ASPICE/TUV compliance.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with DevOps Engineer role type and location (South Africa), but is listed as 'Entry level' which may not match the candidate's mid-to-senior experience level preference.",
     "id": "d8db6da0",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/eqplus_technologies__devops_engineer_d8db6da0.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer (Infrastructure)",
@@ -1976,15 +1965,14 @@
     "url": "https://za.linkedin.com/jobs/view/devops-engineer-infrastructure-at-hire-feed-4467079558",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with the candidate's DevOps and CI/CD expertise but is listed as an 'Associate' role (potentially junior-level), which may not match her mid-to-senior experience level. Visa sponsorship requirements are unclear in the posting.",
+    "reason": "The job aligns with Priya's DevOps/CI-CD expertise and South Africa location, but the 'Associate' seniority level may not match her mid-to-senior experience expectations.",
     "id": "b5967332",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -1993,15 +1981,14 @@
     "url": "https://za.linkedin.com/jobs/view/devops-engineer-at-zensar-technologies-4466266076",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job as a DevOps Engineer in Johannesburg, South Africa matches Priyanga's expertise in CI/CD pipelines, Azure DevOps, Infrastructure as Code, and regulated environments, along with her preference for South Africa as a target country.",
+    "reason": "The job aligns with Priya's expertise as a DevOps Engineer (CI/CD pipeline ownership, infrastructure automation) in a regulated environment, located in South Africa (target country), and matches her configuration management experience.",
     "id": "c462bbca",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/zensar_technologies_devops_engineer_c462bbca.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/zensar_technologies_devops_engineer_c462bbca.txt"
   },
   {
     "title": "Senior AWS DevOps Engineer",
@@ -2010,15 +1997,14 @@
     "url": "https://za.linkedin.com/jobs/view/senior-aws-devops-engineer-at-lexisnexis-4398249531",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job aligns with Priya's experience as a Senior DevOps Engineer with CI/CD and automation expertise, located in South Africa (a target country), and matches her mid-to-senior level experience.",
+    "reason": "The role aligns with Priya's expertise in CI/CD pipelines (Jenkins, GitHub Actions), infrastructure as code (Terraform/AWS CloudFormation), and Python automation, matching the 'DevOps Engineer' category. The location (South Africa) is within her target countries, and the mid-senior level fits her experience.",
     "id": "c1405556",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/lexisnexis_senior_aws_devops_engineer_c1405556.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/lexisnexis_senior_aws_devops_engineer_c1405556.txt"
   },
   {
     "title": "Lead DevOps Engineer",
@@ -2026,16 +2012,15 @@
     "location": "Cape Town, Western Cape, South Africa",
     "url": "https://za.linkedin.com/jobs/view/lead-devops-engineer-at-amaris-consulting-part-of-mantu-4434717450",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job aligns with Priya's DevOps and configuration management expertise, but visa sponsorship requirements are unclear.",
+    "matches_requirements": "yes",
+    "reason": "The Lead DevOps Engineer role at Amaris Consulting in Cape Town, South Africa matches Priya's expertise in CI/CD pipelines (Azure DevOps/GitHub Actions), infrastructure-as-code, and automation scripting (Python/Bash), aligning with her background in Elektrobit and Topcon. The location is within target countries, and the mid-senior level fits her experience.",
     "id": "c65532da",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/amaris_consulting____lead_devops_engineer_c65532da.txt"
   },
   {
     "title": "Platform Core DevOps Engineer - Infra",

@@ -1,0 +1,257 @@
+Title: Senior Devops Engineer
+Company: ShopSe Digital Finance
+Location: Mumbai Metropolitan Region
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-shopse-digital-finance-4416731996
+Posted: 2026-05-31
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at ShopSe Digital Finance aligns with Priya's expertise in CI/CD pipelines, infrastructure management, and automation, matching the 'DevOps Engineer' category under target job criteria. The location (India) is within her approved countries, and the senior-level position fits her experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Devops Engineer
+ShopSe Digital Finance  Mumbai Metropolitan Region
+4 months ago  182 applicants
+  
+
+See who ShopSe Digital Finance has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Infrastructure Management (AWS)
+Own and managethe entire AWS infrastructure — EC2, RDS, S3, ECS/EKS,VPC, IAM, CloudFront, Route 53, and related services.
+Design for high availability and fault tolerance; ensure infra can handle payment-grade uptime requirements.
+Right-size and optimise infrastructure for cost without compromising reliability.
+Maintain environment parity across dev, staging, and production.
+
+
+CI/CD Pipelines
+Build, maintain, and continuously improveCI/CD pipelines acrossall services supporting a daily release cadence.
+Manage deployment triggering across multiple AWS availability zones;handle traffic routingbetween zones including manual intervention when required.
+Ensure fast, reliable, and safe deployments with rollback capabilities and pre/post-release health checks.
+Work closely with the engineering team to reduce deployment friction and maintain release velocity.
+Manage branching strategies, environment promotion, and deployment gates.
+
+
+Monitoring, Alerting & Incident Response
+Own site monitoring end-to-end — set up and maintain CloudWatch and Site24x7 (or equivalent) for uptime checks, dashboards, log aggregation, and alerting.
+
+
+Configure intelligent alertingrules that surfacereal issues withoutcreating noise; maintainrunbooks for common alert scenarios.
+Be the firstresponder for production alerts — acknowledge, triage, and resolveor escalate withindefined SLAs. Proactive action on alerts is a core expectation of this role.
+Conduct root cause analysis (RCA) for all production incidents and drive fixes to prevent recurrence.
+Maintain an on-call schedule; this role requires availability outside business hours for critical alerts.
+
+
+System Automation
+Automate repetitive operational tasks — provisioning, scaling, patching, backups,and configuration management.
+Manage infrastructure-as-code using Terraform or equivalent; no manual console changes in production.
+Automate monitoring setup, alerting thresholds, and runbook execution wherever possible.
+
+
+Security & Compliance
+Implement and maintainsecurity rules, firewallpolicies, network ACLs,and IAM roleswith least-privilege principles.
+Manage VPN setup and access controls for internal teams and vendors.
+Manage access provisioning and deprovisioning for all team members across AWS and related services.
+Ensure infrastructure compliance with PCI DSS and ISO 27001 requirements — work closelywith the InfoSec Lead on audit evidence and remediation.
+Manage SSL/TLS certificates, key rotation, secretsmanagement (AWS SecretsManager / Vault),and encryption at rest and in transit.
+Releases & Server Operations
+Coordinate and executedaily production releases— validate pre-release checklists, trigger deployments across zones, manage traffic routing, and monitor post-release health.
+Handle server maintenance, OS upgrades, dependency patching, and scheduled downtime windows.
+Manage database backups, restoration drills, and disaster recovery procedures.
+Maintain up-to-date infrastructure documentation and runbooks.
+
+
+AI-Augmented Development Infrastructure
+Design and manage infrastructure for AI-assisted development workflows — including on-demand provisioningand teardown of ephemeral EC2 or container instances used by AI dev tools such as Claude Code.
+Integrate AI dev tooling into CI/CD pipelines — enabling automated code generation, review,and testing stages that spin up isolated compute, execute tasks, and clean up on completion.
+Implement IAM policies, network boundaries, and cost guardrails for ephemeral AI development instances.
+Build monitoring and observability into AI-augmented pipelines— tracking instancelifecycle, run times, failure rates, and compute costs.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at ShopSe Digital Finance by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Newfold Digital
+Mumbai Metropolitan Region
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+novio
+Mumbai Metropolitan Region
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Kodo
+Mumbai Metropolitan Region
+₹2,000,000 - ₹3,500,000
+2 months ago
+DevOps Engineer
+DevOps Engineer
+JioSaavn
+Navi Mumbai, Maharashtra, India
+2 weeks ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions (India)
+Mumbai, Maharashtra, India
+3 days ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions
+Mumbai Metropolitan Region
+3 days ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer - IAC Terraform
+Senior DevOps Engineer - IAC Terraform
+
+e-Stone Information Technology Private Limited
+
+Mumbai Metropolitan Region
+2 months ago
+DevOps Manager
+DevOps Manager
+
+Dentsu Global Services
+
+Mumbai Metropolitan Region
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Testlify
+
+Mumbai, Maharashtra, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Lxme
+
+Mumbai, Maharashtra, India
+2 weeks ago
+Senior Solution Architect, Cloud Infrastructure-DevOps
+Senior Solution Architect, Cloud Infrastructure-DevOps
+
+NVIDIA
+
+Mumbai, Maharashtra, India
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+Emkay Global Financial Services Ltd
+
+Mumbai, Maharashtra, India
+4 days ago
+Senior Cloud Infrastructure Engineer – Mumbai / Hybrid
+Senior Cloud Infrastructure Engineer – Mumbai / Hybrid
+
+compoundexpress
+
+Mumbai Metropolitan Region
+1 month ago
+DevOps & Platform Engineering
+DevOps & Platform Engineering
+
+Kotak Neo
+
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Whitefield Careers
+
+Mumbai Metropolitan Region
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Sia
+
+Mumbai, Maharashtra, India
+2 weeks ago
+Similar Searches
+Business Head jobs
+8,316 open jobs
+Product Management Intern jobs
+378 open jobs
+Junior Product Manager jobs
+3,513 open jobs
+Area Sales Manager jobs
+3,441 open jobs
+Teaching Intern jobs
+46 open jobs
+Senior User Experience Designer jobs
+992 open jobs
+Associate Product Manager jobs
+7,594 open jobs
+System Engineer jobs
+6,122 open jobs
+President jobs
+2,130 open jobs
+Service Designer jobs
+2,427 open jobs
+Senior Product Designer jobs
+2,690 open jobs
+Product Manager jobs
+16,225 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at ShopSe Digital Finance
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

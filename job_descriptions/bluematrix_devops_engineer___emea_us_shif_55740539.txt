@@ -4,7 +4,7 @@ Location: Hyderabad, Telangana, India
 URL: https://in.linkedin.com/jobs/view/devops-engineer-emea-us-shift-at-bluematrix-4358234859
 Posted: 2026-01-31
 Deadline: N/A
-Reason: The job aligns with Priya's DevOps expertise (CI/CD, infrastructure automation) and is located in India (a target country), while meeting her visa sponsorship needs (posting does not restrict right-to-work).
+Reason: The job as a DevOps Engineer in Hyderabad, India matches Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated environments, along with her openness to relocating to India.
 
 ========================================
 JOB DESCRIPTION:
@@ -33,6 +33,12 @@ See who BlueMatrix has hired for this role
 
 Apply 
 Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
 Responsibilities
 
 
@@ -75,13 +81,8 @@ Financial Services
 Referrals increase your chances of interviewing at BlueMatrix by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Hyderabad, Telangana, India.
-
-Sign in to create job alert
-Jobs
-Head of Software Engineering jobs
-DevOps Engineer - EMEA/US Shift
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 Senior DevOps Engineer
 Senior DevOps Engineer
@@ -136,13 +137,6 @@ Mercans
 
 India
 2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Teikametrics
-
-India
-22 hours ago
 Site Reliability Engineer
 Site Reliability Engineer
 
@@ -185,6 +179,13 @@ Artech L.L.C.
 
 India
 2 weeks ago
+Cloud Engineer (Hybrid)
+Cloud Engineer (Hybrid)
+
+Quik Hire Staffing
+
+India
+1 week ago
 Similar Searches
 Head of Software Engineering jobs
 1,370 open jobs
@@ -225,12 +226,9 @@ Guest Controls
 Community Guidelines
 Language
 Sign in to see who you already know at BlueMatrix
-Continue with Google
 Sign in with Email
 
 or
-
-Continue with Google
 
 New to LinkedIn? Join now
 

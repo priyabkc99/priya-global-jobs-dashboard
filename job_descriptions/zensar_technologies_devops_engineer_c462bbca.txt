@@ -4,7 +4,7 @@ Location: Johannesburg Metropolitan Area
 URL: https://za.linkedin.com/jobs/view/devops-engineer-at-zensar-technologies-4466266076
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The job as a DevOps Engineer in Johannesburg, South Africa matches Priyanga's expertise in CI/CD pipelines, Azure DevOps, Infrastructure as Code, and regulated environments, along with her preference for South Africa as a target country.
+Reason: The job aligns with Priya's expertise as a DevOps Engineer (CI/CD pipeline ownership, infrastructure automation) in a regulated environment, located in South Africa (target country), and matches her configuration management experience.
 
 ========================================
 JOB DESCRIPTION:
@@ -26,13 +26,19 @@ Sign in
 Join now
 DevOps Engineer
 Zensar Technologies  Johannesburg Metropolitan Area
-1 week ago  49 applicants
+1 week ago  50 applicants
   
 
 See who Zensar Technologies has hired for this role
 
 Apply
 Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
 
 Direct message the job poster from Zensar Technologies
 
@@ -123,19 +129,19 @@ Technology, Information and Media, Investment Banking, and Financial Services
 Referrals increase your chances of interviewing at Zensar Technologies by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Johannesburg Metropolitan Area.
-
-Sign in to create job alert
-Jobs
-Access Developer jobs
-DevOps Engineer
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 DevOps Engineer - (AML Platform)
 DevOps Engineer - (AML Platform)
 Optimal Growth Technologies
 Johannesburg, Gauteng, South Africa
 3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Communicate Recruitment
+City of Johannesburg, Gauteng, South Africa
+1 week ago
 DevOps Engineer (M-Pesa)
 DevOps Engineer (M-Pesa)
 Paracon
@@ -156,13 +162,15 @@ Site Reliability Engineer (SRE)
 Impronics Technologies
 Johannesburg, Gauteng, South Africa
 1 year ago
-Senior DevOps & Site Reliability Engineer
-Senior DevOps & Site Reliability Engineer
-Indsafri
-Johannesburg Metropolitan Area
-1 week ago
 Show more jobs like this 
 People also viewed
+NOC Engineer
+NOC Engineer
+
+Prime System Solutions
+
+Johannesburg, Gauteng, South Africa
+5 months ago
 Senior Azure Cloud/Platform Engineer - MF
 Senior Azure Cloud/Platform Engineer - MF
 
@@ -183,7 +191,7 @@ Engineering Manager - Infrastructure
 Camunda
 
 Johannesburg, Gauteng, South Africa
-3 days ago
+4 days ago
 Platform Engineering Lead
 Platform Engineering Lead
 
@@ -226,13 +234,6 @@ Kyndryl
 
 Sandton, Gauteng, South Africa
 2 months ago
-Azure Senior Cloud Infrastructure Consultant
-Azure Senior Cloud Infrastructure Consultant
-
-Netsurit
-
-Johannesburg, Gauteng, South Africa
-1 week ago
 Similar Searches
 Access Developer jobs
 18 open jobs
@@ -272,6 +273,11 @@ Brand Policy
 Guest Controls
 Community Guidelines
 Language
-You’re signed out
-Sign in for the full experience.
-Sign in Join now
+Sign in to see who you already know at Zensar Technologies
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

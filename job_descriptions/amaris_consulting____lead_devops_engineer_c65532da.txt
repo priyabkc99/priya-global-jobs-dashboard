@@ -1,0 +1,271 @@
+Title: Lead DevOps Engineer
+Company: Amaris Consulting  | Part of Mantu
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/lead-devops-engineer-at-amaris-consulting-part-of-mantu-4434717450
+Posted: 2026-09-24
+Deadline: N/A
+Reason: The Lead DevOps Engineer role at Amaris Consulting in Cape Town, South Africa matches Priya's expertise in CI/CD pipelines (Azure DevOps/GitHub Actions), infrastructure-as-code, and automation scripting (Python/Bash), aligning with her background in Elektrobit and Topcon. The location is within target countries, and the mid-senior level fits her experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead DevOps Engineer
+Amaris Consulting | Part of Mantu  Cape Town, Western Cape, South Africa
+4 days ago  38 applicants
+  
+
+See who Amaris Consulting | Part of Mantu has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+Join our team and start a new adventure in an international and dynamic environment, where you will be able to fulfil your career expectations in a fast-growing organization. Being a consultant at Amaris Consulting means positioning yourself as a technical and functional expert in an industrial field.
+
+Your missions
+
+
+
+Design, implement, and maintain CI/CD pipelines using Azure DevOps or GitHub Actions
+Develop and manage infrastructure as code solutions with Bicep, ARM, or similar technologies
+Automate deployment and operational tasks using scripting languages such as PowerShell, Python, or Bash
+Collaborate with teams to define and enforce DevOps best practices and standards
+Integrate AI generative tools and MLOps/AIOps capabilities into development workflows
+Monitor and optimize cloud-native architectures and data platforms (Databricks, ADF, Airflow, SQL, AAS)
+Ensure observability and incident management through appropriate tools and processes
+Implement governance frameworks, access control, and compliance measures at scale
+
+
+
+Your profile
+
+
+
+Experience with CI/CD tools such as Azure DevOps or GitHub Actions
+Expertise in infrastructure as code (Bicep, ARM, or similar)
+Proficiency in scripting languages: PowerShell, Python, or Bash
+Experience with Azure services and cloud-native architectures
+Familiarity with data platforms: Databricks, Azure Data Factory, Airflow, SQL, or Azure Analysis Services
+Understanding of MLOps or LLMOps concepts, including model deployment, monitoring, and versioning
+Knowledge of observability tools and practices
+Academic background: engineering schools
+You demonstrate strong analytical, problem-solving, and communication skills
+You demonstrate the ability to work collaboratively across technical and business teams
+
+
+
+What We Offer
+
+
+
+An international community, bringing together 110+ different nationalities
+An environment where trust has a central place: 70% of our key leaders started their careers at the first level of responsibilities
+A robust training system with our internal Academy and 250+ available modules
+A vibrant workplace that frequently gathers for internal events (afterworks, team buildings, etc.)
+
+
+
+Amaris Consulting is proud to be an equal-opportunity workplace. We are committed to promoting diversity within the workforce and creating an inclusive working environment. For this purpose, we welcome applications from all qualified candidates regardless of gender, sexual orientation, race, ethnicity, beliefs, age, marital status, disability, or other characteristics
+
+Who are we?
+
+Amaris Consulting is an independent technology consulting firm providing guidance and solutions to businesses. With more than 1,000 clients across the globe, we have been rolling out solutions in major projects for over a decade – this is made possible by an international team of 7,600 people spread across 5 continents and more than 60 countries. Our solutions focus on four different Business Lines: Information System & Digital, Telecom, Life Sciences and Engineering. We’re focused on building and nurturing a top talent community where all our team members can achieve their full potential. Amaris is your steppingstone to cross rivers of change, meet challenges and achieve all your projects with success.
+
+At Amaris, we strive to provide our candidates with the best possible recruitment experience. We like to get to know our candidates, challenge them, and be able to give them proper feedback as quickly as possible. Here's what our recruitment process looks like:
+
+Brief Call: Our process typically begins with a brief virtual/phone conversation to get to know you! The objective? Learn about you, understand your motivations, and make sure we have the right job for you!
+
+Interviews (the average number of interviews is 3 - the number may vary depending on the level of seniority required for the position). During the interviews, you will meet people from our team: your line manager of course, but also other people related to your future role. We will talk in depth about you, your experience, and skills, but also about the position and what will be expected of you. Of course, you will also get to know Amaris: our culture, our roots, our teams, and your career opportunities!
+
+Case study: Depending on the position, we may ask you to take a test. This could be a role play, a technical assessment, a problem-solving scenario, etc.
+
+As you know, every person is different and so is every role in a company. That is why we have to adapt accordingly, and the process may differ slightly at times. However, please know that we always put ourselves in the candidate's shoes to ensure they have the best possible experience.
+
+We look forward to meeting you!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Amaris Consulting | Part of Mantu by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 week ago
+Lead DevSecOps Engineer
+Lead DevSecOps Engineer
+EQPLUS TECHNOLOGIES PTY LTD
+Cape Town, Western Cape, South Africa
+3 weeks ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+LexisNexis
+City of Cape Town, Western Cape, South Africa
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Amaris Consulting | Part of Mantu
+Cape Town, Western Cape, South Africa
+6 days ago
+Senior/Intermediate DevOps Engineer
+Senior/Intermediate DevOps Engineer
+First Point Group
+City of Cape Town, Western Cape, South Africa
+6 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+23 hours ago
+Show more jobs like this 
+People also viewed
+Software Architect (R&D)
+Software Architect (R&D)
+
+Miratech
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Tech Lead: SLS: RA: Sanlam Risk & Savings: Bellville
+Tech Lead: SLS: RA: Sanlam Risk & Savings: Bellville
+
+Sanlam
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Principal Software Engineer
+Principal Software Engineer
+
+takealot.com
+
+Cape Town, Western Cape, South Africa
+3 months ago
+Engineering Lead- Options
+Engineering Lead- Options
+
+Keyrock
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+1 week ago
+GTM Engineer
+GTM Engineer
+
+TGTC
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Data Engineer
+Data Engineer
+
+Air Chefs
+
+Cape Town, Western Cape, South Africa
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Andela
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Head of Engineering - Options
+Head of Engineering - Options
+
+Keyrock
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Engineering Manager - Templating
+Engineering Manager - Templating
+
+Storyteq
+
+Cape Town, Western Cape, South Africa
+6 days ago
+Similar Searches
+Information Engineer jobs
+129 open jobs
+Electronic Designer jobs
+3,489 open jobs
+Assistant Process Engineer jobs
+80 open jobs
+Consulting Business Analyst jobs
+84 open jobs
+Production Engineering Manager jobs
+270 open jobs
+Avionics Engineer jobs
+32 open jobs
+Recruitment Associate jobs
+121 open jobs
+Senior Service Delivery Manager jobs
+104 open jobs
+Radio Engineer jobs
+50 open jobs
+J2Ee Developer jobs
+636 open jobs
+Web Application Developer jobs
+1,217 open jobs
+Structural Design Engineer jobs
+195 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Amaris Consulting | Part of Mantu
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

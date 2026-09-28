@@ -1,0 +1,356 @@
+Title: Senior DevOps Engineer (Architecture)
+Company: BETSoftware
+Location: Durban, KwaZulu-Natal, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-devops-engineer-architecture-at-betsoftware-4358189402
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in CI/CD pipeline ownership, infrastructure automation (Terraform, Ansible), and DevOps practices, matching her background at Elektrobit and Topcon. The location (South Africa) is within her target countries, and the mid-senior level fits her experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (Architecture)
+BETSoftware  Durban, KwaZulu-Natal, South Africa
+4 days ago  77 applicants
+  
+
+See who BETSoftware has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+
+CI/CD Pipeline Management
+Set up and maintain Continuous Integration and Continuous Deployment (CI/CD) pipelines using tools like GitHub Actions or Azure DevOps.
+Use tools like Terraform and Ansible to automate infrastructure provisioning.
+Monitoring & Logging
+
+
+Responsibilities
+
+You Bring:
+
+
+Diploma or Degree in IT or relevant work experience
+Minimum of 5 years’ experience in an IT-related field
+Microsoft Certified: Azure DevOps Engineer Expert (preferred)
+Strong experience with version control tools such as Git and GitHub
+Proven ability to set up and maintain CI/CD pipelines using GitHub Actions and Azure DevOps
+Experience with infrastructure automation tools like Terraform, Ansible and PowerShell scripting
+Familiarity with containerisation and orchestration using Docker and Kubernetes
+Knowledge of monitoring and logging tools such as Prometheus, Grafana or ELK Stack
+Basic understanding of software development concepts and programming languages such as .NET, C#, and JavaScript frameworks (Angular, React)
+Experience working with databases including Cockroach DB, Redis and SQL
+Strong communication skills with the ability to work well within a team
+Excellent problem-solving skills and attention to detail
+Understanding of Linux networking and network security principles
+Customer-focused approach to delivering solutions
+
+
+Certifications
+
+
+Red Hat Certified Engineer (RHCE)
+Certified Kubernetes Administrator (CKA)
+Certified Docker Associate (DCA)
+Experienced with Red Hat OpenShift Container Platform (Advantageous)
+
+
+Skills and Tech Stack
+
+
+IaC: Terraform, Ansible, Puppet, Chef (any of)
+Containers: Docker, Podman
+Orchestration: Kubernetes, OpenShift
+Monitoring/Logging: Prometheus, Grafana, ELK Stack, Dynatrace
+Scripting: Bash, Python, PowerShell
+Linux: RHEL, Ubuntu
+CI/CD Pipeline Management
+Set up and maintain Continuous Integration and Continuous Deployment (CI/CD) pipelines using tools like GitHub Actions or Azure DevOps.
+Use tools like Terraform and Ansible to automate infrastructure provisioning.
+Monitoring & Logging
+Implement monitoring solutions (e.g., Prometheus, Grafana, ELK Stack) to ensure system health and performance.
+Containerization & Orchestration
+Use Docker for containerization and Kubernetes for orchestration to ensure scalable and portable applications.
+Collaboration & Automation
+Collaborate with developers, QA, and IT teams to automate workflows and improve system reliability.
+A strong understanding of the Linux networking layer.
+A strong understanding of network security.
+
+
+What You’ll Do
+
+Deployments and Responsibilities:
+
+
+Design & Implement CI/CD solutions using the most appropriate approved patterns.
+Design & Implement CI/CD solutions for single and multi-tier architectures.
+Track monitoring and alerting of downstream operations to identify issues with CI/CD.
+Share successful patterns for building applications/services and deployments across teams and/or products.
+Be actively involved with roll-back/forward decision-making.
+Planning Preparation - Gather & Analyse User/Business System Requirements.
+Identify all dependencies, including those which may not be immediately apparent.
+Act based on your understanding/findings to reduce the possibility of failure.
+Understand the CI/CD requirements for all projects by attending project planning meetings when required or taking all other reasonable steps to: Explain and help teams visualise the end-to-end flow of software through DevOps.
+Help teams get a better understanding of the steps involved to get CI/CD done, which in turn brings value to the customer.
+Share operational needs and development forecasts to allow for accurate planning of projects
+Work with project managers and developers to get software and systems up and running in a timely manner and ensure long-term scalability for the business.
+
+Implementation Of Solution
+
+
+Deliver a solution which performs efficiently and can co-exist with other solutions and does not have a detrimental impact on other solutions.
+Ensure the Solution is Functionally Complete, Compatible with existing/other technology/frameworks.
+Ensure Solution has a High Usability factor, is Reliable and Maintainable.
+Understand and implement containerization where the concept of virtualization not only mimics the digital configuration of the hardware but also mimics the OS and libraries that encompass the entire runtime environment.
+Implement testing strategy as part of CI/CD to ensure quality of deployments and security.
+
+
+Perform Monitoring And Configuration
+
+
+Ensure accelerated CI/CD with the use of continuous monitoring and configuration management tools.
+Deploy all new applications/solutions/modules.
+Perform upgrades and complete fixes within the production environment.
+Ensure that all modules are ready for production based on specific procedures.
+Ensure that the documenting of knowledge transfer happens.
+Perform ongoing evaluation of existing applications and platforms.
+Recommend solutions to enhance performance by gap analysis.
+Perform Monitoring, Configuration, Maintenance, and Troubleshooting of the implemented solution(s).
+
+
+Use Tools And Technologies
+
+
+Display a thorough understanding of DevOps key concepts.
+Display knowledge of various DevOps tools and technologies.
+Identify new tools which would improve the overall effectiveness of DevOps.
+Use tools to increase the overall development velocity and code quality.
+Familiarity with GitHub and GitHub Actions.
+Understanding the use and implementation of microservices.
+
+
+Technical Outputs
+
+
+Infrastructure as Code (IaC): Develop and maintain infrastructure automation scripts and templates using tools like Terraform, CloudFormation, or Ansible to provision and manage infrastructure resources.
+Continuous Integration/Continuous Deployment (CI/CD): Implement and optimise CI/CD pipelines to automate software build, testing, and deployment processes, ensuring fast and reliable releases.
+Deployment Automation: Automate the deployment of applications and services to various environments, such as development, staging, and production, while ensuring consistency and reliability.
+Monitoring and Alerting: Set up monitoring tools and define alerting thresholds to proactively detect and address system issues or performance bottlenecks.
+Security Integration: Implement security best practices throughout the CI/CD pipeline, including vulnerability scanning, access control, and compliance checks.
+Containerisation and Orchestration: Use technologies like Docker and Kubernetes to containerise applications and manage container orchestration for scalability and resilience.
+Version Control: Maintain and enforce version control systems (e.g., Git) for code and infrastructure configurations, ensuring collaboration and traceability.
+Scripting and Coding: Write scripts and code in languages like Python, Bash, or PowerShell to automate various tasks and create custom tools
+Documentation: Create comprehensive documentation for configurations, processes, and troubleshooting guides to facilitate knowledge sharing and onboarding.
+
+
+Behavioural Outputs
+
+
+Communication Skills: Collaborate effectively with cross-functional teams, including developers, system administrators, and management, to understand requirements and convey technical information clearly.
+Problem Solving: Exhibit strong problem-solving skills to identify and resolve complex technical issues promptly, minimising downtime and disruptions.
+Adaptability: Be flexible and adaptable to evolving technologies and industry trends, continuously learning and improving skills.
+Project Management: Effectively plan and prioritise tasks, manage project timelines, and ensure that DevOps projects meet their objectives on time and within budget.
+Leadership and Mentorship: Provide guidance and mentorship to junior and intermediate DevOps team members, fostering their professional growth and skill development.
+Team Collaboration: Foster a collaborative and positive work environment, working closely with development and operations teams to achieve common goals.
+Security Awareness: Stay updated on security best practices and ensure that security is integrated into all DevOps processes.
+Proactive Monitoring: Proactively monitor systems and services, taking preventive actions to address potential issues before they become critical.
+Continuous Improvement: Continuously seek opportunities to optimize and improve DevOps processes and workflows for increased efficiency and reliability.
+
+
+Skills And Competencies
+
+
+Must have a strong sense of customer focus.
+Ability to work under pressure and entail great problem-solving skills.
+SDLC process knowledge.
+Must be results driven.
+Portray strong attention to detail, whilst maintaining efficiency.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at BETSoftware by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Platform Engineer
+Senior Platform Engineer
+Viya
+Durban, KwaZulu-Natal, South Africa
+2 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+BETSoftware
+Durban, KwaZulu-Natal, South Africa
+3 days ago
+Principal Cloud Technical Architect (Google)
+Principal Cloud Technical Architect (Google)
+NTT DATA, Inc.
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+IT Senior Lead – Infrastructure
+IT Senior Lead – Infrastructure
+The Unlimited
+Umhlanga, KwaZulu-Natal, South Africa
+3 weeks ago
+Senior Data/AI Technical Architect
+Senior Data/AI Technical Architect
+NTT DATA, Inc.
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Infrastructure SysOps Engineer
+Infrastructure SysOps Engineer
+Rewardsco
+Umhlanga, KwaZulu-Natal, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Engineer: Utilities
+Senior Engineer: Utilities
+
+Sappi
+
+Stanger, KwaZulu-Natal, South Africa
+1 month ago
+Senior QA Engineer (Embedded/Firmware)
+Senior QA Engineer (Embedded/Firmware)
+
+HID
+
+Durban, KwaZulu-Natal, South Africa
+6 days ago
+Digital Delivery Lead
+Digital Delivery Lead
+
+SMEC (an SJ Group company)
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Engineering Manager
+Engineering Manager
+
+AVI Limited
+
+Pinetown, KwaZulu-Natal, South Africa
+4 days ago
+Full Stack Software Development Manager
+Full Stack Software Development Manager
+
+iKhokha
+
+Umhlanga, KwaZulu-Natal, South Africa
+3 weeks ago
+Applied AI Engineer – Prompting & Evaluation
+Applied AI Engineer – Prompting & Evaluation
+
+Klipboard
+
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Senior Embedded Software Engineer
+Senior Embedded Software Engineer
+
+HID
+
+Durban, KwaZulu-Natal, South Africa
+6 days ago
+Senior Engineer - Mechanical
+Senior Engineer - Mechanical
+
+AECOM
+
+Durban, KwaZulu-Natal, South Africa
+8 months ago
+Senior Digital Delivery Technician
+Senior Digital Delivery Technician
+
+SMEC (an SJ Group company)
+
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Principal Cloud Security Technical Architect
+Principal Cloud Security Technical Architect
+
+NTT DATA, Inc.
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Similar Searches
+Electrical Electronic Engineer jobs
+78 open jobs
+Senior Security Engineer jobs
+66 open jobs
+Database Manager jobs
+183 open jobs
+Software Analyst jobs
+4,303 open jobs
+Network Operations Center Engineer jobs
+22 open jobs
+SQL Database Administrator jobs
+3,674 open jobs
+Head of Software Engineering jobs
+121 open jobs
+Solutions Designer jobs
+3,846 open jobs
+Software Tester jobs
+99 open jobs
+Junior Developer jobs
+1,010 open jobs
+Information Technology Consultant jobs
+403 open jobs
+Administrative Officer jobs
+267 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at BETSoftware
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

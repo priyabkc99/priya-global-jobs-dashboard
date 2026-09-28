@@ -4,7 +4,7 @@ Location: City of Cape Town, Western Cape, South Africa
 URL: https://za.linkedin.com/jobs/view/senior-aws-devops-engineer-at-lexisnexis-4398249531
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The job aligns with Priya's experience as a Senior DevOps Engineer with CI/CD and automation expertise, located in South Africa (a target country), and matches her mid-to-senior level experience.
+Reason: The role aligns with Priya's expertise in CI/CD pipelines (Jenkins, GitHub Actions), infrastructure as code (Terraform/AWS CloudFormation), and Python automation, matching the 'DevOps Engineer' category. The location (South Africa) is within her target countries, and the mid-senior level fits her experience.
 
 ========================================
 JOB DESCRIPTION:
@@ -33,6 +33,12 @@ See who LexisNexis has hired for this role
 
 Apply
 Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
 
 🚀 Senior AWS DevOps Engineer | Shape the Future of Cloud Delivery
 
@@ -134,19 +140,14 @@ Legal Services
 Referrals increase your chances of interviewing at LexisNexis by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in City of Cape Town, Western Cape, South Africa.
-
-Sign in to create job alert
-Jobs
-Field Account Manager jobs
-Senior AWS DevOps Engineer
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 Senior AWS DevOps Engineer
 Senior AWS DevOps Engineer
 RELX
 Western Cape, South Africa
-1 month ago
+2 months ago
 Senior AWS DevOps Engineer
 Senior AWS DevOps Engineer
 LexisNexis
@@ -171,7 +172,7 @@ Senior Cloud Engineer
 Senior Cloud Engineer
 impact.com
 Cape Town, Western Cape, South Africa
-21 hours ago
+23 hours ago
 Show more jobs like this 
 People also viewed
 Data Platform Engineer
@@ -237,13 +238,13 @@ ExecutivePlacements.com
 
 Cape Town, Western Cape, South Africa
 1 month ago
-Data Engineer - Cape Town
-Data Engineer - Cape Town
+Principal Cloud Technical Architect (Google)
+Principal Cloud Technical Architect (Google)
 
-Ten Lifestyle Group
+NTT DATA, Inc.
 
 Cape Town, Western Cape, South Africa
-4 weeks ago
+2 weeks ago
 Similar Searches
 Field Account Manager jobs
 295 open jobs
@@ -283,6 +284,11 @@ Brand Policy
 Guest Controls
 Community Guidelines
 Language
-You’re signed out
-Sign in for the full experience.
-Sign in Join now
+Sign in to see who you already know at LexisNexis
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
