@@ -97,6 +97,12 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
   "Clear filters" and by the "N countries ×" chip in the card header). Each row-cache entry carries
   `country` (from `jobCountry`). The tile's small chart icon opens the timeline instead. The table
   count is lower than the tile total because "no" jobs are hidden by default.
+- Each tile also has two chips: **"N matching"** (yes + maybe, all time) and **"N matching today"**.
+  `showCountryMatches(country, todayOnly)` resets all filters, then sets that single country, the
+  Matches column to yes+maybe, and (today) `added-days-filter` = 0, exactly like the Today card's
+  "View list". Chip counts are computed with the same rules, and a browser test confirmed
+  count == filtered rows for all 10 countries. Chips with 0 are disabled. Test "today" behaviour
+  with Playwright's `page.clock.install(...)` when nothing has been added yet that day.
 - The Day/Week/Month buttons use `.tl-gran`, NOT `.chart-gran`: the history chart's code
   re-syncs `.active` on every `.chart-gran button` and would clobber them.
 - Tested locally with Playwright: Firebase Hosting's `/__/firebase/*` SDK URLs were routed to an

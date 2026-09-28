@@ -775,7 +775,7 @@
         .country-timeline-btn:hover { background: rgba(99, 102, 241, 0.3); }
         .country-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
             gap: 0.6rem;
         }
         .country-tile {
@@ -795,6 +795,19 @@
             color: rgba(255, 255, 255, 0.45); font-size: 0.75rem;
         }
         .country-tile-chart:hover { color: #c7d2fe; border-color: rgba(99, 102, 241, 0.5); background: rgba(99, 102, 241, 0.2); }
+        .country-tile-today { font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 600; vertical-align: middle; }
+        .country-tile-today.today-new { color: #6ee7b7; }
+        .country-tile-today.today-none { color: rgba(255, 255, 255, 0.35); }
+        .country-tile-chips { display: flex; gap: 0.35rem; flex-wrap: wrap; margin-top: 0.35rem; }
+        .country-chip {
+            display: inline-flex; align-items: center; gap: 0.3rem; cursor: pointer; white-space: nowrap;
+            padding: 0.18rem 0.5rem; border-radius: 999px; font-size: 0.7rem; font-weight: 600;
+            background: rgba(16, 185, 129, 0.12); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.35);
+        }
+        .country-chip.today { background: rgba(252, 211, 77, 0.1); color: #fcd34d; border-color: rgba(252, 211, 77, 0.35); }
+        .country-chip:hover:not(:disabled) { filter: brightness(1.25); border-color: currentColor; }
+        .country-chip:disabled { opacity: 0.4; cursor: default; }
+        .country-chip i { font-size: 0.62rem; }
         .country-filter-clear {
             align-items: center; gap: 0.35rem; cursor: pointer;
             background: rgba(99, 102, 241, 0.2); color: #e0e7ff;
@@ -1578,27 +1591,39 @@
             const card = document.getElementById('country-card');
             if (!card || !allJobs.length) return;
             const today = localDateStr(new Date());
-            const stats = new Map(COUNTRY_SOURCES.map(([c]) => [c, { total: 0, today: 0, yes: 0 }]));
+            // "Matching" = yes + maybe, the same set the Today card's "View list" filters to.
+            const blank = () => ({ total: 0, today: 0, match: 0, matchToday: 0, yes: 0, maybe: 0 });
+            const stats = new Map(COUNTRY_SOURCES.map(([c]) => [c, blank()]));
             let addedToday = 0;
             allJobs.forEach(job => {
                 const c = jobCountry(job);
-                if (!stats.has(c)) stats.set(c, { total: 0, today: 0, yes: 0 });
+                if (!stats.has(c)) stats.set(c, blank());
                 const s = stats.get(c);
+                const isToday = !!job.added_at && localDateStr(new Date(job.added_at)) === today;
+                const m = jobMatchValue(job);
+                const isMatch = m === 'yes' || m === 'maybe';
                 s.total++;
-                if (job.added_at && localDateStr(new Date(job.added_at)) === today) { s.today++; addedToday++; }
-                if (jobMatchValue(job) === 'yes') s.yes++;
+                if (isToday) { s.today++; addedToday++; }
+                if (m === 'yes') s.yes++;
+                if (m === 'maybe') s.maybe++;
+                if (isMatch) { s.match++; if (isToday) s.matchToday++; }
             });
             const rows = [...stats].filter(([c, s]) => c !== 'Other' || s.total > 0)
                 .sort((a, b) => b[1].total - a[1].total || a[0].localeCompare(b[0]));
-            // Tile = toggle a country filter on the jobs table; the chart icon opens the timeline.
+            // Tile body = toggle a country filter (all jobs); the two chips = that country's
+            // matching jobs (all time / added today); the chart icon opens the timeline.
             document.getElementById('country-grid').innerHTML = rows.map(([c, s]) => `
-                <div class="country-tile" role="button" tabindex="0" data-country="${escHtml(c)}" title="Show only ${escHtml(c)} jobs in the table (click again to remove)">
+                <div class="country-tile" role="button" tabindex="0" data-country="${escHtml(c)}" title="Show all ${escHtml(c)} jobs in the table (click again to remove)">
                     <button type="button" class="country-tile-chart" aria-label="Timeline for ${escHtml(c)}" title="Jobs added over time in ${escHtml(c)}"><i class="fas fa-chart-column"></i></button>
                     <div class="country-tile-name">${escHtml(c)}</div>
-                    <div class="country-tile-total">${s.total}</div>
-                    <div class="country-tile-sub">
-                        <span class="${s.today ? 'today-new' : 'today-none'}">+${s.today} today</span>
-                        <span>${s.yes} yes</span>
+                    <div class="country-tile-total">${s.total} <span class="country-tile-today ${s.today ? 'today-new' : 'today-none'}">+${s.today} today</span></div>
+                    <div class="country-tile-chips">
+                        <button type="button" class="country-chip" data-mode="matching" ${s.match ? '' : 'disabled'}
+                            title="Show ${escHtml(c)} matching jobs (${s.yes} yes + ${s.maybe} maybe)">
+                            <i class="fas fa-check"></i> ${s.match} matching</button>
+                        <button type="button" class="country-chip today" data-mode="today" ${s.matchToday ? '' : 'disabled'}
+                            title="Show ${escHtml(c)} matching jobs added today">
+                            <i class="fas fa-sun"></i> ${s.matchToday} matching today</button>
                     </div>
                 </div>`).join('');
             document.getElementById('country-card-summary').textContent =
@@ -1630,6 +1655,23 @@
                 if (container) container.scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
         };
+        // One country's matching jobs (yes + maybe), optionally only those added today.
+        // Starts from a clean filter state, like the Today card's "View list".
+        window.showCountryMatches = function(country, todayOnly) {
+            window.resetAllFilters();
+            selectedCountries = new Set([country]);
+            const addedInput = document.getElementById('added-days-filter');
+            if (addedInput) addedInput.value = todayOnly ? '0' : '';
+            const matches = document.getElementById('filter-col-10');
+            if (matches) matches.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+                cb.checked = cb.value === 'yes' || cb.value === 'maybe';
+            });
+            _syncCountryTiles();
+            filterTable();
+            const container = document.getElementById('jobs-container');
+            if (container) container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        };
+
         window.clearCountryFilter = function() {
             selectedCountries.clear();
             _syncCountryTiles();
@@ -1639,6 +1681,11 @@
         document.addEventListener('click', e => {
             const chart = e.target.closest('.country-tile-chart');
             if (chart) { openTimeline(chart.closest('.country-tile').dataset.country); return; }
+            const chip = e.target.closest('.country-chip');
+            if (chip) {
+                if (!chip.disabled) showCountryMatches(chip.closest('.country-tile').dataset.country, chip.dataset.mode === 'today');
+                return;
+            }
             const tile = e.target.closest('.country-tile');
             if (tile) toggleCountryFilter(tile.dataset.country);
         });
