@@ -2046,15 +2046,14 @@
     "url": "https://mt.linkedin.com/jobs/view/platform-core-devops-engineer-infra-at-betsson-group-4415382439",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with DevOps Engineer responsibilities (CI/CD, infrastructure as code, Kubernetes), is located in Malta (target country), and matches the candidate\u2019s experience in regulated/safety-critical domains through infrastructure management.",
+    "reason": "The role aligns with the candidate's DevOps Engineer experience, located in Malta (a target country), and meets all other criteria including language and experience level.",
     "id": "9b871387",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/betsson_group_platform_core_devops_engineer__9b871387.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/betsson_group_platform_core_devops_engineer__9b871387.txt"
   },
   {
     "title": "DevOps Engineer (Naxxar, Malta)",
@@ -2063,15 +2062,14 @@
     "url": "https://mt.linkedin.com/jobs/view/devops-engineer-naxxar-malta-at-novibet-4467179994",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job as a DevOps Engineer in Malta aligns with Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated-industry experience, meeting all target criteria including location, role type, and language requirements.",
+    "reason": "The job aligns with Priya's expertise in DevOps engineering, CI/CD pipelines, and infrastructure tools, matches her target location (Malta), and meets all language and visa sponsorship criteria.",
     "id": "73f6ab0c",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/novibet_devops_engineer__naxxar__malta_73f6ab0c.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/novibet_devops_engineer__naxxar__malta_73f6ab0c.txt"
   },
   {
     "title": "Senior DevOps Engineer",
@@ -2333,15 +2331,14 @@
     "url": "https://hk.linkedin.com/jobs/view/senior-devops-engineer-at-balyasny-asset-management-l-p-4469735001",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role aligns with Priya\u2019s CI/CD and infrastructure automation expertise (Jenkins/GitHub Actions), but the job\u2019s emphasis on SRE and complex distributed systems may require more specific DevOps/SRE experience than her background in regulated release management and configuration management provides.",
+    "reason": "The job aligns with the candidate's CI/CD and automation expertise (Jenkins/GitHub Actions) but requires SRE/platform engineering experience in complex distributed systems that may not fully match her release/CM-focused background, though she has relevant DevOps overlap.",
     "id": "c2eec2cb",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -2349,16 +2346,15 @@
     "location": "Hong Kong, Hong Kong SAR",
     "url": "https://hk.linkedin.com/jobs/view/devops-engineer-at-itarle-4471415428",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role aligns with DevOps Engineer criteria (CI/CD, automation) and is located in Hong Kong (target country), but requires Ansible/Linux expertise not explicitly stated in the candidate's profile, and the 'Associate' seniority level may conflict with her preference for mid-to-senior roles.",
+    "matches_requirements": "no",
+    "reason": "The job requires proficiency in both English and Chinese, but the candidate does not speak Chinese, triggering the 'Mandatory Non-English Language' hard rejection.",
     "id": "2ef723c1",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer - Global Trading Firm - Hong Kong",
@@ -2367,15 +2363,14 @@
     "url": "https://hk.linkedin.com/jobs/view/senior-devops-engineer-global-trading-firm-hong-kong-at-nls-executive-search-4457678069",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job aligns with Priya's DevOps expertise (CI/CD pipelines, automation), is located in Hong Kong (target country), and matches her mid-senior experience level.",
+    "reason": "The role aligns with Priya's DevOps/CI-CD expertise (Jenkins, GitHub Actions, automation) and configuration management background, meeting the 'configuration management' positive constraint despite not being in a regulated domain.",
     "id": "17e576e5",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/nls_executive_search_senior_devops_engineer___globa_17e576e5.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/nls_executive_search_senior_devops_engineer___globa_17e576e5.txt"
   },
   {
     "title": "DevOps Engineer",
@@ -2384,15 +2379,14 @@
     "url": "https://hk.linkedin.com/jobs/view/devops-engineer-at-bit-official-4452909130",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with the candidate's DevOps Engineer expertise (CI/CD, infrastructure automation) and is located in Hong Kong (target country), but the experience requirement (5-10 years) may be a mismatch given her ~15 years of experience, though she is overqualified rather than unqualified.",
+    "reason": "The role aligns with DevOps Engineer criteria (CI/CD, infrastructure tools) and is located in Hong Kong (target country), but requires explicit Kubernetes/AWS experience not explicitly stated in the candidate's background.",
     "id": "df094638",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. DevOps Engineer (Blockchain Infra)",
@@ -2401,15 +2395,14 @@
     "url": "https://hk.linkedin.com/jobs/view/sr-devops-engineer-blockchain-infra-at-bnb-chain-4444995829",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires infrastructure automation and cloud platform expertise (AWS/GCP/Azure, Kubernetes, Terraform) which diverges from the candidate's focus on regulated-industry release/CM/DevOps (not infrastructure-as-code or blockchain-specific operations).",
+    "reason": "The role requires hands-on infrastructure automation and cloud operations expertise (Kubernetes, Terraform, etc.) that does not align with the candidate's background in regulated-industry release/CM/DevOps (not infrastructure-as-code or multi-cloud platform engineering).",
     "id": "2ff3baf3",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer (Servers & VMs)",
@@ -2418,15 +2411,14 @@
     "url": "https://hk.linkedin.com/jobs/view/devops-engineer-servers-vms-at-oocl-4463826268",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job matches on DevOps Engineer role type and location (Hong Kong), but the 'Associate' seniority level may not align with the candidate's mid-to-senior experience expectations, though she meets the minimum 2-year experience requirement.",
+    "reason": "The job matches Priya's DevOps and CI/CD expertise (Infrastructure as Code, Terraform, Ansible, Jenkins/GitHub Actions) and is located in Hong Kong (target country), but the 'Associate' seniority level may not fully align with her ~15 years of experience; visa sponsorship requirements are unclear.",
     "id": "70f10483",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer, Infra",
@@ -2434,16 +2426,15 @@
     "location": "Hong Kong, Hong Kong SAR",
     "url": "https://hk.linkedin.com/jobs/view/devops-engineer-infra-at-binance-4468881908",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role aligns with DevOps Engineer criteria due to CI/CD pipeline ownership and infrastructure automation requirements, but the heavy emphasis on Kafka/Redis operations and AIOps systems may not fully match her configuration management/release management focus.",
+    "matches_requirements": "no",
+    "reason": "The job requires hands-on experience with Kafka and Redis operations in large-scale production environments, which is not explicitly mentioned in the candidate's background.",
     "id": "c2c6dc85",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer (Trading Platform)",
@@ -2452,15 +2443,14 @@
     "url": "https://hk.linkedin.com/jobs/view/senior-devops-engineer-trading-platform-at-crypto-com-4466900619",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role aligns partially with Priya\u2019s DevOps/CI-CD experience but focuses heavily on infrastructure-as-code (Ansible/Terraform), high-frequency trading systems, and cloud-specific tools (AWS) not explicitly mentioned in her background. While she has CI/CD pipeline ownership and automation skills, the job\u2019s emphasis on low-latency trading platforms and financial services may require domain-specific knowledge beyond her regulated-industry experience.",
+    "reason": "The job aligns with the candidate's DevOps and configuration management expertise but does not explicitly mention regulated/safety-critical compliance (e.g., MDR/ISO 13485 or ASPICE/TUV), which was an especially strong fit in her previous roles.",
     "id": "ca9399bb",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer, Cloud Infra",
@@ -2468,16 +2458,15 @@
     "location": "Hong Kong, Hong Kong SAR",
     "url": "https://hk.linkedin.com/jobs/view/devops-engineer-cloud-infra-at-binance-4468887722",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires hands-on experience with Kafka and Redis operations in large-scale production environments, which is not explicitly aligned with the candidate's focus on release management, configuration management, and regulated-industry compliance (MDR/ISO 13485/ASPICE), even though DevOps is a target role type.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns partially with Priya's DevOps and CI/CD experience but emphasizes Kafka/Redis cloud infrastructure and AIOps, which are not central to her regulated-industry background. However, it meets the configuration management positive constraint and is located in Hong Kong (target country).",
     "id": "ca53d914",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps / Operations Development Engineer",
@@ -2485,16 +2474,15 @@
     "location": "Sheung Wan, Hong Kong SAR",
     "url": "https://hk.linkedin.com/jobs/view/devops-operations-development-engineer-at-%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9B%BD%E9%99%85-guotai-junan-international-4462783683",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The DevOps / Operations Development Engineer role at \u56fd\u6cf0\u541b\u5b89\u56fd\u9645 Guotai Junan International in Hong Kong SAR aligns with Priyanga's CI/CD pipeline ownership, release automation, and infrastructure tooling experience, while meeting location, seniority, and language criteria.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with DevOps/Configuration Management criteria and is located in Hong Kong (target country), but the financial services industry isn't explicitly regulated (unlike her medical/device experience), creating some uncertainty about domain fit.",
     "id": "4a545f16",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/_______guotai_junan__devops___operations_developmen_4a545f16.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -2503,15 +2491,14 @@
     "url": "https://hk.linkedin.com/jobs/view/devops-engineer-at-pioneer-services-pte-ltd-4462931141",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The DevOps Engineer role aligns with the candidate's CI/CD and automation experience but requires specific cloud infrastructure expertise (Terraform, Ansible) not explicitly detailed in her background, though her configuration management focus matches previous approvals.",
+    "reason": "The job aligns with DevOps Engineer role requirements and is located in Hong Kong SAR (a target country), but the posting does not explicitly confirm visa sponsorship availability, which is required for non-Finnish roles.",
     "id": "91fd72e5",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer (Securities Firm/Up to 60K + bonus/ Multiple Headcounts)",
@@ -2520,15 +2507,14 @@
     "url": "https://hk.linkedin.com/jobs/view/devops-engineer-securities-firm-up-to-60k-%2B-bonus-multiple-headcounts-at-persol-apac-4463169938",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with Priya's DevOps experience (CI/CD, automation) and location (Hong Kong), but emphasizes infrastructure/system administration (Linux kernel tuning, Kubernetes, cloud platforms) more than her release/configuration management focus. She meets positive constraints related to configuration management and Topcon experience.",
+    "reason": "The job aligns with DevOps Engineer role type and location (Hong Kong), but visa sponsorship availability is unclear despite welcoming QMAS/TTPS visa holders; further clarification on sponsorship would improve fit.",
     "id": "a241e411",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff, Platform Engineer, DevOps",
@@ -2537,15 +2523,14 @@
     "url": "https://hk.linkedin.com/jobs/view/senior-staff-platform-engineer-devops-at-moneyhero-group-nasdaq-mny-4470917265",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with DevOps Engineer criteria (CI/CD, infrastructure as code) and is located in Hong Kong SAR, but requires deep Kubernetes/AWS expertise not explicitly detailed in the candidate's background, though her CI/CD/release management experience overlaps with parts of the role.",
+    "reason": "The job is located in Hong Kong SAR (target country) and involves DevOps responsibilities aligning with Priya\u2019s CI/CD and infrastructure experience, but the role focuses heavily on platform engineering/cloud architecture rather than her specialized background in configuration management, release ownership, or regulated-industry quality compliance.",
     "id": "07bef1aa",
     "source": "linkedin_hk_devops_engineer",
     "added_at": "2026-09-28T15:05:27+03:00",
     "posted_date": "2026-09-23",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Coding and Programming Trainee",

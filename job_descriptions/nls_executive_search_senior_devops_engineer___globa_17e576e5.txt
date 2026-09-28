@@ -4,7 +4,7 @@ Location: Hong Kong, Hong Kong SAR
 URL: https://hk.linkedin.com/jobs/view/senior-devops-engineer-global-trading-firm-hong-kong-at-nls-executive-search-4457678069
 Posted: 2026-09-07
 Deadline: N/A
-Reason: The job aligns with Priya's DevOps expertise (CI/CD pipelines, automation), is located in Hong Kong (target country), and matches her mid-senior experience level.
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (Jenkins, GitHub Actions, automation) and configuration management background, meeting the 'configuration management' positive constraint despite not being in a regulated domain.
 
 ========================================
 JOB DESCRIPTION:

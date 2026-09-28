@@ -4,7 +4,7 @@ Location: Valletta, Valletta, Malta
 URL: https://mt.linkedin.com/jobs/view/platform-core-devops-engineer-infra-at-betsson-group-4415382439
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The role aligns with DevOps Engineer responsibilities (CI/CD, infrastructure as code, Kubernetes), is located in Malta (target country), and matches the candidate’s experience in regulated/safety-critical domains through infrastructure management.
+Reason: The role aligns with the candidate's DevOps Engineer experience, located in Malta (a target country), and meets all other criteria including language and experience level.
 
 ========================================
 JOB DESCRIPTION:
@@ -22,8 +22,8 @@ LinkedIn
 Jobs
 Clear text
 Clear text
-Join now
 Sign in
+Join now
 Platform Core DevOps Engineer - Infra
 Betsson Group  Valletta, Valletta, Malta
 1 week ago  60 applicants
@@ -156,7 +156,7 @@ Senior Infrastructure & Cloud Engineer
 Moneybase
 
 Birkirkara, Malta
-3 days ago
+4 days ago
 Backend DevOps Developer
 Backend DevOps Developer
 

@@ -4,7 +4,7 @@ Location: Naxxar, Naxxar, Malta
 URL: https://mt.linkedin.com/jobs/view/devops-engineer-naxxar-malta-at-novibet-4467179994
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The job as a DevOps Engineer in Malta aligns with Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated-industry experience, meeting all target criteria including location, role type, and language requirements.
+Reason: The job aligns with Priya's expertise in DevOps engineering, CI/CD pipelines, and infrastructure tools, matches her target location (Malta), and meets all language and visa sponsorship criteria.
 
 ========================================
 JOB DESCRIPTION:
@@ -22,8 +22,8 @@ LinkedIn
 Jobs
 Clear text
 Clear text
-Join now
 Sign in
+Join now
 DevOps Engineer (Naxxar, Malta)
 Novibet  Naxxar, Naxxar, Malta
 1 week ago   Be among the first 25 applicants
