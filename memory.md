@@ -49,12 +49,19 @@ priya_jobs/memory.md, "Trial: English-speaking countries").
 - Verified: all 9 boards + LinkedIn Malta return clean job links (live parser test); a test
   scrape added 15 LinkedIn UK DevOps jobs (still `pending`); both dashboards are deployed and
   cross-linked; GitHub Pages serves `jobs.json`.
-- **Not yet verified: the local-LLM review step.** The first test review was stopped because
-  another session was benchmarking a model on LM Studio. First real run: the scheduled task at
-  08:00 on 2026-09-28. Check for `LLM: local/...` verdicts in `logs/scraper_*.log`, and that the
-  "SC Cleared" test job (sponsorship/clearance rule) comes back "no".
-- The Firebase Console "Google sign-in" provider is not enabled yet (manual step). Viewing works
-  without it; the dashboard's write actions (applied/feedback) need it.
+- **Local-LLM review verified live (2026-09-28):** the task started 13:49 with the other
+  scrapers, and 159 reviews ran in ~95 min. Every `eval_model` was `local/...` (gemma-4, then
+  qwen3-14b once LM Studio switched), with no cloud calls and no regex-fallback verdicts. 11 gemma
+  runs hit the 4096-token budget → `error` → retried. The sponsorship rule produced 14 correct
+  "no"s (UK/IE/AU/SG/ZA: citizenship, no sponsorship, existing right to work).
+- **Clearance rule tightened (2026-09-28):** "DevOps Engineer- SC Cleared" (posting: "eligible for
+  SC Clearance") got "yes" from qwen3-14b, because the rule only named clearance roles that
+  *require citizenship*. It now says any role requiring a security clearance or eligibility for
+  one is "no" (UK SC/DV/NPPV, AU Baseline/NV1/TSPV, CA Reliability/Secret, NZ vetting). Re-tested
+  on that job → "no". The edit re-queued all 150 jobs for re-review (needs_re_review).
+- Throughput with qwen3-14b (non-reasoning) is far better than the planning estimate: ~35–40 s
+  per job, i.e. ~1,500+/day if LM Studio is free; gemma-4 is several times slower.
+- Google sign-in is enabled in the Firebase Console (done by the user 2026-09-28).
 - The first Firestore database was accidentally created in `nam5`; it was deleted and recreated in
   `eur3`. A deleted `(default)` ID can be reused only after ~5 min.
 
