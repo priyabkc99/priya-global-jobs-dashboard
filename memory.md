@@ -5,6 +5,21 @@ Created 2026-09-27 as a sibling of [../priya_jobs](../priya_jobs/memory.md) (her
 board). The site list comes from a read-only probe of ~45 boards that day (details in
 priya_jobs/memory.md, "Trial: English-speaking countries").
 
+## Firestore locked down; Python scripts use a service account (2026-09-28)
+
+`firestore.rules` used to leave `shared_state` / `user_feedback` readable and updatable by
+anyone (`if true`) so the unauthenticated Python REST calls could write. Now every collection is
+allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`** (`session()` returns a
+`google.auth` `AuthorizedSession` with the project's service account; SA requests bypass rules via IAM).
+- Key file: `~/.secrets/priya-global-jobs-sa.json` - OUTSIDE the repo (Firebase Console -> Project settings ->
+  Service accounts -> Generate new private key). `.gitignore` blocks `*firebase-adminsdk*.json` / `*-sa.json`.
+- **Any other PC** running scripts or skills that touch Firestore (tailor-resume, fill-form,
+  find-apply-link, mark-job-deleted) needs its own key at that path plus `pip install google-auth`
+  in the venv - otherwise `firestore_auth.session()` raises FileNotFoundError.
+- New Firestore calls must use `firestore_auth.session().get/patch(...)`, never bare `requests` - a bare
+  call now gets 403. Rules deploy: `firebase deploy --only firestore:rules` from `firebase_app/`.
+
+
 ## Major Features
 1. **Global job scraping:** LinkedIn in 10 English-speaking countries plus 9 national job boards (UK, IE, CA, AU, ZA, MT), 12 role keywords.
 2. **Local-LLM screening only:** every job is reviewed by the shared LM Studio server against `job_requirements.md` — no cloud LLMs.
