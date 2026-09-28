@@ -579,16 +579,15 @@
     "location": "Ottawa, Ontario, Canada",
     "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-devops-at-delan-it-talent-solutions-4467107027",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a DevOps position in Canada, matching the candidate's extensive experience in CI/CD, automation, and release management.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with Priya's DevOps/CI-CD expertise (Jenkins/GitHub Actions) and location (Ottawa, Canada), but the 'Associate' level may not match her mid-to-senior experience, and French language proficiency is listed as a requirement (though not explicitly mandatory).",
     "id": "4df1b0c1",
     "source": "linkedin_ca_devops_engineer",
     "added_at": "2026-09-28T09:13:30+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/delan___it_talent_so_sp_cialiste_devops_4df1b0c1.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Programmer - Core Technologies  | Programmeur\u00b7euse DevOps - Technologies centrales",
