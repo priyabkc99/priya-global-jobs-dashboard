@@ -92,6 +92,11 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
   It counts `jobs.json` + `deleted.json` by `added_at`, so its totals can exceed the tiles by the
   jobs removed since. Colors #059669 / #6366f1 passed the dataviz validator on #161b2e (tritan ΔE
   6.6, hence the 2px gap + legend).
+- **Tile click = country filter on the jobs table** (`selectedCountries`, multi-select toggle, AND-ed
+  with the column filters, saved in the same localStorage filter blob as `countries`, cleared by
+  "Clear filters" and by the "N countries ×" chip in the card header). Each row-cache entry carries
+  `country` (from `jobCountry`). The tile's small chart icon opens the timeline instead. The table
+  count is lower than the tile total because "no" jobs are hidden by default.
 - The Day/Week/Month buttons use `.tl-gran`, NOT `.chart-gran`: the history chart's code
   re-syncs `.active` on every `.chart-gran button` and would clobber them.
 - Tested locally with Playwright: Firebase Hosting's `/__/firebase/*` SDK URLs were routed to an

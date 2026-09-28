@@ -784,7 +784,24 @@
             background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border-color);
             transition: border-color 0.15s ease, transform 0.15s ease;
         }
+        .country-tile { position: relative; }
         .country-tile:hover, .country-tile:focus-visible { border-color: rgba(99, 102, 241, 0.6); transform: translateY(-1px); outline: none; }
+        .country-tile.active { border-color: #818cf8; background: rgba(99, 102, 241, 0.16); box-shadow: 0 0 0 1px #818cf8 inset; }
+        .country-tile-chart {
+            position: absolute; top: 0.45rem; right: 0.45rem;
+            width: 26px; height: 26px; border-radius: 0.45rem; cursor: pointer;
+            display: inline-flex; align-items: center; justify-content: center;
+            background: rgba(255, 255, 255, 0.04); border: 1px solid transparent;
+            color: rgba(255, 255, 255, 0.45); font-size: 0.75rem;
+        }
+        .country-tile-chart:hover { color: #c7d2fe; border-color: rgba(99, 102, 241, 0.5); background: rgba(99, 102, 241, 0.2); }
+        .country-filter-clear {
+            align-items: center; gap: 0.35rem; cursor: pointer;
+            background: rgba(99, 102, 241, 0.2); color: #e0e7ff;
+            border: 1px solid #818cf8; border-radius: 999px;
+            padding: 0.25rem 0.7rem; font-size: 0.75rem; font-weight: 600;
+        }
+        .country-filter-clear:hover { background: rgba(99, 102, 241, 0.35); }
         .country-tile-name { font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); }
         .country-tile-total { font-family: 'Space Grotesk', sans-serif; font-size: 1.7rem; font-weight: 700; line-height: 1.15; color: var(--text-primary); }
         .country-tile-sub { font-size: 0.72rem; color: var(--text-secondary); display: flex; gap: 0.5rem; flex-wrap: wrap; }
@@ -1423,6 +1440,7 @@
         <div class="today-card-head">
             <span class="today-card-title"><i class="fas fa-earth-americas"></i> Jobs by country</span>
             <div class="country-card-actions">
+                <button type="button" class="country-filter-clear" id="country-filter-clear" style="display:none;" onclick="clearCountryFilter()" title="Show all countries"></button>
                 <span class="today-card-date" id="country-card-summary"></span>
                 <button type="button" class="country-timeline-btn" onclick="openTimeline('all')"><i class="fas fa-chart-column"></i> Timeline</button>
             </div>
@@ -1467,6 +1485,8 @@
         let sharedJobsState = {};
         let firestoreUnsubscribe = null;
         let selectedLlmModels = new Set();
+        // Countries picked on the "Jobs by country" card (empty = all countries).
+        let selectedCountries = new Set();
 
         let allJobs = [];
         let sortAsc = true;
@@ -1570,22 +1590,64 @@
             });
             const rows = [...stats].filter(([c, s]) => c !== 'Other' || s.total > 0)
                 .sort((a, b) => b[1].total - a[1].total || a[0].localeCompare(b[0]));
+            // Tile = toggle a country filter on the jobs table; the chart icon opens the timeline.
             document.getElementById('country-grid').innerHTML = rows.map(([c, s]) => `
-                <button type="button" class="country-tile" data-country="${escHtml(c)}" title="Jobs added over time in ${escHtml(c)}">
+                <div class="country-tile" role="button" tabindex="0" data-country="${escHtml(c)}" title="Show only ${escHtml(c)} jobs in the table (click again to remove)">
+                    <button type="button" class="country-tile-chart" aria-label="Timeline for ${escHtml(c)}" title="Jobs added over time in ${escHtml(c)}"><i class="fas fa-chart-column"></i></button>
                     <div class="country-tile-name">${escHtml(c)}</div>
                     <div class="country-tile-total">${s.total}</div>
                     <div class="country-tile-sub">
                         <span class="${s.today ? 'today-new' : 'today-none'}">+${s.today} today</span>
                         <span>${s.yes} yes</span>
                     </div>
-                </button>`).join('');
+                </div>`).join('');
             document.getElementById('country-card-summary').textContent =
                 `${allJobs.length} jobs · ${addedToday} added today`;
+            _syncCountryTiles();
             card.style.display = 'block';
         }
+
+        function _syncCountryTiles() {
+            document.querySelectorAll('.country-tile').forEach(t => {
+                const on = selectedCountries.has(t.dataset.country);
+                t.classList.toggle('active', on);
+                t.setAttribute('aria-pressed', on ? 'true' : 'false');
+            });
+            const clear = document.getElementById('country-filter-clear');
+            if (clear) {
+                clear.style.display = selectedCountries.size ? 'inline-flex' : 'none';
+                clear.innerHTML = `<i class="fas fa-filter"></i> ${selectedCountries.size === 1 ? escHtml([...selectedCountries][0]) : selectedCountries.size + ' countries'} <span aria-hidden="true">×</span>`;
+            }
+        }
+
+        window.toggleCountryFilter = function(country) {
+            if (selectedCountries.has(country)) selectedCountries.delete(country);
+            else selectedCountries.add(country);
+            _syncCountryTiles();
+            filterTable();
+            if (selectedCountries.size) {
+                const container = document.getElementById('jobs-container');
+                if (container) container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        };
+        window.clearCountryFilter = function() {
+            selectedCountries.clear();
+            _syncCountryTiles();
+            filterTable();
+        };
+
         document.addEventListener('click', e => {
+            const chart = e.target.closest('.country-tile-chart');
+            if (chart) { openTimeline(chart.closest('.country-tile').dataset.country); return; }
             const tile = e.target.closest('.country-tile');
-            if (tile) openTimeline(tile.dataset.country);
+            if (tile) toggleCountryFilter(tile.dataset.country);
+        });
+        document.addEventListener('keydown', e => {
+            const tile = e.target.closest && e.target.closest('.country-tile');
+            if (tile && e.target === tile && (e.key === 'Enter' || e.key === ' ')) {
+                e.preventDefault();
+                toggleCountryFilter(tile.dataset.country);
+            }
         });
 
         // ── Jobs-added timeline (Day / Week / Month) ───────────────────────────
@@ -1989,6 +2051,7 @@
                     evalModel: row.getAttribute('data-eval-model') || '',
                     tailorModel: '',
                     job: jobObj,
+                    country: jobObj ? jobCountry(jobObj) : 'Other',
                     isFinland: jobObj ? isFinlandJob(jobObj) : FINLAND_LOCATION_RE.test(vals[4] || '')
                 };
             });
@@ -2289,6 +2352,8 @@
             if (locationTextInput) locationTextInput.value = '';
             selectedLlmModels.clear();
             buildLlmFilter();
+            selectedCountries.clear();
+            _syncCountryTiles();
             filterTable();
         };
 
@@ -2438,6 +2503,9 @@
                         saved.llmModels.forEach(m => selectedLlmModels.add(m));
                         buildLlmFilter();
                     }
+                    if (saved.countries && Array.isArray(saved.countries)) {
+                        selectedCountries = new Set(saved.countries);
+                    }
                 }
             } catch (e) {
                 console.error("Error restoring filters", e);
@@ -2561,7 +2629,8 @@
                     deadlineLimit: (!isNaN(deadlineLimit) ? deadlineLimit : null),
                     colFilters: filters,
                     locationText: locationText,
-                    llmModels: Array.from(selectedLlmModels)
+                    llmModels: Array.from(selectedLlmModels),
+                    countries: Array.from(selectedCountries)
                 };
                 localStorage.setItem('jobBoardFilters_' + projectId, JSON.stringify(filtersToSave));
             } catch (e) {
@@ -2629,6 +2698,10 @@
                     if (!selectedLlmModels.has(entry.evalModel) && !selectedLlmModels.has(entry.tailorModel)) {
                         show = false;
                     }
+                }
+
+                if (show && selectedCountries.size > 0 && !selectedCountries.has(entry.country)) {
+                    show = false;
                 }
 
                 // Derived per-row values are computed unconditionally (not just for visible
