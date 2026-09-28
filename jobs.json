@@ -1281,15 +1281,14 @@
     "url": "https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-dropsuite-4448520040",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires existing working rights in Singapore and explicitly states that visa sponsorship is not available.",
+    "reason": "The job posting explicitly states that visa sponsorship is not available and requires applicants to already hold valid working rights in Singapore.",
     "id": "8d13dcca",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -1298,15 +1297,14 @@
     "url": "https://sg.linkedin.com/jobs/view/devops-engineer-at-openhill-global-4445814963",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with her DevOps and CI/CD expertise and is located in one of her target countries (Singapore).",
+    "reason": "The job as a DevOps Engineer in Singapore aligns with Priya's expertise in CI/CD pipelines, cloud infrastructure, and regulated-industry experience, meeting all target criteria including location, role type, and experience level.",
     "id": "61ed3c5d",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-08-29",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/openhill_global_devops_engineer_61ed3c5d.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/openhill_global_devops_engineer_61ed3c5d.txt"
   },
   {
     "title": "DevOps Engineer",
@@ -1315,15 +1313,14 @@
     "url": "https://sg.linkedin.com/jobs/view/devops-engineer-at-biotronik-4444576320",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with her DevOps, CI/CD, and regulated medical device industry experience, and Singapore is a target location.",
+    "reason": "The role aligns with Priya's DevOps/CI-CD expertise (GitHub Actions, Terraform, Kubernetes), regulated industry experience (medical devices), and location (Singapore) fits her relocation preferences.",
     "id": "db43887a",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-08-29",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/biotronik_devops_engineer_db43887a.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/biotronik_devops_engineer_db43887a.txt"
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1331,16 +1328,15 @@
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-singtel-4471312793",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior DevOps Engineer in Singapore, which aligns with the candidate's extensive experience in CI/CD, automation, and release management.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with DevOps Engineer criteria (CI/CD pipeline ownership, IaC, automation) and is located in Singapore (target country), but visa sponsorship availability is not explicitly stated in the posting.",
     "id": "7606c186",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-28",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/singtel_senior_devops_engineer_7606c186.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Sr. DevOps Engineer (Blockchain Infra)",
@@ -1348,16 +1344,15 @@
     "location": "Singapore",
     "url": "https://sg.linkedin.com/jobs/view/sr-devops-engineer-blockchain-infra-at-bnb-chain-4444995830",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The candidate's extensive experience in DevOps, CI/CD pipelines, and automation aligns with the Senior DevOps Engineer role, and Singapore is a target location.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with DevOps Engineer criteria and is located in Singapore (a target country), but visa sponsorship requirements for Singapore are not explicitly addressed in the posting.",
     "id": "4045786e",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/bnb_chain_sr__devops_engineer__blockchai_4045786e.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer - Singapore",
@@ -1366,15 +1361,14 @@
     "url": "https://sg.linkedin.com/jobs/view/senior-devops-engineer-singapore-at-ninjaone-4467046483",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting explicitly states that visa sponsorship is not available and applicants must already hold valid working rights in Singapore.",
+    "reason": "The job posting explicitly states that visa sponsorship is not available for this role in Singapore, which is a strict hard rejection criterion.",
     "id": "1e838d61",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Cloud Senior DevOps Engineer",
@@ -1382,16 +1376,15 @@
     "location": "Singapore",
     "url": "https://sg.linkedin.com/jobs/view/cloud-senior-devops-engineer-at-bitdeer-nasdaq-btdr-4450456278",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior DevOps position in Singapore, which aligns with the candidate's extensive experience in CI/CD, automation, and release management in a target country.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with DevOps Engineer role requirements and is located in Singapore (a target country), but visa sponsorship availability is unclear, which may affect eligibility.",
     "id": "9511ba66",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-26",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/bitdeer__nasdaq__btd_cloud_senior_devops_engineer_9511ba66.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -1400,15 +1393,14 @@
     "url": "https://sg.linkedin.com/jobs/view/devops-engineer-at-bit-official-4444302831",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role matches her DevOps and CI/CD skills and is in a target location (Singapore), but the 'Associate' seniority level suggests she may be overqualified.",
+    "reason": "The role aligns with DevOps Engineer criteria (CI/CD, infrastructure as code) and Singapore is a target country, but the 'Associate' seniority level may not fully match her mid-to-senior experience expectations.",
     "id": "03ac7c8a",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -1744,15 +1736,14 @@
     "url": "https://in.linkedin.com/jobs/view/senior-aws-devops-platform-engineer-6-9-years-at-fractal-4431860025",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with the candidate's CI/CD and automation expertise but focuses heavily on AWS DevOps engineering rather than her stronger fit in Configuration Management, Release Management, or regulated-industry quality/compliance work.",
+    "reason": "The role aligns with DevOps Engineer criteria but emphasizes AWS-specific tools which are not central to the candidate's extensive CI/CD/release management background, though she has basic AWS certification.",
     "id": "fb3e2e5e",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -1761,15 +1752,14 @@
     "url": "https://in.linkedin.com/jobs/view/devops-engineer-at-hitachi-energy-4467497881",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the candidate's DevOps Engineer expertise with Azure DevOps, CI/CD pipelines, and cloud infrastructure, located in India (a target country), and requires English proficiency.",
+    "reason": "The DevOps Engineer role at Hitachi Energy in Chennai, India matches Priya\u2019s expertise in CI/CD pipelines (Azure DevOps, Jenkins), cloud infrastructure (AWS/Azure), and automation tools (Terraform, Ansible) as outlined in her profile.",
     "id": "8fc74340",
     "source": "linkedin_in_devops_engineer",
     "added_at": "2026-09-28T13:50:01+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/hitachi_energy_devops_engineer_8fc74340.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/hitachi_energy_devops_engineer_8fc74340.txt"
   },
   {
     "title": "Senior Cloud DevOps Engineer",

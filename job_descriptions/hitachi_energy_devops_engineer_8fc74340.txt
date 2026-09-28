@@ -4,7 +4,7 @@ Location: Chennai, Tamil Nadu, India
 URL: https://in.linkedin.com/jobs/view/devops-engineer-at-hitachi-energy-4467497881
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The role matches the candidate's DevOps Engineer expertise with Azure DevOps, CI/CD pipelines, and cloud infrastructure, located in India (a target country), and requires English proficiency.
+Reason: The DevOps Engineer role at Hitachi Energy in Chennai, India matches Priya’s expertise in CI/CD pipelines (Azure DevOps, Jenkins), cloud infrastructure (AWS/Azure), and automation tools (Terraform, Ansible) as outlined in her profile.
 
 ========================================
 JOB DESCRIPTION:
@@ -76,13 +76,8 @@ Appliances, Electrical, and Electronics Manufacturing and IT Services and IT Con
 Referrals increase your chances of interviewing at Hitachi Energy by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Chennai, Tamil Nadu, India.
-
-Sign in to create job alert
-Jobs
-Regional Supply Chain Manager jobs
-DevOps Engineer
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 DevOps Engineer
 DevOps Engineer
@@ -105,32 +100,18 @@ DevOps / Cloud Engineer
 India Health Link
 Chennai, Tamil Nadu, India
 1 month ago
-Devops Engineer
-Devops Engineer
-Intuitive Apps Inc.
-Chennai, Tamil Nadu, India
-1 month ago
 DevOps Engineer
 DevOps Engineer
 IDFC FIRST Bank
 Chennai, Tamil Nadu, India
 1 week ago
+Devops Engineer
+Devops Engineer
+SWITS DIGITAL Private Limited
+Chennai, Tamil Nadu, India
+2 weeks ago
 Show more jobs like this 
 People also viewed
-Senior DevOps & SRE
-Senior DevOps & SRE
-
-Quvia
-
-Chennai, Tamil Nadu, India
-4 months ago
-Infrastructure DevOps Specialist
-Infrastructure DevOps Specialist
-
-Celestica
-
-Guindy, Tamil Nadu, India
-3 days ago
 DevOps/Cloud Engineer (AWS Specialist) &#8211; Chennai  3-4 years experience
 DevOps/Cloud Engineer (AWS Specialist) &#8211; Chennai  3-4 years experience
 
@@ -166,7 +147,21 @@ Assistant Manager - Cloud Engineer
 BNP Paribas
 
 Chennai, Tamil Nadu, India
-5 days ago
+6 days ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+3 days ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+3 days ago
 Cloud Platform Engineer
 Cloud Platform Engineer
 
