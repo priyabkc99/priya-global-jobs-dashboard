@@ -4,7 +4,7 @@ Location: Sydney, New South Wales, Australia
 URL: https://au.linkedin.com/jobs/view/aws-devops-at-luxoft-australia-4462139184
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The role aligns with her DevOps, CI/CD, and release management expertise and is located in a target country (Australia).
+Reason: The role aligns with Priya's DevOps and CI/CD expertise, is located in Australia (a target country), and matches her experience with infrastructure automation and regulated environments.
 
 ========================================
 JOB DESCRIPTION:
@@ -33,6 +33,12 @@ See who Luxoft Australia has hired for this role
 
 Apply
 Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
 
 Direct message the job poster from Luxoft Australia
 
@@ -131,10 +137,11 @@ IT Services and IT Consulting
 Referrals increase your chances of interviewing at Luxoft Australia by 2x
 
 See who you know
-
-Get notified about new DevOps Specialist jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
+Jobs
+Acquisition Specialist jobs
+AWS Devops
 Similar jobs
 *AWS DevOps Engineer*
 *AWS DevOps Engineer*
@@ -150,7 +157,7 @@ Devops Engineer
 Devops Engineer
 ASX
 Sydney, New South Wales, Australia
-1 week ago
+2 weeks ago
 *AWS Cloud Engineer*
 *AWS Cloud Engineer*
 Accenture Australia
@@ -168,13 +175,20 @@ Sydney, New South Wales, Australia
 1 week ago
 Show more jobs like this 
 People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Tata Consultancy Services
+
+Sydney, New South Wales, Australia
+3 weeks ago
 Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
 Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
 
 Anduril Industries
 
 Sydney, New South Wales, Australia
-3 days ago
+4 days ago
 DevOps Engineer
 DevOps Engineer
 
@@ -203,6 +217,13 @@ Colonial First State
 
 Sydney, New South Wales, Australia
 3 weeks ago
+Senior Cloud Platform Engineer (AWS)
+Senior Cloud Platform Engineer (AWS)
+
+NOVON
+
+Sydney, New South Wales, Australia
+4 hours ago
 Senior DevOps Engineer
 Senior DevOps Engineer
 
@@ -221,20 +242,6 @@ Platform DevOps Engineer
 Platform DevOps Engineer
 
 Future Secure AI
-
-Sydney, New South Wales, Australia
-1 week ago
-Cloud Platform Engineer
-Cloud Platform Engineer
-
-IAG
-
-Sydney, New South Wales, Australia
-3 days ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Australian Payments Plus
 
 Sydney, New South Wales, Australia
 1 week ago

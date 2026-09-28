@@ -4,7 +4,7 @@ Location: Cremorne, Victoria, Australia
 URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-australia-post-4469848360
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The role is a Senior DevOps Engineer position in Australia, which aligns with her extensive experience in CI/CD, automation, and release management.
+Reason: The job aligns with Priya's expertise in DevOps engineering (CI/CD pipeline ownership, infrastructure automation) and is located in Australia, a target country. It also matches her configuration management background and technical communication experience.
 
 ========================================
 JOB DESCRIPTION:
@@ -26,13 +26,19 @@ Sign in
 Join now
 Senior DevOps Engineer
 Australia Post  Cremorne, Victoria, Australia
-1 week ago  62 applicants
+1 week ago  63 applicants
   
 
 See who Australia Post has hired for this role
 
 Apply 
 Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
 
 Help us deliver like never before  
 
@@ -101,10 +107,11 @@ Consumer Services
 Referrals increase your chances of interviewing at Australia Post by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Cremorne, Victoria, Australia.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
+Jobs
+General Manager Information Technology jobs
+Senior DevOps Engineer
 Similar jobs
 Senior Cloud / DevOps Engineer
 Senior Cloud / DevOps Engineer
@@ -145,7 +152,7 @@ CloudOps Engineer - Software
 Gallagher Animal Management
 
 Melbourne, Victoria, Australia
-4 days ago
+5 days ago
 Cloud Engineer
 Cloud Engineer
 
@@ -201,7 +208,7 @@ Site Reliability Engineer - Liquidity Platform
 Macquarie Group
 
 Melbourne, Victoria, Australia
-1 week ago
+2 weeks ago
 Cloud Tech Lead
 Cloud Tech Lead
 

@@ -4,7 +4,7 @@ Location: Sydney, New South Wales, Australia
 URL: https://au.linkedin.com/jobs/view/devops-engineer-at-cloud-raptor-4462567632
 Posted: 2026-09-14
 Deadline: N/A
-Reason: The role is a Senior DevOps Engineer in Australia, aligning with her extensive experience in CI/CD, automation, and regulated environments.
+Reason: The job as a Senior DevOps Engineer in Sydney, Australia aligns with the candidate's expertise in CI/CD pipelines, Kubernetes, Terraform, and regulated environments, meeting all target criteria including location, role type, experience level, and language requirements.
 
 ========================================
 JOB DESCRIPTION:
@@ -33,6 +33,12 @@ See who Cloud Raptor has hired for this role
 
 Apply
 Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
 Cloud Raptor provided pay range
 
 This range is provided by Cloud Raptor. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
@@ -286,10 +292,11 @@ Financial Services
 Referrals increase your chances of interviewing at Cloud Raptor by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
+Jobs
+Recruiter jobs
+DevOps Engineer
 Similar jobs
 DevOps Engineer
 DevOps Engineer
@@ -315,14 +322,35 @@ Devops Engineer
 Devops Engineer
 ASX
 Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-Future Secure AI
-Sydney, New South Wales, Australia
 2 weeks ago
+Systems Engineer/Dev Ops/Administrator
+Systems Engineer/Dev Ops/Administrator
+Tyroola.com.au
+Millers Point, New South Wales, Australia
+1 month ago
 Show more jobs like this 
 People also viewed
+Associate DevOps Engineer
+Associate DevOps Engineer
+
+Shift
+
+North Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Settify
+
+Sydney, New South Wales, Australia
+1 week ago
+Cloud Site Reliability Engineer
+Cloud Site Reliability Engineer
+
+Intrinzic
+
+Sydney, New South Wales, Australia
+1 week ago
 Site Reliability Engineer
 Site Reliability Engineer
 
@@ -336,7 +364,7 @@ Site Reliability Engineer - Liquidity Platform
 Macquarie Group
 
 Sydney, New South Wales, Australia
-1 week ago
+2 weeks ago
 Cloud DevOps Engineer - GCP
 Cloud DevOps Engineer - GCP
 
@@ -365,31 +393,10 @@ CORTO
 
 Millers Point, New South Wales, Australia
 1 week ago
-Cloud Site Reliability Engineer
-Cloud Site Reliability Engineer
-
-Intrinzic
-
-Sydney, New South Wales, Australia
-1 week ago
 DevSecOps Engineer
 DevSecOps Engineer
 
 HUB24 Limited
-
-Sydney, New South Wales, Australia
-1 week ago
-Platform Engineer
-Platform Engineer
-
-Silicon Quantum Computing
-
-Sydney, New South Wales, Australia
-1 week ago
-Site Reliability Engineer (Australia, Remote)
-Site Reliability Engineer (Australia, Remote)
-
-Axon
 
 Sydney, New South Wales, Australia
 1 week ago

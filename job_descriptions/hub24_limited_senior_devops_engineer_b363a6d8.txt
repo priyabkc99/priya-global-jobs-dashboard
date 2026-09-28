@@ -4,7 +4,7 @@ Location: Sydney, New South Wales, Australia
 URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-hub24-limited-4470196570
 Posted: 2026-09-26
 Deadline: N/A
-Reason: The role is a Senior DevOps Engineer in Australia, which aligns with her extensive experience in CI/CD, automation, and release management.
+Reason: The role aligns with DevOps Engineer criteria (CI/CD pipelines, cloud infrastructure), is located in Australia (target country), and matches mid-senior experience level requirements.
 
 ========================================
 JOB DESCRIPTION:
@@ -33,6 +33,12 @@ See who HUB24 Limited has hired for this role
 
 Apply
 Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
 About HUB24
 
 At HUB24, we’re rethinking the way wealth management works, combining platform, technology and data to create better outcomes for financial professionals and their clients.
@@ -176,10 +182,11 @@ Financial Services
 Referrals increase your chances of interviewing at HUB24 Limited by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Account Officer jobs
+Senior DevOps Engineer
 Similar jobs
 Senior DevOps Engineer
 Senior DevOps Engineer
@@ -207,27 +214,20 @@ Sr DevOps Engineer
 XPT Software Australia
 Sydney, New South Wales, Australia
 2 days ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-Atain
-Sydney, New South Wales, Australia
-2 days ago
-Show more jobs like this 
-People also viewed
-Senior AI DevOps Engineer
-Senior AI DevOps Engineer
-
-Allianz Australia
-
+Senior Software DevOps Engineer
+Senior Software DevOps Engineer
+SITA
 Sydney, New South Wales, Australia
 5 days ago
+Show more jobs like this 
+People also viewed
 Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
 Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
 
 Anduril Industries
 
 Sydney, New South Wales, Australia
-3 days ago
+4 days ago
 DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
 DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
 
@@ -262,7 +262,7 @@ Senior Platform Engineer
 Pet Circle
 
 Sydney, New South Wales, Australia
-3 days ago
+4 days ago
 Senior DevOps Engineer - Operations
 Senior DevOps Engineer - Operations
 
@@ -281,6 +281,13 @@ Senior Site Reliability Engineer (Platform Engineering/DevOps)
 Senior Site Reliability Engineer (Platform Engineering/DevOps)
 
 Cover Genius
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
 
 Sydney, New South Wales, Australia
 1 week ago
