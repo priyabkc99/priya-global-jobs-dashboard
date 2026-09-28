@@ -117,5 +117,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior DevOps Engineer (iOCO0047)",
+    "company": "iOCO",
+    "location": "Sandton, South Africa",
+    "url": "https://www.pnet.co.za/jobs--Senior-DevOps-Engineer-iOCO0047-Sandton-iOCO--4263982-inline.html",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role matches Priya's DevOps expertise in CI/CD pipelines and infrastructure as code, located in South Africa (a target country), with no visa sponsorship restrictions.",
+    "id": "ba288f15",
+    "source": "pnet_devops_engineer",
+    "added_at": "2026-09-28T21:52:00+03:00",
+    "posted_date": "2026-09-21",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/ioco_senior_devops_engineer__ioco00_ba288f15.txt",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

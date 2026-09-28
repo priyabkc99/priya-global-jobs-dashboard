@@ -1,0 +1,182 @@
+Title: Senior DevOps Engineer
+Company: Network IT
+Location: Centurion, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-DevOps-Engineer-Centurion-Network-IT--4263951-inline.html
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The job matches as a Senior DevOps Engineer role in South Africa (target country), aligning with Priya's CI/CD, infrastructure-as-code, and automation expertise from Elektrobit and Topcon, while meeting location, experience level, and language requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+Senior DevOps Engineer
+Network IT
+Centurion
+Permanent
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Senior DevOps Engineer
+Network IT
+I'm interested
+Reference: ITE008016-Sfund-1
+
+Are you a seasoned DevOps professional passionate about building secure, scalable, and highly available cloud platforms? We are seeking a Senior DevOps Engineer to play a critical hands-on role in shaping, operating, and continuously improving modern cloud environments and delivery pipelines within a fast-growing, technology-driven business.
+This is an opportunity to work alongside Cloud Architects, Infrastructure Leaders, Software Engineers, and Security Specialists, helping drive automation, reliability, security, and operational excellence across critical platforms.
+Duties & Responsibilities
+What You'll Do
+Build, manage, and optimise cloud infrastructure across production, staging, and development environments.
+Design and maintain Infrastructure-as-Code, CI/CD pipelines, and automation frameworks.
+Improve platform performance, scalability, security, and resilience.
+Enhance monitoring, alerting, logging, and observability capabilities.
+Support backup, disaster recovery, failover, and business continuity initiatives.
+Champion DevSecOps practices, vulnerability management, patching, and secure platform configurations.
+Collaborate closely with development teams to improve deployment efficiency and operational reliability.
+Create and maintain technical documentation, architecture diagrams, and operational runbooks.
+Evaluate emerging technologies and recommend improvements to infrastructure and developer experience.
+Contribute to agile delivery teams and continuous improvement initiatives.
+Technical Environment
+You'll work with a modern technology stack that includes:
+
+AWS Cloud (Azure and GCP exposure advantageous)
+Terraform
+Docker & Kubernetes
+Argo CD
+GitLab CI, GitHub Actions & Jenkins
+Prometheus, Grafana, ELK Stack & Loki
+Ansible, Puppet or Chef
+Python, Bash or Ruby
+NGINX & Apache
+MySQL & PostgreSQL
+RabbitMQ
+DNS, Load Balancing, Firewalls, Proxies & Core Networking Technologies
+What We're Looking For
+7+ years' experience in DevOps, Cloud Infrastructure, Systems Engineering, or a related field.
+Strong hands-on AWS experience.
+Solid Linux administration experience in production environments.
+Proven expertise in Infrastructure-as-Code and automation.
+Experience designing and supporting secure, compliant environments.
+Exposure to PCI-DSS and/or ISO27001 environments will be advantageous.
+Strong understanding of DevOps principles, agile delivery, and cloud-native technologies.
+Experience within FinTech, technology, or other high-growth environments preferred.
+Key Competencies
+ Strong problem-solving and analytical skills
+ Excellent communication and collaboration abilities
+ High attention to detail and operational excellence
+ Proactive risk identification and mitigation mindset
+ Ability to thrive in fast-paced, evolving environments
+
+Why Consider This Opportunity?
+Join a highly skilled technology team where you'll have the opportunity to influence cloud strategy, drive automation at scale, strengthen platform security, and help engineering teams deliver world-class solutions in a complex, high-availability environment.
+
+Key Responsibilities:
+ 
+ 
+ 
+Job Experience and Skill Required:
+ 
+ 
+Apply now!
+ 
+For more IT jobs, please visit www.networkrecruitmentinternational.com/
+ 
+I also specialise in recruiting in the following:
+ 
+Software Development
+Data Engineer
+Data Analyst
+Infrastructure
+Architecture
+... and more!
+ 
+If you have not had any response in two weeks, please consider the vacancy application unsuccessful. Your profile will be kept on our database for any other suitable roles / positions.
+ 
+For more information contact:
+Sfundo Shoba
+https://www.linkedin.com/in/sfundo-shoba-500ab4202/
+I'm interested
+Network IT
+185 Jobs
+Our Location
+Network IT
+Centurion, South Africa
+Open map
+These jobs were popular with other job seekers
+Senior DevOps Engineer - Centurion or Rosebank (Hybrid) - R1.2m PA
+E-Merge IT Recruitment
+Centurion
+just now
+Senior Automation & DevOps Engineer
+Network Engineering
+Centurion
+just now
+Senior DevOps & Automation Engineer
+Network Engineering
+Centurion
+just now
+Automation & DevOps Engineer
+RecruitPro Solutions
+Centurion
+just now
+Senior DevOps Engineer (iOCO0047)
+iOCO
+Sandton
+just now
+Senior DevOps/SRE Cloud Engineer
+Tumaini Consulting
+Gauteng, Western Cape, KwaZulu Natal
+just now
+DevOps Lead / Senior DevOps Engineer
+Mediro ICT Recruitment
+Pretoria
+just now
+Senior DevOps Engineer - Midrand /Hybrid - R1100k PA
+E-Merge IT Recruitment
+Midrand
+just now
+Technical Architect
+CyberPro Consulting
+Centurion
+just now
+Senior DevOps CI/CD Engineer - Rosebank - R1.4m PA
+E-Merge IT Recruitment
+Rosebank
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

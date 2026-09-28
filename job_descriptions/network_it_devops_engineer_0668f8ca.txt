@@ -1,0 +1,147 @@
+Title: DevOps Engineer
+Company: Network IT
+Location: Stellenbosch, South Africa
+URL: https://www.pnet.co.za/jobs--DevOps-Engineer-Cape-Winelands-Stellenbosch-Network-IT--4271360-inline.html
+Posted: 2026-09-28
+Deadline: N/A
+Reason: The job aligns with the candidate's DevOps/CI-CD expertise, falls within her target country (South Africa), and matches her experience level despite requiring 2-5 years of experience (she has ~15 years).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+Permanent
+Full Time
+Published: 4 hours ago
+I'm interested
+Save
+DevOps Engineer
+Network IT
+I'm interested
+Reference: ITA006297-Jess-1
+
+A leading South African technology and engineering business is looking for a DevOps Engineer to join a high-performing multidisciplinary team developing innovative IoT, energy management, and operational intelligence solutions across Africa.
+This is an exciting opportunity for a DevOps professional who enjoys building scalable cloud infrastructure, automating processes, and supporting cutting-edge technology solutions that deliver real-world impact.
+Duties & Responsibilities
+What You'll Be Doing
+
+Own, design, deploy, and maintain cloud infrastructure and services
+Manage and optimise containerised environments for performance and cost efficiency
+Build, maintain, and improve CI/CD pipelines
+Implement infrastructure security controls, compliance measures, and vulnerability management processes
+Develop monitoring, observability, and alerting solutions using modern tooling
+Troubleshoot production incidents and implement preventative improvements
+Support products and services throughout their full lifecycle, including deployments, enhancements, and releases
+Collaborate closely with Software Engineers, QA teams, and Operations stakeholders to streamline delivery and improve reliability
+ 
+Minimum Requirements
+
+Bachelor's degree in Information Technology, Computer Science, or equivalent relevant qualification
+2 to 5 years of DevOps experience
+Strong problem-solving and analytical skills
+Excellent communication abilities
+Experience writing technical documentation
+Practical experience with Linux environments
+Experience with scripting using Bash, Python, and/or Node.js
+Strong containerisation experience
+Experience with automation tools such as Terraform, Ansible, Jenkins, or GitLab CI/CD
+Database administration and design experience, preferably PostgreSQL and TimescaleDB
+Familiarity with cloud platforms such as AWS, Azure, GCP, Hetzner, or similar cloud technologies
+Working knowledge of quality management processes and standards
+ 
+Advantageous Experience
+
+UI/UX exposure
+AWS DevOps Engineer certification or similar cloud certifications
+ 
+Application Note:
+If you have not received feedback within two weeks, please consider your application unsuccessful. Your profile will remain in our database for future opportunities
+Package & Remuneration
+R 600 000 - R 630 000 - Annually
+I'm interested
+Network IT
+185 Jobs
+Our Location
+Network IT
+Cape Winelands: Stellenbosch, South Africa
+Open map
+These jobs were popular with other job seekers
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps Engineer - JHB / PTA / CPT
+MSP Staffing Pty Ltd
+Johannesburg / Pretoria / Cape Town
+just now
+DevOps Engineer
+Network Recruitment - Finance Corporate
+Cape Town: Northern Suburbs
+just now
+DevOps Engineer | The DevOps Conductor
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+Java Developer (Intermediate to Senior)
+Communicate IT
+Cape Winelands: Stellenbosch
+just now
+Data Engineer (Junior / Intermediate / Senior)
+Communicate IT
+Cape Winelands: Stellenbosch
+just now
+Senior DevOps / SRE Cloud Engineer - Azure & Kubernetes
+Tumaini Consulting
+Johannesburg, KwaZulu Natal , Western Cape
+just now
+Power Platform DevOps Engineer
+Samaha Consulting
+Johannesburg
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

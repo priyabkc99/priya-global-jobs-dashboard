@@ -1,0 +1,227 @@
+Title: Senior DevOps Engineer (iOCO0047)
+Company: iOCO
+Location: Sandton, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-DevOps-Engineer-iOCO0047-Sandton-iOCO--4263982-inline.html
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role matches Priya's DevOps expertise in CI/CD pipelines and infrastructure as code, located in South Africa (a target country), with no visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+Senior DevOps Engineer (iOCO0047)
+iOCO
+Sandton
+Permanent
+Full Time
+Published: 1 week ago
+Non EE/AA
+I'm interested
+Save
+Senior DevOps Engineer (iOCO0047)
+iOCO
+I'm interested
+Description
+
+We are looking for a hands-on DevOps Engineer to operate inside a AWS native banking environment. You will own the build, automation, and operational tooling that delivery teams rely on every day CI/CD pipelines, infrastructure as code, environment provisioning, configuration management, and the developer experience that surrounds them.
+
+This is an engineering role first. You will spend the majority of your time in code and configuration: writing pipelines, building automation, hardening environments, and removing manual toil from the path to production. You will work alongside developers, architects, security engineers, and platform teams to keep delivery flowing reliably inside a regulated, PCI-DSS environment.
+
+Site Reliability Engineering experience is a strong advantage. You will use it to push the platform further sharper observability, better incident response, lower failure domains, and resilience patterns built into the way services are deployed and run.
+
+
+What you'll do:
+
+Core DevOps Engineering
+Design, build, and maintain CI/CD pipelines that move code from commit to production safely and repeatably across the delivery estate.
+Automate AWS workload provisioning and configuration deployment using infrastructure as code, with environments that are reproducible, version-controlled, and auditable.
+Build and operate the deployment automation, release tooling, and environment management that delivery squads depend on day to day.
+Harden the developer experience repository templates, pipeline templates, deployment patterns, and self-service tooling that reduce friction without weakening control.
+Integrate security and compliance controls into pipelines and infrastructure secrets management, access control, change traceability.
+Translate business and technical requirements into scalable, automated delivery solutions that align to the AWS Well-Architected Framework.
+AWS and Platform Engineering
+Work hands-on across an AWS estate, integrating cloud-native services with on-premises systems where the banking environment requires it.
+Build and operate workloads across EC2, RDS (EBS, EKS, ECS, Load Balancing, Secrets Manager, KMS, and Service Catalog.
+Use AWS CDK as the primary infrastructure-as-code tool, with CloudFormation, Ansible, and scripting languages applied where they fit best.
+Apply networking fundamentals routing, segmentation, security groups, DNS, TLS, and load balancing to design environments that are both secure and operable.
+Support the operational lifecycle of platform services the wider engineering organisation depends on, including identity, messaging, and application server tiers where present.
+Site Reliability Depth
+
+Where SRE skills are present, the role expands to include the following. These responsibilities are not the primary requirement but will materially strengthen the contribution of an engineer who brings them.
+
+Identify and reduce failure domains across the platform, designing systems that contain blast radius and recover gracefully from partial failure.
+Apply SRE principles SLOs, post-incident learning to improve reliability, performance, and the team's response to production issues.
+Enhance observability across environments through stronger monitoring, structured logging, useful alerting, and dashboards that surface what matters during an incident.
+Troubleshoot and optimise low-latency, Java-based applications in production, working alongside application engineers to resolve issues at the system
+Build automation that minimises business impact during maintenance and failures, and that reduces the operational load carried by delivery teams.
+Collaboration and Mentorship
+Contribute as a strong technical voice in a cross-functional team alongside Architects, Engineers, Business Analysts, Scrum Masters, and Security partners.
+Mentor engineers across the team on DevOps practice, AWS engineering, automation, and where applicable SRE principles through pairing, code review, and worked examples.
+Drive collaboration across squads, lifting the standard of automation, observability, and operational discipline beyond the immediate team.
+Champion delivery excellence secure, automated, observable, and repeatable as the default way of working.
+
+
+
+Your Expertise and Qualifications:
+Essential Experience
+
+7+ years hands-on experience in a DevOps or SRE role, with a clear weighting toward DevOps engineering, automation, and CI/CD delivery.
+Hands-on experience in AWS environment, preferably in financial services with PCI-DSS compliant systems.
+Demonstrable track record implementing CI/CD pipeline automation across functional areas of a delivery organisation.
+Strong AWS workload automation experience covering infrastructure provisioning and software configuration rollout.
+Practical experience implementing observability for hybrid and cloud-based environments.
+Strong working knowledge of networking principles and protocols.
+Working understanding of the AWS Well-Architected Framework and how to apply it in practice.
+
+
+Advantageous Experience
+
+Demonstrable experience with Site Reliability Engineering principles and practices in production environments.
+Troubleshooting low-latency, Java-based applications in an SRE context and infrastructure-level performance investigation.
+Experience operating inside an audit-heavy regulated environment beyond PCI-DSS change control, evidence capture, segregation of duties.
+
+
+Ways of Working
+
+A hands-on engineer at heart most effective when the work is in pipelines, code, and configuration rather than in process documents.
+Pragmatic about automation automates what matters, leaves what doesn't, and knows the difference.
+Strong collaborator across engineering, security, and operations, with the ability to translate technical decisions into language non-engineers can act on.
+Holds the line on operational and security discipline without becoming a blocker to delivery.
+
+
+Technology and Tooling
+
+
+Essential
+
+AWS Services: EC2, RDS, EBS, EKS, ECS, Load Balancing, Secrets Manager, KMS, Service Catalog.
+AWS CDK.
+Observability tooling: AWS CloudWatch, Splunk or AppDynamics, ELK.
+CI/CD platforms (Harness, Azure DevOps, GitLab, or equivalent).
+Operating Systems: Linux and Windows Server.
+
+Preferred
+
+Python scripting.
+AWS CloudFormation.
+Bash scripting.
+
+Optional
+
+Zabbix monitoring.
+WebLogic 14c.
+
+Certifications (Beneficial)
+
+AWS Certified SysOps Administrator (CloudOps Engineer).
+AWS Certified Solutions Architect – Associate.
+
+
+Other information applicable to the opportunity:
+
+Location: Sandton
+
+Work Policies: Hybrid - 3 Days in office (Client Based)
+
+
+
+Why work for us?
+
+Want to work for an organization that solves complex real-world problems with innovative software solutions? At iOCO, we believe anything is possible with modern technology, software, and development expertise. We are continuously pushing the boundaries of innovative solutions across multiple industries using an array of technologies. 
+
+You will be part of a consultancy, working with some of the most knowledgeable minds in the industry on interesting solutions across different business domains. 
+
+Our culture of continuous learning will ensure that you will have all the opportunities, tools, and support to hone and grow your craft. 
+
+By joining IOCO you will have an open invitation to developer inspiring forums. A place where you will be able to connect and learn from and with your peers by sharing ideas, experiences, practices, and solutions. 
+
+iOCO is an equal opportunity employer with an obligation to achieve its own unique EE objectives in the context of Employment Equity targets. Therefore, our employment strategy gives primary preference to previously disadvantaged individuals or groups.
+
+Package & Remuneration
+Market Related
+I'm interested
+iOCO
+HR Services, Recruitment & Selection • 51-250 Employees
+29 Jobs
+Company Profile
+Our Location
+iOCO
+2196 Sandton, South Africa
+Open map
+These jobs were popular with other job seekers
+Intermediate System Analyst (12 Month Contract)
+Swan iT Recruitment Ltd
+Sandton
+just now
+Senior Systems Analyst - Payments & DebiCheck
+DeARX Services (Pty)Ltd
+Sandton
+just now
+Senior DevOps/SRE Cloud Engineer
+Tumaini Consulting
+Gauteng, Western Cape, KwaZulu Natal
+just now
+DevOps Lead / Senior DevOps Engineer
+Mediro ICT Recruitment
+Pretoria
+just now
+Senior DevOps Engineer
+Network IT
+Centurion
+just now
+Senior Systems Analyst
+IQbusiness
+Sandton
+just now
+Senior DevOps and Site Reliability Engineer
+Impact Human Resources (Pty) Ltd
+Sandton
+just now
+Senior Developer
+Vela Personnel
+Sandton
+just now
+AI Automation Engineer - Payments
+Datonomy Solutions
+Sandton
+just now
+Senior Developer
+The Appointment Firm
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

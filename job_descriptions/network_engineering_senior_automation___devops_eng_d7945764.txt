@@ -1,0 +1,153 @@
+Title: Senior Automation & DevOps Engineer
+Company: Network Engineering
+Location: Centurion, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-Automation-DevOps-Engineer-Centurion-Network-Engineering--4267211-inline.html
+Posted: 2026-09-21
+Deadline: Open until filled
+Reason: The job aligns with Priya's expertise in CI/CD automation, requirements traceability, and regulated-industry compliance, matching her background at Elektrobit and Topcon, and is located in South Africa (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+Senior Automation & DevOps Engineer
+Network Engineering
+Centurion
+Permanent
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Senior Automation & DevOps Engineer
+Network Engineering
+I'm interested
+Reference: NES027885-KM-1
+
+Our client is seeking a Senior Automation & DevOps Engineer to play a strategic role in transforming our engineering development environment. This position is ideal for a highly skilled engineer with expertise in Requirements Management, DevOps practices, CI/CD automation, and software lifecycle governance within complex product development environments.
+ 
+The successful candidate will drive automation initiatives, improve engineering processes, and support compliance with industry standards while working closely with software, hardware, systems, and quality engineering teams.
+Duties & Responsibilities
+Key Responsibilities
+
+Lead the implementation and improvement of requirements management practices across engineering projects.
+Establish and maintain requirement traceability from concept through verification and validation.
+Develop and manage CI/CD pipelines using Jenkins, Bitbucket, Artifactory, and related DevOps tooling.
+Drive Agile and DevOps adoption across multidisciplinary engineering teams.
+Configure and manage development infrastructure, user authentication systems, and deployment environments.
+Design dashboards and reporting solutions to monitor engineering performance and project metrics.
+Support cloud-based infrastructure deployments and containerized environments.
+Maintain legacy development tools and facilitate migration to modern platforms.
+Contribute to cybersecurity compliance and secure development practices.
+Qualifications
+
+BEng Electronic Engineering, Computer Engineering, Computer Science, or equivalent.
+Honours or Master's degree advantageous.
+Experience & Technical Skills
+
+8-10+ years in software, systems, or product development environments.
+Strong experience in Requirements Management and DevOps.
+Experience with safety-critical or regulated industries highly advantageous.
+DOORS (Classic & Next Generation)
+Jira, Jenkins, Bitbucket, Artifactory
+SQL/MySQL
+Python, Bash, PowerShell
+Docker, Kubernetes, Podman
+CI/CD pipelines and automation frameworks
+RTCA DO-178, DO-254, ARP4754A knowledge preferred
+ 
+Apply now! 
+ 
+For more engineering jobs, please visit www.networkrecruitmentinternational.com
+ 
+If you have not had any response in two weeks, please consider the vacancy application unsuccessful. Your profile will be kept on our database for any other suitable roles / positions.
+ 
+For more information contact:
+Karabo Mnguni
+kmnguni@networkrecruitment.co.za
+0873510724
+Package & Remuneration
+R 100 000 - Monthly
+I'm interested
+Network Engineering
+293 Jobs
+Our Location
+Network Engineering
+Centurion, South Africa
+Open map
+These jobs were popular with other job seekers
+Senior DevOps & Automation Engineer
+Network Engineering
+Centurion
+just now
+Senior DevOps Engineer
+Network IT
+Centurion
+just now
+Automation & DevOps Engineer
+RecruitPro Solutions
+Centurion
+just now
+Senior DevOps Engineer - Centurion or Rosebank (Hybrid) - R1.2m PA
+E-Merge IT Recruitment
+Centurion
+just now
+Azure Solutions Architect or Cloud Architect
+Network Contracting Solutions
+Centurion
+just now
+Stelselontwikkelingsbestuurder/ System Development Manager
+Werfnet
+Centurion
+just now
+Back end C# Developer
+Network IT
+Centurion
+just now
+Technical Architect
+CyberPro Consulting
+Centurion
+just now
+Software Engineering Automation Specialist
+Network Engineering
+Centurion
+just now
+Data Science Developer (Retail) - Bryanston/Centurion
+Headhunters
+Centurion
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

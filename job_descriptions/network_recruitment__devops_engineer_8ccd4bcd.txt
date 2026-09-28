@@ -1,0 +1,148 @@
+Title: DevOps Engineer
+Company: Network Recruitment - Finance Corporate
+Location: Cape Town: Northern Suburbs, South Africa
+URL: https://www.pnet.co.za/jobs--DevOps-Engineer-Cape-Town-Northern-Suburbs-Network-Recruitment-Finance-Corporate--4267194-inline.html
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Cape Town, South Africa aligns with Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated-industry experience, while meeting all location, visa, and role-type criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+DevOps Engineer
+Network Recruitment - Finance Corporate
+Cape Town: Northern Suburbs
+Permanent
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+DevOps Engineer
+Network Recruitment - Finance Corporate
+I'm interested
+Reference: ITA006239-Niki-1
+
+Calling all DevOps Engineers! A leading fintech is looking for a cloud and automation specialist to help scale and optimise mission critical platforms in a high growth environment. If you have deep AWS experience, thrive in complex cloud environments, and enjoy driving DevOps best practices, security, and automation, this is an opportunity to work with cutting edge technologies while making a real impact on platform reliability and performance.
+Duties & Responsibilities
+Qualifications:
+
+Relevant IT Degree or Diploma advantageous
+Cloud and DevOps certifications highly advantageous
+ 
+Requirements:
+
+7+ years’ experience in DevOps, Cloud Infrastructure, or Systems Engineering
+Strong AWS experience
+Linux administration experience
+Terraform Infrastructure as Code experience
+Docker, Kubernetes, and Argo CD experience
+CI/CD experience with GitLab, GitHub Actions, or Jenkins
+Strong scripting skills in Python, Bash, or Ruby
+Experience with Prometheus, Grafana, ELK, or Loki
+ 
+KPAs:
+
+Build and maintain cloud infrastructure and deployment pipelines
+Implement Infrastructure as Code and automation solutions
+Drive cloud security, monitoring, and observability initiatives
+Support disaster recovery, redundancy, and platform resilience
+Collaborate with Engineering, Security, and Architecture teams
+Improve reliability, scalability, and developer experience across platforms
+ 
+Apply now!
+For more IT jobs, please visit www.networkrecruitment.co.za
+If you have not had any response in two weeks, please consider the vacancy application unsuccessful. Your profile will be kept on our database for any other suitable roles or position.
+ 
+For more information contact:
+Nikita Pillay
+Recruitment Consultant
+011 622 9526
+Package & Remuneration
+R 80 000 - R 100 000 - Monthly
+I'm interested
+Network Recruitment - Finance Corporate
+32 Jobs
+Company Profile
+Our Location
+Network Recruitment - Finance Corporate
+Cape Town: Northern Suburbs, South Africa
+Open map
+These jobs were popular with other job seekers
+DevOps Engineer | The DevOps Conductor
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+DevOps Engineer - JHB / PTA / CPT
+MSP Staffing Pty Ltd
+Johannesburg / Pretoria / Cape Town
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+Junior Software Engineer
+Network IT
+Cape Town: Northern Suburbs
+just now
+DevOps, Cloud & Platform Engineering
+Easyfind (Pty) Ltd
+Johannesburg
+Partially remote
+just now
+Junior UCOS Software Engineer
+Network IT
+Cape Town: Northern Suburbs
+just now
+Intermediate React Developer
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+Power Platform DevOps Engineer
+Samaha Consulting
+Johannesburg
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

@@ -1,0 +1,184 @@
+Title: Senior DevOps & Automation Engineer
+Company: Network Engineering
+Location: Centurion, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-DevOps-Automation-Engineer-Centurion-Network-Engineering--4267215-inline.html
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The job matches Priya's expertise in DevOps, CI/CD pipelines (Jenkins), requirements traceability, and automation scripting, aligns with her regulated-industry experience, and is located in South Africa (a target country) without US restrictions or visa sponsorship barriers.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+Senior DevOps & Automation Engineer
+Network Engineering
+Centurion
+Permanent
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Senior DevOps & Automation Engineer
+Network Engineering
+I'm interested
+Reference: NES027887-KM-1
+
+Gauteng | Permanent Opportunity
+Our Client is  a leading South African technology and engineering organisation that develops advanced electronic, software, and mission-critical systems for local and international markets.
+
+Our client is seeking an experienced Senior DevOps & Automation Engineer who thrives in a highly technical product development environment and is passionate about driving engineering excellence through automation, modern development practices, and continuous improvement.
+Duties & Responsibilities
+The Opportunity
+As the Senior DevOps & Automation Engineer, you will be responsible for developing and enhancing the engineering ecosystem that supports the full product lifecycle.
+You will play a critical role in improving development frameworks, automating processes, establishing best-practice requirements management principles, and ensuring seamless integration across engineering tools and platforms.This is an ideal opportunity for someone who enjoys both the technical and strategic aspects of engineering systems and software delivery.
+ 
+Key Responsibilities
+
+Drive the optimisation and standardisation of Requirements Management processes across engineering programmes.
+Establish and maintain traceability between requirements, design, implementation, testing, and verification activities.
+Build and manage CI/CD pipelines using Jenkins and related DevOps technologies.
+Support the implementation of Agile and DevOps methodologies across engineering teams.
+Configure, integrate, and maintain development tools including Jira, Bitbucket, Artifactory, and related platforms.
+Develop automation scripts to improve workflow efficiency and reduce manual effort.
+Manage build environments, deployment processes, and software release activities.
+Design engineering dashboards and reporting solutions to provide project and operational insights.
+Support cloud-based infrastructure deployments and containerised environments.
+Collaborate with global engineering teams to drive continuous improvement initiatives.
+Contribute to cybersecurity compliance and secure development practices.
+ 
+Desired Experience
+We're interested in professionals who have experience within complex engineering, technology, software, aerospace, defence, or product development environments.
+ 
+You should have experience with:
+
+Requirements Engineering and Traceability
+DevOps and Continuous Integration/Continuous Delivery
+Agile and Scrum methodologies
+Engineering lifecycle management tools
+Automation and scripting
+Systems integration and software development environments
+Exposure to safety-critical development environments will be highly advantageous.
+ Technical Skills
+
+Jenkins
+Jira
+Bitbucket
+Artifactory
+IBM DOORS (Classic and Next Generation)
+SQL / MySQL
+Python
+Bash
+PowerShell
+Container technologies (Docker, Kubernetes, Podman)
+Infrastructure as Code (IaC)
+Cloud and infrastructure platforms
+Automated testing and reporting tools
+Knowledge of standards such as DO-178, DO-254, ARP4754A, and EN9100 would be advantageous.
+ Qualification:
+
+B.Eng. (Electronic / Computer Engineering) or Computer Science Degree or related
+Honours and Master will be an advantage
+ 
+Ideal Candidate Apply now!  If you are
+
+A natural problem solver with strong analytical ability
+Passionate about automation and engineering optimisation
+Comfortable working across multiple technical disciplines
+Highly organised with excellent attention to detail
+An effective communicator capable of engaging with both technical and non-technical stakeholders
+Motivated by innovation, continuous improvement, and delivering measurable business impact
+ 
+For more engineering jobs, please visit www.networkrecruitmentinternational.com
+ 
+If you have not had any response in two weeks, please consider the vacancy application unsuccessful. Your profile will be kept on our database for any other suitable roles / positions.
+ 
+For more information contact:
+Karabo Mnguni
+kmnguni@networkrecruitment.co.za
+0873510724
+Package & Remuneration
+R 100 000 - Monthly
+I'm interested
+Network Engineering
+293 Jobs
+Our Location
+Network Engineering
+Centurion, South Africa
+Open map
+These jobs were popular with other job seekers
+Senior Automation & DevOps Engineer
+Network Engineering
+Centurion
+just now
+Senior DevOps Engineer
+Network IT
+Centurion
+just now
+Senior DevOps Engineer - Centurion or Rosebank (Hybrid) - R1.2m PA
+E-Merge IT Recruitment
+Centurion
+just now
+Automation & DevOps Engineer
+RecruitPro Solutions
+Centurion
+just now
+Senior Automation Engineer
+Inspired Testing
+Hybrid
+just now
+Software Engineering Automation Specialist
+Network Engineering
+Centurion
+just now
+Azure Solutions Architect or Cloud Architect
+Network Contracting Solutions
+Centurion
+just now
+Senior DevOps Engineer (iOCO0047)
+iOCO
+Sandton
+just now
+Data Science Developer (Retail) - Bryanston/Centurion
+Headhunters
+Centurion
+just now
+DevOps Lead / Senior DevOps Engineer
+Mediro ICT Recruitment
+Pretoria
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

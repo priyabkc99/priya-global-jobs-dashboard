@@ -1,0 +1,149 @@
+Title: DevOps Engineer | The DevOps Conductor
+Company: Communicate IT
+Location: Cape Town: Northern Suburbs, South Africa
+URL: https://www.pnet.co.za/jobs--DevOps-Engineer-The-DevOps-Conductor-Cape-Town-Northern-Suburbs-Communicate-IT--4278702-inline.html
+Posted: 2026-09-25
+Deadline: Open until filled
+Reason: The role aligns with Priya's DevOps/CI-CD expertise, located in South Africa (target country), and matches her configuration management/release engineering background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+DevOps Engineer | The DevOps Conductor
+Communicate IT
+Cape Town: Northern Suburbs
+Permanent
+Full Time
+Published: 3 days ago
+I'm interested
+Save
+DevOps Engineer | The DevOps Conductor
+Communicate IT
+I'm interested
+Reference: CTI007091-TF-1
+
+Every great performance needs a conductor.
+Behind every seamless deployment, scalable platform, and reliable system is a DevOps Engineer ensuring every moving part works together in harmony. From cloud infrastructure and automation to CI/CD pipelines and monitoring, DevOps professionals orchestrate the technology that keeps modern businesses running at their best.
+We're building our network of talented DevOps Engineers for current and future opportunities with leading organisations. If you're passionate about automation, cloud technologies, and bringing development and operations together, we'd love to connect with you.
+Duties & Responsibilities
+
+Key Responsibilities:
+
+Conduct and optimise cloud infrastructure to ensure scalability, reliability, and performance
+Orchestrate CI/CD pipelines that enable smooth, efficient software delivery
+Harmonise development and operations teams through DevOps best practices
+Compose Infrastructure as Code solutions that deliver consistency and automation
+Coordinate containerised environments using Docker and Kubernetes
+Monitor the platform's rhythm through logging, alerting, and observability tools
+Fine-tune system performance and proactively resolve infrastructure bottlenecks
+Champion security, resilience, and operational excellence across the environment
+ 
+Job Experience and Skills Required:
+
+Conduct cloud platforms across Azure, AWS, or GCP
+Orchestrate seamless CI/CD performances from development to deployment
+Compose Infrastructure as Code using Terraform, ARM, or CloudFormation
+Lead container orchestration with Docker and Kubernetes
+Automate repetitive movements through PowerShell, Python, and Bash scripting
+Keep every section in tune through monitoring, logging, and observability practices
+Ensure security and compliance remain in perfect harmony with DevSecOps principles
+Fine-tune reliability, scalability, and performance to deliver a flawless production performance
+ 
+This is an opportunity to join our talent pool and be considered for future opportunities with leading organisations across South Africa.
+ 
+Apply now!
+ 
+Connect with us on www.communicate.co.za and Register your CV to create a profile or to view all our Jobs in Information Technology. One of the best Developer Recruitment Agencies in Cape Town.
+ 
+Let us assist you with your IT careers. For Further C# Developer jobs, C++ Developer jobs, Java Developer jobs, .Net Developer careers, Angular Developer and Full stack developer jobs.
+ 
+I also specialize in recruiting in the following:
+
+Manual and Automation Testers, Business Analysts, Software Developers, AI Engineers, and Data Scientists.
+ 
+If you have not had any response in two weeks, please consider the vacancy application unsuccessful. Your profile will be kept on our database for any other suitable roles / positions.
+I'm interested
+Communicate IT
+63 Jobs
+Our Location
+Communicate IT
+Cape Town: Northern Suburbs, South Africa
+Open map
+These jobs were popular with other job seekers
+DevOps Engineer
+Network Recruitment - Finance Corporate
+Cape Town: Northern Suburbs
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps Engineer - JHB / PTA / CPT
+MSP Staffing Pty Ltd
+Johannesburg / Pretoria / Cape Town
+just now
+Intermediate React Developer
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+Data Architect
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+Mobile Developer
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+Intermediate React Developer
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement
