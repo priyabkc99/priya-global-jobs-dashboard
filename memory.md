@@ -18,6 +18,7 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
   in the venv - otherwise `firestore_auth.session()` raises FileNotFoundError.
 - New Firestore calls must use `firestore_auth.session().get/patch(...)`, never bare `requests` - a bare
   call now gets 403. Rules deploy: `firebase deploy --only firestore:rules` from `firebase_app/`.
+- Key access (2026-09-28): priyabkc99@gmail.com has roles/firebase.viewer + roles/iam.serviceAccountKeyAdmin on this project, so Priya can generate her own PC key in the console (no DB/rules/hosting rights). Owner: vineethkaimal1989@gmail.com.
 
 
 ## Major Features
@@ -79,6 +80,22 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
 - Google sign-in is enabled in the Firebase Console (done by the user 2026-09-28).
 - The first Firestore database was accidentally created in `nam5`; it was deleted and recreated in
   `eur3`. A deleted `(default)` ID can be reused only after ~5 min.
+
+## Dashboard: "Jobs by country" card + jobs-added timeline (2026-09-28)
+- Card under the Today card, with one tile per country: total jobs, "+N today" (by `added_at`, local
+  date), and yes count (Firestore `shared_state/job_status` override wins, like the Today card).
+  Country comes from the **scrape `source` prefix** (`COUNTRY_SOURCES` in index.html), not the
+  free-text location. **Add a mapping there whenever a board is added to the scraper**, or its
+  jobs land in "Other".
+- "Timeline" button / tile click opens `#timeline-modal`: an SVG stacked bar per Day/Week/Month
+  (yes matches bottom, other jobs top) with a country selector, hover tooltip and summary line.
+  It counts `jobs.json` + `deleted.json` by `added_at`, so its totals can exceed the tiles by the
+  jobs removed since. Colors #059669 / #6366f1 passed the dataviz validator on #161b2e (tritan ΔE
+  6.6, hence the 2px gap + legend).
+- The Day/Week/Month buttons use `.tl-gran`, NOT `.chart-gran`: the history chart's code
+  re-syncs `.active` on every `.chart-gran button` and would clobber them.
+- Tested locally with Playwright: Firebase Hosting's `/__/firebase/*` SDK URLs were routed to an
+  auto-sign-in stub (the page only fetches data after auth), with live GitHub Pages data.
 
 ## Known blocked boards (don't re-add without a new approach)
 Indeed (all countries, Cloudflare), Seek AU/NZ, JobStreet SG, JobsDB HK (Cloudflare), Naukri,

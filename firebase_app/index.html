@@ -753,8 +753,60 @@
         .today-stat-label { margin-top: 0.35rem; font-size: 0.9rem; font-weight: 600; color: var(--text-primary); }
         .today-stat-sub { margin-top: 0.2rem; font-size: 0.75rem; color: var(--text-secondary); min-height: 1em; }
 
+        /* "Jobs by country" card + jobs-added timeline modal */
+        .country-card {
+            width: 100%;
+            margin-bottom: 1.5rem;
+            padding: 1.1rem 1.4rem 1.2rem;
+            border-radius: 1.25rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.35);
+        }
+        .country-card .today-card-title { color: #a5b4fc; }
+        .country-card-actions { display: flex; align-items: center; gap: 0.75rem; }
+        .country-timeline-btn {
+            display: inline-flex; align-items: center; gap: 0.4rem;
+            background: rgba(99, 102, 241, 0.15); color: #c7d2fe;
+            border: 1px solid rgba(99, 102, 241, 0.4); border-radius: 999px;
+            padding: 0.3rem 0.8rem; font-size: 0.78rem; font-weight: 600; cursor: pointer;
+            font-family: 'Space Grotesk', sans-serif;
+        }
+        .country-timeline-btn:hover { background: rgba(99, 102, 241, 0.3); }
+        .country-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 0.6rem;
+        }
+        .country-tile {
+            text-align: left; cursor: pointer; font: inherit; color: inherit;
+            padding: 0.65rem 0.8rem; border-radius: 0.8rem;
+            background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border-color);
+            transition: border-color 0.15s ease, transform 0.15s ease;
+        }
+        .country-tile:hover, .country-tile:focus-visible { border-color: rgba(99, 102, 241, 0.6); transform: translateY(-1px); outline: none; }
+        .country-tile-name { font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); }
+        .country-tile-total { font-family: 'Space Grotesk', sans-serif; font-size: 1.7rem; font-weight: 700; line-height: 1.15; color: var(--text-primary); }
+        .country-tile-sub { font-size: 0.72rem; color: var(--text-secondary); display: flex; gap: 0.5rem; flex-wrap: wrap; }
+        .country-tile-sub .today-new { color: #6ee7b7; font-weight: 600; }
+        .country-tile-sub .today-none { color: rgba(255, 255, 255, 0.35); }
+
+        .tl-controls { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.6rem; }
+        .tl-controls select {
+            background: #0d1117; color: var(--text-primary); border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 0.5rem; padding: 0.3rem 0.5rem; font-size: 0.8rem;
+        }
+        .tl-legend { display: flex; gap: 0.9rem; font-size: 0.75rem; color: var(--text-secondary); margin-left: auto; }
+        .tl-legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
+        .tl-legend i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+        .tl-summary { font-size: 0.78rem; color: var(--text-secondary); margin-top: 0.4rem; min-height: 1.2em; }
+        #tl-svg rect.tl-hit { fill: transparent; cursor: default; }
+        #tl-svg g.tl-bar:hover rect.tl-seg { filter: brightness(1.25); }
+
         /* History-chart aggregation switch (Detail / Day / Week / Month) */
-        .chart-gran {
+        /* .tl-gran shares the look but not the class - the history chart's code
+           re-syncs every `.chart-gran button`, which would clobber the timeline's state. */
+        .chart-gran, .tl-gran {
             display: inline-flex;
             gap: 2px;
             padding: 2px;
@@ -762,7 +814,7 @@
             background: rgba(255, 255, 255, 0.05);
             border: 1px solid rgba(255, 255, 255, 0.08);
         }
-        .chart-gran button {
+        .chart-gran button, .tl-gran button {
             padding: 2px 9px;
             border: none;
             border-radius: 999px;
@@ -773,8 +825,8 @@
             font-weight: 600;
             cursor: pointer;
         }
-        .chart-gran button:hover { color: #fff; }
-        .chart-gran button.active { background: rgba(99, 102, 241, 0.35); color: #fff; }
+        .chart-gran button:hover, .tl-gran button:hover { color: #fff; }
+        .chart-gran button.active, .tl-gran button.active { background: rgba(99, 102, 241, 0.35); color: #fff; }
 
         /* =====================================================================
            MOBILE APP SHELL — additive only; no desktop rule above is edited.
@@ -1169,9 +1221,14 @@
             .today-stat-value { font-size: 2rem; }
             .today-stat-label { font-size: 0.78rem; line-height: 1.3; }
             body.mview-filters #today-card,
-            body.mview-status #today-card {
+            body.mview-status #today-card,
+            body.mview-filters #country-card,
+            body.mview-status #country-card {
                 display: none !important;
             }
+            .country-card { width: auto; margin: 0.6rem 0.6rem 0; padding: 0.8rem 0.9rem 0.9rem; border-radius: 0.9rem; }
+            .country-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5rem; }
+            .country-tile-total { font-size: 1.4rem; }
 
             /* --- Contents bar (Filters view): one chip per column filter. */
             .mobile-subnav {
@@ -1361,6 +1418,18 @@
         </div>
     </section>
 
+    <!-- Jobs per country (filled by updateCountryCard once data loads) -->
+    <section class="country-card" id="country-card" style="display: none;" aria-label="Jobs by country">
+        <div class="today-card-head">
+            <span class="today-card-title"><i class="fas fa-earth-americas"></i> Jobs by country</span>
+            <div class="country-card-actions">
+                <span class="today-card-date" id="country-card-summary"></span>
+                <button type="button" class="country-timeline-btn" onclick="openTimeline('all')"><i class="fas fa-chart-column"></i> Timeline</button>
+            </div>
+        </div>
+        <div class="country-grid" id="country-grid"></div>
+    </section>
+
     <!-- Fallback drag & drop container -->
     <section class="upload-zone" id="upload-zone">
         <div class="upload-icon">📥</div>
@@ -1456,6 +1525,227 @@
                 new Date().toLocaleDateString([], { weekday: 'long', day: 'numeric', month: 'long' });
             card.style.display = 'block';
         }
+
+        // ── Jobs by country ────────────────────────────────────────────────────
+        // Country comes from the scrape source (every search is scoped to one
+        // country), not the free-text location, which varies per board.
+        const COUNTRY_SOURCES = [
+            ['United Kingdom', /^(linkedin_uk|reed|totaljobs|cv_library)/],
+            ['Ireland',        /^(linkedin_ie|irishjobs)/],
+            ['Canada',         /^(linkedin_ca|jobbank)/],
+            ['Australia',      /^(linkedin_au|jora)/],
+            ['New Zealand',    /^linkedin_nz/],
+            ['Singapore',      /^linkedin_sg/],
+            ['India',          /^linkedin_in/],
+            ['South Africa',   /^(linkedin_za|careerjunction|pnet)/],
+            ['Malta',          /^(linkedin_mt|jobsinmalta)/],
+            ['Hong Kong',      /^linkedin_hk/],
+        ];
+        function jobCountry(job) {
+            const src = job.source || '';
+            for (const [country, re] of COUNTRY_SOURCES) if (re.test(src)) return country;
+            return 'Other';
+        }
+        function jobMatchValue(job) {
+            const state = sharedJobsState[job.url] || {};
+            return state.matches_requirements || job.matches_requirements || 'pending';
+        }
+        function escHtml(s) {
+            return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+        }
+
+        function updateCountryCard() {
+            const card = document.getElementById('country-card');
+            if (!card || !allJobs.length) return;
+            const today = localDateStr(new Date());
+            const stats = new Map(COUNTRY_SOURCES.map(([c]) => [c, { total: 0, today: 0, yes: 0 }]));
+            let addedToday = 0;
+            allJobs.forEach(job => {
+                const c = jobCountry(job);
+                if (!stats.has(c)) stats.set(c, { total: 0, today: 0, yes: 0 });
+                const s = stats.get(c);
+                s.total++;
+                if (job.added_at && localDateStr(new Date(job.added_at)) === today) { s.today++; addedToday++; }
+                if (jobMatchValue(job) === 'yes') s.yes++;
+            });
+            const rows = [...stats].filter(([c, s]) => c !== 'Other' || s.total > 0)
+                .sort((a, b) => b[1].total - a[1].total || a[0].localeCompare(b[0]));
+            document.getElementById('country-grid').innerHTML = rows.map(([c, s]) => `
+                <button type="button" class="country-tile" data-country="${escHtml(c)}" title="Jobs added over time in ${escHtml(c)}">
+                    <div class="country-tile-name">${escHtml(c)}</div>
+                    <div class="country-tile-total">${s.total}</div>
+                    <div class="country-tile-sub">
+                        <span class="${s.today ? 'today-new' : 'today-none'}">+${s.today} today</span>
+                        <span>${s.yes} yes</span>
+                    </div>
+                </button>`).join('');
+            document.getElementById('country-card-summary').textContent =
+                `${allJobs.length} jobs · ${addedToday} added today`;
+            card.style.display = 'block';
+        }
+        document.addEventListener('click', e => {
+            const tile = e.target.closest('.country-tile');
+            if (tile) openTimeline(tile.dataset.country);
+        });
+
+        // ── Jobs-added timeline (Day / Week / Month) ───────────────────────────
+        // One stacked bar per period: yes matches (bottom) + other jobs. Counts jobs by
+        // their first-seen `added_at`, including ones later moved to deleted.json.
+        const TL_GRANS = ['day', 'week', 'month'];
+        // Validated with the dataviz palette checker on the modal surface #161b2e (dark
+        // band, CVD, contrast all pass); tritan ΔE 6.6 is why the segments keep a 2px gap
+        // and a legend.
+        const TL_YES = '#059669', TL_OTHER = '#6366f1';
+        let _tlGran = (() => {
+            try { const g = localStorage.getItem('timelineGranularity'); return TL_GRANS.includes(g) ? g : 'day'; }
+            catch (e) { return 'day'; }
+        })();
+
+        function _tlJobs() {
+            const seen = new Set(), out = [];
+            [...allJobs, ...(window.deletedJobsData || [])].forEach(j => {
+                if (!j || !j.url || !j.added_at || seen.has(j.url)) return;
+                seen.add(j.url);
+                out.push(j);
+            });
+            return out;
+        }
+        function _tlStep(d, gran) {
+            const n = new Date(d);
+            if (gran === 'month') n.setMonth(n.getMonth() + 1);
+            else n.setDate(n.getDate() + (gran === 'week' ? 7 : 1));
+            return n;
+        }
+        function _tlSyncButtons() {
+            document.querySelectorAll('.tl-gran button').forEach(b =>
+                b.classList.toggle('active', b.dataset.tlGran === _tlGran));
+        }
+
+        window.openTimeline = function(country) {
+            const sel = document.getElementById('tl-country');
+            sel.innerHTML = '<option value="all">All countries</option>' +
+                COUNTRY_SOURCES.map(([c]) => `<option value="${escHtml(c)}">${escHtml(c)}</option>`).join('');
+            sel.value = COUNTRY_SOURCES.some(([c]) => c === country) ? country : 'all';
+            _tlSyncButtons();
+            document.getElementById('timeline-modal').style.display = 'flex';
+            renderTimeline();
+        };
+        window.closeTimeline = function() {
+            document.getElementById('timeline-modal').style.display = 'none';
+            document.getElementById('chart-point-tip').style.display = 'none';
+        };
+        document.addEventListener('keydown', e => {
+            if (e.key === 'Escape' && document.getElementById('timeline-modal').style.display === 'flex') closeTimeline();
+        });
+        document.addEventListener('click', e => {
+            const btn = e.target.closest('.tl-gran button');
+            if (!btn) return;
+            _tlGran = btn.dataset.tlGran;
+            try { localStorage.setItem('timelineGranularity', _tlGran); } catch (err) {}
+            _tlSyncButtons();
+            renderTimeline();
+        });
+
+        window.renderTimeline = function() {
+            const svg = document.getElementById('tl-svg');
+            const summary = document.getElementById('tl-summary');
+            const country = document.getElementById('tl-country').value;
+            const gran = _tlGran;
+            const jobs = _tlJobs().filter(j => country === 'all' || jobCountry(j) === country);
+            const W = 700, H = 260, pL = 40, pR = 10, pT = 14, pB = 40, cW = W - pL - pR, cH = H - pT - pB;
+            const place = country === 'all' ? 'all countries' : country;
+            if (!jobs.length) {
+                svg.innerHTML = `<text x="${W / 2}" y="${H / 2}" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="13">No jobs added yet for ${escHtml(place)}</text>`;
+                summary.textContent = '';
+                return;
+            }
+            // Bucket every job, then fill empty periods so gaps show as gaps.
+            const counts = new Map();
+            let first = null;
+            jobs.forEach(j => {
+                const start = _bucketStart(new Date(j.added_at), gran);
+                const k = start.getTime();
+                if (!counts.has(k)) counts.set(k, { yes: 0, other: 0 });
+                jobMatchValue(j) === 'yes' ? counts.get(k).yes++ : counts.get(k).other++;
+                if (!first || start < first) first = start;
+            });
+            const last = _bucketStart(new Date(), gran);
+            const bars = [];
+            for (let d = first; d <= last; d = _tlStep(d, gran)) {
+                const c = counts.get(d.getTime()) || { yes: 0, other: 0 };
+                bars.push({ start: d, label: _bucketLabel(d, gran), yes: c.yes, other: c.other, total: c.yes + c.other });
+            }
+
+            const maxTotal = Math.max(1, ...bars.map(b => b.total));
+            const tickStep = Math.max(1, Math.ceil(maxTotal / 4 / (maxTotal > 20 ? 5 : 1)) * (maxTotal > 20 ? 5 : 1));
+            const yMax = tickStep * Math.ceil(maxTotal / tickStep);
+            const yAt = v => pT + cH - (v / yMax) * cH;
+            const slot = cW / bars.length;
+            const barW = Math.max(2, Math.min(28, slot * 0.7));
+            const labelEvery = Math.max(1, Math.ceil(52 / slot));
+            let out = '';
+            for (let v = 0; v <= yMax; v += tickStep) {
+                const y = yAt(v);
+                out += `<line x1="${pL}" x2="${W - pR}" y1="${y}" y2="${y}" stroke="rgba(255,255,255,${v === 0 ? 0.25 : 0.06})"/>`;
+                out += `<text x="${pL - 6}" y="${y + 3}" text-anchor="end" fill="rgba(255,255,255,0.4)" font-size="10">${v}</text>`;
+            }
+            // Rounded (4px) top on the topmost segment only; 2px surface gap between segments.
+            const topPath = (x, y, w, h) => {
+                const r = Math.min(4, w / 2, h);
+                return `M${x},${y + h}V${y + r}Q${x},${y} ${x + r},${y}H${x + w - r}Q${x + w},${y} ${x + w},${y + r}V${y + h}Z`;
+            };
+            bars.forEach((b, i) => {
+                const cx = pL + slot * i + slot / 2, x = cx - barW / 2;
+                let g = `<g class="tl-bar" data-i="${i}">`;
+                if (b.total > 0) {
+                    const yesH = (b.yes / yMax) * cH, otherH = (b.other / yMax) * cH;
+                    const base = pT + cH;
+                    if (b.yes > 0) {
+                        const top = base - yesH;
+                        g += b.other > 0
+                            ? `<rect class="tl-seg" x="${x}" y="${top}" width="${barW}" height="${yesH}" fill="${TL_YES}"/>`
+                            : `<path class="tl-seg" d="${topPath(x, top, barW, yesH)}" fill="${TL_YES}"/>`;
+                    }
+                    if (b.other > 0) {
+                        const gap = b.yes > 0 ? 2 : 0;
+                        const top = base - yesH - otherH;
+                        const h = Math.max(1, otherH - gap);
+                        g += `<path class="tl-seg" d="${topPath(x, top, barW, h)}" fill="${TL_OTHER}"/>`;
+                    }
+                }
+                // Hit target: the whole column, so thin/empty bars are still hoverable.
+                g += `<rect class="tl-hit" x="${pL + slot * i}" y="${pT}" width="${slot}" height="${cH}"/></g>`;
+                out += g;
+                if (i % labelEvery === 0) {
+                    out += `<text x="${cx}" y="${H - pB + 16}" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-size="10">${escHtml(b.label)}</text>`;
+                }
+            });
+            svg.innerHTML = out;
+            svg.setAttribute('aria-label', `Jobs added per ${gran} in ${place}`);
+
+            const tip = document.getElementById('chart-point-tip');
+            svg.querySelectorAll('g.tl-bar').forEach(g => {
+                const b = bars[+g.dataset.i];
+                g.addEventListener('mousemove', e => {
+                    tip.innerHTML =
+                        `<div style="font-size:0.75rem;font-weight:700;color:#f3f4f6;margin-bottom:2px;">${escHtml(b.label)}</div>` +
+                        `<div style="font-size:0.72rem;color:#d1d5db;">${b.total} job${b.total === 1 ? '' : 's'} added</div>` +
+                        `<div style="font-size:0.72rem;color:#9ca3af;"><span style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${TL_YES};margin-right:5px;"></span>${b.yes} yes matches</div>` +
+                        `<div style="font-size:0.72rem;color:#9ca3af;"><span style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${TL_OTHER};margin-right:5px;"></span>${b.other} other</div>`;
+                    tip.style.display = 'block';
+                    const tw = tip.offsetWidth;
+                    tip.style.left = Math.min(window.innerWidth - tw - 8, e.clientX + 12) + 'px';
+                    tip.style.top = (e.clientY - tip.offsetHeight - 10) + 'px';
+                });
+                g.addEventListener('mouseleave', () => { tip.style.display = 'none'; });
+            });
+
+            const totalAdded = bars.reduce((s, b) => s + b.total, 0);
+            const totalYes = bars.reduce((s, b) => s + b.yes, 0);
+            const busiest = bars.reduce((m, b) => b.total > m.total ? b : m, bars[0]);
+            summary.textContent = `${totalAdded} jobs added in ${place} (${totalYes} yes matches) over ${bars.length} ${gran}${bars.length === 1 ? '' : 's'}` +
+                (busiest.total ? ` · busiest: ${busiest.label} (${busiest.total})` : '');
+        };
 
         function formatAddedDate(dateStr) {
             if (!dateStr || dateStr.toLowerCase() === 'n/a' || dateStr.toLowerCase() === 'unknown') return 'N/A';
@@ -1975,6 +2265,7 @@
             buildLlmFilter();
             filterTable();
             updateTodayCard();
+            updateCountryCard();
         }
 
         window.toggleAllFilters = function(colIndex, checkState, event) {
@@ -3096,6 +3387,23 @@
                 <canvas id="chart-modal-canvas" width="628" height="240" style="display:block;width:100%;"></canvas>
                 <canvas id="chart-modal-overlay" width="628" height="240" style="position:absolute;top:0;left:0;width:100%;pointer-events:none;"></canvas>
             </div>
+        </div>
+    </div>
+
+    <!-- Jobs-added timeline modal (opened from the Jobs by country card) -->
+    <div id="timeline-modal" style="display:none;position:fixed;inset:0;z-index:10000;background:rgba(0,0,0,0.72);align-items:center;justify-content:center;" onclick="if(event.target===this) closeTimeline()">
+        <div style="background:#161b2e;border:1px solid rgba(255,255,255,0.12);border-radius:1rem;padding:1.25rem 1.5rem;position:relative;width:760px;max-width:95vw;box-shadow:0 30px 80px rgba(0,0,0,0.8);">
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:0.75rem;">
+                <div style="font-size:0.72rem;font-weight:600;color:rgba(255,255,255,0.55);font-family:'Space Grotesk',sans-serif;letter-spacing:0.04em;text-transform:uppercase;">Jobs added over time</div>
+                <button type="button" onclick="closeTimeline()" aria-label="Close" style="background:none;border:none;color:rgba(255,255,255,0.5);font-size:1.4rem;cursor:pointer;padding:0;line-height:1;font-family:sans-serif;">×</button>
+            </div>
+            <div class="tl-controls">
+                <div class="tl-gran" role="group" aria-label="Group by"><button type="button" data-tl-gran="day">Day</button><button type="button" data-tl-gran="week">Week</button><button type="button" data-tl-gran="month">Month</button></div>
+                <select id="tl-country" aria-label="Country" onchange="renderTimeline()"></select>
+                <div class="tl-legend"><span><i style="background:#059669"></i>Yes matches</span><span><i style="background:#6366f1"></i>Other jobs</span></div>
+            </div>
+            <svg id="tl-svg" viewBox="0 0 700 260" width="100%" role="img" aria-label="Jobs added per period" style="display:block;"></svg>
+            <div class="tl-summary" id="tl-summary"></div>
         </div>
     </div>
 
