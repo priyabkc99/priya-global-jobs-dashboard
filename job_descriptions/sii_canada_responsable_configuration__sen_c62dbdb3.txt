@@ -1,0 +1,303 @@
+Title: Responsable Configuration (Senior)
+Company: SII Canada
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/responsable-configuration-senior-at-sii-canada-4449032266
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The job as a Senior Configuration Manager in Montreal, Canada aligns with Priya's expertise in configuration management within regulated environments, her 15+ years of experience, and the target country requirement.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Responsable Configuration (Senior)
+SII Canada  Montreal, Quebec, Canada
+1 week ago   Be among the first 25 applicants
+  
+
+See who SII Canada has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from SII Canada
+
+Sacha O.
+Sacha O.
+Directeur Acquisition de Talents at SII Group Canada | TI & Ingénierie
+Contexte
+
+Nous recherchons une personne expérimentée pour accompagner des projets d’ingénierie aéronautique dans la mise en œuvre et le pilotage des activités de gestion de configuration tout au long du cycle de vie des produits. La mission s’inscrit dans un environnement technique complexe impliquant des activités de conception, d’intégration système, matériel et logiciel, ainsi qu’une forte collaboration avec les différentes parties prenantes du projet.
+
+Responsabilités
+
+
+Coordonner l’ensemble des activités de gestion de configuration au sein d’un ou plusieurs projets.
+Adapter et mettre en œuvre les processus de gestion de configuration conformément aux exigences contractuelles et réglementaires applicables.
+Assurer la cohérence, la qualité et l’exhaustivité des données de configuration tout au long du cycle de vie du produit.
+Établir et maintenir le plan de gestion de configuration en tenant compte des spécificités du projet et des produits concernés.
+Piloter les activités d’identification des éléments de configuration (CI) et définir les structures de découpage produit (PBS).
+Organiser et animer les Change Control Boards (CCB).
+Définir et maintenir les différentes baselines de configuration (FBL, ABL, PBL et autres selon les besoins du projet).
+Assurer le suivi et la communication de l’état de la configuration.
+Organiser et soutenir les audits de configuration fonctionnels et physiques (FCA/PCA).
+Accompagner les équipes d’ingénierie dans l’application des bonnes pratiques de gestion de configuration.
+Superviser les activités de gestion des changements sur les dossiers techniques et assurer la traçabilité des modifications.
+Participer à l’amélioration continue des processus, méthodes et outils de gestion de configuration.
+
+
+Profil Recherché
+
+
+Diplôme en ingénierie ou dans un domaine technique pertinent.
+Minimum de 5 ans d’expérience en ingénierie, idéalement dans un environnement aéronautique.
+Expérience significative en gestion de configuration et en gestion du cycle de vie des produits.
+Bonne compréhension des principes d’intégration systèmes, matériels et logiciels.
+Connaissance des processus de gestion des changements et des contrôles de configuration.
+Expérience dans un environnement réglementé ou soumis à des exigences qualité élevées.
+Capacité à coordonner plusieurs intervenants et à évoluer dans un environnement multidisciplinaire.
+Excellentes aptitudes en communication et en organisation.
+Esprit analytique, rigueur et autonomie.
+
+
+Environnement De Travail
+
+La mission est basée dans la région de Montréal avec une présence sur site minimale de trois jours par semaine. Une présence accrue pourra être demandée lors des phases d’intégration ou d’essais. Les autres journées pourront être réalisées à distance selon les besoins du projet.
+
+Pourquoi nous rejoindre ?
+
+Vous participerez à des projets technologiques d’envergure au sein d’un environnement d’ingénierie stimulant. Vous aurez l’occasion de collaborer avec des équipes multidisciplinaires et de contribuer directement à la qualité, à la conformité et à la maîtrise technique des produits développés.
+
+Context
+
+We are looking for an experienced professional to support aerospace engineering projects through the implementation and management of configuration management activities across the entire product lifecycle. This role is part of a complex engineering environment involving design, system integration, hardware and software development, as well as close collaboration with multiple project stakeholders.
+
+Responsibilities
+
+
+Coordinate all configuration management activities across one or several projects.
+Adapt and implement configuration management processes in compliance with applicable contractual and regulatory requirements.
+Ensure the consistency, quality and completeness of configuration data throughout the product lifecycle.
+Develop and maintain the Configuration Management Plan according to project and product requirements.
+Lead configuration item (CI) identification activities and define Product Breakdown Structures (PBS).
+Organize and facilitate Change Control Boards (CCB).
+Establish and maintain configuration baselines, including FBL, ABL, PBL and other baselines as required.
+Monitor and communicate configuration status information.
+Organize and support Functional and Physical Configuration Audits (FCA/PCA).
+Support engineering teams in applying configuration management best practices.
+Oversee change management activities on technical documentation and ensure end-to-end traceability of modifications.
+Contribute to the continuous improvement of configuration management processes, methods and tools.
+
+
+Required Profile
+
+
+Degree in Engineering or a related technical discipline.
+Minimum of 5 years of engineering experience, preferably within the aerospace industry.
+Proven experience in configuration management and product lifecycle management.
+Strong understanding of system, hardware and software integration principles.
+Experience with configuration control and change management processes.
+Experience working within highly regulated or quality-driven environments.
+Ability to coordinate multiple stakeholders in a multidisciplinary environment.
+Strong communication and organizational skills.
+Analytical mindset, autonomy and attention to detail.
+
+
+Work Environment
+
+The position is based in the Greater Montreal area with a minimum on-site presence of three days per week. Increased on-site participation may be required during integration and testing phases. Remote work may be performed on the remaining days based on project needs.
+
+Why Join Us?
+
+You will contribute to major technology projects within a dynamic engineering environment. You will collaborate with multidisciplinary teams and play a key role in ensuring product quality, compliance and configuration control throughout the development lifecycle.
+
+Partenaire technologique de grandes entreprises depuis 1979, le Groupe SII est au cœur de l'économie de l'innovation, avec 16 000 employés, une présence internationale dans 20 pays et un chiffre d'affaires dépassant 1,621 milliard de dollars canadiens.
+
+SII Canada offre à ses clients une expertise technique de pointe dans les domaines du développement d'applications, du web et du mobile, de la cybersécurité et du cloud computing. Nous fournissons également des services d'ingénierie, notamment pour les systèmes embarqués dans divers secteurs industriels. Notre ambition est de faire progresser les systèmes d'information et de contribuer à la création des produits et services de demain pour nos clients.
+
+De plus, l'inclusion est au cœur de notre culture d'entreprise. SII Canada s'engage à offrir un environnement de travail équitable et respectueux qui favorise la diversité et l'égalité des chances
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Other
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at SII Canada by 2x
+
+See who you know
+
+Get notified about new Senior Manager jobs in Montreal, Quebec, Canada.
+
+Sign in to create job alert
+Jobs
+Senior Manager Financial Reporting jobs
+Responsable Configuration (Senior)
+Similar jobs
+Responsable Configuration (Senior)
+Responsable Configuration (Senior)
+Groupe SII
+Montreal, Quebec, Canada
+1 month ago
+Responsable de la gestion de configuration / Configuration Management Responsible
+Responsable de la gestion de configuration / Configuration Management Responsible
+Airbus Aircraft
+Montreal, Quebec, Canada
+2 weeks ago
+Responsable de la gestion de configuration / Configuration Management Responsible
+Responsable de la gestion de configuration / Configuration Management Responsible
+Airbus
+Montreal, Quebec, Canada
+2 weeks ago
+Gestionnaire de configuration
+Gestionnaire de configuration
+MANNARINO
+Montreal, Quebec, Canada
+1 month ago
+Configuration Manager
+Configuration Manager
+MANNARINO
+Montreal, Quebec, Canada
+1 month ago
+Configuration Specialist, Bombardier Experimental
+Configuration Specialist, Bombardier Experimental
+Bombardier
+Montreal, Quebec, Canada
+3 hours ago
+Show more jobs like this 
+People also viewed
+Responsable PLM BOM / PLM BOM Value Stream Owner (3DX)
+Responsable PLM BOM / PLM BOM Value Stream Owner (3DX)
+
+Pratt & Whitney
+
+Longueuil, Quebec, Canada
+2 weeks ago
+Administrateur ServiceNow
+Administrateur ServiceNow
+
+Pomerleau
+
+Montreal, Quebec, Canada
+6 days ago
+Expert Administrateur Maximo
+Expert Administrateur Maximo
+
+TMC Canada
+
+Laval, Quebec, Canada
+1 week ago
+Responsable du processus de Conformité et Attestation / Configuration Management Process Owner Conformity & Attestation
+Responsable du processus de Conformité et Attestation / Configuration Management Process Owner Conformity & Attestation
+
+Airbus
+
+Montreal, Quebec, Canada
+2 weeks ago
+Intégrateur Changement de Configuration
+Intégrateur Changement de Configuration
+
+Airbus
+
+Montreal, Quebec, Canada
+1 week ago
+Responsable du processus de Conformité et Attestation / Configuration Management Process Owner Conformity & Attestation
+Responsable du processus de Conformité et Attestation / Configuration Management Process Owner Conformity & Attestation
+
+Airbus Aircraft
+
+Montreal, Quebec, Canada
+2 weeks ago
+Intégrateur Changement de Configuration
+Intégrateur Changement de Configuration
+
+Airbus Aircraft
+
+Montreal, Quebec, Canada
+6 days ago
+Responsable Programme du Control de la gestion du Changement / Head of Programme Control Change Management
+Responsable Programme du Control de la gestion du Changement / Head of Programme Control Change Management
+
+Airbus Aircraft
+
+Montreal, Quebec, Canada
+2 weeks ago
+Responsable Programme du Control de la gestion du Changement / Head of Programme Control Change Management
+Responsable Programme du Control de la gestion du Changement / Head of Programme Control Change Management
+
+Airbus
+
+Montreal, Quebec, Canada
+2 weeks ago
+Agent méthodes configuration / Manufacturing Engineer Configuration
+Agent méthodes configuration / Manufacturing Engineer Configuration
+
+Airbus
+
+Montreal, Quebec, Canada
+2 weeks ago
+Similar Searches
+Senior Manager Financial Reporting jobs
+965 open jobs
+Senior Manager Compensation jobs
+949 open jobs
+Senior Audit Manager jobs
+414 open jobs
+Senior Manager Internal Audit jobs
+158 open jobs
+Director Compensation jobs
+497 open jobs
+Senior Finance Manager jobs
+914 open jobs
+Senior Manager Analytics jobs
+611 open jobs
+Director of Internal Audit jobs
+161 open jobs
+Associate Director jobs
+5,856 open jobs
+Senior Manager Ecommerce jobs
+271 open jobs
+Senior Software Engineering Manager jobs
+2,522 open jobs
+Senior Engineering Manager jobs
+1,016 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at SII Canada
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
