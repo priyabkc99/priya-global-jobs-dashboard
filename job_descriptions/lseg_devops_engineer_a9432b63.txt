@@ -1,0 +1,287 @@
+Title: DevOps Engineer
+Company: LSEG
+Location: Nottingham, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-lseg-4419097148
+Posted: 2026-09-14
+Deadline: N/A
+Reason: The role aligns with her DevOps, CI/CD, and automation skills and is located in the United Kingdom.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+LSEG  Nottingham, England, United Kingdom
+2 weeks ago   Over 200 applicants
+  
+
+See who LSEG has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+ABOUT US:
+
+LSEG (London Stock Exchange Group) is more than a diversified global financial markets infrastructure and data business. We are dedicated, open-access partners with a dedication to excellence in delivering the services our customers expect from us. With extensive experience, deep knowledge and worldwide presence across financial markets, we enable businesses and economies around the world to fund innovation, manage risk and create jobs. It’s how we’ve contributed to supporting the financial stability and growth of communities and economies globally for more than 300 years. Through a comprehensive suite of trusted financial market infrastructure services – and our open-access model – we provide the flexibility, stability and trust that enable our customers to pursue their ambitions with confidence and clarity.
+
+LSEG is headquartered in the United Kingdom, with significant operations in 70 countries across EMEA, North America, Latin America and Asia Pacific. We employ 25,000 people globally, more than half located in Asia Pacific. LSEG’s ticker symbol is LSEG.
+
+OUR PEOPLE:
+
+People are at the heart of what we do and drive the success of our business. Our culture of connecting, creating opportunity and delivering excellence shape how we think, how we do things and how we help our people fulfil their potential. We embrace diversity and actively seek to attract individuals with unique backgrounds and perspectives. We break down barriers and encourage teamwork, enabling innovation and rapid development of solutions that make a difference. Our workplace generates an enriching and rewarding experience for our people and customers alike. Our vision is to build an inclusive culture in which everyone feels encouraged to fulfil their potential.
+
+We know that real personal growth cannot be achieved by simply climbing a career ladder – which is why we encourage and enable a wealth of avenues and interesting opportunities for everyone to broaden and deepen their skills and expertise. As a global organisation spanning 70 countries and one rooted in a culture of growth, opportunity, diversity and innovation, LSEG is a place where everyone can grow, develop and fulfil your potential with meaningful careers.
+
+ROLE PROFILE:
+
+A leader in the Financial Industry for Innovation, LSEG continues to look toward new technology to drive our high performance, real-time systems to perform better with the highest uptime available, and a strong focus on our clients.
+
+Data rates in our industry continue to climb, with an expectation that the latency continues to improve. This sophisticated set of requirements requires the best in innovation for handling both real-time data feeds already in the marketplace, and for our clients who wish to contribute directly to our financial systems.
+
+Crucial to meeting these challenges is a strong automation pipeline to rapidly develop, test, and deploy our real time systems to quickly meet the demands of the marketplace.
+
+ROLE SUMMARY:
+
+As a DevOps Engineer you will be a part of a team responsible for the full CI/CD pipeline which sits in the critical path of client-impacting product delivery in the cloud. The team engages in the design, development, testing and support of the automation software, test cases, and environments. We are a global network of developers, and everyone engages in a high degree of collaboration across the global team - including working closely with Business Analysts, Product Owners, Architects, and Feed Developers. This position requires that the candidate be flexible, proficient at multitasking, able to balance client issue investigations with day-to-day development work, and comfortable working in a global setting and collaborating with global teams.
+
+WHAT YOU'LL BE DOING:
+
+
+Working with the global development and product teams to define, develop, test, and maintain a full CI/CD pipeline with a focus on cloud deployments
+Take full ownership of solutions and drive them through to completion
+Demonstrate a passion for dramatically improving the testing and deployment of client products through automation
+Identify, propose, and drive enhancements to improve our pipeline capabilities
+Engage in continued learning and look for opportunities to use emerging technology to improve solutions
+Participate in regular peer reviews
+Provide third-level support to issues raised by stakeholders
+Work within our defined engineering methodology based on agile principles and tools
+
+
+WHAT YOU'LL BRING:
+
+
+Strong experience with cloud platforms, including AWS and Microsoft Azure
+Proficiency in Python for scripting, automation, and application development
+Experience with version control systems (e.g., Git)
+Solid understanding of Linux environments and Bash scripting
+Hands-on experience developing and integrating REST and GraphQL APIs
+Familiarity with containerization technologies, particularly Docker
+Experience working with NoSQL databases (e.g., DynamoDB)
+Knowledge of container orchestration tools, such as Kubernetes
+Experience with CI/CD pipelines and automation tools, including Jenkins
+Able to work effectively in a virtual environment
+Excellent written and oral communication skills
+Strong analytical skills for troubleshooting and diagnostics
+Ability to thoroughly test and debug code, with a focus on test driven development
+
+
+Career Stage:
+
+Senior Associate
+
+London Stock Exchange Group (LSEG) Information:
+
+Join us and be part of a team that values innovation, quality, and continuous improvement. If you're ready to take your career to the next level and make a significant impact, we'd love to hear from you.
+
+LSEG is a leading global financial markets infrastructure and data provider. Our purpose is driving financial stability, empowering economies and enabling customers to create sustainable growth.
+
+Our purpose is the foundation on which our culture is built. Our values of Integrity, Partnership, Excellence and Change underpin our purpose and set the standard for everything we do, every day. They go to the heart of who we are and guide our decision making and everyday actions.
+
+Working with us means that you will be part of a dynamic organisation of 25,000 people across 65 countries. However, we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce.
+
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone’s race, religion, colour, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, pregnancy or disability, or any other basis protected under applicable law. Conforming with applicable law, we can reasonably accommodate applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs.
+
+You will be part of a collaborative and creative culture where we encourage new ideas. We are committed to sustainability across our global business and we are proud to partner with our customers to help them meet their sustainability objectives. Our charity, the LSEG Foundation provides charitable grants to community groups that help people access economic opportunities and build a secure future with financial independence. Colleagues can get involved through fundraising and volunteering.
+
+LSEG offers a range of tailored benefits and support, including healthcare, retirement planning, paid volunteering days and wellbeing initiatives.
+
+Please take a moment to read this privacy notice carefully, as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you, what it’s used for, and how it’s obtained, your rights and how to contact us as a data subject.
+
+If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting and Financial Services
+  
+
+Referrals increase your chances of interviewing at LSEG by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+Accenture UK & Ireland
+Birmingham, England, United Kingdom
+2 days ago
+DevOps / SRE Engineer (Sheffield)
+DevOps / SRE Engineer (Sheffield)
+Bumper
+Sheffield, England, United Kingdom
+6 days ago
+DEVOPS ENGINEER - AWS
+DEVOPS ENGINEER - AWS
+Felix Consultants
+Birmingham, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Cloudfy
+Leicester, England, United Kingdom
+£45,000 - £50,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Next
+Leicester, England, United Kingdom
+2 weeks ago
+AWS DevOps Engineer - SC MOD Required
+AWS DevOps Engineer - SC MOD Required
+IBM
+Leicester, England, United Kingdom
+6 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Anson McCade
+
+England, United Kingdom
+3 days ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+
+Voyage Care Ltd
+
+Lichfield, England, United Kingdom
+3 weeks ago
+Cloud Operations Engineer
+Cloud Operations Engineer
+
+Klipboard
+
+South Yorkshire, England, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Searchability®
+
+Sheffield, England, United Kingdom
+1 week ago
+Azure DevOps Engineer - SC MOD Required
+Azure DevOps Engineer - SC MOD Required
+
+IBM
+
+Leicester, England, United Kingdom
+5 days ago
+Platform Engineer (contract)
+Platform Engineer (contract)
+
+Microsoft
+
+Atherstone, England, United Kingdom
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Undisclosed
+
+Sheffield, England, United Kingdom
+2 weeks ago
+Staff Platform Engineer - UK
+Staff Platform Engineer - UK
+
+Ashby
+
+Birmingham, England, United Kingdom
+£151,000 - £246,000
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+La Fosse
+
+Birmingham, England, United Kingdom
+6 days ago
+Cloud Database Engineer
+Cloud Database Engineer
+
+LexisNexis Risk Solutions
+
+Nottinghamshire, England, United Kingdom
+6 days ago
+Similar Searches
+Portfolio Architect jobs
+2,395 open jobs
+Senior Database Consultant jobs
+85 open jobs
+Business Objects Developer jobs
+2,633 open jobs
+Equity Portfolio Manager jobs
+371 open jobs
+Assistant Fund Manager jobs
+269 open jobs
+Secondary English Teacher jobs
+2,150 open jobs
+Membership Associate jobs
+4,796 open jobs
+Risk Operations Manager jobs
+700 open jobs
+Unix Engineer jobs
+1,127 open jobs
+Front Office Developer jobs
+21,662 open jobs
+Technology Risk Consultant jobs
+151 open jobs
+Exchange Engineer jobs
+1,372 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at LSEG
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

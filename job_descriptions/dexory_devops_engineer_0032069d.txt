@@ -1,0 +1,269 @@
+Title: DevOps Engineer
+Company: Dexory
+Location: Wallingford, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-dexory-4462839685
+Posted: 2026-08-29
+Deadline: N/A
+Reason: The role aligns with her DevOps and CI/CD expertise and is located in the UK, which is one of her target relocation countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Dexory  Wallingford, England, United Kingdom
+1 month ago   Be among the first 25 applicants
+  
+
+See who Dexory has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+DevOps Engineer / SRE / Cloud / Docker / Kubernetes
+
+Location: Wallingford - Oxfordshire (Hybrid) onsite circa 1 day per week
+
+Permanent
+
+At Dexory, we are transforming the warehousing and logistics industry through data intelligence.
+
+We’re currently recruiting for a devops engineer to define, build and operate the infrastructure and tooling necessary for our rapidly growing business. You will be responsible for supporting high-velocity deployment of user-facing applications, internal services, and infrastructure at scale, while ensuring stability, reliability and automation.
+
+Offices based in Wallingford, Oxford but flexible hybrid basis (circa one day every week on site)
+
+Any experience within robotics or start up / scale up environments desirable along with experience working on multiple cloud platforms vs being tied to just vendor.
+
+Open to the career background candidates are coming from (infrastructure, DevOps, site reliability, platform etc)
+
+Please apply for more information.
+
+Responsibilities / Skills
+
+
+Develop and Maintain CI/CD pipelines and developer tooling that supports multiple engineering teams with different technical requirements – enabling self-service, repeatable deployments, and high-throughput delivery.
+Manage cloud infrastructure across a wide range of cloud providers, using Kubernetes, for both user-facing applications and internal services – provision, monitor, optimise cost, performance and reliability.
+Build infrastructure-as-code (IaC) with Terraform on Terraform Cloud, establishing standards for repeatable environments, reducing manual processes and increasing automation.
+Support monitoring, logging, observability and alerting systems, via Grafana, to support production health, incident detection, root-cause analysis and rapid recovery.
+Drive a culture of DevOps best-practice across teams: infrastructure reliability, deployment-velocity, automated testing, rollback strategies, security/infrastructure hardening.
+Strong hands-on expertise with cloud platforms (AWS/Azure/GCP), infrastructure as code (ideally Terraform), containers (Docker), container orchestration (Kubernetes), and CI/CD tooling.
+Proven track record of building and managing CI/CD pipelines (ideally GitHub Actions), automation frameworks.
+
+
+Benefits
+
+Starting from the interview process and continuing into your career with us, you will be working by our four Operating Principles:
+
+
+Performance: High standards, outstanding results,
+Impact: Big challenges, bigger results
+Commitment: All in, every time
+One team: One mission, shared success
+
+
+Joining our team and company isn't just about expertise; it's about embracing uncertainty with ambition. We're crafting world-changing solutions, fuelled by a passion to redefine what's possible. We will look for you to help create and shape the future of logistics solutions through our products, our culture and our shared vision.
+
+You will also receive:
+
+
+Private healthcare via Bupa with 24/7 medical helpline
+Life insurance
+Income protection
+Pension: 4+% employee with option to opt into salary exchange, 5% employer
+Employee Assistance Programme - mental wellbeing, financial and legal advice/support
+25 days holiday per year + bank holidays
+Full meals onsite in Wallingford
+Fun team events on and offsite, snacks of all kinds in the office
+
+
+AAP/EEO Statement
+
+Dexory provides equal employment opportunities to all employees and applicants for employment. It prohibits discrimination and harassment of any type without regard to race, colour, religion, age, sex, national origin, disability status, genetics, protected veteran status, or any other characteristic protected by local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering
+Industries
+Robotics Engineering
+  
+
+Referrals increase your chances of interviewing at Dexory by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Ripjar
+Cheltenham, England, United Kingdom
+6 days ago
+DevOps Engineer
+DevOps Engineer
+Ripjar
+London, England, United Kingdom
+5 months ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Xelix
+London, England, United Kingdom
+£55,000 - £65,000
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Sensor Tower
+London, England, United Kingdom
+3 months ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+Team Creation
+Hammersmith, England, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+La Fosse
+
+London Area, United Kingdom
+£80,000 - £90,000
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Charlotte Tilbury Beauty
+
+London, England, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Akuna Capital
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineer - AWS & Terraform
+DevOps Engineer - AWS & Terraform
+
+Worldpay
+
+London Area, United Kingdom
+3 days ago
+Platform Engineer
+Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Griffin
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+REMIUM
+
+City Of London, England, United Kingdom
+1 month ago
+Platform Engineer
+Platform Engineer
+
+Lendable
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Halian | Managed Services, Recruitment Agency & Contract Staffing
+
+Reading, England, United Kingdom
+£70,000 - £80,000
+3 weeks ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+UBDS Digital
+
+London, England, United Kingdom
+1 week ago
+Similar Searches
+Staffing Consultant jobs
+4,906 open jobs
+Recruitment Partner jobs
+13,111 open jobs
+Product Strategist jobs
+5,542 open jobs
+Security Engineer jobs
+14,272 open jobs
+Head of Recruitment jobs
+3,750 open jobs
+Lead Project Engineer jobs
+2,401 open jobs
+Sales Partner jobs
+14,909 open jobs
+Strategic Account Manager jobs
+6,296 open jobs
+Test Coordinator jobs
+1,106 open jobs
+Recruitment Specialist jobs
+15,674 open jobs
+Board Member jobs
+815 open jobs
+Junior Product Manager jobs
+3,940 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Dexory
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

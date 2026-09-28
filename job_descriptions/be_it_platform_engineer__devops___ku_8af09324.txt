@@ -1,0 +1,321 @@
+Title: Platform Engineer (DevOps & Kubernetes)
+Company: Be-IT
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/platform-engineer-devops-kubernetes-at-be-it-4464210189
+Posted: 2026-09-14
+Deadline: N/A
+Reason: The role aligns with her DevOps and CI/CD expertise and is located in the United Kingdom, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer (DevOps & Kubernetes)
+Be-IT  London Area, United Kingdom
+2 weeks ago  134 applicants
+  
+
+See who Be-IT has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Be-IT provided pay range
+
+This range is provided by Be-IT. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£80,000.00/yr - £100,000.00/yr
+
+Direct message the job poster from Be-IT
+
+Scott Bentley
+Scott Bentley
+Client Delivery Director at Be-IT | Helping Organisations Build High-Performing Technology Teams | Permanent & Contract Recruitment
+
+We're working with a highly successful technology-driven organisation seeking a Senior Platform & DevOps Engineer to join a small, high-impact engineering team responsible for building and evolving cloud platforms that power critical applications.
+
+
+
+
+This isn't a traditional "keep the lights on" infrastructure role.
+
+You'll join a collaborative team of seven engineers where platform engineering, DevOps, automation and cloud infrastructure come together. The environment is built around innovation, ownership and engineering excellence, giving you the freedom to challenge existing approaches, introduce new ideas and directly influence technical direction.
+
+The team already has a handful of engineers who thrive on autonomy and enjoy solving complex problems through automation, modern platform engineering practices and continuous improvement. They're looking for a third engineer with a similar mindset who wants to help shape what's next.
+
+
+
+
+This role would suit someone who is already a strong engineer but still wants to learn, grow and broaden their expertise across platform engineering, DevOps and Infrastructure as Code.
+
+
+
+
+What You'll Be Doing
+
+Designing, building and operating cloud infrastructure in Microsoft Azure
+Developing and improving CI/CD capabilities and deployment automation
+Working extensively with Kubernetes and container-based platforms
+Building reusable Infrastructure as Code solutions using Terraform
+Driving platform standardisation, automation and engineering best practice
+Improving observability, monitoring and operational excellence
+Collaborating closely with software engineers, architects and technology stakeholders
+Evaluating and introducing new tools, technologies and approaches where they add value
+Taking ownership of complex technical challenges from design through to delivery
+
+
+
+
+We're keen to speak with engineers who combine both Platform Engineering and DevOps experience.
+
+A lot of applicants have strong platform backgrounds but limited DevOps exposure. For this role, both areas are important.
+
+
+
+
+You'll ideally have experience with:
+
+Microsoft Azure
+Kubernetes (essential)
+Terraform
+GitLab, GitHub Actions, Azure DevOps or similar CI/CD tooling
+Infrastructure as Code
+Docker and containerisation
+GitOps concepts and tooling such as ArgoCD
+Observability tooling such as Grafana, Prometheus, Splunk or similar
+Bash, PowerShell, Python or Go
+Agile delivery environments
+
+
+
+
+The Kind of Engineer Who Will Thrive Here
+
+You'll likely enjoy this role if you:
+
+Love automating repetitive processes
+Like building platforms rather than simply administering them
+Enjoy introducing new ideas and technologies
+Take ownership of problems and see them through to completion
+Are comfortable rolling up your sleeves and remaining hands-on
+Want to work in a small team where your contributions genuinely influence technical decisions
+
+
+
+
+Interview Talking Points
+
+Successful candidates will typically be comfortable discussing topics such as:
+
+Designing reusable CI/CD components and templates
+Kubernetes operations and GitOps practices
+ArgoCD and deployment lifecycle management
+Metrics, logs and distributed tracing
+Terraform workflows and Infrastructure as Code principles
+Container security and vulnerability management
+Platform reliability, scalability and automation
+
+
+
+
+Why Join?
+
+Salary of £80,000 - £110,000
+Small, highly collaborative engineering team
+Significant autonomy and ownership
+Opportunity to influence platform strategy
+Strong focus on innovation and modern engineering practices
+Hybrid working with 3 days per week in Central London
+Excellent opportunity for an ambitious engineer looking to accelerate their growth while remaining hands-on
+
+
+
+
+This is a chance to join a business where platform engineering is viewed as a strategic capability, not simply an operational function, and where your ideas can have a visible impact from day one.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media and Financial Services
+  
+
+Referrals increase your chances of interviewing at Be-IT by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Platform Engineer
+Platform Engineer
+Lendable
+London, England, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+Akuna Capital
+London, England, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+Relation
+London, England, United Kingdom
+8 months ago
+Platform Engineer
+Platform Engineer
+Freetrade
+London, England, United Kingdom
+£52,000 - £75,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Encord
+London, England, United Kingdom
+4 days ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+3 months ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Perk
+
+London, England, United Kingdom
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Perk
+
+London Area, United Kingdom
+4 days ago
+Platform Engineer
+Platform Engineer
+
+ManyPets
+
+London, England, United Kingdom
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+Prima
+
+London, England, United Kingdom
+1 week ago
+Platform Engineer - London
+Platform Engineer - London
+
+Gibson Dunn
+
+London, England, United Kingdom
+1 month ago
+Platform Engineer, SDO
+Platform Engineer, SDO
+
+Wayve
+
+London, England, United Kingdom
+3 days ago
+Platform Engineer
+Platform Engineer
+
+incident.io
+
+London, England, United Kingdom
+£110,000 - £200,000
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Ripjar
+
+London, England, United Kingdom
+5 months ago
+Platform Engineer
+Platform Engineer
+
+Marex
+
+London, England, United Kingdom
+5 days ago
+Similar Searches
+Senior Network Design Engineer jobs
+341 open jobs
+Site Reliability Engineer jobs
+14,094 open jobs
+Unix Consultant jobs
+319 open jobs
+Platform Architect jobs
+6,602 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Infrastructure Engineer jobs
+8,209 open jobs
+Data Management Coordinator jobs
+7,215 open jobs
+Linux Engineer jobs
+3,388 open jobs
+Senior Infrastructure Engineer jobs
+3,526 open jobs
+Lead Infrastructure Engineer jobs
+1,877 open jobs
+Software Configuration Management Engineer jobs
+2,318 open jobs
+Portal Developer jobs
+1,761 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Be-IT
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

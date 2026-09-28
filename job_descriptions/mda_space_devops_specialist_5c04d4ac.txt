@@ -1,0 +1,276 @@
+Title: DevOps Specialist
+Company: MDA Space
+Location: Brampton, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-specialist-at-mda-space-4426969780
+Posted: 2026-09-14
+Deadline: N/A
+Reason: The candidate's extensive experience in DevOps, CI/CD, Python, and Azure aligns well with the role's requirements in a regulated industry.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Specialist
+MDA Space  Brampton, Ontario, Canada
+2 weeks ago   Over 200 applicants
+  
+
+See who MDA Space has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Building the space between proven and possible, MDA Space is a trusted mission partner to the global space industry. A robotics, satellite systems and geointelligence pioneer with a 55-year+ story of world firsts and more than 450 missions, MDA Space is a global leader in communications satellites, Earth and space observation, and space exploration and infrastructure. The MDA Space team of more than 3,400 space experts in Canada, the US and the UK has the knowledge and know-how to turn an audacious customer vision into an achievable mission – bringing to bear a one-of-a-kind mix of experience, engineering excellence and wide-eyed wonder that’s been in our DNA since day one. For those who dream big and push boundaries on the ground and in the stars to change the world for the better, we’ll take you there. For more information, visit www.mda.space.
+
+The Role
+
+MDA is seeking a talented and experienced DevOps Specialist to be part of the IT Enterprise Business System team to play a crucial role to design, implement, and maintain our DevOps practices, tools, and processes. As a DevOps Specialist, you will be responsible for bridging the gap between our development and operations teams, ensuring the smooth operation of our software systems, and improving the overall efficiency and reliability of our technology stack. You will work closely with cross-functional teams to enhance development, testing, and deployment processes, ensuring a seamless and reliable software delivery lifecycle.
+
+Job Responsibilities
+
+
+Develop and implement DevOps practices, such as Continuous Integration, Continuous Deployment, and Continuous Monitoring, to improve the speed, quality, and reliability of our software releases
+Collaborate with development and operations teams to automate and streamline the build, test, and deployment processes.
+Utilize Terraform and Terragrunt to create and manage infrastructure as code for various cloud platforms, with a focus on Microsoft Azure.
+Manage and enhance version control systems, particularly Git, to ensure codebase integrity and collaboration efficiency.
+Develop and maintain automation scripts using Python to streamline repetitive tasks and enhance overall system efficiency.
+Advise business groups by providing technical and strategic guidance that identify and address business issues and opportunities
+Provide technical design, coding, testing, implementation, maintenance, system and technical support for DevOps pipelines using industry standard ETL tools.
+Extract data from multiple sources, integrate disparate data into a common data model, and integrate data into a target database, application, or file using efficient ETL processes
+Implement and optimize CI/CD processes to enable rapid and reliable software releases.
+Set up and configure monitoring and logging solutions to ensure the health and performance of systems and applications.
+Collaborate with cross-functional teams to understand project requirements and provide expertise on DevOps best practices.
+Skilled at coaching development teams on version control best practices to ensure code quality, collaboration, and maintainable workflows.
+Communicate effectively with clients to gather requirements, provide updates, and ensure alignment with project goals.
+Provide on-call support in support of DevOps pipelines in production and support source upgrades, Hardware/Software upgrade projects with impact analysis, fixes and end-to-end testing
+Provide operational support on failures and outages
+Implement new technologies by participating in the assessment of tools, software, and technological practices
+Troubleshoot issues related to software, compute, storage and networking
+Design training programs, create documentation and user guides, and deliver training to other Team Members
+Stay on top and showcase knowledge in the industry’s latest trends and technologies in Data Analytics
+Collaborate with other teams, team members and stakeholders
+
+
+Required Qualifications
+
+
+Bachelor’s degree in Computer Engineering, Computer/Data Science or related discipline
+5+ years of experience in Information Technology
+3+ years of proven experience as a DevOps Engineer or Consultant.
+2+ years of proven experience with Jenkins and GitLab for CI/CD.
+2+ years of hands-on experience with Terraform and/or Terragrunt for infrastructure automation.
+2+ years of experience with Microsoft Azure cloud services.
+Strong experience with Git-based version control platforms (GitLab, Bitbucket, GitHub), including creating and reviewing merge requests, managing feature branches, and enforcing branching and merging strategies.
+Critical Thinking, Strong problem-solving and analytical skills
+Highly motivated, enthusiastic, and a positive thinker
+Solid scripting skills in Python.
+Excellent problem-solving and communication skills.
+Ability to work independently and collaboratively in a team-oriented environment.
+
+
+Preferred Qualifications
+
+
+Solid scripting skills in Python, Groovy and Bash
+Windows Azure, Azure Resources, Azure Security
+Good understanding and ability to apply various process and Design Patterns
+Hands on experience in Soap/Rest API/web service
+Relational Database Experience (SQL Server)
+Knowledge of containerization technologies (Docker, Kubernetes)
+Relevant certifications (e.g., Jenkins, Azure, Gitlab etc)
+
+
+Successful candidates must obtain and hold security clearance at the reliability status level, and pass security assessment for the Controlled Goods Program (CGP) and ITAR.
+
+MDA provides competitive compensation and benefits packages for its employees at all locations. As a team member of MDA, you and your qualified dependents are eligible to participate in a benefit plan that ensures a comprehensive level of protection through competitive health care including extended healthcare and flexible drug plans, dental and vision benefits, disability income protection, life insurance, group retirement savings plans; and an employee and family assistance program.
+
+The compensation range for this position is $85,000 - $120,000 annually. The specific compensation offered will be based on the qualifications and experience of the successful candidate.
+
+MDA is an equal opportunity employer prizing diversity and inclusion. We are committed to treating all employees and applicants for employment with respect and dignity. If you require assistance and/or reasonable accommodation due to a disability during the application or the recruiting process, please feel free to notify us.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Management and Manufacturing
+Industries
+Defense and Space Manufacturing
+  
+
+Referrals increase your chances of interviewing at MDA Space by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Leap Tools
+Toronto, Ontario, Canada
+3 days ago
+DevOps Engineer
+DevOps Engineer
+StackAdapt
+Toronto, Ontario, Canada
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Nex Globe Technologies
+Cambridge, Ontario, Canada
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Caseware
+Toronto, Ontario, Canada
+2 weeks ago
+Site Reliability and DevOps Engineer
+Site Reliability and DevOps Engineer
+Capco
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+TitanFile Inc.
+Toronto, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Systems Engineer
+Systems Engineer
+
+Trayport
+
+Toronto, Ontario, Canada
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+KPMG Canada
+
+Vaughan, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+TechBlocks
+
+Vaughan, Ontario, Canada
+2 weeks ago
+Cloud Operations Engineer
+Cloud Operations Engineer
+
+Porter Airlines Inc.
+
+Toronto, Ontario, Canada
+5 months ago
+Site Reliability Engineer / Release Management & Automation Specialist
+Site Reliability Engineer / Release Management & Automation Specialist
+
+Sun Life
+
+North York, Ontario, Canada
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Scotiabank
+
+Toronto, Ontario, Canada
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Scotiabank
+
+Toronto, Ontario, Canada
+6 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+MaintainX
+
+Toronto, Ontario, Canada
+CA$88,000 - CA$195,000
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Caspian One
+
+Toronto, Ontario, Canada
+CA$80 - CA$110
+1 week ago
+Kafka DevOps Engineer
+Kafka DevOps Engineer
+
+Citi
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Similar Searches
+Spacecraft Engineer jobs
+34 open jobs
+Factory Controller jobs
+314 open jobs
+Staff Process Engineer jobs
+90 open jobs
+Electrical System Engineer jobs
+850 open jobs
+Communications System Engineer jobs
+733 open jobs
+Signal Integrity Engineer jobs
+130 open jobs
+Mechanical Process Engineer jobs
+1,390 open jobs
+Antenna Engineer jobs
+28 open jobs
+Customer Application Engineer jobs
+707 open jobs
+Electrical Engineering Intern jobs
+649 open jobs
+Software Engineer in Test jobs
+593 open jobs
+Electronic Designer jobs
+14,875 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at MDA Space
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
