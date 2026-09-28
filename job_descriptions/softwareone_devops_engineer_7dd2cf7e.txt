@@ -4,7 +4,7 @@ Location: Auckland, Auckland, New Zealand
 URL: https://nz.linkedin.com/jobs/view/devops-engineer-at-softwareone-4460026715
 Posted: 2026-09-07
 Deadline: N/A
-Reason: The role is a direct match for her DevOps and CI/CD expertise and is located in one of her target countries (New Zealand).
+Reason: The job aligns with Priya's expertise in CI/CD pipelines, release management, and regulated-industry experience, matching the 'DevOps Engineer' role type and target country (New Zealand).
 
 ========================================
 JOB DESCRIPTION:
@@ -86,10 +86,8 @@ IT Services and IT Consulting
 Referrals increase your chances of interviewing at SoftwareOne by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Auckland, Auckland, New Zealand.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 DevOps Product Manager
 DevOps Product Manager
@@ -100,7 +98,7 @@ Site Reliability Engineer
 Site Reliability Engineer
 Future Secure AI
 Auckland, Auckland, New Zealand
-6 days ago
+1 week ago
 DevOps Engineer - Mandarin Speaking
 DevOps Engineer - Mandarin Speaking
 Global Wave Group
@@ -115,12 +113,12 @@ Cloud Engineer - AWS
 Cloud Engineer - AWS
 Datacom
 Auckland, Auckland, New Zealand
-3 weeks ago
+1 hour ago
 Systems Reliability Engineer
 Systems Reliability Engineer
 Propellerhead
 Auckland, New Zealand
-2 days ago
+3 days ago
 Show more jobs like this 
 People also viewed
 Linux Infrastructure Engineer
@@ -171,7 +169,7 @@ Platform Security Engineer, NZ
 Partly
 
 Auckland, Auckland, New Zealand
-3 weeks ago
+1 hour ago
 AI Engineer Cloud Platforms
 AI Engineer Cloud Platforms
 
