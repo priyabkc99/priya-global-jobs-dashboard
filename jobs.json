@@ -1026,15 +1026,14 @@
     "url": "https://nz.linkedin.com/jobs/view/devops-engineer-mandarin-speaking-at-global-wave-group-4466017787",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires strong Chinese (Mandarin) written and verbal communication skills as an essential requirement, which the candidate does not possess.",
+    "reason": "The job requires Mandarin speaking skills as an essential requirement, which the candidate does not possess and is a hard rejection under 'Mandatory Non-English Language'.",
     "id": "90637552",
     "source": "linkedin_nz_devops_engineer",
     "added_at": "2026-09-28T11:44:29+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": null,
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "CloudOps Engineer - Software",
@@ -1042,16 +1041,15 @@
     "location": "Hamilton, Waikato, New Zealand",
     "url": "https://nz.linkedin.com/jobs/view/cloudops-engineer-software-at-gallagher-4469419578",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with her DevOps, CI/CD, and automation expertise and is located in a target country (New Zealand).",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns partially with DevOps and Infrastructure as Code (Terraform, CI/CD) but lacks explicit mention of regulated/safety-critical domains (MDR/ISO 13485/ASPICE) or technical documentation/release management responsibilities that match the candidate's core experience.",
     "id": "a619a6ca",
     "source": "linkedin_nz_devops_engineer",
     "added_at": "2026-09-28T11:44:29+03:00",
     "posted_date": "2026-09-23",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/gallagher_cloudops_engineer___software_a619a6ca.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "CloudOps Engineer - Software",
@@ -1059,16 +1057,15 @@
     "location": "Hamilton, Waikato, New Zealand",
     "url": "https://nz.linkedin.com/jobs/view/cloudops-engineer-software-at-gallagher-animal-management-4469447417",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a DevOps/CloudOps position in New Zealand, which aligns with her extensive experience in CI/CD, automation, and infrastructure management.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with DevOps Engineer responsibilities (CI/CD pipelines, Infrastructure as Code) but lacks explicit mention of regulated/safety-critical domains or technical documentation ownership, which were key factors in her previous approvals.",
     "id": "2ee7cb1a",
     "source": "linkedin_nz_devops_engineer",
     "added_at": "2026-09-28T11:44:29+03:00",
     "posted_date": "2026-09-24",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/gallagher_animal_man_cloudops_engineer___software_2ee7cb1a.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1408,16 +1405,15 @@
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/devops-engineer-at-merquri-4469870109",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with her DevOps and CI/CD expertise and is located in Singapore, which is one of her target countries.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with DevOps Engineer responsibilities (CI/CD pipelines, infrastructure-as-code) and is located in Singapore (target country), but the 'Associate' seniority level may imply a lower experience requirement than her ~15 years of expertise.",
     "id": "9bcad5be",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/merquri_devops_engineer_9bcad5be.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer (Trading Platform)",
@@ -1425,16 +1421,15 @@
     "location": "Singapore",
     "url": "https://sg.linkedin.com/jobs/view/senior-devops-engineer-trading-platform-at-crypto-com-4466902594",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior DevOps Engineer in Singapore, which is a target country, and aligns with her extensive experience in CI/CD, automation, and infrastructure management.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with DevOps Engineer criteria (CI/CD, infrastructure tooling) and is located in Singapore (target country), but visa sponsorship requirements are not explicitly confirmed in the posting.",
     "id": "35753138",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/crypto_com_senior_devops_engineer__tradin_35753138.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Platform Engineer",
@@ -1442,16 +1437,15 @@
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/platform-engineer-at-vitol-4431284888",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a strong match for her extensive experience in CI/CD, automation, and platform engineering and is located in a target country (Singapore).",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with configuration management and CI/CD responsibilities but the 'Platform Engineer' title isn't explicitly listed in the target role categories; however, it overlaps with DevOps and cloud platform engineering which matches her experience.",
     "id": "2346038a",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/vitol_platform_engineer_2346038a.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1460,15 +1454,14 @@
     "url": "https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-vanguard-software-4448818455",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a Senior DevOps Engineer in Singapore, which aligns with her extensive experience in CI/CD, automation, and release management.",
+    "reason": "The job is a Senior DevOps Engineer position located in Singapore (a target country), aligning with Priya's CI/CD, infrastructure automation, and release management expertise, as well as her 15+ years of experience.",
     "id": "ea88b8f3",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-07",
     "deadline": "N/A",
-    "eval_model": "local/google/gemma-4-26b-a4b-qat",
-    "description_file": "job_descriptions/vanguard_software_senior_devops_engineer_ea88b8f3.txt",
-    "needs_re_review": true
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/vanguard_software_senior_devops_engineer_ea88b8f3.txt"
   },
   {
     "title": "Lead Platform Engineer (Azure, Kubernetes & DevOps)",
@@ -1476,16 +1469,15 @@
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/lead-platform-engineer-azure-kubernetes-devops-at-hudson-singapore-4463434397",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Priya's DevOps/CI-CD expertise (Azure, Kubernetes, infrastructure-as-code), is located in Singapore (target country), and matches her mid-senior experience level. Visa sponsorship requirements are not explicitly excluded.",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to be 'currently based in Singapore' with relevant work experience in Singapore, which Priya does not currently satisfy, and the posting does not explicitly confirm visa sponsorship availability for relocation.",
     "id": "77a32a7e",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/hudson_singapore_lead_platform_engineer__azure__77a32a7e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1494,15 +1486,14 @@
     "url": "https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-starhub-4449988418",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The Senior DevOps Engineer role at StarHub in Singapore matches Priya's expertise in CI/CD pipelines (Jenkins), infrastructure as code (Terraform/CloudFormation), and cloud operations (AWS) while aligning with her target countries and experience level.",
+    "reason": "The role aligns with Priya's expertise in CI/CD (Jenkins, Docker/Kubernetes), cloud infrastructure (AWS), and regulated-industry experience, while matching target countries (Singapore) and mid-senior level requirements.",
     "id": "5d54027f",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-09-21",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/starhub_senior_devops_engineer_5d54027f.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/starhub_senior_devops_engineer_5d54027f.txt"
   },
   {
     "title": "DevOps Engineer, C3",
@@ -1510,16 +1501,15 @@
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/devops-engineer-c3-at-ncs-group-4424756887",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The DevOps Engineer role at NCS Group in Singapore matches Priya's expertise in CI/CD, Kubernetes, and infrastructure as code, aligning with her background in regulated industries and configuration management.",
+    "matches_requirements": "maybe",
+    "reason": "The job matches on DevOps Engineer role type and Singapore location, but lacks explicit mention of regulated/safety-critical domain alignment with her Topcon/Elektrobit background, though configuration management tools are present.",
     "id": "55601dd5",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-09-28T12:47:04+03:00",
     "posted_date": "2026-06-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/ncs_group_devops_engineer__c3_55601dd5.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer - EMEA/US Shift",

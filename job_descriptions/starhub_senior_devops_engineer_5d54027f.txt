@@ -4,7 +4,7 @@ Location: Singapore, Singapore
 URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-starhub-4449988418
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The Senior DevOps Engineer role at StarHub in Singapore matches Priya's expertise in CI/CD pipelines (Jenkins), infrastructure as code (Terraform/CloudFormation), and cloud operations (AWS) while aligning with her target countries and experience level.
+Reason: The role aligns with Priya's expertise in CI/CD (Jenkins, Docker/Kubernetes), cloud infrastructure (AWS), and regulated-industry experience, while matching target countries (Singapore) and mid-senior level requirements.
 
 ========================================
 JOB DESCRIPTION:
@@ -26,7 +26,7 @@ Sign in
 Join now
 Senior DevOps Engineer
 StarHub  Singapore, Singapore
-1 week ago  125 applicants
+1 week ago  127 applicants
   
 
 See who StarHub has hired for this role
@@ -125,6 +125,11 @@ Sign in to create job alert
 Similar jobs
 Senior DevOps Engineer
 Senior DevOps Engineer
+Dropsuite
+Singapore, Singapore
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
 Vanguard Software
 Singapore, Singapore
 3 weeks ago
@@ -133,11 +138,6 @@ Senior DevOps Engineer - Singapore
 NinjaOne
 Singapore, Singapore
 2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-Singtel
-Singapore, Singapore
-5 hours ago
 Sr. DevOps Engineer (Blockchain Infra)
 Sr. DevOps Engineer (Blockchain Infra)
 BNB Chain
@@ -237,11 +237,11 @@ Brand Policy
 Guest Controls
 Community Guidelines
 Language
-Sign in to see who you already know at StarHub
-Sign in with Email
 
-or
+LINKEDIN
 
-New to LinkedIn? Join now
+Know when new jobs open up
 
-By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

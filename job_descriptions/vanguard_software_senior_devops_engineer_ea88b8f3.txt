@@ -4,7 +4,7 @@ Location: Singapore, Singapore
 URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-vanguard-software-4448818455
 Posted: 2026-09-07
 Deadline: N/A
-Reason: The role is a Senior DevOps Engineer in Singapore, which aligns with her extensive experience in CI/CD, automation, and release management.
+Reason: The job is a Senior DevOps Engineer position located in Singapore (a target country), aligning with Priya's CI/CD, infrastructure automation, and release management expertise, as well as her 15+ years of experience.
 
 ========================================
 JOB DESCRIPTION:
@@ -33,12 +33,6 @@ See who Vanguard Software has hired for this role
 
 Apply
 Save
-Use AI to assess how you fit
-
-Get AI-powered advice on this job and more exclusive features.
-
-Am I a good fit for this job?
-Tailor my resume
 
 Job Summary
 
@@ -107,16 +101,16 @@ Get notified about new DevOps Engineer jobs in Singapore, Singapore.
 
 Sign in to create job alert
 Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Dropsuite
+Singapore, Singapore
+3 weeks ago
 Senior DevOps Engineer - Singapore
 Senior DevOps Engineer - Singapore
 NinjaOne
 Singapore, Singapore
 2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-Singtel
-Singapore, Singapore
-5 hours ago
 Senior DevOps Engineer
 Senior DevOps Engineer
 StarHub
@@ -221,11 +215,11 @@ Brand Policy
 Guest Controls
 Community Guidelines
 Language
-Sign in to see who you already know at Vanguard Software
-Sign in with Email
 
-or
+LINKEDIN
 
-New to LinkedIn? Join now
+Know when new jobs open up
 
-By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
