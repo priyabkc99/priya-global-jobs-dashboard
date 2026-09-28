@@ -1,0 +1,110 @@
+Title: DevOps Engineer
+Company: Renaissance InfoSystems
+Location: Sydney/Melbourne, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-11cb753d2839880b875891985489d459
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The job matches as a DevOps Engineer role in Australia (a target country) with CI/CD pipeline responsibilities aligning with Priya's expertise in Jenkins, GitHub Actions, and Azure DevOps, and no hard rejections apply.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+Renaissance InfoSystems
+–
+Melbourne VIC
+Contract
+3d ago, from Workus AU
+Apply on company site
+
+Hi All,
+
+Hope you are doing well.
+
+This is Selvi from Reninfo Systems!.
+
+We do have a new role of with our client, If you are interested please let me know and send me your updated resume.
+
+Role:Devops Engineer
+Location:Sydney/Melbourne
+Duration:Longterm
+Role Summary
+
+
+We are seeking an experienced DevOps Engineer to enable reliable, automated, and secure delivery of enterprise applications and platforms.
+
+Key Responsibilities
+
+Build and manage CI/CD pipelines
+Support blue‑green, active‑active, and resilient deployment patterns
+Automate environment provisioning and application releases
+Monitor system health, performance, and availability
+Collaborate with development and platform engineering teams
+Skills and Experience
+
+Expert DevSecOps Engineer with hands-on expertise in developing application-side CI/CD pipelines in Azure DevOps using YAML with automation experience.
+Possess a minimum of two years' experience authoring Application CI/CD pipelines in YAML and 5+ years overall.
+Experienced with DevSecOps tool-chain including Azure DevOps, JFrog, Sonar tooling. Additional experience with DotNet (Containerised apps, SPA, Azure apps) and Java (Maven) applications will be considered advantageous.
+Expertise in CI/CD tools and monitoring platforms
+Experience supporting mission‑critical systems
+Personal Attributes
+
+Strong analytical, diagnostic, and problem-solving capability.
+Clear communication and effective stakeholder management.
+Ability to work independently and collaboratively across cross-functional teams.
+Commitment to operational excellence, automation, knowledge sharing, and continuous improvement.
+Best Regards
+Selvi
+
+
+Sr Recruitment Consultant
+
+Renaissance Info Systems
+
+Suite 508, Level 5/343 Little Collins St, Melbourne VIC 3000, Australia
+
+E-Mail: ***email_hidden***
+
+Linkedin: https://www.linkedin.com/in/muthamilselvisubramanian/
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover more
+jobseekers
+Maps
+Beaches & Islands
+Resumes & Portfolios
+History
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

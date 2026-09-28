@@ -1,0 +1,97 @@
+Title: Sr DevOps Engineer
+Company: ITbility
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-573d76bdf0a52faf524be3670e98262a
+Posted: 5h ago
+Deadline: Open until filled
+Reason: The job matches as a Sr DevOps Engineer role in Sydney, Australia, aligning with her CI/CD, infrastructure management, and regulated-industry experience, and is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Sr DevOps Engineer
+ITbility
+–
+Sydney NSW
+Full time
+5h ago, from Workus AU
+Apply on company site
+Sr DevOps Engineer
+Sydney
+Contract 6+ Months
+
+Our client in Sydney is looking for Sr DevOps Engineer this is a contract 6+ months or Permanent role. Please email me at ***email_hidden*** for more information.
+
+As a Sr DevOps Engineer you will be reporting directly to the DevOps Lead. Along with other members of the DevOps team, you will work closely with our development team and operations teams to support the deployment, automation and monitoring of our applications and infrastructure. You will be involved in building tools and processes that will enhance the development cycle and improve reliability of our systems.
+
+Key Responsibilities –
+
+Assist in the deployment and configuration of applications and services (Kubernetes, Lambda, ECS, S3)
+Maintain and manage cloud infrastructure (AWS - EC2, Cloudformation, S3, ALB, ELB, Lambda, ECS, ECR, Elasticache, API Gateway)
+Liaise with other technology teams in AMP
+Implement new CI/CD pipelines and automation scripts and troubleshoot any issues arising with existing pipelines and scripts (Jenkins, Github
+Actions)
+Monitor system performance and troubleshoot problems (Kibana, Cloudwatch, DataDog)
+Maintain and Enhance the Digital environment (MongoDB / AWS / Kubernetes / Lambda / ECS based platform)
+Use CI/CD methodologies to improve efficiency
+Support and assist in projects. Nonproduction and production developments
+Identifying and implementing platform improvements
+Stay updated on the latest DevOps tools, technologies and practices
+
+Mandatory skills –
+
+Linux System Administration (Redhat)
+Experience managing Kubernetes clusters and its administration
+AWS proficiency (EC2, Cloudformation, S3, ALB, ELB, Lambda, ECS, ECR, Elasticache, API Gateway etc)
+Scripting languages - Python, bash, groovy
+Experience in building CI/CD pipelines with Jenkins and Github Actions
+Solid understanding of networking concepts
+Experience with Infrastructure as Code tools such as Cloudformation and Terraform
+Configuration management using Puppet or Ansible
+Experience with Monitoring tools such as Datadog, Kibana
+Experience with Package managers, Verdaccio, ECR, Github Packages
+Experience with Container Image registries ECR
+
+Only shortlisted candidates will be contacted for this role.
+
+To apply, please submit your resume ASAP for immediate consideration or email ***email_hidden***
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover more
+Travel Guides & Travelogues
+Beaches & Islands
+Welfare & Unemployment
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

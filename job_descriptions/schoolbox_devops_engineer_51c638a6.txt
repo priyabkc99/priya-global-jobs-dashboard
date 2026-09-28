@@ -1,0 +1,104 @@
+Title: DevOps Engineer
+Company: Schoolbox
+Location: Victoria, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-3754218498fcc90eaf541c392cad3271
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The job is a DevOps Engineer role located in Australia (Victoria), aligning with Priya's expertise in CI/CD (GitHub Actions, Concourse CI), infrastructure as code (Terraform/Puppet), and cloud operations, despite not being in a regulated domain.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+Schoolbox
+–
+Victoria
+Full time, Permanent
+Hybrid
+5d ago, from Schoolbox
+Apply on company site
+
+Join the Growth Platform for K-12 Schools
+
+Schoolbox is the growth platform for K-12 schools — bringing learning, wellbeing, and communication together in one connected experience. Trusted by schools across Australia, Asia, and the Middle East, our platform helps school communities grow, adapt, and lead with confidence.
+
+With over 20 years of innovation, we’re proud to be an Australian-founded edtech company on a global trajectory — scaling fast across international markets while staying true to our purpose: helping great schools grow.
+
+We’re a tight-knit, values driven team that believes in purposeful work, real relationships, and long-term impact in education. If you’re looking to grow your career while supporting the schools that shape tomorrow — we’d love to meet you.
+
+About the Role
+
+Are you a DevOps Engineer who loves the intersection of modern cloud-native architecture, reliable systems engineering and is looking to develop your lead skills?
+
+Schoolbox is looking for a permanent DevOps Engineer to join our Infrastructure Services team. In this role, you will play a pivotal part in ensuring the seamless operation, security, and scalability of our cloud-based SaaS platform as we prepare to expand into new global regions.
+
+Reporting directly to the Infrastructure Manager, you will design, implement, and mature our AWS and Cloudflare infrastructure using modern Infrastructure as Code (IaC) practices. Beyond the technical scope, you will act as a technical expert - mentoring junior team members and lifting the capability of our broader support and engineering teams.
+
+Key Responsibilities
+
+Cloud & Infrastructure Engineering: Design, scale, and secure the Schoolbox Cloud environment. Optimize cloud spend, monitor usage patterns, and mature our architecture to support cost-effective growth and global expansion.
+Automation & CI/CD: Maintain secure configurations using IaC (Terraform, Puppet) and manage robust deployment pipelines via GitHub Actions and Concourse CI.
+Observability & Monitoring: Build, maintain, and monitor metric and log collection using Grafana's stack to ensure high availability and rapid alerting.
+Systems Management & Support: Oversee access controls (AWS, GitHub, Cloudflare), manage timely OS/dependency patching, and build custom packages when required.
+Team Leadership & BAU: Mentor Junior DevOps Engineers, provide reliable escalation for L1/L2 support, and actively participate in the team’s on-call emergency line rotation.
+
+What We Are Looking For
+
+To be successful in this role, you will bring a process-oriented mindset, strong problem-solving skills, and deep experience across the following stack:
+
+AWS Infrastructure: Strong knowledge of EC2, RDS, Route 53, S3, ECS, Lambda, and Secrets Manager, and expose to VPC networking, IAM, EKS, and DynamoDB.
+Cloudflare Ecosystem: Deep understanding of DNS, R2, Zero Trust, and Applications, alongside knowledge of Workers, WAF, and Tunnels.
+Infrastructure as Code: Proven experience managing infrastructure at scale using Terraform and Puppet (or equivalents).
+CI/CD & Containers: Experience running SaaS release processes via GitHub Actions or Concourse CI, backed by a solid understanding of containerisation.
+Systems & Networking: Solid foundational knowledge of core networking concepts, scripting languages, and mail server administration (e.g., Postfix).
+Security First Approach: An understanding of today's SaaS security landscape, and how to get the most from common cloud security management programs.
+
+What can Schoolbox offer you
+
+Join a close, family friendly team who are dedicated to providing excellent customer service to our schools.
+
+Flexible and supportive working environment, with the option for hybrid arrangements..
+You will be rewarded with a competitive base salary + super 
+Schoolbox acknowledges the increasing cost of living pressures and we provide employees with access to discounted vouchers and novated leases!
+Employee wellness is core to who we are at Schoolbox; we offer numerous benefits including a wellness allowance, access to an EAP, an extra leave day, purchased leave and regular training opportunities. 
+Regular social events including our quarterly Schoolbox Get Together, EOFY events, and more.
+
+If this sounds like the right opportunity for you, we’d love to hear from you. 
+
+To apply, please submit your application through Seek or the Schoolbox careers page.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
