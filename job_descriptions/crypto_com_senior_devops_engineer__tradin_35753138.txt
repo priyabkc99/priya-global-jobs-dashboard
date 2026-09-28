@@ -1,0 +1,385 @@
+Title: Senior DevOps Engineer (Trading Platform)
+Company: Crypto.com
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-trading-platform-at-crypto-com-4466902594
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a Senior DevOps Engineer in Singapore, which is a target country, and aligns with her extensive experience in CI/CD, automation, and infrastructure management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (Trading Platform)
+Crypto.com  Singapore
+1 week ago   Be among the first 25 applicants
+  
+
+See who Crypto.com has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+The Trading Infrastructure team is building a high-performance, front-to-back Trading Platform that supports multi-asset trading. The platform is designed to handle financial instruments with low-latency execution, robust risk controls, and seamless integration across trading, risk, operations, and finance workflows.
+
+
+
+
+The system is built with a modular architecture encompassing core components such as market data feeds, order gateways, execution algorithms, risk engines, UI dashboards, middle office reconciliation, and account infrastructure. We emphasize event-driven, deterministic system design, real-time observability, and strong security.
+
+
+
+
+Our tech stack includes Java (low-latency), Python, Web UI (React/Ag-Grid), Aeron, ClickHouse, Kubernetes, and modern CI/CD tooling, with a strong focus on automation, scalability, and performance. AI-assisted development tools are also leveraged to boost productivity and quality across the team.
+
+
+
+
+Responsibilities
+
+
+Design, provision, and maintain scalable infrastructure for our trading systems, including CI/CD pipelines, observability stack, and runtime environments
+
+
+Administer and tune databases such as AWS Aurora, PostgreSQL, and ClickHouse
+
+
+Automate provisioning and configuration of EC2 and related resources using Ansible and other infrastructure-as-code tools (e.g., Terraform)
+
+
+Ensure secure, stable environments through proper VPC design, IAM governance, and secret management
+
+
+Build and maintain system metrics and alerts using Prometheus, Grafana, and Loki
+
+
+Enforce GitHub repo and branching standards across development teams
+
+
+Ensure cost-effective infrastructure usage through continuous monitoring, resource optimization, and cost control strategies across AWS and containerized deployments
+
+
+Manage backup and disaster recovery procedures for all critical systems
+
+
+Collaborate with engineering teams to containerize services and fine-tune runtime performance
+
+
+Evaluate and integrate AI/LLM tools to improve automation, diagnostics, and operational efficiency
+
+
+
+
+
+
+
+Requirements
+
+
+5+ years of DevOps or SRE experience in high-availability, real-time systems
+
+
+Strong hands-on experience with AWS services (EC2, VPC, IAM, CloudWatch, RDS) and cost monitoring tools (e.g., AWS Budgets, Cost Explorer)
+
+
+Skilled in provisioning and config management using Ansible; Terraform experience is a plus
+
+
+Proficient in ClickHouse and PostgreSQL; knowledge of kdb+ or InfluxDB is a bonus
+
+
+Solid scripting skills (Python, Bash, or equivalent)
+
+
+Hands-on experience with Docker, Kubernetes, Helm, and deployment automation
+
+
+Familiar with monitoring and logging stacks; experience with Prometheus/Grafana is expected
+
+
+Security-conscious and experienced in IAM, encryption, and secure system design
+
+
+Able to monitor and optimize computing resources to maintain performance within budget constraints
+
+
+Comfortable using AI tools for automation, diagnostics, or efficiency gains
+
+
+
+
+
+
+
+Communication & Collaboration
+
+
+Proficient in English (spoken and written); Chinese or other languages are a plus but not required
+
+
+Comfortable working in a global team with colleagues across APAC, EMEA, and North America
+
+
+Strong communication skills; able to interface across all levels from senior leadership to engineers and cross-functional stakeholders
+
+
+Able to explain complex systems to both technical and non-technical audiences and coordinate effectively across teams with diverse backgrounds
+
+
+
+
+
+
+
+
+
+
+Life @ Crypto.com
+
+
+
+
+Empowered to think big. Try new opportunities while working with a talented, ambitious and supportive team.
+
+Transformational and proactive working environment. Empower employees to find thoughtful and innovative solutions.
+
+Growth from within. We help to develop new skill-sets that would impact the shaping of your personal and professional growth.
+
+Work Culture. Our colleagues are some of the best in the industry; we are all here to help and support one another.
+
+One cohesive team. Engage stakeholders to achieve our ultimate goal - Cryptocurrency in every wallet.
+
+Work Flexibility Adoption. Flexi-work hour and hybrid or remote set-up
+
+Aspire career alternatives through us - our internal mobility program offers employees a new scope.
+
+Work Perks: crypto.com visa card provided upon joining
+
+
+
+
+Are you ready to kickstart your future with us?
+
+
+
+
+Benefits
+
+
+
+
+Competitive salary
+
+Attractive annual leave entitlement including: birthday, work anniversary
+
+Work Flexibility Adoption. Flexi-work hour and hybrid or remote set-up
+
+Aspire career alternatives through us. Our internal mobility program can offer employees a diverse scope.
+
+Work Perks: crypto.com visa card provided upon joining
+
+
+
+
+Our Crypto.com benefits packages vary depending on region requirements, you can learn more from our talent acquisition team.
+
+
+
+
+
+
+
+About Crypto.com:
+
+
+
+
+Founded in 2016, Crypto.com serves more than 150 million customers and is the world's fastest growing global cryptocurrency platform. Our vision is simple: Cryptocurrency in Every Wallet™. Built on a foundation of security, privacy, and compliance, Crypto.com is committed to accelerating the adoption of cryptocurrency through innovation and empowering the next generation of builders, creators, and entrepreneurs to develop a fairer and more equitable digital ecosystem.
+
+
+
+
+Learn more at https://crypto.com.
+
+
+
+
+Crypto.com is an equal opportunities employer and we are committed to creating an environment where opportunities are presented to everyone in a fair and transparent way. Crypto.com values diversity and inclusion, seeking candidates with a variety of backgrounds, perspectives, and skills that complement and strengthen our team.
+
+
+
+
+Personal data provided by applicants will be used for recruitment purposes only.
+
+
+
+
+Please note that only shortlisted candidates will be contacted.
+
+
+
+
+We may use artificial intelligence tools to analyze the content of your Resume/CV against the specific requirements for the position. The purpose is to support our recruitment team in reviewing applications more effectively. These tools assist our recruitment team in their evaluation of your application by providing recommendations, but they do not replace human judgment. Final hiring decisions are ultimately made by humans who consider the insights generated by the tools along with other relevant information. If you would like more details about how your personal information is processed, please contact us.
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Crypto.com by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Vanguard Software
+Singapore, Singapore
+3 weeks ago
+Sr. DevOps Engineer (Blockchain Infra)
+Sr. DevOps Engineer (Blockchain Infra)
+BNB Chain
+Singapore
+2 months ago
+Senior DevOps Engineer - Singapore
+Senior DevOps Engineer - Singapore
+NinjaOne
+Singapore, Singapore
+2 weeks ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+Bitdeer (NASDAQ: BTDR)
+Singapore
+2 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+Sygnum Singapore
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer, Infra
+DevOps Engineer, Infra
+Binance
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+Staff/Senior Staff Engineer, Kubernetes
+Staff/Senior Staff Engineer, Kubernetes
+
+OKX
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Crédit Agricole CIB
+
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+PIONEER SERVICES PTE. LTD.
+
+Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BIT Official
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Astek
+
+Singapore, Singapore
+SGD 9,000 - SGD 11,500
+5 days ago
+Platform Engineer - Reliability - Elite FinTech - $140,000-$220,000 SGD + Bonus
+Platform Engineer - Reliability - Elite FinTech - $140,000-$220,000 SGD + Bonus
+
+Hunter Bond
+
+Singapore, Singapore
+SGD 140,000 - SGD 220,000
+13 hours ago
+DevOps Engineer
+
+BINARY TECHNOLOGY DEVELOPMENT PTE. LTD.
+
+Singapore, Singapore
+1 week ago
+DevOps Lead (Platform & Infrastructure Engineering)
+DevOps Lead (Platform & Infrastructure Engineering)
+
+Zig by ComfortDelGro
+
+Singapore, Singapore
+6 days ago
+DevOps / DevSecOps Engineer
+DevOps / DevSecOps Engineer
+
+Argyll Scott
+
+Singapore, Singapore
+3 days ago
+SRE DevOps Engineer
+SRE DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Crypto.com
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

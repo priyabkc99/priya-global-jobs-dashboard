@@ -1,0 +1,265 @@
+Title: DevOps Engineer  - GitLab Enterprise
+Company: Luxoft
+Location: Mumbai, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-gitlab-enterprise-at-luxoft-4469134309
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The job as a DevOps Engineer at Luxoft in Mumbai, India matches Priya's expertise in CI/CD pipelines, infrastructure automation, and release management, aligning with her background in configuration management and regulated industries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer - GitLab Enterprise
+Luxoft  Mumbai, Maharashtra, India
+1 week ago  118 applicants
+  
+
+See who Luxoft has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Luxoft
+
+Doris Zhang
+Doris Zhang
+Luxoft Global Talent Acquisition
+
+Project Description:
+
+We are seeking a highly skilled Senior DevOps Developer to drive CI/CD, automation, and platform engineering initiatives across the Investment Banking & Markets (IB&M) domain in a large enterprise services environment. The role focuses on building and operating robust CI/CD pipelines, infrastructure and application automation with cloud services, standardized release and deployment frameworks for multiple critical applications and exploring AI-assisted automation for operational intelligence. You need to have strong experience working across a complex application landscape, with a primary focus on Infrastructure as Code (IaC), release engineering, deployment automation, and operational utilities, while collaborating closely with Release Teams, Application Teams, and Service Teams.
+
+
+
+
+Responsibilities:
+
+Design, build, and maintain enterprise-grade CI/CD pipelines using GitLab Enterprise
+Lead automation initiatives across the IB&M domain to reduce manual effort and improve reliability
+Develop and manage Infrastructure as Code (IaC) for application and platform deployments
+Standardize and execute release and deployment processes across multiple applications
+Provision and manage AWS and Azure infrastructure, including Kubernetes platforms (EKS/AKS)
+Build and maintain containerized delivery pipelines using Docker, Podman, and Helm charts
+Automate configuration management and operational tasks using Ansible and Python
+Collaborate closely with Release, Application, Cloud, Security, Database, and Platform teams
+Integrate database automation for Oracle and PostgreSQL
+Integrate security and compliance scans (Checkmarx, secret scans, vulnerability checks, and internal tools)
+Create and maintain detailed documentation, including CI/CD pipelines, IaC modules, deployment runbooks, and SOPs
+Integrate logging, monitoring, and observability using cloud-native tools and Splunk
+Perform ad-hoc operational, automation, and tooling tasks as required in an enterprise setup
+Explore AI-driven pipeline optimizations, automated validation, and predictive remediation
+
+
+
+
+Mandatory Skills Description:
+
+7+ years of relevant experience in DevOps, CI/CD, or Platform Engineering within enterprise environments (IB&M / financial services)
+Strong hands-on experience with GitLab Enterprise, including pipelines, runners, and repository management
+Deep expertise in CI/CD design, release engineering, and deployment automation
+Strong hands-on experience with AWS/Azure services.
+Strong experience with containerization technologies: Docker and Podman
+Hands-on experience with Kubernetes and Helm for application deployments
+Proven experience implementing Infrastructure as Code (IaC) and automation frameworks
+Strong automation and scripting skills using Python and configuration management with tools such as Ansible
+Solid understanding of Databases Oracle & Postgres and Operating systems Linux/Unix
+Experience working with logging and observability tools with cloud native & tools like Splunk
+Proven experience integrating security and compliance scans into CI/CD pipelines
+Strong documentation skills using Confluence and experience working with Jira
+Strong understanding of ITIL processes
+Excellent verbal and written communication skills.
+
+
+
+
+Nice-to-Have Skills Description:
+
+Understanding of ITIL processes is a plus
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting, Banking, and Software Development
+  
+
+Referrals increase your chances of interviewing at Luxoft by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Mumbai, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Unix Manager jobs
+DevOps Engineer - GitLab Enterprise
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Straive
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Testlify
+Mumbai, Maharashtra, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+novio
+Mumbai Metropolitan Region
+3 months ago
+Middle DevOps Engineer
+Middle DevOps Engineer
+ASTIKA SOFTWARE TECHNOLOGIES PRIVATE LIMITED
+Mumbai, Maharashtra, India
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Newfold Digital
+Mumbai Metropolitan Region
+1 week ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions (India)
+Mumbai, Maharashtra, India
+3 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Larsen & Toubro
+
+Mumbai Metropolitan Region
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Seclore
+
+Mumbai, Maharashtra, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+SourcingXPress
+
+Mumbai, Maharashtra, India
+5 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Yotta Data Services Private Limited
+
+Mumbai, Maharashtra, India
+1 week ago
+DevOps Lead
+DevOps Lead
+
+Straive
+
+Mumbai, Maharashtra, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Luxoft
+
+Mumbai, Maharashtra, India
+3 days ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Sia
+
+Mumbai, Maharashtra, India
+1 week ago
+DevOps Engineer - Remote Work | REF#284449
+DevOps Engineer - Remote Work | REF#284449
+
+BairesDev
+
+Mumbai Metropolitan Region
+1 year ago
+Software Engineer - DevOps
+Software Engineer - DevOps
+
+PivotRoots
+
+Mumbai Metropolitan Region
+1 week ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+Systel, Inc.
+
+Navi Mumbai, Maharashtra, India
+3 months ago
+Similar Searches
+Unix Manager jobs
+194 open jobs
+Flex Developer jobs
+7,031 open jobs
+Linux Consultant jobs
+25 open jobs
+Onsite Project Manager jobs
+173 open jobs
+Progress Developer jobs
+52,326 open jobs
+Associate Application Developer jobs
+23 open jobs
+Application Development Engineer jobs
+2,076 open jobs
+Enterprise Network Engineer jobs
+832 open jobs
+Principal Infrastructure Engineer jobs
+736 open jobs
+Teradata Developer jobs
+738 open jobs
+Senior Java Software Engineer jobs
+14,340 open jobs
+Electronic System Engineer jobs
+1,076 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Luxoft
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

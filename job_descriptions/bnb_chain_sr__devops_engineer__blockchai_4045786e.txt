@@ -1,0 +1,274 @@
+Title: Sr. DevOps Engineer (Blockchain Infra)
+Company: BNB Chain
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/sr-devops-engineer-blockchain-infra-at-bnb-chain-4444995830
+Posted: 2026-07-30
+Deadline: N/A
+Reason: The candidate's extensive experience in DevOps, CI/CD pipelines, and automation aligns with the Senior DevOps Engineer role, and Singapore is a target location.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. DevOps Engineer (Blockchain Infra)
+BNB Chain  Singapore
+2 months ago  81 applicants
+  
+
+See who BNB Chain has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+BNB Chain is making mass blockchain adoption a reality as a community-first and open-source ecosystem built on the principles of permissionlessness and decentralization. By contributing to the development of the infrastructure and supporting the community, BNB Chain is on the mission to help onboard a billion new users to Web3.
+
+If you want to contribute to building the Web3 ecosystem while working in a collaborative and dedicated team that is enabling some of the most exciting innovations of our era, join us as we pave the way for blockchain to change the world for the better.
+
+About The Role
+
+We are looking for a Senior DevOps Engineer to build and operate highly available, scalable, and secure cloud infrastructure supporting blockchain services and distributed systems. You will be responsible for designing cloud-native platforms, automating infrastructure, improving system reliability, and collaborating with engineering teams to deliver production-grade services across multiple cloud providers.
+
+This role is ideal for someone who enjoys solving infrastructure challenges at scale, has strong software engineering fundamentals, and is passionate about automation and platform engineering.
+
+Responsibilities
+
+
+Design, build, and maintain highly available cloud infrastructure across AWS, GCP, and Azure.
+Operate and optimize Kubernetes clusters in production environments.
+Manage cluster autoscaling and capacity planning using Karpenter and Kubernetes native technologies.
+Build and maintain Infrastructure as Code (IaC) using Terraform.
+Design and improve CI/CD pipelines for application and infrastructure deployment.
+Deploy and operate middleware platforms such as Kafka, Redis and NGINX.
+Automate operational tasks using Golang and Python.
+Improve observability through monitoring, logging, alerting, and distributed tracing.
+Ensure platform reliability, scalability, security, and disaster recovery.
+Troubleshoot production incidents and perform root cause analysis.
+Work closely with software engineers to improve deployment processes and platform developer experience.
+Participate in on-call rotations and incident response.
+
+
+
+Requirements
+
+
+3+ years of experience as a DevOps Engineer, Platform Engineer, SRE, or Infrastructure Engineer.
+Strong experience with at least one major cloud platform: AWS / GCP / Azure
+Hands-on experience managing Kubernetes production environments.
+Experience with Karpenter for Kubernetes autoscaling and node lifecycle management.
+Strong experience with Terraform for infrastructure automation.
+Experience administering Linux systems and networking fundamentals.
+Experience operating middleware technologies such as: Kafka / Redis / NGINX
+Strong scripting and programming skills in: Golang / Python
+Experience with Git, GitOps workflows, and CI/CD platforms.
+Strong understanding of observability tools such as Prometheus, OpenTelemetry.
+Familiarity with container technologies including Docker and Kubernetes.
+Strong troubleshooting and problem-solving skills.
+
+
+
+Preferred Qualifications
+
+
+Experience operating blockchain infrastructure or Web3 platforms.
+Experience deploying and managing blockchain nodes (Ethereum, Bitcoin, Solana, Cosmos, or other Layer 1/Layer 2 networks).
+Familiarity with blockchain RPC services, validators, indexing services, or distributed consensus systems.
+Experience with Argo CD, Helm, Helmfile, or Flux.
+Experience with multi-region and multi-cloud deployments.
+Knowledge of cloud security best practices, IAM, networking, and secrets management.
+Experience with service mesh technologies such as Istio or Linkerd.
+Familiarity with message queues, distributed caching, and high-throughput systems.
+Experience with performance tuning and capacity planning for large-scale distributed systems.
+
+
+
+What We're Looking For
+
+
+Passion for automation and continuous improvement.
+Strong ownership and accountability.
+Ability to work independently in a fast-paced environment.
+Excellent communication and collaboration skills.
+Curiosity to learn new technologies and solve complex infrastructure problems.
+Experience supporting production systems with high availability and reliability requirements.
+
+
+
+Nice to Have
+
+
+Experience in cryptocurrency exchanges or blockchain infrastructure providers.
+Experience operating multi-region, multi-cloud production environments.
+Knowledge of RPC infrastructure, distributed databases, or high-performance networking.
+Familiarity with security and compliance best practices (IAM, WAF, Vault, KMS, etc.).
+Experience contributing to open-source projects.
+
+
+
+The opportunity to be part of one of the world’s leading blockchain ecosystems with vast career growth potential.
+
+Work alongside a diverse, global team of experts and innovators in a fast-paced, dynamic environment.
+
+Participate in cutting-edge projects that drive industry change.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Blockchain Services
+  
+
+Referrals increase your chances of interviewing at BNB Chain by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer, Infra
+DevOps Engineer, Infra
+Binance
+Singapore, Singapore
+1 week ago
+DevOps Engineer, Cloud Infra
+DevOps Engineer, Cloud Infra
+Binance
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+HashWhale
+Singapore
+10 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Singapore
+3 months ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+Bitdeer (NASDAQ: BTDR)
+Singapore
+2 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+Sygnum Singapore
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+3 months ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Bond Financial Group
+
+Singapore, Singapore
+2 weeks ago
+Senior DevOps / DataOps Engineer (AWS & MLOps)
+Senior DevOps / DataOps Engineer (AWS & MLOps)
+
+Centience
+
+Singapore, Singapore
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Astek
+
+Singapore, Singapore
+SGD 9,000 - SGD 11,500
+5 days ago
+Senior Infrastructure Engineer (AI Lab)
+Senior Infrastructure Engineer (AI Lab)
+
+Workato
+
+Singapore
+2 days ago
+Senior Support Engineer
+Senior Support Engineer
+
+Nebius
+
+Singapore
+2 days ago
+Forward Deployed Engineer, Infrastructure Specialist (Singapore)
+Forward Deployed Engineer, Infrastructure Specialist (Singapore)
+
+Cohere
+
+Singapore, Singapore
+5 days ago
+Senior Site Reliability (DevOps) Engineer
+Senior Site Reliability (DevOps) Engineer
+
+Rakuten Asia Pte Ltd
+
+Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Merquri
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at BNB Chain
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

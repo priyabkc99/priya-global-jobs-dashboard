@@ -1,0 +1,234 @@
+Title: Platform Engineer
+Company: Vitol
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/platform-engineer-at-vitol-4431284888
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a strong match for her extensive experience in CI/CD, automation, and platform engineering and is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer
+Vitol  Singapore, Singapore
+1 week ago   Over 200 applicants
+  
+
+See who Vitol has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Company Description
+
+Vitol is a leader in the energy sector with a presence across the spectrum: from oil through to power, renewables and carbon. From 40 offices worldwide, we seek to add value across the energy supply chain, including deploying our scale and market understanding to help facilitate the energy transition. To date, we have committed over $2 billion of capital to renewable projects, and are identifying and developing low-carbon opportunities around the world.
+
+Our people are our business. Talent is precious to us and we create an environment in which individuals can reach their full potential, unhindered by hierarchy. Our team comprises more than 65 nationalities and we are committed to developing and sustaining a diverse work force. Learn more about us here.
+
+Job Description
+
+As part of Vitol’s global Cloud & Platform Engineering team, based in Singapore, you will play a key role in operating, improving, and evolving our shared platform, CI/CD, and cloud capabilities across the organisation.
+
+This role combines strategic input, hands-on engineering, platform and tooling development, and operational ownership. You will primarily focus on building and improving shared platform capabilities, while contributing to roadmap direction and ensuring the reliable day-to-day operation of the platforms we support.
+
+You will
+
+
+Contribute to the roadmap and continuous improvement of Vitol’s global shared platforms, CI/CD capabilities, and cloud platform services.
+Build and operate platform tooling, automation, CI/CD pipelines, templates, and deployment services across hybrid cloud and on-premises environments.
+Own platform reliability and operational support, including incident response, problem resolution, upgrades, and lifecycle management.
+Partner with Software Development teams to improve developer experience and enable safe, reliable, and efficient application delivery.
+Work with Cyber Security to embed secure practices across cloud, automation, CI/CD, and shared platforms, including access controls, secrets management, vulnerability remediation, and hardening.
+Collaborate with a global team on follow-the-sun support, knowledge sharing, standards, and operational consistency.
+
+
+Qualifications
+
+
+3+ years of experience building and operating CI/CD platforms supporting .NET and/or Python application environments.
+3+ years of experience operating and supporting global enterprise-scale bespoke and/or commercial platforms.
+3+ years of experience with cloud platform engineering, including building and operating reusable cloud infrastructure, automation, and platform services in an AWS-based hybrid environment.
+Experience working across both Windows and Linux environments, including their operating systems, tooling, and ecosystems.
+Hands-on experience with CI/CD, infrastructure-as-code, source control, container, and artefact tooling such as Jenkins, Terraform, GitLab/GitHub, AWS ECS, and optionally Nexus.
+Experience operating one or more shared enterprise platforms such as Kafka, Redis, Atlassian Suite, Elastic, Datadog, ActiveBatch, or Prefect.
+Scripting experience in one or more of Python, Bash, or PowerShell.
+Interest in applying AI-enabled engineering practices to improve platform operations, developer experience, CI/CD automation, and support workflows.
+Excellent communication and interpersonal skills, with the ability to engage effectively with development, infrastructure, security, and business stakeholders.
+A track record of owning issues and objectives, independently driving them to high-quality outcomes.
+Proactive and user-focused, with a can-do attitude and interest in both the functional and technical aspects of each challenge.
+Self-motivated, with the ability to meet deadlines and manage changing priorities.
+Excellent written and spoken English.
+
+
+Qualifications And Skills That Will Help You Stand Out
+
+
+Previous experience in the commodities and/or trading industry.
+Tangible contribution to CI/CD strategy in an enterprise setting.
+Software development background in .NET or Python.
+Experience using AI-assisted development tools such as Claude Code, Codex or GitHub Copilot to improve engineering productivity, code quality, and automation delivery.
+Experience developing internal developer AI tools, agents, or integrations using protocols such as MCP.
+SecOps experience, including working with platforms such as HashiCorp Vault.
+Previous experience in an AWS Cloud Engineer role.
+Working knowledge of GCP or Azure.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Other
+Industries
+Oil and Gas
+  
+
+Referrals increase your chances of interviewing at Vitol by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Data Infra Platform Engineer
+Data Infra Platform Engineer
+Thales
+Singapore, Singapore
+2 weeks ago
+Platform Engineer - Device Management
+Platform Engineer - Device Management
+Apple
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer - Singapore
+Site Reliability Engineer - Singapore
+Plaud
+Singapore
+1 week ago
+Platforms Engineer, MLOps
+Platforms Engineer, MLOps
+Nanyang Technological University Singapore
+Singapore, Singapore
+6 months ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Singapore, Singapore
+1 week ago
+Cloud Engineer
+Cloud Engineer
+VeSync
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer, Monetization Technology
+Site Reliability Engineer, Monetization Technology
+
+TikTok
+
+Singapore, Singapore
+4 weeks ago
+Site Reliability Application Engineers (AI Platform)
+Site Reliability Application Engineers (AI Platform)
+
+Astek
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Momcozy
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Tribe
+
+Singapore
+1 week ago
+Kubernetes Platform Engineer – Global Investment Firm
+Kubernetes Platform Engineer – Global Investment Firm
+
+Pinpoint Asia
+
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer(A06044)
+Site Reliability Engineer(A06044)
+
+Xiaomi Technology
+
+Singapore, Singapore
+1 week ago
+Software Engineer II
+Software Engineer II
+
+JPMorganChase
+
+Singapore, Singapore
+5 days ago
+Cloud Engineer
+Cloud Engineer
+
+Tesla Consulting Group
+
+Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini
+
+Singapore, Singapore
+1 month ago
+Data Platform Infrastructure Engineer
+Data Platform Infrastructure Engineer
+
+Singtel
+
+Singapore, Singapore
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Vitol
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

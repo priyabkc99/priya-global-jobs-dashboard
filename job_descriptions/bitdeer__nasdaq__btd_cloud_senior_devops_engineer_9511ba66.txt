@@ -1,0 +1,239 @@
+Title: Cloud Senior DevOps Engineer
+Company: Bitdeer (NASDAQ: BTDR)
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/cloud-senior-devops-engineer-at-bitdeer-nasdaq-btdr-4450456278
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The role is a Senior DevOps position in Singapore, which aligns with the candidate's extensive experience in CI/CD, automation, and release management in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Senior DevOps Engineer
+Bitdeer (NASDAQ: BTDR)  Singapore
+2 days ago  111 applicants
+  
+
+See who Bitdeer (NASDAQ: BTDR) has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Bitdeer
+
+Bitdeer is a world-leading technology company for Bitcoin mining and AI cloud.
+
+Bitdeer is committed to providing comprehensive Bitcoin mining solutions for its customers. Apart from designing industry-leading ASIC chips and manufacturing mining rigs, the Group handles complex processes involved in computing across the value chain. This includes equipment procurement, transport logistics, datacenter design and construction, equipment management, and network and facility operations. Bitdeer also offers advanced cloud capabilities to customers with a high demand for artificial intelligence.
+
+Headquartered in Singapore, Bitdeer operates globally with a diversified 3 GW energy portfolio, and deploys Bitcoin mining and HPC datacenters in the United States, Bhutan, Norway, Canada, Malaysia, and Ethiopia.
+
+What You Will Be Responsible For
+
+
+CI/CD & MLOps Pipeline Management: Design, implement, and maintain end-to-end CI/CD pipelines for both software applications and machine learning models. Automate build, test, deployment, and rollback processes to ensure seamless transitions from innovation to production.
+Incident Management & Resolution: Act as the technical lead during complex system anomalies and major incidents. Spearhead rapid troubleshooting, conduct thorough root cause analysis (RCA), and implement preventative remediation plans.
+Governance, Security & Compliance: Establish and enforce robust system stability and security standards. Manage release workflows, implement Zero Trust access controls, oversee secrets management, and ensure compliance with industry frameworks (e.g., SOC2, ISO27001).
+Cross-functional Collaboration: Work closely with R&D, Data Science, Security, and Business teams to streamline workflows, eliminate bottlenecks, and continuously elevate engineering efficiency through Internal Developer Platforms (IDP) and Platform Engineering initiatives.
+Observability & Monitoring: Architect and refine comprehensive monitoring, logging, and alerting systems (e.g., Prometheus, Grafana, ELK/EFK stack) to provide deep visibility into system health, application performance, and AI model metrics.
+Infrastructure as Code (IaC): Champion IaC practices utilizing tools such as Terraform, Ansible, and Helm to achieve fully automated, reproducible, and auditable infrastructure provisioning across multiple cloud environments.
+High Availability Architecture: Take ownership of high-availability design in production environments. Implement disaster recovery (DR) strategies, self-healing mechanisms, capacity planning, and performance tuning to meet stringent business SLAs.
+Cloud-Native & AI Infrastructure: Build, optimize, and scale cloud-native infrastructure using Kubernetes (K8s) and Docker. Manage and provision specialized computing resources (e.g., GPU clusters) to support high-performance AI workloads and model inferencing.
+
+
+How You Will Stand Out
+
+
+Experience & Education: Bachelor's degree or above in Computer Science, Engineering, or a related technical field, with 5+ years of hands-on experience in DevOps, Site Reliability Engineering (SRE), or Cloud Infrastructure roles
+Soft Skills: Exceptional problem-solving abilities, sharp technical judgment, and excellent cross-team communication skills to effectively collaborate in a fast-paced, dynamic environment.
+Domain Knowledge: Systematic and practical understanding of CI/CD methodologies, Infrastructure as Code (IaC), Observability paradigms, and Site Reliability Engineering (SRE) principles.
+Programming Skills: Strong coding and scripting capabilities in at least one major language (Go, Python, Shell, etc.) with a solid engineering-oriented mindset focused on automation and tooling development.
+Cloud Platforms: Proven proficiency in designing and managing infrastructure on major Public or Hybrid Cloud platforms (e.g., AWS, GCP, Azure, Alibaba Cloud), including multi-cloud and hybrid-cloud strategies.
+Containerization & Orchestration: Deep mastery of Docker and Kubernetes orchestration, including a thorough understanding of underlying principles, cluster management, and production-level best practices.
+Networking & OS: Expert-level knowledge of Linux operating systems and core networking principles (TCP/IP, DNS, HTTP, Load Balancing, VPCs).
+
+
+Preferred Qualifications (Plus)
+
+
+Networking & OS: Expert-level knowledge of Linux operating systems and core networking principles (TCP/IP, DNS, HTTP, Load Balancing, VPCs).
+AI/ML Infrastructure Experience: Familiarity with MLOps practices, model serving/inferencing frameworks (e.g., vLLM, TGI, Triton Inference Server), and experience managing GPU clusters for AI/ML workloads.
+Large-Scale Systems: Proven track record working with large-scale distributed systems or high-concurrency environments (e.g., Fintech, Trading, Real-time processing, or AI platforms).
+Platform Engineering: Hands-on experience in designing and building Internal Developer Platforms (IDP) to enhance developer autonomy and productivity.
+Advanced Security: Deep familiarity with Zero Trust architecture, automated security testing (DevSecOps), and implementing strict compliance frameworks (e.g., SOC2, ISO27001).
+Leadership: Prior experience acting as a Technical Lead, mentoring junior engineers, or managing DevOps teams.
+
+
+What You Will Experience Working With Us
+
+
+A culture that values authenticity and diversity of thoughts and backgrounds;
+An inclusive and respectable environment with open workspaces and exciting start-up spirit;
+Fast-growing company with the chance to network with industrial pioneers and enthusiasts;
+Ability to contribute directly and make an impact on the future of the digital asset industry;
+Involvement in new projects, developing processes/systems;
+Personal accountability, autonomy, fast growth, and learning opportunities;
+Attractive welfare benefits and developmental opportunities such as training and mentoring.
+
+
+Bitdeer is committed to providing equal employment opportunities in accordance with country, state, and local laws. Bitdeer does not discriminate against employees or applicants based on conditions such as race, colour, gender identity and/or expression, sexual orientation, marital and/or parental status, religion, political opinion, nationality, ethnic background or social origin, social status, disability, age, indigenous status, and union.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Bitdeer (NASDAQ: BTDR) by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Vanguard Software
+Singapore, Singapore
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Dropsuite
+Singapore, Singapore
+3 weeks ago
+Senior DevOps Engineer - Singapore
+Senior DevOps Engineer - Singapore
+NinjaOne
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Singtel
+Singapore, Singapore
+4 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+1 week ago
+Sr. DevOps Engineer (Blockchain Infra)
+Sr. DevOps Engineer (Blockchain Infra)
+BNB Chain
+Singapore
+2 months ago
+Show more jobs like this 
+People also viewed
+DevOps Lead (Platform & Infrastructure Engineering)
+DevOps Lead (Platform & Infrastructure Engineering)
+
+Zig by ComfortDelGro
+
+Singapore, Singapore
+6 days ago
+Senior Cloud & Infrastructure SRE
+Senior Cloud & Infrastructure SRE
+
+Trulyyy
+
+Singapore, Singapore
+3 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+SHIELD
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BIOTRONIK
+
+Singapore, Singapore
+2 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+3 weeks ago
+[LTA-RDG] SENIOR CLOUD ENGINEER
+[LTA-RDG] SENIOR CLOUD ENGINEER
+
+Land Transport Authority (LTA) Singapore
+
+Singapore, Singapore
+4 months ago
+DevOps Engineer
+DevOps Engineer
+
+Openhill Global
+
+Singapore, Singapore
+1 month ago
+Cloud Infrastructure Engineer (Level 3)
+Cloud Infrastructure Engineer (Level 3)
+
+HCLTech
+
+Singapore, Singapore
+5 days ago
+Senior Cloud Engineer (Financial Industry)
+Senior Cloud Engineer (Financial Industry)
+
+Ambition
+
+Singapore, Singapore
+8 hours ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini Engineering
+
+Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Bitdeer (NASDAQ: BTDR)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

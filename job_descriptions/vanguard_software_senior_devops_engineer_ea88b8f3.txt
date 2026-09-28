@@ -1,0 +1,231 @@
+Title: Senior DevOps Engineer
+Company: Vanguard Software
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-vanguard-software-4448818455
+Posted: 2026-09-07
+Deadline: N/A
+Reason: The role is a Senior DevOps Engineer in Singapore, which aligns with her extensive experience in CI/CD, automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Vanguard Software  Singapore, Singapore
+3 weeks ago   Over 200 applicants
+  
+
+See who Vanguard Software has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Job Summary
+
+We are seeking a Senior DevOps Engineer to join our growing engineering team. In this role, you will work independently to design, build, and optimize infrastructure and deployment pipelines that ensure the stability, scalability, and security of our systems. You will take full responsibility for automating workflows, improving observability, and enabling development teams to ship code faster and safer. This is an excellent opportunity for an experienced engineer with at least 5 years of work experience who thrives on ownership, reliability, and technical leadership.
+
+
+
+
+Key Responsibilities
+
+Infrastructure & Automation: Design, implement, and maintain scalable cloud infrastructure using Infrastructure as Code (IaC) tools.
+CI/CD Pipelines: Build and optimize automated pipelines for testing, deployment, and release management.
+Monitoring & Reliability: Establish observability standards, implement monitoring, logging, and alerting systems to ensure system health.
+Security & Compliance: Enforce best practices for cloud security, access control, and compliance across environments.
+Collaboration: Partner with backend, frontend, and product teams to ensure smooth deployments and reliable system operations.
+Process & Mentorship: Improve DevOps processes, share best practices, and mentor junior engineers.
+
+
+
+
+Job Requirements
+
+Experience: Minimum 5 years of DevOps, Site Reliability Engineering (SRE), or related experience.
+Tech Stack: Proficient with cloud platforms (AWS, GCP, or Azure), containerization (Docker, Kubernetes), IaC (Terraform, Ansible, Helm), and CI/CD tools (Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD, etc.).
+Systems Knowledge: Strong background in Linux administration, networking, and distributed systems.
+Monitoring & Observability: Hands-on experience with tools like Prometheus, Grafana, ELK/EFK, or Datadog.
+Scripting & Automation: Proficient in one or more languages (Python, Go, Bash, etc.).
+Problem Solving: Skilled at diagnosing complex issues, ensuring high availability, and improving system performance.
+System Design: Capable of designing fault-tolerant, secure, and scalable infrastructure with disaster recovery in mind.
+
+
+
+
+Soft Skills
+
+Team Mindset: Collaborate effectively across teams, proactively contributing to company goals.
+Ownership: Take responsibility for infrastructure health and ensure continuous improvements.
+Adaptability: Open to new technologies, evolving processes, and changing business needs.
+Communication: Clearly explain technical topics to both engineers and non-technical stakeholders.
+
+
+
+
+What We Offer
+
+Technical Leadership Opportunities: Lead infrastructure design for high-impact projects and guide DevOps best practices.
+Continuous Growth: Access to mentorship, certifications, and a clear career progression path.
+High-Performance Collaboration: Work with a talented team in a modern DevOps environment (Agile/CI-CD, GitOps).
+Flexibility and Trust: An open culture that values innovation, autonomy, and results-driven decision-making.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Software Development, Technology, Information and Internet, and Computer Games
+  
+
+Referrals increase your chances of interviewing at Vanguard Software by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer - Singapore
+Senior DevOps Engineer - Singapore
+NinjaOne
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Singtel
+Singapore, Singapore
+5 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+1 week ago
+Sr. DevOps Engineer (Blockchain Infra)
+Sr. DevOps Engineer (Blockchain Infra)
+BNB Chain
+Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+1 week ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+Bitdeer (NASDAQ: BTDR)
+Singapore
+2 days ago
+Show more jobs like this 
+People also viewed
+SRE DevOps Engineer
+SRE DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+BIOTRONIK
+
+Singapore, Singapore
+2 months ago
+DevOps Lead
+DevOps Lead
+
+Merquri
+
+Singapore, Singapore
+1 week ago
+Sr. SRE
+Sr. SRE
+
+Visa
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer (AVP)
+DevOps Engineer (AVP)
+
+OCBC
+
+Singapore, Singapore
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Bond Financial Group
+
+Singapore, Singapore
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+PIONEER SERVICES PTE. LTD.
+
+Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Openhill Global
+
+Singapore, Singapore
+1 month ago
+Senior Provisioning DevOps Engineer
+Senior Provisioning DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Vanguard Software
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

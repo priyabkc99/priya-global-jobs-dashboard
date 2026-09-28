@@ -1,0 +1,235 @@
+Title: DevOps Engineer
+Company: BIOTRONIK
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-biotronik-4444576320
+Posted: 2026-08-29
+Deadline: N/A
+Reason: The role aligns with her DevOps, CI/CD, and regulated medical device industry experience, and Singapore is a target location.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+BIOTRONIK  Singapore, Singapore
+1 month ago  56 applicants
+  
+
+See who BIOTRONIK has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+As one of the world´s leading manufacturers of cardio- and endovascular medical devices, BIOTRONIK is headquartered in Berlin, Germany, and represented in over 100 countries by its global workforce. The work of our committed, highly specialized, exceptionally skilled employees results in crucial advancements in the world of cardiology and changes the lives of patients every day.
+
+The DevOps Engineer is reporting to the Director Software Development & Digital Health. He/She is responsible for building and operating the cloud and hybrid infrastructure that supports BIOTRONIK's medical device software, ensuring secure, reliable, and auditable delivery of software to production.
+
+Your Responsibilities
+
+
+Design, write, and maintain Terraform to provision and manage Azure infrastructure as code, following infrastructure-as-code best practices.
+Manage Kubernetes clusters (AKS), Helm chart deployments, ArgoCD GitOps workflows, and associated networking components.
+Build and maintain GitHub Actions CI/CD pipelines for automated application delivery, container image promotion, and infrastructure deployment, including automated security and quality gates.
+Deploy, operate, and support applications across multi-stage environments, from development through production, using structured release and promotion strategies.
+Manage secrets, identity, and access using cloud-native security practices, including Key Vault and role-based access control.
+Maintain observability platforms and develop monitoring, logging, and alerting solutions to support proactive incident detection.
+Bridge hybrid on-premises and Azure environments through secure networking and tunnel-based connectivity solutions.
+Participate in an on-call rotation, support incident response, and drive post-incident improvements to infrastructure and pipelines.
+Maintain backup and disaster recovery procedures and support cloud cost and capacity management.
+Work closely with regulatory affairs and compliance teams to ensure infrastructure and deployment processes adhere to industry standards and regulations.
+Collaborate with software engineers and test engineers to embed infrastructure and pipeline requirements early in the development lifecycle.
+
+
+Your Profile
+
+
+Bachelor’s Degree in Computer Science, Software Engineering, or a related field; advanced degree preferred.
+At least 5-7 years of relevant work experience in DevOps, infrastructure, or platform engineering.
+At least 3 years of relevant work experience in the medical device industry, or another regulated/audit-heavy industry (e.g. healthcare, FinTech, aerospace), would be an added advantage.
+Proven experience writing and maintaining Terraform for Azure infrastructure.
+Experience operating Kubernetes (AKS preferred) in production, including Helm and GitOps tooling such as ArgoCD.
+Experience building and maintaining CI/CD pipelines, preferably GitHub Actions.
+Familiarity with cloud-native secrets, identity, and access management (e.g. Key Vault, Managed Identities, RBAC).
+Experience with observability tooling such as Prometheus, Grafana, Azure Monitor, or ELK/EFK.
+Experience with hybrid on-premises to cloud networking (e.g. VPN, ExpressRoute).
+Strong understanding of security principles and best practices for cloud environments.
+Excellent communication skills and the ability to collaborate effectively in a team environment.
+
+
+What We Offer
+
+
+being encouraged to think and act entrepreneurially
+working in global teams and projects
+developing yourself professionally
+
+
+A re you interested? Please apply online through our application management system! We are looking forward to welcoming you.
+
+Location: Singapore | Working hours: Full-time
+
+Apply now under: www.biotronik.com/careers
+
+Job ID: 60789 | Contact: Human Resources
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, genetic information, or any other characteristic protected by law.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Medical Equipment Manufacturing
+  
+
+Referrals increase your chances of interviewing at BIOTRONIK by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 week ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+HashWhale
+Singapore
+10 months ago
+DevOps Engineer
+DevOps Engineer
+Openhill Global
+Singapore, Singapore
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Consultant - GS26021
+DevOps Consultant - GS26021
+
+Activate Interactive
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+2 months ago
+DevOps / DevSecOps Engineer
+DevOps / DevSecOps Engineer
+
+Argyll Scott
+
+Singapore, Singapore
+3 days ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Capgemini Engineering
+
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+OCBC
+
+Singapore, Singapore
+5 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Singapore, Singapore
+4 months ago
+Platform / DevOps Engineer
+Platform / DevOps Engineer
+
+Selby Jennings
+
+Singapore, Singapore
+4 weeks ago
+SRE DevOps Engineer
+SRE DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Momcozy
+
+Singapore, Singapore
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Kyndryl
+
+Singapore, Singapore
+2 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at BIOTRONIK
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
