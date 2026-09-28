@@ -4,7 +4,7 @@ Location: Wallingford, England, United Kingdom
 URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-dexory-4462839685
 Posted: 2026-08-29
 Deadline: N/A
-Reason: The role aligns with her DevOps and CI/CD expertise and is located in the UK, which is one of her target relocation countries.
+Reason: The job aligns with Priya's expertise as a DevOps Engineer (CI/CD pipelines, infrastructure-as-code, cloud platforms) and meets location requirements in the UK, while her experience in configuration management and regulated industries complements Dexory’s needs.
 
 ========================================
 JOB DESCRIPTION:
@@ -33,12 +33,6 @@ See who Dexory has hired for this role
 
 Apply
 Save
-Use AI to assess how you fit
-
-Get AI-powered advice on this job and more exclusive features.
-
-Am I a good fit for this job?
-Tailor my resume
 DevOps Engineer / SRE / Cloud / Docker / Kubernetes
 
 Location: Wallingford - Oxfordshire (Hybrid) onsite circa 1 day per week
@@ -112,14 +106,16 @@ Robotics Engineering
 Referrals increase your chances of interviewing at Dexory by 2x
 
 See who you know
-Get notified when a new job is posted.
-Set alert
+
+Get notified about new DevOps Engineer jobs in Wallingford, England, United Kingdom.
+
+Sign in to create job alert
 Similar jobs
 DevOps Engineer
 DevOps Engineer
 Ripjar
 Cheltenham, England, United Kingdom
-6 days ago
+1 week ago
 DevOps Engineer
 DevOps Engineer
 Ripjar
@@ -136,16 +132,16 @@ Xelix
 London, England, United Kingdom
 £55,000 - £65,000
 3 days ago
+DevOps Engineer - UK
+DevOps Engineer - UK
+ANRA Technologies
+London, England, United Kingdom
+7 months ago
 DevOps Engineer
 DevOps Engineer
 Sensor Tower
 London, England, United Kingdom
 3 months ago
-AWS DevOps Engineer
-AWS DevOps Engineer
-Team Creation
-Hammersmith, England, United Kingdom
-2 weeks ago
 Show more jobs like this 
 People also viewed
 AWS DevOps Engineer

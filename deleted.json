@@ -66,5 +66,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Noir",
+    "location": "London Area, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/devops-engineer-at-noir-4470277615",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly requires applicants to have the right to work in the UK, which Priya does not currently possess and for which no visa sponsorship is mentioned as available.",
+    "id": "ba8ac40e",
+    "source": "linkedin_uk_devops_engineer",
+    "added_at": "2026-09-27T22:49:03+03:00",
+    "posted_date": "2026-09-22",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "AWS DevOps Engineer",
+    "company": "UBDS Digital",
+    "location": "London, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/aws-devops-engineer-at-ubds-digital-4371999233",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an active Security Check (SC) clearance, which is a mandatory requirement and not mentioned as being provided by the employer, falling under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection criterion.",
+    "id": "b0a4bb1b",
+    "source": "linkedin_uk_devops_engineer",
+    "added_at": "2026-09-27T22:49:03+03:00",
+    "posted_date": "2026-09-21",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

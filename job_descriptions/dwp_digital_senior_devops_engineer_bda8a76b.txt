@@ -4,7 +4,7 @@ Location: Newcastle Upon Tyne, England, United Kingdom
 URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-dwp-digital-4467732222
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The role is a Senior DevOps Engineer position in the UK, which aligns with her extensive experience in CI/CD, automation, and release management.
+Reason: The job as a Senior DevOps Engineer at DWP Digital in Newcastle Upon Tyne, UK matches Priya's expertise in CI/CD pipelines, infrastructure-as-code, and regulated-industry software delivery, aligning with her experience at Elektrobit and Topcon.
 
 ========================================
 JOB DESCRIPTION:
@@ -33,12 +33,6 @@ See who DWP Digital has hired for this role
 
 Apply 
 Save
-Use AI to assess how you fit
-
-Get AI-powered advice on this job and more exclusive features.
-
-Am I a good fit for this job?
-Tailor my resume
 DWP Digital provided pay range
 
 This range is provided by DWP Digital. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
@@ -143,15 +137,12 @@ See who you know
 Get notified about new DevOps Engineer jobs in Newcastle Upon Tyne, England, United Kingdom.
 
 Sign in to create job alert
-Jobs
-Education Marketing Manager jobs
-Senior DevOps Engineer
 Similar jobs
 Senior DevOps Engineer - Newcastle
 Senior DevOps Engineer - Newcastle
 Accenture UK & Ireland
 Newcastle Upon Tyne, England, United Kingdom
-1 day ago
+2 days ago
 Senior DevOps Engineer
 Senior DevOps Engineer
 Causeway Technologies
@@ -166,7 +157,7 @@ DevOps Engineer - Newcastle
 DevOps Engineer - Newcastle
 Accenture UK & Ireland
 Newcastle Upon Tyne, England, United Kingdom
-2 days ago
+3 days ago
 DevOps Engineer — AWS | SC Cleared | Remote Working
 UK Government
 Newcastle Upon Tyne, England, United Kingdom
@@ -212,7 +203,7 @@ Senior Software Engineer
 Printed.com
 
 Cramlington, England, United Kingdom
-1 week ago
+2 weeks ago
 DevOps Engineer
 DevOps Engineer
 
@@ -227,14 +218,14 @@ Razorblue Group
 
 Stockton-On-Tees, England, United Kingdom
 £50,000 - £55,000
-5 days ago
+6 days ago
 DevSecOps Engineer - DV Cleared (IT) / Contractor
 DevSecOps Engineer - DV Cleared (IT) / Contractor
 
 Free-Work UK
 
 Hart, England, United Kingdom
-2 days ago
+3 days ago
 Senior Application Operations Engineer
 Senior Application Operations Engineer
 
@@ -242,7 +233,7 @@ DWP Digital
 
 Newcastle Upon Tyne, England, United Kingdom
 £44,447 - £46,547
-6 days ago
+1 week ago
 Platform Architect (Cloud Services)
 Platform Architect (Cloud Services)
 
