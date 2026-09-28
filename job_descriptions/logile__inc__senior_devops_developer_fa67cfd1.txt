@@ -1,0 +1,234 @@
+Title: Senior DevOps Developer
+Company: Logile, Inc.
+Location: Bhubaneswar, Odisha, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-developer-at-logile-inc-4461980607
+Posted: 2026-09-07
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in CI/CD pipelines, infrastructure automation, and DevOps practices, matching her experience at Elektrobit and Topcon, and is located in India (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Developer
+Logile, Inc.  Bhubaneswar, Odisha, India
+3 weeks ago  109 applicants
+  
+
+See who Logile, Inc. has hired for this role
+
+Apply 
+Save
+About Logile
+
+Logile is the leading retail labor planning, workforce management, inventory management and store execution provider deployed in thousands of retail locations across North America, Europe, Australia, and Oceania. 
+
+Our proven AI, machine-learning technology and industrial engineering accelerate ROI and enable operational excellence with improved performance and empowered employees. Retailers worldwide rely on Logile solutions to boost profitability and competitive advantage by delivering the best service and products at optimal cost. 
+
+From labor standards development and modeling to unified forecasting, storewide scheduling, and time and attendance, to inventory management, task management, food safety, and employee self-service — we transform retail operations with a unified store-level solution. Gain the Advantage with The Logic of Retail. One Platform for store planning, scheduling and execution. 
+
+For more information, visit www.logile.com
+
+Job Summary
+
+We are seeking a motivated and experienced Senior-Level Devops Developer to join our dynamic engineering team. The ideal candidate will have a strong background in design, implement, and maintain CI/CD pipelines, infrastructure automation, and deployment processes. The ideal candidate will have experience in scripting, cloud technologies (AWS/Azure), containerization, and modern DevOps practices.
+
+Key Responsibilities
+
+
+Develop and maintain CI/CD pipelines using Jenkins, GitHub Actions, or Azure DevOps.
+Automate infrastructure provisioning with Terraform/Ansible.
+Write and maintain automation scripts (Bash, Python, YAML, JSON).
+Work with cloud services (AWS, Azure, or GCP) for scalable deployments.
+Manage source control (Git/GitHub) and enforce best practices.
+Implement containerization and orchestration (Docker, Kubernetes).
+Collaborate with development teams to improve software delivery speed and reliability.
+Troubleshoot build/deployment issues and optimize workflow
+Participate in the full software development lifecycle, from gathering requirements to deployment and support
+Write clean, well-documented, and maintainable code following industry best practices
+Debug and resolve production issues, ensuring system reliability and performance
+Implement and contribute to CI/CD pipelines and DevOps practices for automated build, test, and deployment processes.
+Work closely with cross-functional teams including QA, DevOps, and Product Management.
+Participate in code reviews and contribute to maintaining high code quality.
+Adhere to best practices for software development, security, and performance.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Retail
+  
+
+Referrals increase your chances of interviewing at Logile, Inc. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Custom Software Engineer
+Custom Software Engineer
+Accenture in India
+Bhubaneswar, Odisha, India
+3 days ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+Accenture in India
+Bhubaneswar, Odisha, India
+3 days ago
+AWS Engineer
+AWS Engineer
+Viraaj HR Solutions Private Limited
+Bhubaneswar, Odisha, India
+₹1,000,000 - ₹3,000,000
+3 days ago
+Technical Architect - AWS
+Technical Architect - AWS
+Rhythm Innovations
+Bhubaneswar, Odisha, India
+1 week ago
+Tech Lead - AWS
+Tech Lead - AWS
+Rhythm Innovations
+Bhubaneswar, Odisha, India
+1 month ago
+Database Engineer
+Database Engineer
+iServeU
+Bhubaneswar, Odisha, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+AI / ML Engineer
+AI / ML Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Data Platform Engineer
+Data Platform Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Data Platform Engineer
+Data Platform Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Data Platform Engineer
+Data Platform Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Data Platform Engineer
+Data Platform Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Data Platform Engineer
+Data Platform Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Packaged/SaaS Application Engineer
+Packaged/SaaS Application Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Technology Support Engineer
+Technology Support Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Technology Support Engineer
+Technology Support Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Application Support Engineer
+Application Support Engineer
+
+Accenture in India
+
+Bhubaneswar, Odisha, India
+3 days ago
+Similar Searches
+Cost Analyst jobs
+2,869 open jobs
+Senior Marketer jobs
+3,225 open jobs
+Strategy Manager jobs
+9,748 open jobs
+Lead System Analyst jobs
+2,709 open jobs
+Sales Recruiter jobs
+1,396 open jobs
+Industrial Engineer jobs
+3,596 open jobs
+Digital Sales Manager jobs
+2,635 open jobs
+Marketing Communications Specialist jobs
+3,375 open jobs
+Market Research Analyst jobs
+4,739 open jobs
+Digital Strategist jobs
+1,782 open jobs
+Digital Marketing Manager jobs
+2,469 open jobs
+Digital Content Manager jobs
+1,605 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Logile, Inc.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,277 @@
+Title: DevOps Engineer
+Company: SourcingXPress
+Location: Coimbatore, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-sourcingxpress-4369063741
+Posted: 2026-03-02
+Deadline: N/A
+Reason: The DevOps Engineer role at Transient.ai in India matches Priya's expertise in CI/CD pipelines (GitHub Actions, Azure DevOps), cloud infrastructure (Azure), and infrastructure-as-code (Terraform). The location (India) is within her target countries, and the mid-senior level aligns with her 15 years of experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+SourcingXPress  Coimbatore, Tamil Nadu, India
+7 months ago   Over 200 applicants
+  
+
+See who SourcingXPress has hired for this role
+
+Apply 
+Save
+SourcingXPress provided pay range
+
+This range is provided by SourcingXPress. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+₹200,000.00/yr - ₹600,000.00/yr
+Company: Transient ai
+
+Website: Visit Website
+
+Business Type: Startup
+
+Company Type: Product & Service
+
+Business Model: B2B2C
+
+Funding Stage: Bootstrapped
+
+Industry: Fintech
+
+Salary Range: ₹ 2-6 Lacs PA
+
+Job Description
+
+Transient.ai – a fintech AI company providing real-time intelligence and automated workflows for institutional finance. We empower asset managers, traders, and banks to make faster, data-driven decisions.
+
+"We are looking for a skilled DevOps Engineer with strong Microsoft Azure experience to support and scale our cloud infrastructure. You will work remotely from India and collaborate closely with our New York–based engineering, product, and operations teams. In this role, you will own cloud infrastructure, CI/CD pipelines, deployment automation, monitoring, and system reliability. Experience with other cloud platforms such as AWS or GCP is a plus, as we value engineers with a broad cloud perspective and the ability to work in multi-cloud or evolving environments".
+
+What You'll Do
+
+
+Design, build, and maintain cloud infrastructure primarily on Microsoft Azure
+Automate provisioning & deployments using Infrastructure as Code (Terraform, ARM, Bicep)
+Develop and manage CI/CD pipelines for continuous integration and delivery
+Manage containerized workloads using Docker and Kubernetes (AKS)
+Implement monitoring, logging, and alerting using Azure Monitor, Application Insights, or similar tools
+Ensure system scalability, high availability, and disaster recovery
+Collaborate with development teams to improve deployment frequency and system reliability
+Implement and maintain cloud security best practices (IAM, secrets management, network security)
+Troubleshoot infrastructure and application issues across environments
+Participate in on-call rotations and incident management
+Support cloud cost optimization and performance tuning initiatives
+
+
+Required Skills & Qualifications
+
+
+4–5 years in DevOps / Cloud Engineering roles
+Strong hands-on experience with Microsoft Azure
+Experience with CI/CD tools (Azure DevOps, GitHub Actions, GitLab CI, Jenkins, etc.)
+Proficiency in Infrastructure as Code (Terraform preferred)
+Hands-on experience with Docker and Kubernetes (AKS)
+Strong understanding of Linux systems, networking, and cloud security
+Scripting experience in Bash, PowerShell, or Python
+Experience supporting production-grade, high-availability systems
+
+
+Nice To Have (Additional Cloud & Tools Experience)
+
+
+Experience with AWS (EC2, EKS, S3, RDS, IAM, CloudWatch)
+Experience with Google Cloud Platform (GCP) (GKE, Compute Engine, Cloud Storage)
+Exposure to multi-cloud or hybrid cloud architectures
+Familiarity with cloud-agnostic tooling and patterns
+Knowledge of serverless platforms (Azure Functions, AWS Lambda, GCP Cloud Functions)
+Experience with service meshes, API gateways, or ingress controllers
+Knowledge of SRE practices and reliability engineering
+Cloud certifications (Azure, AWS, or GCP)
+
+
+Working Hours & Collaboration
+
+
+Ability to work 4–5 hours overlap with US Eastern Time (EST)
+Experience working with distributed, global teams
+Strong communication skills in English for effective collaboration.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at SourcingXPress by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps & Site Reliability Engineer
+DevOps & Site Reliability Engineer
+Aivar Innovations
+Coimbatore, Tamil Nadu, India
+1 month ago
+Technology Platform Engineer
+Technology Platform Engineer
+Accenture in India
+Coimbatore, Tamil Nadu, India
+3 days ago
+Devops Infra - Lead Engineer
+Devops Infra - Lead Engineer
+Mahindra and Mahindra Limited [Automotive and Farm Equipment Business]
+Coimbatore, Tamil Nadu, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+AppViewX
+Coimbatore, Tamil Nadu, India
+6 days ago
+Application Support Engineer
+Application Support Engineer
+Accenture in India
+Coimbatore, Tamil Nadu, India
+3 days ago
+Specialist - Architecture
+Specialist - Architecture
+LTM
+Coimbatore, Tamil Nadu, India
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Specialist - Architecture
+Senior Specialist - Architecture
+
+LTM
+
+Coimbatore, Tamil Nadu, India
+4 days ago
+AI Infrastructure Architect
+AI Infrastructure Architect
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+3 days ago
+Technology Architect
+Technology Architect
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+3 days ago
+Data Engineer
+Data Engineer
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+3 days ago
+AI Infrastructure Architect (AWS AI Services | AWS Cloud Architecture)
+AI Infrastructure Architect (AWS AI Services | AWS Cloud Architecture)
+
+LTM
+
+Coimbatore, Tamil Nadu, India
+4 weeks ago
+Sailpoint
+Sailpoint
+
+LTM
+
+Coimbatore, Tamil Nadu, India
+4 days ago
+Data Platform Architect
+Data Platform Architect
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+3 days ago
+Data Platform Architect
+Data Platform Architect
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+3 days ago
+Data Platform Architect
+Data Platform Architect
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+3 days ago
+Application Developer
+Application Developer
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+3 days ago
+Similar Searches
+Front End Architect jobs
+13,604 open jobs
+Mobile Application Developer jobs
+4,179 open jobs
+Ruby on Rails Developer jobs
+10,683 open jobs
+Integration Developer jobs
+10,675 open jobs
+Mobile Engineer jobs
+861 open jobs
+Web Development Intern jobs
+1,491 open jobs
+Associate Engineer jobs
+5,311 open jobs
+Android Developer jobs
+14,001 open jobs
+Developer jobs
+73,513 open jobs
+Frontend Developer jobs
+10,770 open jobs
+Biologist jobs
+1,775 open jobs
+Skills Trainer jobs
+574 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at SourcingXPress
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

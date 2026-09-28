@@ -4,7 +4,7 @@ Location: Mumbai, Maharashtra, India
 URL: https://in.linkedin.com/jobs/view/devops-engineer-gitlab-enterprise-at-luxoft-4469134309
 Posted: 2026-09-21
 Deadline: N/A
-Reason: The job as a DevOps Engineer at Luxoft in Mumbai, India matches Priya's expertise in CI/CD pipelines, infrastructure automation, and release management, aligning with her background in configuration management and regulated industries.
+Reason: The job aligns with Priya's expertise in DevOps (CI/CD pipelines, IaC, containerization) and falls within her target location (India), while meeting the configuration management positive constraint.
 
 ========================================
 JOB DESCRIPTION:
@@ -106,13 +106,8 @@ IT Services and IT Consulting, Banking, and Software Development
 Referrals increase your chances of interviewing at Luxoft by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Mumbai, Maharashtra, India.
-
-Sign in to create job alert
-Jobs
-Unix Manager jobs
-DevOps Engineer - GitLab Enterprise
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 DevOps Engineer
 DevOps Engineer
