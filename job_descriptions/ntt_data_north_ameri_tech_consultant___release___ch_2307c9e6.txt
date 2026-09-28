@@ -1,0 +1,295 @@
+Title: Tech Consultant - Release & Change Manager
+Company: NTT DATA North America
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/tech-consultant-release-change-manager-at-ntt-data-north-america-4473000331
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The job aligns with Priya's release management expertise and is located in India, one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Tech Consultant - Release & Change Manager
+NTT DATA North America  Pune Division, Maharashtra, India
+4 hours ago   Be among the first 25 applicants
+  
+
+See who NTT DATA North America has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+India T&M Special Bonus:
+
+Req ID: 392101
+
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Tech Consultant - Release & Change Manager to join our team in Pune, Mahārāshtra (IN-MH), India (IN).
+
+Job Title: Tech Consultant – Release & Change Manager
+
+Role Summary
+
+We are seeking an experienced Release & Change Manager to lead end-to-end release planning, change governance, environment coordination, and production readiness for enterprise technology platforms.
+
+The ideal candidate should have strong expertise in ITIL Change Management, CAB governance, release scheduling, risk and impact assessment, dependency management, environment management, and CI/CD coordination. The role requires close collaboration with Engineering, QA, Infrastructure, Security, Risk & Compliance, vendors, and business stakeholders to ensure secure, controlled, and predictable production releases.
+
+Day To Day Job Duties
+
+
+Lead end-to-end release planning, scheduling, coordination, and execution across enterprise applications and platforms.
+Own release calendars, scope, milestones, dependencies, and cross-team coordination.
+Manage ITIL-aligned Change Management processes and facilitate Change Advisory Board (CAB) reviews.
+Perform release risk assessments, impact analysis, dependency analysis, and rollback/backout planning.
+Coordinate release activities across Development, QA, Pre-Production, Training, Staging, and Production environments.
+Drive production readiness assessments and facilitate go/no-go decisions with relevant stakeholders.
+Coordinate application releases across globally distributed and follow-the-sun delivery teams.
+Identify release blockers, dependency conflicts, and delivery risks and drive mitigation plans to resolution.
+Coordinate with DevOps and Engineering teams on CI/CD pipelines, deployment automation, and release execution.
+Facilitate structured handoffs between Development, QA, Infrastructure, Operations, and Support teams.
+Coordinate release-related vulnerability assessment and ensure critical security findings are remediated before production deployment.
+Support security and compliance reviews, including authentication, SSO, OAuth, and application security requirements.
+Maintain release documentation, deployment checklists, rollback plans, approvals, and audit evidence.
+Track release KPIs/KRIs and prepare dashboards and executive-level status reports.
+Drive continuous improvement and automation across release and change management processes.
+Participate in Agile ceremonies, including Sprint Planning, Daily Stand-ups, Backlog Refinement, Sprint Reviews, and Retrospectives.
+
+
+Basic Qualifications
+
+
+4+ years of experience in Release Management, Change Management, and enterprise technology delivery.
+4+ years of experience with ITIL Change Management, CAB governance, release planning, risk assessment, and production deployment coordination.
+3+ years of experience with ServiceNow, Azure DevOps/Azure Boards, Jira, Confluence, or similar delivery and governance tools.
+3+ years of experience coordinating CI/CD, environment management, security/compliance reviews, and globally distributed delivery teams.
+
+
+Core Skills
+
+
+Release Management: Release Planning, Scheduling, Deployment Coordination, Release Calendar
+Change Management: ITIL, CAB, Change Requests, Approvals, Go/No-Go
+Risk Management: Risk Assessment, Impact Analysis, Dependency Management, Rollback/Backout Planning
+Environment Management: Development, QA, Pre-Production, Staging, Production
+DevOps: CI/CD Coordination, Git, Bitbucket, Azure DevOps
+Governance: ServiceNow, Jira, Confluence, Azure Boards
+Security: Vulnerability Remediation, Security Reviews, OAuth/SSO, CMDB
+Reporting: Power BI, KPI/KRI Dashboards, SLA Reporting, Executive Reporting
+Delivery: Agile, Scrum, SAFe, SDLC, Follow-the-Sun Delivery
+
+
+Nice to Have
+
+
+Experience coordinating releases across multiple enterprise applications and platforms.
+Experience with vulnerability management and remediation tracking as part of production release governance.
+Knowledge of cybersecurity, data protection, risk, and regulatory compliance processes.
+Experience supporting internal/external audits and maintaining release control evidence.
+Understanding of OAuth, SSO, Client IDs, Client Secrets, and application authentication.
+Experience with Power BI and executive-level delivery dashboards.
+Experience with BMC Helix or similar ITSM platforms.
+Experience coordinating third-party vendors and technology partners.
+Exposure to PLM, ERP, Windchill, ThingWorx, or other enterprise platforms.
+Experience using Microsoft Copilot or other AI-assisted tools to automate release documentation and governance workflows.
+Basic knowledge of Bash or PowerShell scripting.
+ITIL, Scrum, SAFe, or Project Management certifications are preferred.
+Strong stakeholder management, risk management, communication, coordination, and problem-solving skills.
+
+
+About NTT DATA
+
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&D.
+
+Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
+
+NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at NTT DATA North America by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Biztalk Developer jobs
+Tech Consultant - Release & Change Manager
+Similar jobs
+Senior Change and Release Engineer
+Senior Change and Release Engineer
+A.P. Moller - Maersk
+Pune Division, Maharashtra, India
+2 weeks ago
+Support Engineer Change & Release Management
+Support Engineer Change & Release Management
+Luxoft
+Pune District, Maharashtra, India
+2 weeks ago
+Sr Lead, Service Del Impl
+Sr Lead, Service Del Impl
+Northern Trust
+Pune Division, Maharashtra, India
+3 days ago
+Salesforce Release Manager with Gearset
+Salesforce Release Manager with Gearset
+Global Payments Inc.
+Pune Division, Maharashtra, India
+4 days ago
+Release and Project Management, Consultant
+Release and Project Management, Consultant
+PTC
+Pune City, Maharashtra, India
+1 week ago
+Release Project Management, Consultant
+Release Project Management, Consultant
+PTC
+Pune Division, Maharashtra, India
+6 days ago
+Show more jobs like this 
+People also viewed
+Expert Configuration Engineer
+Expert Configuration Engineer
+
+Altera Digital Health
+
+Pune Division, Maharashtra, India
+4 months ago
+AGM - Application Operations
+AGM - Application Operations
+
+Vodafone Idea Limited
+
+Pune Division, Maharashtra, India
+3 days ago
+Lead Engineer, Systems Engineering
+Lead Engineer, Systems Engineering
+
+Cencora
+
+Pune Division, Maharashtra, India
+1 month ago
+AGM - Solution Delivery
+AGM - Solution Delivery
+
+Vodafone Idea Limited
+
+Pune Division, Maharashtra, India
+1 day ago
+Manager_TECHNICAL ARCHITECT - Oracle RODOD Stack,Devops/SRE_Pune
+Manager_TECHNICAL ARCHITECT - Oracle RODOD Stack,Devops/SRE_Pune
+
+VOIS
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Environment Manager
+Environment Manager
+
+Creospan Private Limited
+
+Pune District, Maharashtra, India
+6 days ago
+Expert Configuration Engineer
+Expert Configuration Engineer
+
+Harris Computer
+
+Pune Division, Maharashtra, India
+4 months ago
+Lead, Tech PM
+Lead, Tech PM
+
+Northern Trust
+
+Pune Division, Maharashtra, India
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Securonix
+
+Pune Division, Maharashtra, India
+4 days ago
+Senior Lead Analyst - Managed Service Change(Intellimatch,SQL)
+Senior Lead Analyst - Managed Service Change(Intellimatch,SQL)
+
+FIS
+
+Pune/Pimpri-Chinchwad Area
+2 weeks ago
+Similar Searches
+Biztalk Developer jobs
+3,811 open jobs
+Oracle Technical Consultant jobs
+1,327 open jobs
+Associate Technical Consultant jobs
+32 open jobs
+Junior Technical Consultant jobs
+53,212 open jobs
+Senior Technical Consultant jobs
+9,814 open jobs
+Senior Storage Administrator jobs
+718 open jobs
+Business Change Consultant jobs
+2,552 open jobs
+System Service Engineer jobs
+1,687 open jobs
+Assistant Network Engineer jobs
+20 open jobs
+Lead Technical Consultant jobs
+8,807 open jobs
+Dynamics Developer jobs
+3,533 open jobs
+Principal Technical Consultant jobs
+1,357 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NTT DATA North America
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
