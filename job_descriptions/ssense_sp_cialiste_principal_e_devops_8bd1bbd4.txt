@@ -1,0 +1,319 @@
+Title: Spécialiste principal.e DevOps //  Senior DevOps Specialist
+Company: SSENSE
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-principal-e-devops-senior-devops-specialist-at-ssense-4470763174
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The role is a Senior DevOps position in Canada, which aligns with the candidate's extensive experience in CI/CD, automation, and infrastructure management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Spécialiste principal.e DevOps // Senior DevOps Specialist
+SSENSE  Montreal, Quebec, Canada
+2 days ago   Be among the first 25 applicants
+  
+
+See who SSENSE has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+English version will follow below
+
+À propos de nous :
+
+SSENSE est une plateforme technologique montréalaise à portée internationale œuvrant au croisement de la culture, de la communauté et du commerce. SSENSE offre une combinaison de marques de luxe établies et émergentes dans les rayons féminin, masculin, pour enfant et divers.
+
+Avec une moyenne de 100 millions de visites mensuelles sur le site, SSENSE a été saluée par la critique, à la fois pour son modèle de commerce numérique et pour sa production de contenu culturel.
+
+À propos du poste :
+
+En tant que Spécialiste principal.e DevOps, votre livrable principal est une plateforme cloud fiable, évolutive et rentable, englobant AWS, EKS et les outils de développement internes de SSENSE. Vous appliquez une expertise approfondie en infrastructure, en automatisation et en ingénierie de plateforme afin de simplifier la préparation aux lancements, d'optimiser les dépenses d'infrastructure et d'accélérer les initiatives de la plateforme d'IA. Agissant avec une grande autonomie en tant que contributeur.trice individuel.le senior.e, vous prendrez en charge les initiatives de plateforme de bout en bout tout en collaborant avec les équipes d'ingénierie, de sécurité et de données. Ce rôle améliore directement le temps de disponibilité de la plateforme, réduit les coûts d'infrastructure et augmente la vélocité de l'ingénierie à l'échelle de l'organisation.
+
+Ce que vous ferez :
+
+
+Concevoir et faire évoluer les plateformes de développement internes (ex. Spin) pour augmenter la vélocité de l'ingénierie et favoriser le libre-service des équipes.
+Développer de l'infrastructure-as-code (IaC), des pipelines CI/CD et des automatisations réduisant les tâches répétitives et éliminant les opérations manuelles à risque d'erreur.
+Établir et optimiser les processus de préparation aux lancements à fort trafic, incluant l'automatisation des tests de charge, afin de protéger les revenus lors des événements de pointe.
+Superviser les initiatives d'optimisation d'AWS et d'EKS (ex. Karpenter, OpenCost) générant des économies mesurables sur l'infrastructure.
+Développer les outils et les capacités de plateforme qui font progresser la feuille de route de la plateforme d'IA de SSENSE et accélèrent son adoption par l'ensemble des équipes.
+
+
+Qualifications :
+
+
+Baccalauréat en informatique, en génie ou dans un domaine connexe (ou expérience pratique équivalente).
+Minimum de cinq (5) ans d'expérience pertinente en DevOps et en infrastructure cloud.
+Solide expérience pratique de la gestion de charges de travail en production avec AWS et Kubernetes (EKS).
+Expertise avec l'infrastructure-as-code (Terraform, CloudFormation) et les outils CI/CD (Jenkins, GitHub Actions, GitOps/ArgoCD).
+Maîtrise de la conteneurisation et de l'orchestration (Docker, Helm) ainsi que des compétences en écriture de scripts (Bash, Python).
+
+
+Ce qui vous distingue :
+
+
+Leadership avancé en DevOps: Capacité à structurer de manière autonome des flux de travail complexes, à diriger la conception de solutions de bout en bout et à accompagner les équipes dans l'application de cadres de travail avancés.
+Conception de processus et de systèmes: Expérience dans la direction d'architectures de processus complexes et multi-systèmes, ainsi que dans la refonte transversale pour optimiser la capacité opérationnelle.
+Résolution analytique de problèmes: Capacité à appliquer de manière autonome des outils analytiques sophistiqués pour diagnostiquer les causes profondes des problèmes systémiques de plateforme.
+Gestion des parties prenantes: Capacité éprouvée à influencer la direction transversale, à gérer la portée des projets et à dégager un consensus face à des intérêts divergents.
+Mentorat technique: Démarche proactive visant à agir à titre de référence technique senior.e et de mentor.e auprès de vos pair.e.s au sein de l'organisation.
+
+
+Pourquoi nous rejoindre :
+
+
+Prestations complémentaires en matière de santé et de soins dentaires, y compris des programmes et une couverture complets en matière de santé mentale.
+Programme de complément parental.
+Généreuse réduction pour les employé·e·s sur le ssense.com.
+Accès à la télémédecine et au programme d'aide aux employé·e·s et aux familles.
+Contributions équivalentes aux régimes d'épargne et de retraite.
+Couverture de l'affirmation des genres.
+Possibilité de travailler avec des technologies de pointe et une équipe innovante qui repousse les limites de la technologie.
+
+
+SSENSE est un employeur qui souscrit au principe de l'égalité des chances. Nous célébrons la diversité et nous nous engageons à créer un environnement inclusif pour tous les employés. Si vous avez besoin d'aménagements particuliers, faites-le nous savoir. Nous ferons de notre mieux pour vous satisfaire !
+
+About Us:
+
+SSENSE is a global technology platform operating at the intersection of culture, community, and commerce. Headquartered in Montreal, it features a mix of established and emerging luxury brands across womenswear, menswear, kidswear, and Everything Else.
+
+SSENSE has garnered critical acclaim as both an e-commerce engine and a producer of cultural content, generating an average of 100 million monthly page views.
+
+About the Role:
+
+As a Senior DevOps Specialist, your core deliverable is a reliable, scalable, and cost-efficient cloud platform spanning AWS, EKS, and SSENSE's internal developer tooling. You will apply deep infrastructure, automation, and platform-engineering expertise to streamline launch readiness, optimize infrastructure spend, and accelerate AI platform initiatives. Operating with a high degree of autonomy as a senior individual contributor, you will own platform initiatives end-to-end while collaborating across Engineering, Security, and Data teams. This role directly improves platform uptime, reduces infrastructure cost, and increases engineering velocity across the organization.
+
+What You Will Do:
+
+
+Build and evolve internal developer platforms (e.g., Spin) that increase engineering velocity and enable team self-service.
+Develop infrastructure-as-code, CI/CD pipelines, and automation that reduce toil and eliminate manual, error-prone operations.
+Establish and streamline high-traffic launch readiness processes, including load-testing automation, to protect revenue during peak events.
+Oversee AWS and EKS optimization initiatives (e.g., Karpenter, OpenCost) that drive measurable infrastructure cost savings.
+Develop tooling and platform capabilities that advance SSENSE's AI platform roadmap and accelerate AI enablement across teams.
+
+
+Qualifications:
+
+
+Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience).
+Minimum of five (5) years of relevant DevOps and cloud infrastructure experience.
+Deep hands-on experience operating production workloads with AWS and Kubernetes (EKS).
+Expertise with Infrastructure-as-code (Terraform, CloudFormation) and CI/CD tools (Jenkins, GitHub Actions, GitOps/ArgoCD).
+Proficiency in containerization and orchestration (Docker, Helm) alongside scripting capabilities in Bash and Python.
+
+
+What Sets You Apart:
+
+
+Advanced DevOps Leadership: Ability to independently architect complex workflows, lead end-to-end solution design, and coach teams in advanced frameworks.
+Process & Systems Design: Experience leading complex, multi-system process architectures and cross-functional redesigns to gain operational capacity.
+Analytical Problem Solving: Capability to independently apply sophisticated analytical tools to diagnose root causes for systemic platform issues.
+Stakeholder Management: Proven ability to influence cross-functional senior leadership, manage scope, and drive consensus across conflicting interests.
+Technical Mentorship: A proactive approach to serving as a senior technical resource and mentor to peers across the organization.
+
+
+Why Join Us:
+
+
+Extended health and dental benefits, including comprehensive mental health programs and coverage.
+Parental top up program.
+Generous employee discount on ssense.com.
+Access to telemedicine and employee and family assistance program.
+Savings and retirement plan matching contributions.
+Gender Affirmation Coverage.
+Opportunity to work with cutting edge technologies and an innovative team that’s pushing the boundaries of technology.
+
+
+SSENSE is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. If you need special accommodations, let us know. We will do our best to accommodate you!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Project Management and Information Technology
+Industries
+Retail
+  
+
+Referrals increase your chances of interviewing at SSENSE by 2x
+
+See who you know
+
+Get notified about new Principal Specialist jobs in Montreal, Quebec, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps Principal·e / Principal DevOps
+DevOps Principal·e / Principal DevOps
+Cloud Imperium Games Montreal
+Montreal, Quebec, Canada
+2 weeks ago
+Spécialiste principal(e) DevOps | Senior DevOps Specialist
+Spécialiste principal(e) DevOps | Senior DevOps Specialist
+TAIT
+Montreal, Quebec, Canada
+1 week ago
+Spécialiste principal DevOps et outils d'ingénierie
+Spécialiste principal DevOps et outils d'ingénierie
+MANNARINO
+Montreal, Quebec, Canada
+1 month ago
+Senior DevOps Specialist (SaaS Healthcare)
+Senior DevOps Specialist (SaaS Healthcare)
+MEDFAR
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps
+DevOps
+Onepoint
+Montreal, Quebec, Canada
+2 days ago
+Ingénieur principal, plateforme Cloud
+Ingénieur principal, plateforme Cloud
+Wizards of the Coast
+Montreal, Quebec, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead DevOps
+Lead DevOps
+
+Akkodis
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps IA
+DevOps IA
+
+Wepoint
+
+Montreal, Quebec, Canada
+2 weeks ago
+MONTREAL [HYBRID] - DevOps/SRE Senior
+MONTREAL [HYBRID] - DevOps/SRE Senior
+
+QUANTEAM - North America (RAINBOW PARTNERS Group)
+
+Montreal, Quebec, Canada
+1 week ago
+DevOps Lead
+DevOps Lead
+
+Web Hosting Canada (WHC)
+
+Montreal, Quebec, Canada
+2 weeks ago
+Bilingual Devops /SRE ( AWS )
+Bilingual Devops /SRE ( AWS )
+
+Highspring
+
+Montreal, Quebec, Canada
+5 days ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Baseten
+
+Montreal, Quebec, Canada
+$165,000 - $330,000
+2 months ago
+Spécialiste DevOps AWS
+Spécialiste DevOps AWS
+
+CGI
+
+Montreal, Quebec, Canada
+1 week ago
+DevOps Sysadmin
+DevOps Sysadmin
+
+TEHORA inc.
+
+Montreal, Quebec, Canada
+1 week ago
+Spécialiste DevOps (Senior)
+Spécialiste DevOps (Senior)
+
+Groupe SII
+
+Montreal, Quebec, Canada
+6 days ago
+DevOps Senior
+DevOps Senior
+
+Astek
+
+Montreal, Quebec, Canada
+2 weeks ago
+Similar Searches
+Technology Administrator jobs
+14,723 open jobs
+Chief Analyst jobs
+31 open jobs
+Contract Technical Writer jobs
+123 open jobs
+Marketing Liaison jobs
+3,405 open jobs
+Education Supervisor jobs
+620 open jobs
+Technology Strategist jobs
+1,920 open jobs
+Associate Director of Education jobs
+100 open jobs
+Community Assistant jobs
+4,044 open jobs
+Senior Regulatory Manager jobs
+131 open jobs
+Community Consultant jobs
+406 open jobs
+Air Quality Engineer jobs
+346 open jobs
+Advertising Analyst jobs
+16 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at SSENSE
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

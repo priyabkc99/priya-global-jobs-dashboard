@@ -1,0 +1,275 @@
+Title: DevOps Programmer - Core Technologies  | Programmeur·euse DevOps - Technologies centrales
+Company: Behaviour Interactive
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-programmer-core-technologies-programmeur%C2%B7euse-devops-technologies-centrales-at-behaviour-interactive-4427990982
+Posted: 2026-06-30
+Deadline: N/A
+Reason: The candidate's extensive experience in DevOps, CI/CD, and release management aligns well with the requirements for this DevOps role in Canada, which is a target location.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Programmer - Core Technologies | Programmeur·euse DevOps - Technologies centrales
+Behaviour Interactive  Montreal, Quebec, Canada
+3 months ago   Be among the first 25 applicants
+  
+
+See who Behaviour Interactive has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Are you ready to dive into the world of cutting-edge video game development? Headquartered in Montreal, Behaviour Interactive is at the forefront of the gaming industry, crafting unforgettable experiences across PC, console, and mobile platforms. We’re a dynamic, independent studio of over 1200 passionate employees, with studios in Toronto (Behaviour Toronto), Rotterdam (Behaviour Rotterdam) and in the UK (Behaviour UK–North & South). Our day to day revolves around two core business focuses: Services and Original Games. Our Services team collaborates with gaming and entertainment giants like Disney, Sony, Activision, and Nintendo, delivering exceptional work-for-hire development and pioneering immersive location-based entertainment (LBE). Meanwhile, our Original Games unit pushes our creative limits, with our signature IPs, including the iconic Dead by Daylight. Join us and be a part of the future of interactive entertainment!
+
+At Behaviour Interactive, we believe in giving everyone a fair shot. We embrace a diverse and creative environment where everyone is celebrated. We value folks of all ages, sex, ethnicity, colour, ethnic or national origin, religion, sexual orientation, gender identity, civil status, disability, or any other protected characteristics as per applicable law.
+
+We are seeking a DevOps Programmer to join our Core Technologies (Core Tech) team. Core Tech develops both backend and frontend services that support and enhance Behaviour games. Our services, which are primarily based on cloud technology, are utilized by games such as Dead by Daylight to develop in-game features, including matchmaking, player progression, in-game purchases, friends' systems, and messaging, among others.
+
+The DevOps role is essential for maintaining, automating, and improving the systems driving these games, ensuring all services are reliable, scalable, and efficient. Core Tech fully embraces the DevOps philosophy to achieve world-class reliability, scalability, and security. If you have a passion for building and managing cloud infrastructure and optimizing processes, we would be pleased to hear from you.
+
+In this role you will:
+
+
+Work on projects that transform our technology to adopt a DevOps philosophy
+Design, build, and maintain scalable infrastructure on cloud platforms like AWS, ensuring high availability and performance of our systems
+Create and maintain CI/CD pipelines to automate deployments, ensuring code is seamlessly tested, delivered, and released to production environments
+Deploy and manage containerized applications using Kubernetes in a production environment, ensuring clusters are properly maintained, scalable, and secure
+Collaborate closely with developers to address their infrastructure needs, optimize resource utilization, and enhance the performance and reliability of systems in production
+Participate in an on-call rotation to respond to critical infrastructure issues and ensure minimal downtime
+Apply best practices in testing, security, performance monitoring, and efficient resource utilization
+
+
+
+What we’re looking for:
+
+
+Minumum of 5 years of experience in a DevOps or infrastructure role, including a minimum of 3 years in a DevOps role with cloud platforms like AWS, GCP, or Azure.
+Strong understanding and hands-on experience with Kubernetes for container orchestration, including cluster management, application scaling, and ensuring reliability
+Proficient in automating infrastructure and processes using tools such as Terraform and Ansible
+Experience with monitoring and observability tools such as Datadog, Prometheus, or similar, to ensure system reliability and performance
+Solution-oriented mindset and ability to efficiently resolve complex problems
+Excellent collaboration and communication skills, enabling effective work with developers, tech leads, and other members of Core Tech
+
+
+
+Dans ce rôle tu devras:
+
+
+Concevoir, construire et maintenir une infrastructure évolutive sur des plateformes cloud comme AWS, garantissant la haute disponibilité et les performances de nos systèmes;
+Créer et maintenir des pipelines CI/CD pour automatiser le déploiement, en garantissant que le code est testé, livré et publié dans les environnements de production;
+Être responsable du déploiement et de la gestion des applications conteneurisées à l'aide de Kubernetes dans un environnement de production, en veillant à ce que les clusters soient correctement entretenus, évolutifs et sécurisés;
+Travailler en étroite collaboration avec les équipes de développement pour répondre à leurs besoins en infrastructure, optimiser l'utilisation des ressources et améliorer les performances et la fiabilité des systèmes en production;
+Participer à une rotation d'astreinte pour répondre aux problèmes d'infrastructure critiques et garantir un temps d'arrêt minimal;
+Utiliser les meilleures pratiques en matière de tests, de sécurité, de surveillance des performances et d'utilisation efficace des ressources
+
+
+
+Ce que nous recherchons :
+
+
+Minimum de 5 ans d'expérience dans un rôle de DevOps ou d'infrastructure, dont un minimum de 3 dans un rôle de DevOps avec les plateformes cloud comme AWS, GCP ou Azure;
+Solide compréhension et expérience pratique de Kubernetes pour l'orchestration de conteneurs, y compris la gestion des clusters, la mise à l'échelle des applications et la garantie de la fiabilité;
+Maîtrise de l'automatisation d'une infrastructure et des processus à l'aide d'outils tels que Terraform et Ansible;
+Expérience avec des outils de surveillance et d'observabilité tels que Datadog, Prometheus ou similaire, pour garantir la fiabilité et les performances du système;
+Avoir un esprit axé sur les solutions et être capable de résoudre efficacement des problèmes complexes;
+Excellentes compétences en collaboration et en communication, permettant un travail efficace avec les développeurs, les responsables techniques et les autres membres de l'équipe équipe centrale
+
+
+
+Nous recherchons un·e programmeur·euse DevOps pour rejoindre l'équipe des technologies centrales (Core Tech). Core Tech développe des services backend et frontend, prenant en charge et améliorant les jeux comportementaux. Nos services sont divers, mais ils sont tous basés sur des systèmes cloud et sont utilisés par des jeux comme Dead by Daylight, pour développer leurs propres fonctionnalités dans le jeu : matchmaking, progression des joueurs, achats dans le jeu, système d'amis, messagerie, etc.
+
+Le rôle DevOps sera essentiel pour maintenir, automatiser et améliorer les systèmes qui alimentent ces jeux, garantissant que tous les services sont fiables, évolutifs et efficaces. Si tu as une passion pour la création et la gestion d’une infrastructure cloud et un talent pour l’optimisation des processus, nous serions ravis d’avoir de tes nouvelles !
+
+Prêt·e à plonger dans le monde du développement de jeux vidéo à la pointe de la technologie ? Basé à Montréal, Behaviour Interactif est un acteur majeur de l’industrie du jeu, créant des expériences inoubliables sur PC, console et mobile. On est un studio indépendant dynamique avec plus de 1200 employés passionnés, et on a des studios à Toronto (Behaviour Toronto), Rotterdam (Behaviour Rotterdam) et au Royaume-Uni (Behaviour UK–North & South). On se concentre sur deux grands axes : les Services et les Jeux Originaux. Notre équipe Services collabore avec des géants du jeu et du divertissement comme Disney, Sony, Activision et Nintendo, en offrant un développement sur commande de premier choix et en innovant dans le divertissement immersif en lieu fixe (LBE). Pendant ce temps, notre unité Jeux Originaux repousse les limites de notre créativité avec nos IPs emblématiques, comme le fameux Dead by Daylight. Rejoins-nous et fais partie de l'avenir du divertissement interactif !
+
+Chez Behaviour Interactif, on croit en l’équité des chances pour tout le monde et on célèbre la diversité des personnes, des perspectives et des idées. C’est donc important pour nous de travailler avec des talents qui proviennent de tous les horizons, et ce, indépendamment de leur âge, sexe, ethnicité, couleur, origine ethnique ou nationale, religion, orientation sexuelle, identité de genre, statut familial, handicap ou toute autre caractéristique protégée par les lois applicables.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Computer Games
+  
+
+Referrals increase your chances of interviewing at Behaviour Interactive by 2x
+
+See who you know
+
+Get notified about new Software Engineer jobs in Montreal, Quebec, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps
+DevOps
+OPAL-RT TECHNOLOGIES
+Montreal, Quebec, Canada
+3 days ago
+Platform Engineer
+Platform Engineer
+LawZero
+Montreal, Quebec, Canada
+3 days ago
+DevOps
+DevOps
+OPAL-RT TECHNOLOGIES India Pvt. Ltd.
+Montreal, Quebec, Canada
+3 months ago
+Ingénieur.e de plateforme
+Ingénieur.e de plateforme
+LawZero
+Montreal, Quebec, Canada
+3 days ago
+DevOps
+DevOps
+Extia
+Montreal, Quebec, Canada
+1 day ago
+DevOps (SRE)
+DevOps (SRE)
+Bounce
+Montreal, Quebec, Canada
+3 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Specialist
+DevOps Specialist
+
+Synechron
+
+Montreal, Quebec, Canada
+1 week ago
+DevOps Engineer - Équipe de Site Reliability Engineering de BTP
+DevOps Engineer - Équipe de Site Reliability Engineering de BTP
+
+SAP
+
+Montreal, Quebec, Canada
+1 day ago
+DevOps Engineer (Cloud Infrastructure)
+DevOps Engineer (Cloud Infrastructure)
+
+Tecsys Inc.
+
+Montreal, Quebec, Canada
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+LanceSoft, Inc.
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Lead
+DevOps Lead
+
+Web Hosting Canada (WHC)
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Programmer – Core Technologies
+DevOps Programmer – Core Technologies
+
+Behaviour Interactive
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps
+DevOps
+
+Wepoint
+
+Montreal, Quebec, Canada
+2 days ago
+Programmeur·euse DevOps – Technologies centrales
+Programmeur·euse DevOps – Technologies centrales
+
+Behaviour Interactive
+
+Montreal, Quebec, Canada
+2 weeks ago
+Responsable DevOps
+Responsable DevOps
+
+Web Hosting Canada (WHC)
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps and DataOps Specialist
+DevOps and DataOps Specialist
+
+Moment Factory
+
+Montreal, Quebec, Canada
+1 month ago
+Similar Searches
+Software Engineer jobs
+18,695 open jobs
+J2Ee Developer jobs
+1,045 open jobs
+Software Engineer Intern jobs
+155 open jobs
+Computer Software Engineer jobs
+14,092 open jobs
+Web Development Specialist jobs
+14,191 open jobs
+Software Intern jobs
+271 open jobs
+Web Programmer jobs
+422 open jobs
+Back End Developer jobs
+3,490 open jobs
+Junior Software Engineer jobs
+15,782 open jobs
+Graduate Software Engineer jobs
+13,785 open jobs
+Game Programmer jobs
+272 open jobs
+Student Software Engineer jobs
+179 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Behaviour Interactive
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

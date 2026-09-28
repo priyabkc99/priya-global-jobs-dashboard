@@ -1,0 +1,294 @@
+Title: Senior Software Engineer, DevOps
+Company: Binance.US
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-software-engineer-devops-at-binance-us-4456383683
+Posted: 2026-08-29
+Deadline: N/A
+Reason: This Senior DevOps role in Canada matches her extensive background in CI/CD, automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Software Engineer, DevOps
+Binance.US  Vancouver, British Columbia, Canada
+1 month ago  59 applicants
+  
+
+See who Binance.US has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Binance.US provided pay range
+
+This range is provided by Binance.US. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+CA$174,487.00/yr - CA$205,332.00/yr
+About Binance.US:
+
+Binance.US is a licensed and regulated U.S. cryptocurrency exchange where users can buy, trade, hold, and earn digital assets. Recognized as a top U.S. crypto platform by Forbes (Best Crypto Exchanges of 2026) and Business Insider (Best Crypto Exchanges of 2025), Binance.US leads the industry with its low fees, advanced trading engine, strong security and reliability, and robust compliance framework. Learn more at www.binance.us. All roles supporting Binance.US are employed via BAM Management US Holdings Inc. or BAM Management Canada Holdings Inc.
+
+About This Role:
+
+The Senior Software Engineer, DevOps is part of the Infrastructure Engineering team and reports to our DevOps Lead. As a Senior Software Engineer, DevOps, you will be responsible for designing, building, and optimizing scalable infrastructure and CI/CD systems that support Binance.US’s critical platform services.
+
+You will partner with Software Engineering, Security, SRE, and Product teams to ensure reliable, secure, and efficient deployment pipelines and cloud infrastructure, enabling high system availability and performance across the organization.
+
+Core Responsibilities:
+
+
+Design, implement, and maintain scalable, secure, and highly available cloud infrastructure (AWS, GCP, or similar)
+Build and optimize CI/CD pipelines to support rapid and reliable software delivery across multiple environments
+Collaborate with engineering teams to improve system reliability, observability, and incident response practices
+Automate infrastructure provisioning and configuration management using tools such as Terraform, Ansible, or similar
+Monitor system performance and proactively identify and resolve bottlenecks, outages, and reliability risks
+Implement and enforce DevOps best practices, including infrastructure as code, version control, and release management
+Partner with Security teams to ensure infrastructure meets compliance and security standards
+
+
+Preferred Skills/Experience:
+
+
+Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent experience)
+8+ years of experience in DevOps, Site Reliability Engineering, or Infrastructure Engineering roles
+Strong experience with cloud platforms such as AWS, GCP, or Azure
+Proficiency in scripting or programming languages (e.g., Python, Go, Bash)
+Experience with containerization and orchestration tools (Docker, Kubernetes)
+Hands-on experience with CI/CD tools (e.g., GitHub Actions, Jenkins, GitLab CI)
+Strong understanding of system design, networking, and distributed systems
+Experience with monitoring and observability tools (e.g., Prometheus, Grafana, Datadog)
+Ability to work independently on complex projects with minimal supervision
+
+
+Salary:
+
+The starting pay range for this role is between CAD $174,487 - $205,332 for all Canada remote locations. The actual base pay will vary, and is dependent upon many factors, such as transferable skill sets, work experience, business needs, and market demands. The base pay range is subject to change.
+
+Our Mission:
+
+At Binance.US, our mission is to create a more inclusive financial system through Web3 technologies. As a U.S. regulated crypto platform, we’re committed to earning trust through compliance and empowering people to do more with their money, bringing financial freedom within reach for all.
+
+Our Values:
+
+Our values shape how we work, make decisions, and support our users every day:
+
+
+Act with Integrity: We do what’s right, even when no one is watching.
+Be Collaborative: We work together with respect and transparency to achieve shared goals.
+Customers First: We listen to, advocate for, and prioritize our users in every decision we make.
+Do the Work: We take ownership, follow through, and deliver results that move the mission forward.
+Embrace Change: We stay adaptable and curious, thriving in a fast moving industry.
+
+
+Our Benefits:
+
+We believe in supporting our people with flexibility, balance, and opportunities to grow. One of the ways we demonstrate this commitment is through our benefit offerings.
+
+
+Time & Family: Unlimited PTO (for salaried FTE roles); 12 weeks fully paid Parental Bonding Leave.
+Well-Being: Mental wellness benefits; free 1:1 virtual visits with a licensed mental wellness professional; comprehensive competitive health benefits.
+Remote-First Culture: Fully remote, cameras-on culture with work-from-home equipment reimbursements available to new hires.
+Professional & Financial Growth: Annual professional development budget; free 1:1 virtual visits with a career coach; 401k plan with employer match.
+
+
+BAM Management US Holdings Inc. and BAM Management Canada Holdings Inc. are Equal Opportunity Employers and comply with all applicable federal, state, and local fair employment practice laws. Our mission is to give our customers access to a broad array of digital assets, and we thrive because of the diverse and inclusive team that we are building. We do not discriminate against qualified employees, applicants, or any other covered persons because of race, color, religion, creed, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, veteran status, physical disability, mental disability, medical condition, military status, or any other applicable legally protected characteristic.
+
+Depending on your location, data privacy laws may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required.
+
+We comply with Federal Transparency in Coverage regulations by providing a link to machine readable files related to the health plans offered to our employees. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data including negotiated service rates, and out-of-network allowed amounts between health plans and healthcare providers.
+
+Compensation Range: CA$174,487 - CA$205,332
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Binance.US by 2x
+
+See who you know
+
+Get notified about new Senior Software Engineer jobs in Vancouver, British Columbia, Canada.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Developer
+Senior DevOps Developer
+Autodesk
+Greater Vancouver Metropolitan Area
+3 days ago
+Senior Software Engineer, DevOps & Security
+Senior Software Engineer, DevOps & Security
+Klue
+Vancouver, British Columbia, Canada
+CA$140,000 - CA$195,000
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Samsung Electronics
+Greater Vancouver Metropolitan Area
+3 days ago
+Senior CloudOps Developer
+Senior CloudOps Developer
+Thales
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+StackAdapt
+Vancouver, British Columbia, Canada
+3 days ago
+Senior Site Reliability Engineer I
+Senior Site Reliability Engineer I
+Braze
+Vancouver, British Columbia, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer, Cloud Platform
+Senior Software Engineer, Cloud Platform
+
+Rivian and Volkswagen Group Technologies
+
+Vancouver, British Columbia, Canada
+CA$108,200 - CA$143,430
+5 days ago
+Staff Software Engineer, Infrastructure (Cloud)
+Staff Software Engineer, Infrastructure (Cloud)
+
+AeroVect
+
+Vancouver, British Columbia, Canada
+1 month ago
+Sr. Software Engineer, Cloud Platform
+Sr. Software Engineer, Cloud Platform
+
+Apera AI
+
+Vancouver, British Columbia, Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Boeing
+
+Richmond, British Columbia, Canada
+1 day ago
+DevOps Engineer, Evisort AI
+DevOps Engineer, Evisort AI
+
+Workday
+
+Vancouver, British Columbia, Canada
+3 days ago
+Senior Cloud Software Engineer
+Senior Cloud Software Engineer
+
+Harvey Nash
+
+Vancouver, British Columbia, Canada
+CA$140 - CA$175
+2 weeks ago
+Software Engineer: Backend Systems
+Software Engineer: Backend Systems
+
+Aloe
+
+Greater Vancouver Metropolitan Area
+1 month ago
+Staff Platform Engineer
+Staff Platform Engineer
+
+Rivian
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Broadridge
+
+Greater Vancouver Metropolitan Area
+5 days ago
+Staff DevOps Developer
+Staff DevOps Developer
+
+Visier Inc.
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Similar Searches
+Senior Developer Contract jobs
+2,881 open jobs
+Senior Software Engineer Contract jobs
+2,626 open jobs
+Staff Software Engineer jobs
+3,606 open jobs
+Lead Software Engineer jobs
+4,225 open jobs
+Senior Lead Software Engineer jobs
+2,993 open jobs
+Principal Software Engineer jobs
+4,028 open jobs
+Senior Java Software Engineer jobs
+3,756 open jobs
+Senior Software Specialist jobs
+3,584 open jobs
+Senior Staff Software Engineer jobs
+3,260 open jobs
+Senior System Software Engineer jobs
+3,151 open jobs
+Java Software Engineer jobs
+2,724 open jobs
+Software Engineering Team Lead jobs
+15,426 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Binance.US
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

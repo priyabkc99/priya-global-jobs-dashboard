@@ -1,0 +1,315 @@
+Title: DevOps Staff Platform Engineer
+Company: Orion Digital
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-staff-platform-engineer-at-orion-digital-4467775359
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a DevOps/Platform Engineering position in Canada, matching the candidate's extensive experience in CI/CD, automation, and working within regulated environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Staff Platform Engineer
+Orion Digital  Vancouver, British Columbia, Canada
+1 week ago  178 applicants
+  
+
+See who Orion Digital has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Location: Remote (Canada)
+
+Compensation: $135,000 - $170,000 CAD + bonus + meaningful equity
+
+About Orion Digital
+
+Orion Digital Corp (NASDAQ/TSX: ORIO) is a publicly listed Canadian fintech operating a multi-engine financial platform spanning lending (Mogo), payments (Carta), and wealth (Intelligent Investing).
+
+We have moved past the traditional fintech model. Capital allocation, decisioning, and risk management sit at the core of how the business creates value, and AI runs as an enabling layer across the platform rather than as a standalone product narrative. That layer is real and in use, and the work now is making it faster, safer, and harder to break.
+
+Why this role exists
+
+This role builds that layer.
+
+Platform engineering here is not a support function. Multiple business lines, regulated entities, and a public company's reporting obligations all run on infrastructure this team owns. Every deployment path, permission boundary, and audit trail either makes faster decisioning possible or quietly caps how fast the business can move.
+
+Which means the platform is where the strategy succeeds or stalls. If deploying takes a day, if an agent cannot safely touch production, if nobody can tell what changed and why, the enabling layer stays theoretical. We are hiring a Staff Platform Engineer to build it properly.
+
+The shift we are hiring for
+
+Most platform teams build for human developers. Ours builds for humans and agents, across multiple business lines and regulated entities. That changes the job:
+
+
+Golden paths become machine-executable contracts, not wiki pages. An agent has to be able to discover them, invoke them, and verify the result
+Every probabilistic step needs a deterministic gate behind it. Tests, policy checks, and schema validation stop being hygiene and become the control system that lets autonomy scale safely
+Agents are identities. They need scoped credentials, bounded blast radius, and audit trails that hold up across lending, payments, and securities regulation
+Observability has to answer a new question. Not just "is the service healthy" but "did the agent do the right thing, and how do we know."
+
+
+If that is already how you think about the problem, keep reading.
+
+What you will do
+
+Build the substrate for agentic engineering
+
+
+Design and run the execution environments agents work in: sandboxed, reproducible, permissioned, disposable
+Stand up and own our MCP and tool-gateway layer so agents reach infrastructure through governed interfaces instead of ad hoc credentials
+Turn CI/CD into a validation loop: fast deterministic gates an agent can retry against until it passes, with humans on the loop rather than in it
+
+
+Own the platform
+
+
+Multi-cloud Kubernetes, infrastructure as code, and GitOps (ArgoCD) delivery. Hands on keyboard, not diagrams
+Drive infrastructure modernization across our cloud environments, including the unglamorous parts: dependency mapping, and documentation that survives your absence
+Serve every product line without building a separate platform for each one. Where they genuinely differ, respect it. Where they have drifted for no reason, converge them
+Treat security and compliance as design constraints from the first commit rather than a review at the end
+
+
+Take toil off the company
+
+
+Push autonomous remediation into the paths that page people today. The target is alerts that resolve themselves and incidents where the first responder is an agent arriving with a hypothesis already tested
+Own the numbers: deploy frequency, lead time, change failure rate, MTTR, and the share of operational work running without a human in the middle. Move them quarter over quarter
+Work outside engineering too. Operations, compliance, and support are full of repetitive work a well-built platform can absorb
+
+
+What you need
+
+Non-negotiable
+
+
+Deep, current production experience with Kubernetes, Terraform, and a modern GitOps deployment stack. You have owned what you built, including running it in production rather than handing it off once it shipped
+Real cloud depth. We run across AWS and OCI, so experience in both is an advantage, but what matters is genuine production depth in at least one and the appetite to get fluent in the other quickly
+You run coding and ops agents as part of your daily work, and you can show us. Sustained real use on real systems (Claude Code, Cursor, Codex, or equivalent, plus whatever you have wired together yourself), not a trial and an opinion. Be ready to walk through something you shipped this month where an agent did most of the typing and you did the judging
+Strong opinions about where autonomy belongs and where it does not, informed by having been burned at least once
+Writing clear enough to be read by a junior engineer and a model
+
+
+Advantage
+
+
+You have built internal developer platforms, MCP servers, or agent tooling that other engineers actually adopted
+Non-human identity, secrets architecture, or policy-as-code in a regulated environment
+Re-platforming at scale, especially where the old system could not go down
+Opinions about how to evaluate infrastructure agents. Almost nobody has these yet
+
+
+We are not screening on years of experience as a proxy for capability. We will look at what you have built and how fast you build.
+
+How we work
+
+
+Small teams, high ownership, short distance between decision and deployment
+We would rather collaborate than dictate, and we know when to do it well versus when to do it quickly
+Output is the measure
+
+
+Benefits of working with us:
+
+
+Fully Remote Work - Unless otherwise specified in the job posting, Orion offers flexible remote work, supported by the tools and resources needed to succeed.
+Comprehensive Health Benefits - Access to medical, dental, and vision coverage plus a Health Spending Account
+Stock Options - Meaningful equity participation aligned with long-term value creation and company growth
+Flex Vacation - Benefit from paid time off, including vacation and personal days
+Wellbeing Programs - Access counselling services, mental health support, and additional wellness resources
+
+
+Powered by JazzHR
+
+gyQpzvXuwD
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Internet Publishing
+  
+
+Referrals increase your chances of interviewing at Orion Digital by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Vancouver, British Columbia, Canada.
+
+Sign in to create job alert
+Similar jobs
+Staff DevOps Engineer
+Staff DevOps Engineer
+Nexxa.ai
+Canada
+1 month ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+Caseware
+Canada
+1 month ago
+Senior Platform Engineer I
+Senior Platform Engineer I
+Wrapbook
+Canada
+CA$156,500 - CA$215,000
+5 days ago
+Staff Platform Engineer
+Staff Platform Engineer
+Sage Recruiting Inc.
+Canada
+$210,000 - $260,000
+6 days ago
+Staff Software Engineer, Platform
+Staff Software Engineer, Platform
+Super.com
+Canada
+CA$147,000 - CA$223,000
+1 week ago
+Infrastructure Engineer/SRE
+Infrastructure Engineer/SRE
+Cresta
+Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Engineer
+Software Engineer
+
+ComPsych
+
+Canada
+5 days ago
+AI Infrastructure Engineer
+AI Infrastructure Engineer
+
+Mission.dev
+
+Canada
+1 week ago
+Senior Platform Engineer I
+Senior Platform Engineer I
+
+Jobgether
+
+Canada
+5 days ago
+Senior Site Reliability Engineer, Security
+Senior Site Reliability Engineer, Security
+
+AuthZed
+
+Canada
+6 days ago
+Expert DevOps Engineer
+Expert DevOps Engineer
+
+Ciklum
+
+Canada
+1 day ago
+Senior, DevOps Engineer - 1 Year Contract
+Senior, DevOps Engineer - 1 Year Contract
+
+Teladoc Health Canada
+
+Canada
+5 days ago
+Developer, Cloud
+Developer, Cloud
+
+Petal
+
+Canada
+5 days ago
+Senior Platform Engineer, GitLab Orbit
+Senior Platform Engineer, GitLab Orbit
+
+GitLab
+
+Canada
+1 week ago
+Senior DevOps Developer
+Senior DevOps Developer
+
+Autodesk
+
+Greater Vancouver Metropolitan Area
+3 days ago
+Senior Backend & Infrastructure Engineer
+Senior Backend & Infrastructure Engineer
+
+Scispot
+
+Canada
+$100,000 - $175,000
+3 months ago
+Similar Searches
+Site Reliability Engineer jobs
+7,519 open jobs
+Platform Architect jobs
+4,355 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Infrastructure Engineer jobs
+3,272 open jobs
+Data Management Coordinator jobs
+3,891 open jobs
+Linux Engineer jobs
+1,104 open jobs
+Senior Infrastructure Engineer jobs
+1,473 open jobs
+Virtualization Engineer jobs
+1,170 open jobs
+Cloud Architect jobs
+2,940 open jobs
+Pipeline Engineer jobs
+1,681 open jobs
+System Development Engineer jobs
+14,564 open jobs
+Contract Database Administrator jobs
+46 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Orion Digital
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

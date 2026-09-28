@@ -1,0 +1,226 @@
+Title: DevOps Specialist – CI/CD, OpenShift & Cloud Automation
+Company: ThoughtStorm
+Location: Edmonton, Alberta, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-specialist-%E2%80%93-ci-cd-openshift-cloud-automation-at-thoughtstorm-4465188265
+Posted: 2026-09-14
+Deadline: N/A
+Reason: The role aligns perfectly with her expertise in CI/CD, GitHub Actions, and automation, and is located in a target country (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Specialist – CI/CD, OpenShift & Cloud Automation
+ThoughtStorm  Edmonton, Alberta, Canada
+2 weeks ago  137 applicants
+  
+
+See who ThoughtStorm has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from ThoughtStorm
+
+Aloek Bajpai
+Aloek Bajpai
+Sr. Technical Recruiter | Government Digital Transformation & Enterprise Technology Hiring
+
+DevOps Specialist – CI/CD, OpenShift & Cloud Automation
+
+We are seeking an experienced DevOps Specialist to support digital transformation and modern application delivery initiatives for the Government of Alberta, working within cross-functional product and delivery teams.
+Design, build and maintain CI/CD pipelines, deployment templates and automation frameworks to enable reliable, frequent and low-downtime application releases in large-scale enterprise environments.
+Bring hands-on expertise with GitHub Actions, Infrastructure as Code (IaC), Terraform, Red Hat OpenShift and Hybrid Cloud application deployment.
+Develop PowerShell/scripts, tools and automated processes for environment provisioning, application deployment, maintenance and reduction of manual operational activities.
+Support production operations, including configuration and credential management, maintenance, database upgrades/migrations, backups and recovery, while applying security best practices such as secrets management and least privilege.
+Implement monitoring, telemetry and observability solutions and support integration, security, system, performance and load testing throughout the delivery lifecycle.
+Experience with AWS, Azure or GCP, enterprise DevOps practices, command-line tools and emerging Generative AI/agentic automation is highly valuable. This is a primarily remote role, with occasional work sessions in Edmonton, Alberta, and work must be performed within Canada.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Job function
+Consulting and Information Technology
+Industries
+Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at ThoughtStorm by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Edmonton, Alberta, Canada.
+
+Sign in to create job alert
+Similar jobs
+Intermediate DevOps Engineer
+Intermediate DevOps Engineer
+Practice Better
+Canada
+2 days ago
+DevOps Developer
+DevOps Developer
+Caseware
+Canada
+2 weeks ago
+DevOps Engineer (Azure ARO) remote contract
+DevOps Engineer (Azure ARO) remote contract
+PLATO
+Canada
+CA$75 - CA$100
+1 week ago
+Infrastructure Engineer/SRE
+Infrastructure Engineer/SRE
+Cresta
+Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Modaxo
+Canada
+7 months ago
+Senior Deployment Engineer - Canada
+Senior Deployment Engineer - Canada
+Atolio
+Canada
+7 months ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer- Remote
+Cloud Engineer- Remote
+
+BeyondTrust
+
+Canada
+1 week ago
+Systems Engineer, Production
+Systems Engineer, Production
+
+Clio
+
+Canada
+2 weeks ago
+Senior Site Reliability Engineer, Security
+Senior Site Reliability Engineer, Security
+
+AuthZed
+
+Canada
+6 days ago
+Senior AI DevOps Developer [584]
+Senior AI DevOps Developer [584]
+
+D-Wave
+
+Canada
+1 month ago
+Ingénieur DevSecOps (Infrastructure)
+Ingénieur DevSecOps (Infrastructure)
+
+Empire Vie
+
+Canada
+3 weeks ago
+Senior Site Reliability Engineer, DevEx
+Senior Site Reliability Engineer, DevEx
+
+Chainlink Labs
+
+Canada
+1 week ago
+AI Infrastructure Engineer
+AI Infrastructure Engineer
+
+Mission.dev
+
+Canada
+1 week ago
+Site Reliability Consultant
+Site Reliability Consultant
+
+Pythian
+
+Canada
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Lillio (formerly HiMama)
+
+Canada
+6 months ago
+Senior Developer - Delivery Engineering
+Senior Developer - Delivery Engineering
+
+Jane App
+
+Canada
+1 month ago
+Similar Searches
+Editor in Chief jobs
+15 open jobs
+Freelance Copywriter jobs
+215 open jobs
+Senior Content Writer jobs
+580 open jobs
+Content Strategist jobs
+537 open jobs
+Freelance Writer jobs
+525 open jobs
+Senior Communications Manager jobs
+1,323 open jobs
+Marketing Communications Specialist jobs
+2,175 open jobs
+Senior Copywriter jobs
+891 open jobs
+Content Editor jobs
+897 open jobs
+Learning and Development Manager jobs
+774 open jobs
+Head of Communications jobs
+356 open jobs
+Search Engine Optimization Specialist jobs
+275 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at ThoughtStorm
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

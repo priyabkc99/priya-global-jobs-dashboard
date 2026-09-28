@@ -1,0 +1,327 @@
+Title: Spécialiste principal(e) DevOps | Senior DevOps Specialist
+Company: TAIT
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-principal-e-devops-senior-devops-specialist-at-tait-4467937830
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a Senior DevOps position in Canada that aligns with her extensive experience in CI/CD, automation, and configuration management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Spécialiste principal(e) DevOps | Senior DevOps Specialist
+TAIT  Montreal, Quebec, Canada
+1 week ago  41 applicants
+  
+
+See who TAIT has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Raison d'être du poste
+
+À titre de spécialiste principal(e) DevOps, vous jouerez un rôle clé dans la conception, le maintien et l'évolution des infrastructures, des systèmes d'automatisation et des mécanismes de déploiement qui soutiennent notre vision de Créer des moments qui touchent les gens.
+
+Vous concevrez et mettrez en œuvre de façon autonome des solutions d'infrastructure, améliorerez les capacités d'automatisation soutenant l'ensemble du cycle de livraison logicielle et contribuerez à maintenir des plateformes fiables, évolutives et sécuritaires.
+
+Grâce à votre capacité à résoudre des problèmes complexes et à votre collaboration avec les équipes d'ingénierie, vous contribuerez au renforcement des pratiques DevOps, au mentorat de collègues moins expérimentés et à l'orientation des décisions relatives à l'infrastructure.
+
+Responsabilités principales
+
+Le ou la spécialiste principal(e) DevOps est responsable de la livraison de solutions d'infrastructure et d'automatisation fiables, sécuritaires et évolutives soutenant nos produits, projets et plateformes logicielles.
+
+La Personne Titulaire Du Poste Devra
+
+
+Collaborer étroitement avec les architectes DevOps et logiciels afin de concevoir, mettre en œuvre et maintenir l'infrastructure conformément à la stratégie produit et technique.
+Concevoir, mettre en œuvre et maintenir l'infrastructure en tant que code (Infrastructure as Code), les pipelines d'intégration et de livraison continues (CI/CD) ainsi que les mécanismes d'automatisation des déploiements dans des environnements infonuagiques et locaux.
+Configurer, maintenir et dépanner les environnements de développement, de test et de production, y compris les configurations systèmes et la gestion des dépendances.
+Prendre en charge les initiatives d'infrastructure et d'automatisation de la conception jusqu'à la validation finale.
+Surveiller la santé et la performance des systèmes et intervenir lors d'incidents afin d'assurer leur disponibilité et leur fiabilité.
+Identifier et résoudre des enjeux complexes d'infrastructure dans des environnements de développement, de préproduction et de production, tant dans le nuage que sur du matériel local.
+Gérer les dépendances logicielles, les versions et la cohérence des environnements de développement et de déploiement, tout en assurant la conformité des licences et l'identification des vulnérabilités.
+Collaborer avec les équipes d'ingénierie logicielle afin d'intégrer les pratiques d'infrastructure et de déploiement à leurs processus de développement.
+Contribuer à l'amélioration des outils, méthodes de travail et standards DevOps.
+Encadrer et soutenir les spécialistes DevOps moins expérimentés dans leur développement professionnel.
+Maintenir une documentation claire de la configuration des infrastructures et des processus opérationnels.
+Participer à l'évaluation et à l'intégration de nouvelles technologies favorisant l'automatisation et la fiabilité.
+Explorer et adopter de façon proactive des outils et flux de travail fondés sur l'intelligence artificielle afin d'améliorer votre efficacité personnelle ainsi que les activités d'automatisation, de dépannage et de gestion des infrastructures.
+Effectuer toute autre tâche requise afin de répondre aux besoins de l'entreprise.
+
+
+Qualifications Et Expérience
+
+Formation
+
+
+Baccalauréat, DEC ou DEP en informatique, en technologies de l'information ou expérience pertinente équivalente.
+
+
+Expérience, connaissances et compétences
+
+
+Minimum de 6 années d'expérience professionnelle en génie logiciel, infrastructure, ingénierie de plateforme ou environnements DevOps, dont au moins 4 années consacrées aux pratiques DevOps, à l'automatisation de l'infrastructure, aux pipelines CI/CD, aux déploiements infonuagiques ou locaux, ou à des responsabilités connexes.
+Expérience pratique de la gestion de configuration des environnements (approvisionnement et préparation des environnements), tant dans le nuage que sur du matériel local.
+Solide expertise en gestion des dépendances et des paquets logiciels dans plusieurs langages et technologies ainsi qu'en maintien de la cohérence des environnements.
+Capacité démontrée à concevoir, mettre en œuvre et maintenir des infrastructures avec un minimum de supervision.
+Une expérience en conteneurisation et en orchestration constitue un atout.
+Connaissance des meilleures pratiques en matière de surveillance, de journalisation et de gestion des incidents.
+Excellentes capacités d'analyse et de résolution de problèmes, y compris dans des contextes techniques peu familiers.
+Bonnes compétences en communication et capacité à documenter et présenter clairement des solutions techniques.
+Aisance dans un environnement dynamique et en constante évolution.
+Désir d'identifier de façon proactive les possibilités d'amélioration des systèmes, outils et processus.
+
+
+Une Connaissance Fonctionnelle De L’anglais, Tant à L’oral Qu’à L’écrit, Est Requise Pour Ce Poste. Cette Exigence Est Nécessaire Puisque La Personne Titulaire Du Poste Devra
+
+
+collaborer régulièrement avec des collègues, équipes et partenaires situés à l’extérieur du Québec dont la langue de travail est l’anglais;
+participer à des réunions techniques, des revues de code et des discussions de conception tenues en anglais;
+consulter, analyser et utiliser de la documentation technique, des outils de développement, des cadres logiciels (frameworks) et des ressources spécialisées principalement disponibles en anglais;
+rédiger ou réviser de la documentation technique, des commentaires de code et des communications destinées à des équipes anglophones;
+contribuer à des projets logiciels mondiaux nécessitant des échanges fréquents en anglais.
+
+
+ENGLISH
+
+Position Purpose
+
+As a Senior DevOps Specialist, you will play a key role in building and maintaining the infrastructure, automation, and deployment systems that power our vision to Create Moments that Move People. You will independently design and implement infrastructure solutions, improve automation to support all aspects of software delivery, and help ensure our platforms remain reliable, scalable, and secure.
+
+Through proactive problem-solving and close collaboration with engineering teams, you will strengthen our DevOps practices, mentor less experienced engineers and influence infrastructure decisions.
+
+Responsibilities
+
+The Senior DevOps Specialist is responsible for delivering reliable, secure, and scalable infrastructure and automation solutions that support our software products, projects and platform.
+
+The Senior DevOps Specialist Will
+
+
+Work closely alongside DevOps and software architects to design, implement, and maintain infrastructure in alignment with product and technical strategy.
+Design, implement, and maintain infrastructure-as-code, CI/CD pipelines, and deployment automation across cloud and on-premises environments.
+Configure, maintain, and troubleshoot build, test, and production infrastructure, including OS-level configuration and dependency management.
+Take ownership of infrastructure and automation tasks from design through implementation and validation.
+Monitor system health and performance, and respond to incidents to maintain reliability and uptime.
+Identify and resolve complex infrastructure issues across development, staging and production environments spanning cloud and local hardware.
+Manage software dependencies, versioning, and environment consistency across development and deployment targets, ensuring license compliance and identification of vulnerabilities.
+Collaborate with software engineering teams to integrate infrastructure and deployment practices into their development process.
+Contribute to improving DevOps tooling, workflows, and standards across development teams.
+Mentor and support more junior DevOps engineers in developing their skills.
+Maintain clear documentation for infrastructure configurations and operational processes.
+Assist with evaluating and integrating new tools and technologies to improve automation and reliability.
+Proactively explore and adopt AI tools and workflows to drive your personal efficiency, and that of our automation, troubleshooting and management of infrastructure.
+Perform other duties as required to meet business needs.
+
+
+Position Requirements
+
+Qualifications – Academic / Vocational
+
+Required
+
+
+Bachelor’s degree, DEC or DEP in Computer Science or Information Technology, or equivalent industry experience.
+
+
+Experience – Knowledge And Skills
+
+
+6+ years of professional experience in software engineering, infrastructure, platform engineering, or DevOps environments, including at least 4 years focused on DevOps, infrastructure automation, CI/CD, cloud/on-prem deployment, or related platform responsibilities.
+Hands-on experience with machine configuration management (provisioning and environment setup) for both cloud and local hardware.
+Strong skills in dependency and package management across a variety of languages and technologies, including techniques for maintaining environment consistency.
+A demonstrated ability to design, implement and maintain infrastructure with limited supervision.
+Experience with containerization and orchestration is desirable.
+Familiarity with monitoring, logging and incident management best practices.
+Strong analytical and troubleshooting skills, with an ability to apply these quickly in unfamiliar environments.
+Good communication skills, with an ability to clearly document and discuss technical solutions.
+Comfortable working in a fast-paced and constantly evolving environment.
+A desire to take initiative in identifying areas for improvement across systems, tools and processes.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Management and Manufacturing
+Industries
+Entertainment Providers
+  
+
+Referrals increase your chances of interviewing at TAIT by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Montreal, Quebec, Canada.
+
+Sign in to create job alert
+Similar jobs
+Spécialiste principal.e DevOps // Senior DevOps Specialist
+Spécialiste principal.e DevOps // Senior DevOps Specialist
+SSENSE
+Montreal, Quebec, Canada
+2 days ago
+DevOps Principal·e / Principal DevOps
+DevOps Principal·e / Principal DevOps
+Cloud Imperium Games Montreal
+Montreal, Quebec, Canada
+2 weeks ago
+Spécialiste principal DevOps et outils d'ingénierie
+Spécialiste principal DevOps et outils d'ingénierie
+MANNARINO
+Montreal, Quebec, Canada
+1 month ago
+Spécialiste DevOps (Q4B)
+Spécialiste DevOps (Q4B)
+TEHORA inc.
+Montreal, Quebec, Canada
+10 months ago
+DevOps
+DevOps
+Onepoint
+Montreal, Quebec, Canada
+2 days ago
+Senior DevOps Specialist (SaaS Healthcare)
+Senior DevOps Specialist (SaaS Healthcare)
+MEDFAR
+Montreal, Quebec, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Spécialiste – Fiabilité des outils et de l’infrastructure (March of Giants)
+Spécialiste – Fiabilité des outils et de l’infrastructure (March of Giants)
+
+Ubisoft Montréal
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps IA
+DevOps IA
+
+Wepoint
+
+Montreal, Quebec, Canada
+2 weeks ago
+Ingénieur principal, plateforme Cloud
+Ingénieur principal, plateforme Cloud
+
+Wizards of the Coast
+
+Montreal, Quebec, Canada
+1 week ago
+Bilingual Devops /SRE ( AWS )
+Bilingual Devops /SRE ( AWS )
+
+Highspring
+
+Montreal, Quebec, Canada
+5 days ago
+Lead DevOps
+Lead DevOps
+
+Akkodis
+
+Montreal, Quebec, Canada
+2 weeks ago
+Développeur(euse) DevOps senior(e) | Senior DevOps Developer
+Développeur(euse) DevOps senior(e) | Senior DevOps Developer
+
+Unity
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Senior
+DevOps Senior
+
+Astek
+
+Montreal, Quebec, Canada
+2 weeks ago
+Conseiller DevOps
+Conseiller DevOps
+
+TEHORA inc.
+
+Montreal, Quebec, Canada
+4 months ago
+Spécialiste DevOps (Senior)
+Spécialiste DevOps (Senior)
+
+SII Canada
+
+Montreal, Quebec, Canada
+6 days ago
+DevOps Lead
+DevOps Lead
+
+Web Hosting Canada (WHC)
+
+Montreal, Quebec, Canada
+2 weeks ago
+Similar Searches
+Lighting Director jobs
+245 open jobs
+Creative Design Director jobs
+226 open jobs
+Post Production Producer jobs
+56 open jobs
+Student Software Engineer jobs
+179 open jobs
+Entertainment Director jobs
+132 open jobs
+Set Designer jobs
+416 open jobs
+Sponsorship Director jobs
+121 open jobs
+Post Producer jobs
+66 open jobs
+Rental Manager jobs
+2,233 open jobs
+Artistic Director jobs
+209 open jobs
+Director of Event Management jobs
+61 open jobs
+Junior Interior Designer jobs
+160 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at TAIT
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

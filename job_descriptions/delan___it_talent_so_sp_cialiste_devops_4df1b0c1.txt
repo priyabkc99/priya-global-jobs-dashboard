@@ -1,0 +1,349 @@
+Title: Spécialiste DevOps
+Company: DELAN - IT Talent Solutions
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-devops-at-delan-it-talent-solutions-4467107027
+Posted: 2026-09-21
+Deadline: N/A
+Reason: The role is a DevOps position in Canada, matching the candidate's extensive experience in CI/CD, automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Spécialiste DevOps
+DELAN - IT Talent Solutions  Ottawa, Ontario, Canada
+1 week ago  56 applicants
+  
+
+See who DELAN - IT Talent Solutions has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from DELAN - IT Talent Solutions
+
+Alexandre Trudeau
+Alexandre Trudeau
+VP IT Business Relations at DELAN - IT Talent Solutions
+
+Le Spécialiste DevOps sera responsable du déploiement continu des applications et de l’infrastructure sur les plateformes AWS.
+
+
+
+
+PLUS PRÉCISÉMENT
+
+
+
+
+• Concevoir et automatiser les pipelines CI/CD ainsi que les processus de déploiement à l’aide d’outils tels que Terraform, Ansible et Kubernetes
+
+• Gérer les incidents, collaborer avec l’équipe Sécurité et effectuer des tests de récupération pour assurer la stabilité des systèmes
+
+• Déployer en continu les applications et l’infrastructure sur AWS, tout en maintenant la performance et la conformité aux SLO
+
+• Surveiller proactivement les environnements, identifier les problèmes de performance et mettre en œuvre des mesures correctives
+
+• Contribuer à des projets d’amélioration continue et d’innovation, au-delà des opérations quotidiennes
+
+
+
+
+
+
+
+PROFIL
+
+
+
+
+• 5+ années d’expérience en tant que DevOps
+
+• Solide expérience en environnement AWS
+
+• Forte connaissance de Terraform et Kubernetes
+
+• Expérience en environnement Linux
+
+• BAC en informatique ou l’équivalent
+
+• Bilinguisme (Anglais requis, Français fonctionnel)
+
+
+
+
+______________
+
+
+
+
+The DevOps Specialist will be responsible for the continuous deployment of applications and infrastructure on AWS platforms.
+
+
+
+
+MORE PRECISELY
+
+
+
+
+• Design and automate CI/CD pipelines and deployment processes using tools such as Terraform, Ansible, and Kubernetes
+
+• Manage incidents, collaborate with the Security team, and conduct recovery tests to ensure system stability
+
+• Continuously deploy applications and infrastructure on AWS, while maintaining performance and compliance with SLOs
+
+• Proactively monitor environments, identify performance issues, and implement corrective actions
+
+• Contribute to continuous improvement and innovation projects beyond daily operations
+
+
+
+
+
+
+
+PROFILE
+
+
+
+
+• 5+ years of experience as a DevOps professional
+
+• Strong experience in AWS environments
+
+• Solid knowledge of Terraform and Kubernetes
+
+• Experience in Linux environments
+
+• Bachelor's degree in Computer Science or equivalent
+
+• Bilingual (English required, functional French)
+
+
+
+
+______________
+
+
+
+
+Découvrez +60 autres opportunités en TI au Canada
+
+Discover +60 other IT jobs in Canada
+
+🆕 https://delan.qc.ca/opportunites-ti/
+
+
+
+
+Emplois permanents, mandats de consultation, postes exécutifs
+
+Permanent jobs, consulting mandates, executive positions
+
+
+
+
+______________
+
+
+
+
+Suivez-nous sur LinkedIn / Follow us on LinkedIn
+
+💻 www.linkedin.com/company/DelanTI
+
+
+
+
+______________
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at DELAN - IT Talent Solutions by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Ottawa, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps Specialist - Kubernetes (35700)
+DevOps Specialist - Kubernetes (35700)
+Myticas Consulting
+Ottawa, Ontario, Canada
+2 days ago
+Conseiller DevOps
+Conseiller DevOps
+TEHORA inc.
+Ottawa, Ontario, Canada
+4 months ago
+DevOps Engineer
+DevOps Engineer
+StackAdapt
+Toronto, Ontario, Canada
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Nex Globe Technologies
+Cambridge, Ontario, Canada
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Caseware
+Toronto, Ontario, Canada
+2 weeks ago
+DevOps Specialist
+DevOps Specialist
+MDA Space
+Brampton, Ontario, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Cloud Ops Administrator (Canada) - N.A. Service Delivery Group
+Cloud Ops Administrator (Canada) - N.A. Service Delivery Group
+
+Canadian Bank Note Company, Limited
+
+Ottawa, Ontario, Canada
+CA$65,000 - CA$81,000
+3 days ago
+DevSecOps Specialist
+DevSecOps Specialist
+
+Systematix
+
+Ottawa, Ontario, Canada
+2 days ago
+ModiFace - DevOps Developer
+ModiFace - DevOps Developer
+
+L'Oréal
+
+Toronto, Ontario, Canada
+1 week ago
+ARE Automation
+ARE Automation
+
+J&M Group
+
+Toronto, Ontario, Canada
+3 weeks ago
+Senior Cloud Operations and CI/CD Specialist
+Senior Cloud Operations and CI/CD Specialist
+
+Syntronic - A Global Design House
+
+Kanata, Ontario, Canada
+1 week ago
+Software Engineering Developer, DevOps
+Software Engineering Developer, DevOps
+
+General Dynamics Mission Systems–Canada
+
+Ottawa, Ontario, Canada
+4 days ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Lakeview Loan Servicing, LLC.
+
+North York, Ontario, Canada
+4 months ago
+DevOps Engineer
+DevOps Engineer
+
+OMERS
+
+Toronto, Ontario, Canada
+2 weeks ago
+Engineer, DevOps
+Engineer, DevOps
+
+Recurrent Energy
+
+Kitchener, Ontario, Canada
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Scotiabank
+
+Toronto, Ontario, Canada
+1 week ago
+Similar Searches
+Java Consultant jobs
+633 open jobs
+Functional Analyst jobs
+3,155 open jobs
+Vice President Information Technology jobs
+117 open jobs
+Headmaster jobs
+3,566 open jobs
+Senior System Engineer jobs
+1,733 open jobs
+Logistician jobs
+2,996 open jobs
+Software Specialist jobs
+16,305 open jobs
+PHP Developer jobs
+954 open jobs
+Political Officer jobs
+35 open jobs
+Web Developer jobs
+2,982 open jobs
+Center Director jobs
+482 open jobs
+Javascript Developer jobs
+2,746 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at DELAN - IT Talent Solutions
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,277 @@
+Title: Senior DevOps / Platform Engineer — Cloud
+Company: Dominion Dynamics
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-platform-engineer-%E2%80%94-cloud-at-dominion-dynamics-4434351272
+Posted: 2026-07-30
+Deadline: N/A
+Reason: The role focuses on CI/CD and platform infrastructure in a regulated environment, matching the candidate's expertise in release management and DevOps within safety-critical industries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps / Platform Engineer — Cloud
+Dominion Dynamics  Ottawa, Ontario, Canada
+2 months ago  183 applicants
+  
+
+See who Dominion Dynamics has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Location: Ottawa/Toronto, On-Site
+
+Reports to: Head of Security
+
+The Role
+
+This is a senior platform role — you own the cloud infrastructure and delivery pipeline everything at Dominion runs on. That's the CI/CD that ships signed, reproducible builds (including the hardened images that go to edge devices in the field), the backend that ingests fleet telemetry, and the infrastructure underneath it. What makes it hard is the constraint: it all has to be sovereign and reproducible. Canadian data residency, Protected B from day one, and no hidden dependencies on foreign-controlled infrastructure — a platform anyone can stand up the same way every time, not one that only one person knows how to run.
+
+What You'll Do
+
+
+Stand up and run the cloud platform as code, top to bottom — IaC, orchestration (Kubernetes or equivalent), networking, secrets, identity. No snowflake servers, no manual provisioning.
+Build and maintain CI/CD for cloud services and edge artifact delivery, with supply-chain integrity built in: signed builds, verified provenance (SLSA-style), reproducible builds — no unsigned artifact reaches edge or cloud. You'll work directly with our Head of Security here.
+Own the sovereign hosting posture: data residency, classification baseline, and an architecture that stays defensibly Canadian under scrutiny.
+Run the telemetry ingestion and fleet-state backend, built for intermittent, bursty, bandwidth-constrained DDIL sync — not steady-state cloud assumptions.
+Define a clean build-and-handoff seam to the edge team: you produce the hardened edge images, they own the device baseline, and the boundary is documented and automated, not tribal.
+Shape the internal developer platform so prototyping is fast and the path to production is paved, not improvised.
+
+
+What You Bring
+
+
+Senior/Staff-level depth running production cloud infrastructure — owned a platform, not just shipped to one.
+Strong IaC (Terraform or equivalent) and container orchestration (Kubernetes or comparable) in production.
+Real CI/CD ownership — pipelines designed, secured, and maintained, not just configured.
+Supply-chain security instincts: signing, provenance, reproducible builds, secrets done right.
+
+
+Nice to Have
+
+
+Experience with sovereign / data-residency-constrained or air-gapped/regulated environments — Canadian public sector, Protected B, or equivalent.
+Defence or regulated-industry background.
+Familiarity with the realities of DDIL telemetry — ingesting from fleets that aren't always connected.
+Hands-on with self-hosted or Canadian sovereign cloud (vs. hyperscaler-default) infrastructure.
+
+
+No defence background required.
+
+We've hired people who didn't tick every box. If this is the work you want to do, please apply anyway.
+
+Why Join Us
+
+Building something meaningful starts with the right people.
+
+At Dominion Dynamics, you’ll:
+
+
+Shape Canada’s future by building real defence capability for the CAF and our allies.
+Make decisions that ship in a high-trust environment with short feedback loops and rapid iteration.
+Move fast, field faster, and work directly with the operator — our systems are in the field with the CAF now.
+Have an impact from day one with equity, responsibility, and direct access to leadership.
+
+
+If you’re curious, hands-on, and driven by the opportunity to make a difference, this is where you belong!
+
+Compensation & Benefits
+
+
+Competitive base salary and company equity*
+Comprehensive health benefits
+Additional equity granted based on impact*
+
+
+We use AI tools to support parts of the hiring process, including screening and reviewing responses. Final hiring decisions are always made by people and follow all applicable privacy and employment laws in Canada.
+
+
+Equity awarded to full time employees only.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Defense and Space Manufacturing
+  
+
+Referrals increase your chances of interviewing at Dominion Dynamics by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Ottawa, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Senior Platform Engineering Specialist
+Senior Platform Engineering Specialist
+CANARIE
+Ottawa, Ontario, Canada
+1 week ago
+Senior AWS Platform Engineer
+Senior AWS Platform Engineer
+FreeBalance
+Ottawa, Ontario, Canada
+7 months ago
+Senior Cloud Operations and CI/CD Specialist
+Senior Cloud Operations and CI/CD Specialist
+Syntronic - A Global Design House
+Kanata, Ontario, Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Aptiv
+Ottawa, Ontario, Canada
+1 week ago
+Senior Platform Engineer - Terraform, Azure
+Senior Platform Engineer - Terraform, Azure
+BDO Canada
+Ottawa, Ontario, Canada
+3 days ago
+Senior Cloud Site Reliability Engineer
+Senior Cloud Site Reliability Engineer
+Solace
+Ottawa, Ontario, Canada
+4 months ago
+Show more jobs like this 
+People also viewed
+Software Engineering Developer, DevOps
+Software Engineering Developer, DevOps
+
+General Dynamics Mission Systems–Canada
+
+Ottawa, Ontario, Canada
+4 days ago
+Senior Cloud Architect
+Senior Cloud Architect
+
+OXARO Inc.
+
+Ottawa, Ontario, Canada
+1 month ago
+Spécialiste DevOps
+Spécialiste DevOps
+
+DELAN - IT Talent Solutions
+
+Ottawa, Ontario, Canada
+1 week ago
+DevSecOps Specialist
+DevSecOps Specialist
+
+Systematix
+
+Ottawa, Ontario, Canada
+2 days ago
+Senior Cloud Technical Lead
+Senior Cloud Technical Lead
+
+SAS
+
+Ottawa, Ontario, Canada
+2 days ago
+Engineering Manager, Platform
+Engineering Manager, Platform
+
+Render
+
+United Counties of Stormont, Ontario, Canada
+1 week ago
+Manager, Cloud Services and Site Reliability
+Manager, Cloud Services and Site Reliability
+
+Barracuda
+
+Ottawa, Ontario, Canada
+3 weeks ago
+Cloud Architect
+Cloud Architect
+
+Akkodis
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Intermediate Software Developer
+Intermediate Software Developer
+
+March Networks
+
+Ottawa, Ontario, Canada
+3 weeks ago
+Senior Site Reliability Engineer - Edge
+Senior Site Reliability Engineer - Edge
+
+Dominion Dynamics
+
+Ottawa, Ontario, Canada
+3 months ago
+Similar Searches
+Site Reliability Engineer jobs
+7,519 open jobs
+Platform Architect jobs
+4,355 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Infrastructure Engineer jobs
+3,272 open jobs
+Data Management Coordinator jobs
+3,891 open jobs
+Linux Engineer jobs
+1,104 open jobs
+Senior Infrastructure Engineer jobs
+1,473 open jobs
+Virtualization Engineer jobs
+1,170 open jobs
+Cloud Architect jobs
+2,940 open jobs
+Pipeline Engineer jobs
+1,681 open jobs
+System Development Engineer jobs
+14,564 open jobs
+Contract Database Administrator jobs
+46 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Dominion Dynamics
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
