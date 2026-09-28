@@ -1791,15 +1791,14 @@
     "url": "https://za.linkedin.com/jobs/view/senior-cloud-devops-engineer-at-ikue-4330372239",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires valid work authorization for South Africa, but the candidate does not hold this and the posting does not explicitly offer visa sponsorship.",
+    "reason": "The job requires valid work authorization for South Africa, but the candidate needs employer visa sponsorship and does not hold existing rights to work there.",
     "id": "c6c47ba3",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-01-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer",
@@ -1807,16 +1806,15 @@
     "location": "Cape Town, Western Cape, South Africa",
     "url": "https://za.linkedin.com/jobs/view/senior-devops-engineer-at-style-analytics-4450308422",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job aligns with Priya's expertise in DevOps and CI/CD pipeline ownership, located in South Africa (a target country), and matches her experience in configuration management and release processes.",
+    "matches_requirements": "maybe",
+    "reason": "The job matches on DevOps Engineer role type and South Africa location, but visa sponsorship requirements are unclear (posting mentions pre-employment checks but does not explicitly confirm sponsorship availability for non-South African residents).",
     "id": "6d499999",
     "source": "linkedin_za_devops_engineer",
     "added_at": "2026-09-28T14:18:54+03:00",
     "posted_date": "2026-08-29",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/style_analytics_senior_devops_engineer_6d499999.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior DevOps Engineer",
@@ -2077,16 +2075,15 @@
     "location": "San \u0120iljan, Saint Julian's, Malta",
     "url": "https://mt.linkedin.com/jobs/view/senior-devops-engineer-at-gaming-innovation-group-4434980520",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job matches Priya's expertise in DevOps and CI/CD pipeline ownership, aligns with her experience in regulated industries, and is located in Malta (a target country) with no US restrictions.",
+    "matches_requirements": "maybe",
+    "reason": "The job matches on DevOps Engineer role type and Malta location, but lacks explicit mention of visa sponsorship which the candidate requires for non-Finland roles.",
     "id": "c9122d9c",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-28",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/gaming_innovation_gr_senior_devops_engineer_c9122d9c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer",
@@ -2095,15 +2092,14 @@
     "url": "https://mt.linkedin.com/jobs/view/senior-devops-engineer-at-platin-gaming-ltd-4415609769",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns with DevOps Engineer criteria (CI/CD pipelines, infrastructure as code) and is located in Malta (target country), but the candidate's primary experience focuses on release/configuration management rather than cloud infrastructure/Kubernetes, which may require additional upskilling.",
+    "reason": "The job aligns with Priya\u2019s CI/CD and infrastructure automation expertise (e.g., Jenkins, GitHub Actions, Terraform), but lacks explicit mention of regulated compliance or configuration management focus, which were key factors in her previous approvals.",
     "id": "2de0c5e9",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Blockchain DevOps Engineer",
@@ -2112,15 +2108,14 @@
     "url": "https://mt.linkedin.com/jobs/view/blockchain-devops-engineer-at-simply-staking-4469001115",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role aligns with DevOps Engineer criteria (CI/CD pipeline ownership, infrastructure automation) and is located in Malta (target country), but lacks explicit mention of regulated/safety-critical domains or technical documentation responsibilities that match her Topcon experience.",
+    "reason": "The role aligns with DevOps Engineer responsibilities (CI/CD pipelines, infrastructure-as-code) and is located in Malta (target country), but the blockchain domain is not regulated/safety-critical like her previous experience, though configuration management aspects match positively.",
     "id": "4ca0eaf7",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-22",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior DevOps Engineer",
@@ -2129,15 +2124,14 @@
     "url": "https://mt.linkedin.com/jobs/view/junior-devops-engineer-at-platin-gaming-ltd-4415499836",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is explicitly a 'Junior DevOps Engineer' role requiring 1-2 years of experience, which conflicts with the candidate's ~15 years of experience and her preference for mid-to-senior roles. Additionally, while the role involves CI/CD pipelines (matching configuration management), the junior-level requirement makes it incompatible with her career stage.",
+    "reason": "The job is explicitly a 'Junior' role requiring 1-2 years of experience, but the candidate has ~15 years of experience and targets mid-to-senior roles. She would be overqualified for this entry-level position.",
     "id": "b4025bd3",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DevOps Engineer",
@@ -2146,15 +2140,14 @@
     "url": "https://mt.linkedin.com/jobs/view/senior-devops-engineer-at-square-one-resources-4462292573",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job aligns with the candidate's experience in DevOps (CI/CD pipelines, infrastructure as code) and is located in Malta, which is a target country. The role also matches the 'configuration management' positive constraint.",
+    "reason": "The Senior DevOps Engineer role in Sliema, Malta matches Priya's expertise in CI/CD pipelines, infrastructure as code (Terraform), Kubernetes, GitOps, and cloud technologies (AWS), along with her regulated-industry quality/compliance experience.",
     "id": "ef81e153",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/square_one_resources_senior_devops_engineer_ef81e153.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/square_one_resources_senior_devops_engineer_ef81e153.txt"
   },
   {
     "title": "DevOps Engineer",
@@ -2163,15 +2156,14 @@
     "url": "https://mt.linkedin.com/jobs/view/devops-engineer-at-rs2-4464788141",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job as a DevOps Engineer at RS2 in Mosta, Malta matches Priya\u2019s CI/CD pipeline ownership, infrastructure tooling (AWS/Azure/Docker/Kubernetes), and configuration management experience, aligning with her Elektrobit and Topcon background and the 'configuration management' positive constraint.",
+    "reason": "The DevOps Engineer role at RS2 in Malta aligns with the candidate's CI/CD pipeline ownership, infrastructure tooling experience (AWS/Azure/Docker/Kubernetes), and regulated-industry quality gatekeeping background, while meeting location and language requirements.",
     "id": "5beaad31",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-14",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/rs2_devops_engineer_5beaad31.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/rs2_devops_engineer_5beaad31.txt"
   },
   {
     "title": "DEVOPS",
@@ -2179,16 +2171,15 @@
     "location": "San \u0120iljan, Saint Julian's, Malta",
     "url": "https://mt.linkedin.com/jobs/view/devops-at-religa-4456902267",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job aligns with Priya's CI/CD and configuration management expertise but requires AWS/cloud-native infrastructure experience she hasn't explicitly highlighted, though her Git workflow and automation skills overlap with DevOps responsibilities.",
+    "matches_requirements": "yes",
+    "reason": "The job as a DevOps Engineer in Malta matches Priya's expertise in CI/CD pipelines, infrastructure-as-code (Terraform), containerization (Docker/Kubernetes), and AWS experience, aligning with her background at Elektrobit and Topcon.",
     "id": "6c0c8da5",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-08-29",
-    "deadline": "N/A",
+    "deadline": "2027-09-17",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/religa__devops_6c0c8da5.txt"
   },
   {
     "title": "DevOps Engineer",
@@ -2197,15 +2188,14 @@
     "url": "https://mt.linkedin.com/jobs/view/devops-engineer-at-client-server-4472016889",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job as a DevOps Engineer in Birkirkara, Malta aligns with the candidate's CI/CD pipeline expertise, Docker/Kubernetes experience, and regulated-industry background (though not explicitly medical/device-regulated), while meeting location and experience-level criteria.",
+    "reason": "The job aligns with the candidate's DevOps/CI-CD expertise, is located in Malta (a target country), and matches her experience with configuration management and technical documentation.",
     "id": "22cb60b0",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/client_server_devops_engineer_22cb60b0.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/client_server_devops_engineer_22cb60b0.txt"
   },
   {
     "title": "Senior DevOps Build/CI Engineer",
@@ -2214,15 +2204,14 @@
     "url": "https://mt.linkedin.com/jobs/view/senior-devops-build-ci-engineer-at-altenar-4387938551",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job matches as a Senior DevOps Engineer role in Malta (target country), aligning with Priya's CI/CD/configuration management expertise and regulated-industry experience, while meeting all location, language, and experience criteria.",
+    "reason": "The role aligns with Priya's expertise in DevOps/CI-CD (Jenkins, GitHub Actions), configuration management (branching strategies, Git), and regulated-industry compliance experience, located in Malta (target country) with no explicit visa sponsorship restrictions.",
     "id": "f74174a9",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-04-01",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": "job_descriptions/altenar_senior_devops_build_ci_enginee_f74174a9.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/altenar_senior_devops_build_ci_enginee_f74174a9.txt"
   },
   {
     "title": "DevOps Engineer",
@@ -2231,15 +2220,14 @@
     "url": "https://mt.linkedin.com/jobs/view/devops-engineer-at-client-server-4470377948",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job is a DevOps Engineer role in Malta (target country) with CI/CD focus matching Priya's skills, but it's explicitly labeled as 'Entry level' which may not align with her seniority despite her extensive experience.",
+    "reason": "The role matches DevOps Engineer and is located in Malta (a target country), but the 'Entry level' designation may not align with the candidate's ~15 years of experience, though the job does not explicitly restrict to 0\u20132 years of experience.",
     "id": "6a0f064f",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cloud Engineer",
@@ -2248,15 +2236,14 @@
     "url": "https://mt.linkedin.com/jobs/view/cloud-engineer-at-italent-plus-4472265382",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job requires hands-on cloud engineering expertise in Azure infrastructure, which partially overlaps with the candidate's CI/CD and Infrastructure as Code (ARM/Bicep) skills but diverges from her primary focus on release/configuration management and technical documentation.",
+    "reason": "The job requires a Cloud Engineer with Azure infrastructure expertise, which partially overlaps with the candidate\u2019s CI/CD and IaC experience but does not strongly align with her background in regulated-release management or technical communication.",
     "id": "b2a2d447",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-26",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Infrastructure Engineer",
@@ -2264,16 +2251,15 @@
     "location": "Malta",
     "url": "https://mt.linkedin.com/jobs/view/senior-infrastructure-engineer-at-searchapi-4434479923",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires infrastructure engineering expertise in cloud operations (AWS, Terraform, browser clouds) which does not align with the candidate's background in CI/CD/release management and technical documentation, despite some DevOps overlap.",
+    "matches_requirements": "maybe",
+    "reason": "The job requires a Senior Infrastructure Engineer with AWS/Terraform expertise, which partially overlaps with the candidate's DevOps/CI-CD background but does not align directly with her core experience in release/configuration management, technical writing, or regulated-industry quality gatekeeping.",
     "id": "006cf4a9",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-06-30",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Cloud Platform Engineer (Azure)",
@@ -2282,15 +2268,14 @@
     "url": "https://mt.linkedin.com/jobs/view/senior-cloud-platform-engineer-azure-at-acuity-analytics-4417145271",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The job aligns partially with the candidate's CI/CD and cloud infrastructure experience (Azure, Terraform) but focuses more on platform engineering than her core strengths in configuration management/release ownership or technical documentation. Location (Malta) and seniority level match well.",
+    "reason": "The job involves cloud infrastructure engineering with Azure, which partially overlaps with Priya's DevOps/CI-CD experience but does not strongly align with her expertise in configuration management, release processes, or regulated-industry quality gatekeeping (key aspects of her Topcon and Elektrobit roles).",
     "id": "e3675f97",
     "source": "linkedin_mt_devops_engineer",
     "added_at": "2026-09-28T14:40:47+03:00",
     "posted_date": "2026-09-24",
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Core DevOps Engineer",

@@ -4,7 +4,7 @@ Location: Sliema, Malta
 URL: https://mt.linkedin.com/jobs/view/senior-devops-engineer-at-square-one-resources-4462292573
 Posted: 2026-09-14
 Deadline: N/A
-Reason: The job aligns with the candidate's experience in DevOps (CI/CD pipelines, infrastructure as code) and is located in Malta, which is a target country. The role also matches the 'configuration management' positive constraint.
+Reason: The Senior DevOps Engineer role in Sliema, Malta matches Priya's expertise in CI/CD pipelines, infrastructure as code (Terraform), Kubernetes, GitOps, and cloud technologies (AWS), along with her regulated-industry quality/compliance experience.
 
 ========================================
 JOB DESCRIPTION:
@@ -22,8 +22,8 @@ LinkedIn
 Jobs
 Clear text
 Clear text
-Join now
 Sign in
+Join now
 Senior DevOps Engineer
 Square One Resources  Sliema, Malta
 2 weeks ago  40 applicants
@@ -155,10 +155,8 @@ Gambling Facilities and Casinos and Software Development
 Referrals increase your chances of interviewing at Square One Resources by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Sliema, Malta.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 Platform Core DevOps Engineer - Infra
 Platform Core DevOps Engineer - Infra
@@ -198,7 +196,7 @@ Games Delivery Expert F/M
 Betclic Group
 
 Sliema, Sliema, Malta
-1 week ago
+2 weeks ago
 Lead Product Designer
 Lead Product Designer
 
@@ -219,14 +217,14 @@ Lead Product Designer
 Blue Monkeys in Space
 
 Sliema, Malta
-4 days ago
+5 days ago
 Development Team Lead | Malta | PHP
 Development Team Lead | Malta | PHP
 
 Refactor.
 
 Sliema, Malta
-3 hours ago
+4 hours ago
 SRE (Site Reliability Engineer)
 SRE (Site Reliability Engineer)
 
@@ -261,7 +259,7 @@ Senior Network Engineer
 Internet Vikings
 
 Sliema, Sliema, Malta
-2 hours ago
+3 hours ago
 LinkedIn
 © 2026
 About

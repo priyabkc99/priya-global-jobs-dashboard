@@ -4,7 +4,7 @@ Location: Birkirkara, Malta
 URL: https://mt.linkedin.com/jobs/view/devops-engineer-at-client-server-4472016889
 Posted: 2026-09-26
 Deadline: N/A
-Reason: The job as a DevOps Engineer in Birkirkara, Malta aligns with the candidate's CI/CD pipeline expertise, Docker/Kubernetes experience, and regulated-industry background (though not explicitly medical/device-regulated), while meeting location and experience-level criteria.
+Reason: The job aligns with the candidate's DevOps/CI-CD expertise, is located in Malta (a target country), and matches her experience with configuration management and technical documentation.
 
 ========================================
 JOB DESCRIPTION:
@@ -22,8 +22,8 @@ LinkedIn
 Jobs
 Clear text
 Clear text
-Join now
 Sign in
+Join now
 DevOps Engineer
 Client Server  Birkirkara, Malta
 2 days ago   Be among the first 25 applicants
@@ -119,10 +119,8 @@ Software Development and Technology, Information and Media
 Referrals increase your chances of interviewing at Client Server by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Birkirkara, Malta.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 DevOps Engineer
 DevOps Engineer

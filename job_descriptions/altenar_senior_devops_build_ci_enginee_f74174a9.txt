@@ -4,7 +4,7 @@ Location: San Ġiljan, Saint Julian's, Malta
 URL: https://mt.linkedin.com/jobs/view/senior-devops-build-ci-engineer-at-altenar-4387938551
 Posted: 2026-04-01
 Deadline: N/A
-Reason: The job matches as a Senior DevOps Engineer role in Malta (target country), aligning with Priya's CI/CD/configuration management expertise and regulated-industry experience, while meeting all location, language, and experience criteria.
+Reason: The role aligns with Priya's expertise in DevOps/CI-CD (Jenkins, GitHub Actions), configuration management (branching strategies, Git), and regulated-industry compliance experience, located in Malta (target country) with no explicit visa sponsorship restrictions.
 
 ========================================
 JOB DESCRIPTION:
@@ -22,8 +22,8 @@ LinkedIn
 Jobs
 Clear text
 Clear text
-Join now
 Sign in
+Join now
 Senior DevOps Build/CI Engineer
 Altenar  San Ġiljan, Saint Julian's, Malta
 6 months ago  27 applicants
@@ -125,10 +125,8 @@ Software Development
 Referrals increase your chances of interviewing at Altenar by 2x
 
 See who you know
-
-Get notified about new Continuous Improvement Engineer jobs in San Ġiljan, Saint Julian's, Malta.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 Senior DevOps Engineer - Gaming
 Senior DevOps Engineer - Gaming
@@ -139,7 +137,7 @@ Senior DevOps Engineer
 Senior DevOps Engineer
 Gaming Innovation Group
 San Ġiljan, Saint Julian's, Malta
-1 hour ago
+2 hours ago
 Senior DevOps Engineer
 Senior DevOps Engineer
 BetForge.ai

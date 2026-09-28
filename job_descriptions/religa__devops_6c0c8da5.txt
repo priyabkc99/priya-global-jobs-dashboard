@@ -1,0 +1,216 @@
+Title: DEVOPS
+Company: RELIGA.
+Location: San Ġiljan, Saint Julian's, Malta
+URL: https://mt.linkedin.com/jobs/view/devops-at-religa-4456902267
+Posted: 2026-08-29
+Deadline: 2027-09-17
+Reason: The job as a DevOps Engineer in Malta matches Priya's expertise in CI/CD pipelines, infrastructure-as-code (Terraform), containerization (Docker/Kubernetes), and AWS experience, aligning with her background at Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DEVOPS
+RELIGA.  San Ġiljan, Saint Julian's, Malta
+1 month ago  26 applicants
+  
+
+See who RELIGA. has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Opening Date – 17/08/2026
+
+Closing Date – 17/09/2027
+
+Job Description
+
+Seeking a hands-on DevOps Engineer to build, operate, and scale cloud-native infrastructure and CI/CD pipelines. The ideal candidate has strong AWS experience, containerization skills, solid database knowledge (PostgreSQL, MongoDB, Redis), and deep familiarity with Git workflows and collaboration.
+
+Role and Responsibilities
+
+
+Design, implement, and maintain AWS infrastructure (EC2, ECS/EKS, Lambda, VPC, IAM, S3, RDS, CloudFormation/Terraform, CloudWatch).
+Build and operate CI/CD pipelines using tools like GitHub Actions, GitLab CI, or Jenkins; enforce reliable, repeatable deployments.
+Containerize applications and manage container platforms using Docker and orchestration (ECS/EKS/Kubernetes).
+Administer and optimize databases: PostgreSQL (schema design, backups, replication, performance tuning), MongoDB (sharding, indexing, replica sets), and Redis (caching, data structures, persistence).
+Implement infrastructure as code (Terraform/CloudFormation) and configuration management (Ansible/Chef/Puppet).
+Implement monitoring, logging, alerting, and incident response practices (Prometheus/Grafana, ELK/EFK).
+Collaborate with developers on Git workflows: branching strategies, rebasing, merging, resolving conflicts, PR reviews, and release management.
+Automate security, secrets management, and compliance checks (AWS IAM best practices, Vault/Secrets Manager).
+Troubleshoot production issues, conduct postmortems, and drive reliability improvements.
+
+
+Person Specification (Skills; knowledge; experience; attitude)
+
+
+3+ years professional DevOps/SRE experience.
+Strong AWS experience with core services listed above.
+Proficient with Docker and container lifecycle (image creation, registries, runtime).
+Practical experience with PostgreSQL and MongoDB administration and performance tuning.
+Experience operating Redis for caching or ephemeral data.
+Solid Git skills: branching strategies (Git Flow/Trunk-Based), rebasing, conflict resolution, code review practices.
+Experience with CI/CD tooling and automation scripting (Bash, Python, or similar).
+Experience with infrastructure-as-code (Terraform or CloudFormation).
+Strong troubleshooting, communication, and collaboration skills.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Management and Manufacturing
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at RELIGA. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+RS2
+Mosta, Malta
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Intralot
+Msida, Malta
+€45,000 - €55,000
+1 week ago
+DevOps Engineer (Naxxar, Malta)
+DevOps Engineer (Naxxar, Malta)
+Novibet
+Naxxar, Naxxar, Malta
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Light & Wonder - iGaming
+Sliema, Sliema, Malta
+4 days ago
+DevOps Engineer - Zecure Gaming
+DevOps Engineer - Zecure Gaming
+Betsson Group
+Ta' Xbiex, Ta' Xbiex, Malta
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Client Server
+Birkirkara, Malta
+€50,000 - €60,000
+2 days ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Platform Engineer (Azure)
+Senior Cloud Platform Engineer (Azure)
+
+Acuity Analytics
+
+Birkirkara, Malta
+4 days ago
+IT Operations Engineer
+IT Operations Engineer
+
+Deriv
+
+Birkirkara, Malta
+5 days ago
+Principal Cloud & Platform Engineer
+Principal Cloud & Platform Engineer
+
+Acuity Analytics
+
+Birkirkara, Malta
+4 days ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Valletta, Valletta, Malta
+1 week ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+6 days ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+2 weeks ago
+Payments - DevOps Engineer
+Payments - DevOps Engineer
+
+Betsson Group
+
+Valletta, Valletta, Malta
+2 weeks ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Platin Gaming Ltd.
+
+Malta
+1 week ago
+Senior DevOps Engineer - Gaming
+Senior DevOps Engineer - Gaming
+
+Betsson Group
+
+Ta' Xbiex, Malta
+4 days ago
+Cloud Engineer (AWS)
+Cloud Engineer (AWS)
+
+Platin Gaming Ltd.
+
+Malta
+4 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at RELIGA.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

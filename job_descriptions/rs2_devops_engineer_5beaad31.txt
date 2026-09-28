@@ -4,7 +4,7 @@ Location: Mosta, Malta
 URL: https://mt.linkedin.com/jobs/view/devops-engineer-at-rs2-4464788141
 Posted: 2026-09-14
 Deadline: N/A
-Reason: The job as a DevOps Engineer at RS2 in Mosta, Malta matches Priya’s CI/CD pipeline ownership, infrastructure tooling (AWS/Azure/Docker/Kubernetes), and configuration management experience, aligning with her Elektrobit and Topcon background and the 'configuration management' positive constraint.
+Reason: The DevOps Engineer role at RS2 in Malta aligns with the candidate's CI/CD pipeline ownership, infrastructure tooling experience (AWS/Azure/Docker/Kubernetes), and regulated-industry quality gatekeeping background, while meeting location and language requirements.
 
 ========================================
 JOB DESCRIPTION:
@@ -22,8 +22,8 @@ LinkedIn
 Jobs
 Clear text
 Clear text
-Join now
 Sign in
+Join now
 DevOps Engineer
 RS2  Mosta, Malta
 2 weeks ago  77 applicants
@@ -100,10 +100,8 @@ IT Services and IT Consulting
 Referrals increase your chances of interviewing at RS2 by 2x
 
 See who you know
-
-Get notified about new DevOps Engineer jobs in Mosta, Malta.
-
-Sign in to create job alert
+Get notified when a new job is posted.
+Set alert
 Similar jobs
 Database Engineer
 Database Engineer
@@ -129,7 +127,7 @@ Information Security Officer
 Information Security Officer
 RS2
 Mosta, Malta
-4 hours ago
+5 hours ago
 Content Creator
 Content Creator
 AX Careers
@@ -137,6 +135,13 @@ Mosta, Malta
 5 days ago
 Show more jobs like this 
 People also viewed
+Senior Telecommunications Engineer
+Senior Telecommunications Engineer
+
+HAUD
+
+Mosta, Mosta, Malta
+4 weeks ago
 Business Systems Analyst
 Business Systems Analyst
 
@@ -158,13 +163,6 @@ RS2
 
 Mosta, Malta
 2 weeks ago
-ELECTRICAL INSTALLER
-ELECTRICAL INSTALLER
-
-CE Installations Limited
-
-Mosta, Mosta, Malta
-1 month ago
 Lawyer
 Lawyer
 
@@ -179,13 +177,6 @@ AX Careers
 
 Mosta, Malta
 5 days ago
-ELECTRICAL TECHNICIAN
-ELECTRICAL TECHNICIAN
-
-CE Installations Limited
-
-Mosta, Mosta, Malta
-1 month ago
 Finance Assistant (Part-Time or FTR)
 Finance Assistant (Part-Time or FTR)
 
@@ -204,6 +195,13 @@ Tax Senior Team Leader
 Tax Senior Team Leader
 
 R77 PeopleCloud
+
+Mosta, Mosta, Malta
+2 months ago
+Contact Centre Agent (German-speaking)*
+Contact Centre Agent (German-speaking)*
+
+FH Collective - Academy
 
 Mosta, Mosta, Malta
 2 months ago
