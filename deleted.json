@@ -542,5 +542,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Programme Coordinator",
+    "company": "Greater Wellington",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/programme-coordinator-at-greater-wellington-4470675408",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that Greater Wellington is unable to provide sponsorship for this position, which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection criterion.",
+    "id": "f6a3c153",
+    "source": "linkedin_nz_documentation_specialist",
+    "added_at": "2026-09-29T18:06:28+03:00",
+    "posted_date": "2026-09-23",
+    "deadline": "2026-10-04",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
