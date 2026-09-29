@@ -134,3 +134,21 @@ While any filter is set (column filters, date limits, location text, LLM pills, 
 
 ## Firestore lockdown rules actually deployed 2026-09-29
 The 2026-09-28 lockdown entry above said bare calls 'now get 403', but the locked-down `firestore.rules` had never been deployed: anonymous reads still returned 200 on all four projects (priya-jobs-dashboard, priya-global-jobs, manju-jobs-dashboard, vineeth-jobs-dashboard) until 2026-09-29, when they were deployed with `firebase deploy --only firestore:rules`. Verified after deploy: anonymous GET on `shared_state/job_status` and `user_feedback` -> 403; service-account `firestore_auth.session()` -> 200; no unauthenticated Firestore calls in any repo's .py files. **To check the lockdown, test anonymous access yourself** (`Invoke-WebRequest https://firestore.googleapis.com/v1/projects/<id>/databases/(default)/documents/shared_state/job_status` should throw 403). The committed rules file alone proves nothing. Any other machine needs its `~/.secrets/<project>-sa.json` key (Manju's PC was pending at deploy time).
+
+## Resume/apply skills ported for the global board (2026-09-29)
+`tailor-resume` / `fill-form` / `find-apply-link` / `mark-job-deleted` + helpers copied from priya_jobs and
+repointed (6 hard-wired `priya-jobs-dashboard` refs -> `priya-global-jobs` project /
+`priya-global-jobs-dashboard` repo; all Firestore calls already used `firestore_auth`). Global-specific wording:
+cover-letter paragraph 4 + profile facts (relocation to the job's country; never claim right to work; Finnish PR /
+learning-Finnish lines removed; sponsorship mentioned only if the posting raises it), fill-form right-to-work =
+"No — would require visa sponsorship", fill-form sanity check uses this board's countries + sponsorship/clearance
+rejections. Verified on this PC: `find_repos.py` finds both repos, `job_status_store.py` reads priya-global-jobs,
+`make_resume.py` + `html_to_pdf.py` render the master resume/letter PDFs. A real `/tailor-resume` run (which
+commits to the private repo) not yet done — first one will be from Priya's PC.
+**Priya's PC setup:** clone `priya-global-jobs-dashboard` to `C:\Users\priya\priya_global_jobs` (sibling of
+`priya-jobs-private`), `python -m venv venv`, `pip install playwright requests python-dotenv beautifulsoup4
+filelock google-auth`, `python -m playwright install chromium`; key already at
+`C:\Users\priya\.secrets\priya-global-jobs-sa.json`. Run the skills from that folder with global job IDs.
+**Known gap (also on priya_jobs):** `mark-job-deleted` writes `deletion_reason` to Firestore, but no scraper
+reads it — only review.html hides such jobs; the main table and jobs.json keep them. The skill's claim that "the
+scraper moves them to deleted.json" is not true on either board.
