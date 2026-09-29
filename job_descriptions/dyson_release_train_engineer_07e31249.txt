@@ -1,0 +1,226 @@
+Title: Release Train Engineer
+Company: Dyson
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/release-train-engineer-at-dyson-4462803114
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The role of Release Train Engineer at Dyson in Singapore matches Priya's extensive experience in release management, CI/CD, and Agile practices, along with her background in regulated industries and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Train Engineer
+Dyson  Singapore, Singapore
+3 days ago  71 applicants
+  
+
+See who Dyson has hired for this role
+
+Apply 
+Save
+About Us
+
+We own and develop the MyDyson mobile app, which is at the forefront of Dyson's IoT experience. We are proud of what we have built so far; we have more than 2 million active users worldwide and our IoT platform has over 8 million connected Dyson machines. We have huge ambition to grow this platform and as we connect more machines from more categories, the challenge is significant.
+
+About The Role
+
+We are seeking a highly driven Release Train Engineer to lead delivery execution, release governance, and agile practices across our global mobile engineering organisation.
+
+This role is responsible for driving predictable delivery across multiple Agile teams while owning the end-to-end release governance and management process for our iOS and Android applications. You will act as the central coordination point between Engineering, Product, QA, and external delivery partners to ensure the successful planning, execution, and release of customer-facing mobile products.
+
+Leading a team of Scrum Masters and Release QA professionals, you will oversee delivery health across teams located in Singapore, Poland, the United Kingdom, and Dubai. Success in this role requires a strong blend of programme leadership, release management expertise, stakeholder management, and a practical understanding of mobile application release processes, including Apple App Store and Google Play Store deployments.
+
+What you’ll be doing
+
+
+Lead & facilitate Program Increment (PI) planning, quarterly planning activities, and major cross-team delivery initiatives.
+Drive alignment and execution across multiple Agile teams distributed across the globe.
+Coordinate dependencies across teams and other ARTs.
+Lead and facilitate Agile Health Checks, helping teams assess their effectiveness, identify improvement opportunities, and track progress over time.
+Drive a culture of continuous improvement by leading and facilitating improvement initiatives, and ensuring learnings are translated into actionable outcomes.
+Proactively manage delivery risks, dependencies, impediments, and escalations to ensure successful programme outcomes.
+Provide executive-level reporting and visibility on programme health, delivery progress, release readiness, and key risks.
+Establish and track delivery metrics such as predictability, velocity trends, release quality, release frequency, and defect trends.
+Partner closely with Engineering Managers, Product Owners, Principal Engineers, QA Leads, and senior stakeholders to ensure aligned priorities and successful delivery.
+Lead, coach, and develop Scrum Masters through the Scrum Master Community of Practice (CoP), while driving consistency, continuous improvement, and excellence in Agile practices across teams.
+Own and govern the end-to-end release management lifecycle for all mobile applications across iOS and Android.
+Manage the release calendar, release readiness reviews, Go/No-Go decisions, production deployments, and post-release activities.
+Coordinate and govern releases to the Apple App Store and Google Play Store, including phased rollouts, emergency fixes, and release communications.
+Continuously improve delivery processes, release governance, operational excellence, and Agile maturity across the organization.
+Govern delivery commitments, release readiness, planning participation, and cross-team dependencies involving external development partners and vendors.
+
+
+
+About You
+
+
+8+ years of experience in software delivery, programme management, release management, Agile leadership, or a related discipline.
+Proven experience coordinating delivery across multiple Agile teams within a complex technology environment.
+Strong experience managing software releases for customer-facing digital products, ideally mobile applications.
+Demonstrated ability to drive execution, manage dependencies, and deliver outcomes across geographically distributed teams.
+Strong understanding of Agile methodologies including Scrum, Kanban, and scaled delivery practices.
+Experience working with mobile application release processes and a working knowledge of Apple App Store and Google Play Store deployment workflows.
+Excellent stakeholder management skills with the ability to influence and align technical and non-technical audiences.
+Strong analytical mindset with experience using data and metrics to drive delivery improvements.
+Comfortable operating at both strategic and operational levels, balancing executive reporting with hands-on delivery leadership.
+Experience leading Scrum Masters, driving Agile best practices, and fostering a culture of accountability and continuous improvement.
+Experience working with external vendors, offshore teams, and complex cross-functional programmes is highly desirable.
+Experience in Technical Program Management, Delivery Management, Release Management, or Release Train Engineering within a large-scale product engineering organisation.
+
+
+
+Dyson is an equal opportunity employer. We know that great minds don’t think alike, and it takes all kinds of minds to make our technology so unique. We welcome applications from all backgrounds and employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other any other dimension of diversity.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Appliances, Electrical, and Electronics Manufacturing
+  
+
+Referrals increase your chances of interviewing at Dyson by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Release & Environment Manager
+Release & Environment Manager
+Accenture Southeast Asia
+Singapore, Singapore
+1 week ago
+Senior Release Manager
+Senior Release Manager
+StarHub
+Singapore, Singapore
+1 week ago
+Technical Project Manager
+Technical Project Manager
+StarHub
+Singapore, Singapore
+2 weeks ago
+Technology Lead - Lending Applications Stability & Release Management (Vice President)
+Technology Lead - Lending Applications Stability & Release Management (Vice President)
+Citi
+Singapore, Singapore
+3 days ago
+Delivery Manager
+Delivery Manager
+Singtel
+Singapore, Singapore
+2 weeks ago
+Senior Delivery Lead - Singapore
+Senior Delivery Lead - Singapore
+Sokin
+Singapore, Singapore
+3 days ago
+Show more jobs like this 
+People also viewed
+Digital Delivery & Implementation Manager
+Digital Delivery & Implementation Manager
+
+Sonova Group
+
+Singapore, Singapore
+1 week ago
+Senior Manager, Digital Product
+Senior Manager, Digital Product
+
+Singapore Post
+
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+4 months ago
+Project Manager
+Project Manager
+
+Manulife
+
+Singapore, Singapore
+5 days ago
+Lead Site Reliability Engineer, Athena Core
+Lead Site Reliability Engineer, Athena Core
+
+JPMorganChase
+
+Singapore, Singapore
+1 week ago
+Regional IT Operations
+Regional IT Operations
+
+Sea
+
+Singapore, Singapore
+6 days ago
+Lead Engineer, Site Reliability Engineering
+Lead Engineer, Site Reliability Engineering
+
+Mastercard
+
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Jump Trading
+
+Singapore, Singapore
+1 day ago
+Associate, Business Testing & Release Management
+Associate, Business Testing & Release Management
+
+Singtel
+
+Singapore, Singapore
+1 week ago
+Technical Program Manager [Digital Platforms | Agile Delivery | DevOps | B2C]
+Technical Program Manager [Digital Platforms | Agile Delivery | DevOps | B2C]
+
+GRIT
+
+Singapore, Singapore
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Dyson
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,236 @@
+Title: Delivery Manager
+Company: Singtel
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/delivery-manager-at-singtel-4418556811
+Posted: 2026-09-15
+Deadline: N/A
+Reason: The Delivery Manager role at Singtel aligns with Priya's experience in release management, cross-team coordination, and compliance with organisational controls, matching her background in regulated industries and configuration management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Delivery Manager
+Singtel  Singapore, Singapore
+2 weeks ago   Over 200 applicants
+  
+
+See who Singtel has hired for this role
+
+Apply 
+Save
+An empowering career at Singtel begins with a Hello. Our purpose, to Empower Every Generation, connects people to the possibilities they need to excel. Every "hello" at Singtel opens doors to new initiatives, growth, and BIG possibilities that takes your career to new heights. So, when you say hello to us, you are really empowered to say…“Hello BIG Possibilities”.
+
+Be a Part of Something BIG!
+
+The Delivery Manager is responsible for end-to-end delivery and release management for the BCC (Billing, Customer & Charging) squad, with primary accountability for BCC Major and Ad-hoc releases.
+
+This role serves as the single point of coordination and accountability for planning, governance, readiness, and execution of BCC releases, ensuring changes are delivered safely, predictably, and in compliance with organisational controls.
+
+The Delivery Manager works closely with BCC application teams, Business stakeholders, Network, Operations, Infrastructure, and Vendors to ensure that all release activities are properly scoped, aligned, approved, and executed with minimal business impact.
+
+The scope of this role is intentionally focused on BCC delivery and release execution, including:
+
+
+Delivery management for BCC squad initiatives
+End-to-end ownership of BCC Major and Ad-hoc releases
+Release governance, dependency management, and readiness assurance
+Coordination across Business, IT, Network, and Operations for BCC-related changes
+Ensuring release quality, stability, and auditability
+
+
+This role does not own end-to-end programme delivery across unrelated domains but plays a critical control and assurance role for one of the most business-critical platforms in Consumer IT.
+
+This role ensures that all BCC changes progress through the required testing phases (SIT, UAT, PET, PPT) and governance checkpoints, with clear accountability for release quality, risk management, and audit compliance.
+
+Make An Impact By
+
+
+Performing end-to-end delivery and release management for BCC, ensuring releases are delivered on time and with high-quality outcomes
+Tracking and compiling all demand and testing status to prepare the BCC weekly and monthly release scope for code and configuration changes
+Managing delivery risks and dependencies, including integration and downstream impacts
+Complying with Change Management standards and processes, ensuring all documentation for Technical Change Requests is completed and uploaded
+Preparing for and attending Pre-Change Approval Board (CAB) and CAB sessions
+Driving stakeholder management with Business, IT, Vendors, and other dependent application teams on scope, priorities, and release impact
+Overseeing environment readiness, cutover planning, and rollback strategies for deployment
+
+
+Education And Qualifications Skills for Success:
+
+
+Bachelor’s degree in Information Technology, Computer Science, Engineering, or a related discipline, with recognised Project/Delivery Management certification or equivalent practical experience
+
+
+Work Experience
+
+
+5–10 years of experience in IT delivery or release management roles within a matrixed enterprise environment
+Proven experience managing end-to-end delivery and release execution across multiple systems, teams, and stakeholders
+Hands-on experience coordinating major and ad-hoc releases for business-critical platforms
+Strong exposure to change governance, CAB processes, and release readiness controls
+Strong understanding of the software delivery and release lifecycle, including planning, testing coordination, deployment, and post-release stabilisation
+Working knowledge of delivery methodologies, including Waterfall and Agile, and the ability to apply them pragmatically in a release-driven environment
+Hands-on experience with release governance, risk management, dependency management, and quality assurance
+Ability to coordinate and track multiple testing phases (SIT, UAT, PET, PPT) to ensure readiness prior to release
+Proficiency with delivery and reporting tools such as Microsoft Excel, PowerPoint, Word, Visio, MS Project, and Agile delivery tools
+Strong communication and stakeholder management skills, with the ability to influence, negotiate, and align diverse teams toward a common release outcome
+Proven ability to work collaboratively across cross-functional and multicultural teams
+High level of problem-solving capability, with a calm, structured, and results-driven approach, particularly during release execution and issue resolution
+
+
+Are you ready to say hello to BIG Possibilities?
+
+Take the leap with Singtel to unlock new opportunities and accelerate your growth. Apply now and start your empowering career!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Management and Manufacturing
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Singtel by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Delivery Manager
+Delivery Manager
+PureSoftware Ltd
+Singapore, Singapore
+6 months ago
+Senior Delivery Lead - Singapore
+Senior Delivery Lead - Singapore
+Sokin
+Singapore, Singapore
+3 days ago
+Delivery Manager
+Delivery Manager
+RAPSYS TECHNOLOGIES PTE LTD
+Singapore, Singapore
+1 week ago
+Senior Delivery Manager
+Senior Delivery Manager
+Codex Solutions
+Singapore
+3 weeks ago
+Manager, Technical Delivery APAC - NVIS
+Manager, Technical Delivery APAC - NVIS
+NVIDIA
+Singapore, Singapore
+2 weeks ago
+Customer Delivery Manager, Singapore
+Customer Delivery Manager, Singapore
+Digital Edge DC
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+Manager, Global Client Delivery -Strategic Accounts
+Manager, Global Client Delivery -Strategic Accounts
+
+Digital Realty
+
+Singapore, Singapore
+2 weeks ago
+Tech Delivery Manager, Data and Collaboration Platforms Div (Contract)
+Tech Delivery Manager, Data and Collaboration Platforms Div (Contract)
+
+Monetary Authority of Singapore (MAS)
+
+Singapore, Singapore
+2 weeks ago
+Lead Technical Program Manager, Workplace Technology
+Lead Technical Program Manager, Workplace Technology
+
+JPMorganChase
+
+Singapore, Singapore
+2 weeks ago
+Technical Delivery Manager
+Technical Delivery Manager
+
+Encora Inc.
+
+Singapore
+1 month ago
+Supply Chain Project Delivery Manager
+Supply Chain Project Delivery Manager
+
+Cognizant
+
+Singapore, Singapore
+1 week ago
+Delivery Manager, Risk & Audit
+Delivery Manager, Risk & Audit
+
+Diligent
+
+Singapore, Singapore
+1 week ago
+Manager, Service Delivery (12 Month Fixed Term Contract)
+Manager, Service Delivery (12 Month Fixed Term Contract)
+
+Warner Bros. Discovery
+
+Singapore, Singapore
+6 days ago
+Technical Delivery Manager-Fircosoft
+Technical Delivery Manager-Fircosoft
+
+Synechron
+
+Singapore, Singapore
+1 week ago
+Delivery Lead, FRCS
+Delivery Lead, FRCS
+
+StarHub
+
+Singapore, Singapore
+5 days ago
+Product / Delivery Manager
+Product / Delivery Manager
+
+Sourceability
+
+Singapore, Singapore
+2 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Singtel
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
