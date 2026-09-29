@@ -1,0 +1,255 @@
+Title: Senior Technical Writer / Senior Documentation Engineer
+Company: Backbase
+Location: Cardiff, Wales, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-technical-writer-senior-documentation-engineer-at-backbase-4437560310
+Posted: 2026-09-15
+Deadline: N/A
+Reason: The job as a Senior Technical Writer at Backbase in Cardiff, UK matches Priya's background in technical communication, documentation ownership, and regulated-industry experience, aligning with her approved constraints and target role types.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Technical Writer / Senior Documentation Engineer
+Backbase  Cardiff, Wales, United Kingdom
+2 weeks ago  109 applicants
+  
+
+See who Backbase has hired for this role
+
+Apply 
+Save
+Role Overview
+
+The Senior Documentation Engineer is the documentation authority for a value stream (department). You manage the documentation system, information architecture, AI workflows, quality standards, and strategic direction for your domain. Your documentation is vital for implementation teams and partners that integrate the Backbase software in the bank's software ecosystem. You actively seek out users' feedback and use it to improve the documentation and the documentation system.
+
+Key Responsibilities
+
+
+Documentation system: Manages the AI-powered documentation system that is based on docs-as-code and Git. Continuously improves the tools and processes and kills bottlenecks.
+Documentation skills: Produces developer documentation and functional documentation with a clear separation in content types. Enforces writing style guidelines, terminology, templates, grammar, and spelling. Is hyperfocused on quality, seamless content flow, and avoiding bloat. Owns the information hierarchy of assigned documentation sets. Acts as a documentation authority within the value stream and advises teams on their documentation needs.
+Technical and domain knowledge: Understands the readers' SDLC and how documentation plays a vital role in their work. Has a basic understanding of software development. Has a deep understanding of the products delivered by their value stream and can connect it to the wider Backbase platform. Quickly learns new functional domains and is able to interview R&D product managers to understand the product. Can converse easily with R&D developers to assess technical documentation needs or check technical details. Translates this technical and domain knowledge into effective instructions for AI-powered tools.
+Legal and support terms: Understands the support terms and the legal impact of the documentation.
+User advocate: Knows the target audience and their documentation needs and pain points. Translates this knowledge into strategic advice to the value stream leadership.
+
+
+
+Qualifications & Experience
+
+
+Experience: 4-10 years as a documentation specialist, technical writer, or equivalent, in the field of developer documentation.
+Education: Either a Bachelor/Master's degree in software engineering/related field (combined with professional-level language proficiency) or university-level analytical skills (combined with professional-level language proficiency and a strong aptitude for technology)
+
+
+
+General Competencies
+
+Personal
+
+
+Accountability: Tracks work items vigorously, routinely spots gaps and bugs and creates appropriate work items. Keeps their promises. Manages their calendar, inbox, messages, meetings, and office attendance as a professional.
+Prioritization: Focuses on delivering customer value, responds quickly to user requests, divides time across release-related work, bug reports, and improvements.
+Growth mindset: Seeks out learning opportunities, asks for feedback, asks questions, and helps others to learn and grow. Challenges decisions when they have a concern. Actively participates in group meetings and makes their voice heard during discussions. Suggests and leads improvement projects.
+
+
+
+People
+
+
+Stakeholder management: Communicates pro-actively, keeping managers and stakeholders actively updated. Raises issues with the appropriate team or leader. Follows-up with people. Suggests changes to value stream leaders and discusses their requests and suggestions as an equal.
+Teams: Builds confidence and trust with their teams through reliability, predictability, and transparency of process and output. Models best behavior to fellow team members and holds them accountable for quality.
+Collaboration: Establishes a fruitful collaboration with teams and fellow documentation engineers. Balances helping others and saying no. Practices active listening and clear communication. Focuses on problem solving. May coach and supervise less experienced team members.
+
+
+
+Project Management
+
+
+Process: Follows established processes and communicates these with their teams. Drives improvements to processes.
+Projects: Oversees a large or complex documentation project with various stakeholders from beginning to end.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Administrative
+Industries
+Technology, Information and Internet and Software Development
+  
+
+Referrals increase your chances of interviewing at Backbase by 2x
+
+See who you know
+
+Get notified about new Documentation Engineer jobs in Cardiff, Wales, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Staff Technical Writer jobs
+Senior Technical Writer / Senior Documentation Engineer
+Similar jobs
+Technical Author
+Technical Author
+Yolk Recruitment Ltd
+Greater Cardiff Area
+23 hours ago
+Technical Writer, Veeqo
+Technical Writer, Veeqo
+Amazon
+Swansea, Wales, United Kingdom
+1 week ago
+Production Engineering Technical Author
+Production Engineering Technical Author
+SEA Group
+Barnstaple, England, United Kingdom
+1 day ago
+IPS Subject Matter Expert
+IPS Subject Matter Expert
+Leonardo
+Yeovil, England, United Kingdom
+£53,000 - £60,000
+5 days ago
+Tech Data Operations Business Specialist
+Tech Data Operations Business Specialist
+Airbus
+Bristol, England, United Kingdom
+6 days ago
+Bid/Proposals Technical Author
+Bid/Proposals Technical Author
+Buro Happold
+Bath, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Document Controller (13527)
+Document Controller (13527)
+
+Tilbury Douglas
+
+Clevedon, England, United Kingdom
+2 months ago
+Bid Writer / Bid Developer – Major Bids Team
+Bid Writer / Bid Developer – Major Bids Team
+
+Turner & Townsend
+
+Bristol, England, United Kingdom
+4 days ago
+Senior Systems Engineer
+Senior Systems Engineer
+
+Raytheon UK
+
+Warminster, England, United Kingdom
+6 days ago
+Service Engineer
+Service Engineer
+
+Harvey Nash
+
+Gloucester, England, United Kingdom
+3 days ago
+Document Developer
+Document Developer
+
+Refresco
+
+Bridgwater, England, United Kingdom
+3 weeks ago
+QA Technical Administrator
+QA Technical Administrator
+
+Bilfinger UK
+
+Taunton, England, United Kingdom
+5 days ago
+Document Controller
+Document Controller
+
+Exyte
+
+Bury, England, United Kingdom
+1 week ago
+Technical Administrator - Height Safety
+Technical Administrator - Height Safety
+
+Harmony Fire
+
+Yeovil, England, United Kingdom
+5 days ago
+Senior Information Manager
+Senior Information Manager
+
+AECOM
+
+Bristol, England, United Kingdom
+4 months ago
+Senior Technical Services Engineer
+Senior Technical Services Engineer
+
+Tristram Parker Recruitment
+
+Maesteg, Wales, United Kingdom
+2 weeks ago
+Similar Searches
+Staff Technical Writer jobs
+30 open jobs
+Contract Technical Writer jobs
+181 open jobs
+Lead Technical Writer jobs
+133 open jobs
+Senior Technical Writer jobs
+482 open jobs
+Principal Technical Writer jobs
+30 open jobs
+Principal Development Engineer jobs
+2,965 open jobs
+Document Developer jobs
+21,576 open jobs
+Senior Technical Editor jobs
+146 open jobs
+Regulatory Engineer jobs
+466 open jobs
+Technical Writer jobs
+2,644 open jobs
+Information Architect jobs
+3,349 open jobs
+Product Test Engineer jobs
+1,153 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Backbase
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

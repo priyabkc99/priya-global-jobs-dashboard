@@ -525,5 +525,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Technical Author",
+    "company": "BT Group",
+    "location": "London, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/technical-author-at-bt-group-4455877525",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires DV (Developed Vetting) level Security Clearance, which is a mandatory requirement and falls under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection criterion as it necessitates government security clearance that the candidate cannot meet.",
+    "id": "1c9584e5",
+    "source": "linkedin_uk_documentation_specialist",
+    "added_at": "2026-09-29T16:46:53+03:00",
+    "posted_date": "2026-09-15",
+    "deadline": "2026-07-23",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
