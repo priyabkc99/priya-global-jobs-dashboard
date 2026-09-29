@@ -236,5 +236,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/aerovect_staff___senior_deployment___re_0d7f02cf.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Chapter Lead",
+    "company": "ASB Bank",
+    "location": "Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/chapter-lead-at-asb-bank-4468540128",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job is located in New Zealand (target country) and involves technical leadership with CI/CD automation, but the primary focus on people leadership and COBOL/.NET development doesn't strongly align with Priya's expertise in regulated-industry release/configuration management or technical writing.",
+    "id": "345c6fb7",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-09-29T05:55:47+03:00",
+    "posted_date": "2026-09-23",
+    "deadline": "2023-10-02",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-02) passed by more than 2 days and unreviewed"
   }
 ]
