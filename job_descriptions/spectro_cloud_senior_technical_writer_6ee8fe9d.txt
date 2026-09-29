@@ -1,0 +1,267 @@
+Title: Senior Technical Writer
+Company: Spectro Cloud
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-technical-writer-at-spectro-cloud-4440744653
+Posted: 2026-07-31
+Deadline: N/A
+Reason: The Senior Technical Writer role at Spectro Cloud aligns with Priya's background as a Technical Communication Specialist, her expertise in technical writing for complex software platforms, and her experience with developer tools (git, Docker, Kubernetes) and documentation processes.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Technical Writer
+Spectro Cloud  London, England, United Kingdom
+2 months ago  75 applicants
+  
+
+See who Spectro Cloud has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Who We Are
+
+We are Spectro Cloud. We're on a mission to deliver a Kubernetes-centric platform that allows developers and their IT & Platform friends to work together making software easier, safer and more fun to deliver and manage. We help people use and run Kubernetes their way, anywhere. Led by a team that has built products and companies successfully before and is doing it again; together with talented team members and industry-leading investors backing us up, we're taking K8s everywhere you can imagine.
+
+About The Job
+
+The Spectro Cloud Documentation & Education team is looking for a Senior Technical Writer to join our experienced team of technical writers and education engineers. We are looking for someone with a strong technical background to contribute to our documentation and provide the best user experience with Palette, our Kubernetes management platform.
+
+As a Technical Writer, you will focus on creating user-friendly content that meets our customers’ needs and concerns. In your day-to-day, you will work closely with developers, engineers, and other technical staff to understand and document the technology and software that we build at Spectro Cloud. You will create reference materials, diagrams, and how-tos to help our practitioners gain a deeper understanding of the product. We believe in team and individual ownership, so you will work alongside other team members to build expertise in a product area.
+
+We are a technical product, so we are looking for individuals who are comfortable with developer workflows and using the same tools as developers: git, Kubernetes, command-line interfaces, GitHub, containers, Docker, cloud providers, and Terraform.
+
+The Team
+
+The Documentation & Education team works closely with the Product, Engineering, and Support teams to ensure we provide accurate, complete feature documentation that meets our customers' real needs. Senior Technical Writers leverage their extensive technical and writing skills to educate prospective customers by creating clear, concise documentation representative of their workflows and concerns.
+
+Job Responsibilities
+
+
+Create clear, in-depth how-to guides and feature documentation that help users understand and use product features, leveraging real-world scenarios, customer use cases, and product workflows.
+Conduct hands-on testing, experimentation, and independent research to gain deep, first-hand product knowledge. Identify and document edge cases, limitations, and feature updates to ensure technical accuracy and completeness.
+Collaborate closely with product managers, developers, engineers, QA, and UX to gather and validate technical information, clarify complex functionality, and stay aligned with evolving product roadmaps.
+Author technical blogs, release notes, and long-form content that explain product innovations and industry trends, supporting Spectro Cloud’s developer engagement.
+Champion user-first documentation practices by advocating for accessible, inclusive, and task-oriented content
+Define and maintain content standards, templates, and voice/tone guidelines to ensure consistency across documentation.
+Mentor and support junior or mid-level technical writers, providing feedback on their work, sharing best practices, and helping them develop their technical and editorial skills, fostering a culture of collaboration and continuous learning.
+Refactor and enhance documentation information architecture to improve content organization, navigation, and discoverability across the Docs site.
+Take ownership of high-impact documentation projects end-to-end, including planning, coordination, writing, and review.
+
+
+Required Qualifications
+
+We don’t expect the ideal candidate to check every box, but the items below are things we look for when reviewing candidates. Do not let this discourage you from applying.
+
+
+4+ years of experience as a technical writer
+Experience in analyzing information architecture and restructuring content
+Experience with Docs-as-Code processes
+Able to coach and mentor other technical writers
+Comfortable writing in Markdown
+Comfortable using developer tools such as git, CLIs, Docker, and GitHub
+Familiar with containers and Kubernetes
+Experience with infrastructure providers (AWS, Azure, GCP, VMware)
+Comfortable creating diagrams and visual resources to help the learning process
+Displays a passion for learning and exploring new technologies
+A self-starter with the ability to dive into technical features by themselves and create documentation
+Excellent communication skills
+
+
+Additional Preferred Qualifications
+
+
+Cloud certifications, such as the AWS cloud certifications
+Experience with AI tools and workflows
+
+
+Location: London, UK (Hybrid). We are in-office 3 times a week, with option for remote working the other 2 days.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Marketing, Public Relations, and Writing/Editing
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Spectro Cloud by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Principal Technical Writer jobs
+Senior Technical Writer
+Similar jobs
+Technical Writer
+Technical Writer
+Palantir Technologies
+London, England, United Kingdom
+2 years ago
+Technical Writer
+Technical Writer
+Post Office Ltd
+City Of London, England, United Kingdom
+2 weeks ago
+Senior Technical Writer / Developer Educator
+Senior Technical Writer / Developer Educator
+Mistral
+London, England, United Kingdom
+2 months ago
+Documentation Lead
+Documentation Lead
+Artificial Labs
+London, England, United Kingdom
+2 weeks ago
+Staff Information Developer-Technical Writer
+Staff Information Developer-Technical Writer
+Arm
+Cambridge, England, United Kingdom
+1 week ago
+Technical Author
+Technical Author
+BT Group
+London, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Specification Writer (Architecture)
+Specification Writer (Architecture)
+
+Sheppard Robson
+
+London, England, United Kingdom
+6 months ago
+Technical Customer Enablement Manager
+Technical Customer Enablement Manager
+
+ThreatAware
+
+London, England, United Kingdom
+6 months ago
+Senior Principal Content Strategist
+Senior Principal Content Strategist
+
+Autodesk
+
+London, England, United Kingdom
+2 days ago
+Developer Advocate
+Developer Advocate
+
+JFrog
+
+London, England, United Kingdom
+1 week ago
+Senior Content Designer
+Senior Content Designer
+
+Checkout.com
+
+London, England, United Kingdom
+3 days ago
+Digital UX Copywriter, Boots Digital Health
+Digital UX Copywriter, Boots Digital Health
+
+Boots UK
+
+London, England, United Kingdom
+3 weeks ago
+Medical Writer/Senior Medical Writer – Learning & Development
+Medical Writer/Senior Medical Writer – Learning & Development
+
+Precision Medicine Group
+
+London, England, United Kingdom
+2 weeks ago
+Senior Developer Advocate
+Senior Developer Advocate
+
+KX
+
+London Area, United Kingdom
+2 weeks ago
+Content Designer - TikTok Design
+Content Designer - TikTok Design
+
+TikTok
+
+London, England, United Kingdom
+1 week ago
+Senior Technical Trainer
+Senior Technical Trainer
+
+Qualys
+
+Reading, England, United Kingdom
+1 week ago
+Similar Searches
+Principal Technical Writer jobs
+30 open jobs
+Lead Technical Writer jobs
+133 open jobs
+Staff Technical Writer jobs
+30 open jobs
+Senior Technical Editor jobs
+146 open jobs
+Contract Technical Writer jobs
+181 open jobs
+Senior Staff Writer jobs
+51 open jobs
+Senior Information Architect jobs
+79 open jobs
+Information Developer jobs
+20,952 open jobs
+Documentation Manager jobs
+3,468 open jobs
+Technical Writer jobs
+2,644 open jobs
+Senior Content Developer jobs
+188 open jobs
+Editorial Cartoonist jobs
+12 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Spectro Cloud
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

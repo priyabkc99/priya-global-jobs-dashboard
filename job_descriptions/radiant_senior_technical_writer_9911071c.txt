@@ -1,0 +1,294 @@
+Title: Senior Technical Writer
+Company: Radiant
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-technical-writer-at-radiant-4465073511
+Posted: 2026-09-15
+Deadline: N/A
+Reason: The Senior Technical Writer role at Radiant matches Priya’s background in technical writing, release documentation, and regulated-industry experience, with location in the UK (target country) and no US restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Technical Writer
+Radiant  London, England, United Kingdom
+2 weeks ago  77 applicants
+  
+
+See who Radiant has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About our team:
+
+Radiant is redefining how AI infrastructure is built.
+
+We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance AI systems for the most demanding environments. We are building purpose-built AI infrastructure from powered land, to compute, to software.
+
+As we scale our operations and deploy capital into the next generation of AI infrastructure, we are looking to expand our finance team with leaders who can combine technical strength with execution excellence and are driven to build.
+
+Radiant was established by Brookfield, a leading global alternative asset manager with over US$1 trillion of assets under management across real estate, infrastructure, renewable power and transition, private equity and credit. Brookfield's global relationships, investment expertise and access to long-term institutional capital provide Radiant with a differentiated platform from which to develop, finance and operate AI infrastructure assets. This combination of entrepreneurial execution and institutional sponsorship enables Radiant to pursue large-scale GPU and AI infrastructure opportunities globally.
+
+Job Summary:
+
+As a Senior Technical Writer, you will own and improve the technical documentation experience across Radiant’s platform, helping developers, customers, and internal teams understand, adopt, and operate our products effectively.
+
+You’ll work closely with Product, Engineering, SRE, Support, and Solutions teams to turn complex technical concepts into clear, accurate, practical documentation across APIs, infrastructure, platform services, integrations, and operational workflows.
+
+This is a hands-on role for someone who is comfortable getting close to the technology, testing.
+
+Key Responsibilities:
+
+
+Own and evolve Radiant’s developer and product documentation, including guides, tutorials, API documentation, reference material, troubleshooting guides, and operational content.
+Work closely with Product and Engineering to ensure documentation is included as part of the product development and release process.
+Translate complex technical concepts into clear, concise, and accessible content for different technical audiences.
+Create and maintain getting-started guides, how-to content, examples, architecture explanations, and best-practice documentation.
+Test documented workflows directly to ensure content is accurate, complete, and usable.
+Improve the structure, navigation, discoverability, and consistency of Radiant’s documentation.
+Partner with Support and Solutions teams to identify common customer issues and turn them into better documentation and self-service content.
+Establish documentation standards, templates, style guidelines, and processes that help engineering teams contribute effectively.
+Track documentation quality and usage, using feedback and product data to continuously improve the experience.
+
+
+Qualifications:
+
+
+Experience writing documentation for technical products, cloud platforms, developer tools, infrastructure, APIs, or SaaS products.
+Strong technical fluency and the ability to understand concepts across:
+Cloud & infrastructure: Kubernetes, containers, networking, compute, storage
+APIs & integrations: REST APIs, authentication, webhooks, SDKs
+Developer workflows: CLI tools, Git, CI/CD, configuration and automation
+Observability & operations: logging, metrics, monitoring and troubleshooting
+Comfortable reading code, API specifications, configuration files, architecture diagrams, and technical designs.
+Experience with docs-as-code workflows, Markdown, Git, and documentation tooling such as Docusaurus, MkDocs, GitBook, ReadMe, or similar.
+Able to work directly with engineers and subject matter experts to extract the information needed without relying on fully formed source material.
+Excellent written communication, editing, information architecture, and attention to detail.
+Comfortable operating in a fast-paced environment where products and documentation evolve quickly.
+
+
+What you bring:
+
+
+Systems thinking: Understand how infrastructure, services, data, and operational workflows fit together.
+Product thinking: Treat internal teams as customers and focus on measurable outcomes.
+Technical fluency: Able to work credibly across APIs, integrations, infrastructure, data, and architecture.
+Prioritisation: Balance operational pain, strategic value, technical complexity, and business impact.
+Ownership: Drive ambiguous problems from discovery and definition through to adoption and iteration.
+
+
+Our values:
+
+
+Set the standard: Every single day, you spot opportunities to constructively shake things up
+Inspire the change: There’s no blueprint for the future. You’ll embrace challenges and change
+You’re real and you’re true to yourself: We cherish and celebrate diversity so you’ll feel right at home whoever you are and whoever you’re talking to, you treat everyone the same.
+
+
+Why should you join us?
+
+What sets us apart is our blend of modern technology, competitive benefits, and an open, welcoming work culture that enables our people to thrive.
+
+Here are just some of the great things you can expect from us:
+
+
+25 days of annual leave
+A culture that emphasises results over hierarchy, process & ego: we place great emphasis on the quality, ingenuity and creativity of work.
+Open communication, regular feedback: we value smooth collaboration, direct and actionable feedback, and believe that leading with empathy and a growth mindset makes us better together.
+Learning Time: we all have dedicated learning time to focus on new skills, projects or interests that lay outside of your day-to-day job.
+Health & Wellbeing: we want everyone to feel healthy and happy, so we offer private medical insurance via Bupa.
+Cycle to Work Scheme: we're committed to building a sustainable business, so we encourage cycling to work.
+Gympass subscription to a variety of gyms and wellbeing apps
+Participation in the company shares program
+Enhanced parental pay & leave
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Marketing, Public Relations, and Writing/Editing
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Radiant by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Principal Technical Writer jobs
+Senior Technical Writer
+Similar jobs
+Senior Technical Writer
+Senior Technical Writer
+Spectro Cloud
+London, England, United Kingdom
+2 months ago
+Technical Writer
+Technical Writer
+Palantir Technologies
+London, England, United Kingdom
+2 years ago
+Technical Writer
+Technical Writer
+Post Office Ltd
+City Of London, England, United Kingdom
+2 weeks ago
+Senior Technical Writer / Developer Educator
+Senior Technical Writer / Developer Educator
+Mistral
+London, England, United Kingdom
+2 months ago
+Documentation Lead
+Documentation Lead
+Artificial Labs
+London, England, United Kingdom
+2 weeks ago
+Staff Information Developer-Technical Writer
+Staff Information Developer-Technical Writer
+Arm
+Cambridge, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Sr. Technical Trainer EMEA, eero
+Sr. Technical Trainer EMEA, eero
+
+Amazon
+
+London, England, United Kingdom
+2 weeks ago
+Specification Writer (Architecture)
+Specification Writer (Architecture)
+
+Sheppard Robson
+
+London, England, United Kingdom
+6 months ago
+Technical Customer Enablement Manager
+Technical Customer Enablement Manager
+
+ThreatAware
+
+London, England, United Kingdom
+6 months ago
+Senior Principal Content Strategist
+Senior Principal Content Strategist
+
+Autodesk
+
+London, England, United Kingdom
+2 days ago
+Developer Advocate
+Developer Advocate
+
+JFrog
+
+London, England, United Kingdom
+1 week ago
+Senior Content Designer
+Senior Content Designer
+
+Checkout.com
+
+London, England, United Kingdom
+3 days ago
+Digital UX Copywriter, Boots Digital Health
+Digital UX Copywriter, Boots Digital Health
+
+Boots UK
+
+London, England, United Kingdom
+3 weeks ago
+Medical Writer/Senior Medical Writer – Learning & Development
+Medical Writer/Senior Medical Writer – Learning & Development
+
+Precision Medicine Group
+
+London, England, United Kingdom
+2 weeks ago
+Senior Developer Advocate
+Senior Developer Advocate
+
+KX
+
+London Area, United Kingdom
+2 weeks ago
+Content Designer - TikTok Design
+Content Designer - TikTok Design
+
+TikTok
+
+London, England, United Kingdom
+1 week ago
+Similar Searches
+Principal Technical Writer jobs
+30 open jobs
+Lead Technical Writer jobs
+133 open jobs
+Staff Technical Writer jobs
+30 open jobs
+Senior Technical Editor jobs
+146 open jobs
+Contract Technical Writer jobs
+181 open jobs
+Senior Staff Writer jobs
+51 open jobs
+Senior Information Architect jobs
+79 open jobs
+Information Developer jobs
+20,952 open jobs
+Documentation Manager jobs
+3,468 open jobs
+Technical Writer jobs
+2,644 open jobs
+Senior Content Developer jobs
+188 open jobs
+Editorial Cartoonist jobs
+12 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Radiant
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
