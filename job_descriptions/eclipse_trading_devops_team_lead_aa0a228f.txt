@@ -1,0 +1,234 @@
+Title: DevOps Team Lead
+Company: Eclipse Trading
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/devops-team-lead-at-eclipse-trading-4409896489
+Posted: 2026-06-01
+Deadline: N/A
+Reason: The role aligns with DevOps Engineer (CI/CD pipeline ownership) in a regulated/safety-critical domain (financial trading), matches target location (Hong Kong), and fits mid-senior experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Team Lead
+Eclipse Trading  Hong Kong, Hong Kong SAR
+4 months ago  51 applicants
+  
+
+See who Eclipse Trading has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Eclipse Trading is a leading proprietary trading firm. Founded in 2007, we have over 110 employees across 4 office locations – Hong Kong (our HQ), Sydney, Shanghai and Chicago. Our trading expertise and strategies are deployed across several markets globally, focusing on various products including equity derivatives, delta one, ETFs, commodity derivatives, and cryptocurrency. Technology is inextricably linked to our trading strategies, creating an environment powered by intellectual curiosity, problem solving, and innovation.
+
+We are seeking an experienced Team Lead to lead the DevOps team. Along with the deployment and runtime systems, the DevOps team is also responsible for the CI/CD pipelines and the core infrastructure of the Trading platform. As a Team Lead, you'll play a pivotal role in shaping how we manage our production environment globally — combining hands-on technical leadership with strategic oversight to drive operational excellence.
+
+This is an onsite role located in Hong Kong or Sydney (with authorization to work in Sydney).
+
+Responsibilities and Duties
+
+
+Lead, mentor, and train DevOps engineers, fostering a culture of accountability, high performance, and continuous learning.
+Drive the DevOps strategy, technical roadmap and execution across our global trading production environment, ensuring system uptime, scalability, and performance.
+Design, build, and maintain CI/CD pipelines to ensure rapid, secure, and reliable software delivery.
+Lead improvements in automation, deployment workflows, and monitoring systems, reducing manual effort and increasing system robustness and agility.
+Ensure production readiness for new exchanges, trading strategies, and infrastructure changes, coordinating across development, trading, and infrastructure teams.
+Represent the team in leadership forums, advocating for production priorities, and aligning team objectives with broader business goals.
+
+
+What you offer
+
+
+University Degree in Computer Science, Engineering, or a related technical discipline.
+10+ years work experience in a DevOps, Systems Engineering or similar role and proven success leading technical operations, SRE, or production engineering teams in real-time or low-latency environments.
+Modern deployment system and orchestration experience and associated CI/CD tooling.
+Strong development skills in Python, Golang and shell scripting.
+Demonstrated experience defining and managing SLAs/SLOs, with a data-driven approach to improving reliability and performance.
+Comfortable leading incident response in high-pressure scenarios and building systems that prevent recurrence.
+Exposure to high-frequency trading or low-latency financial systems is a strong plus.
+Skilled communicator who can align business and technical stakeholders, provide clarity under pressure, and drive cross-functional collaboration.
+Passionate about coaching, developing, and retaining top engineering talent.
+Fluency in written and spoken English.
+
+
+What we offer
+
+
+Dynamic and collaborative work environment
+Opportunity to contribute directly to the bottom line
+Training, mentorship and personal development opportunities
+A flat management structure, where everyone's voice is valued
+Work life balance within a multi-cultural environment
+Fully stocked kitchen for breakfast and lunch
+Attractive benefits package with discretionary bonus
+
+
+Eclipse Trading is an equal opportunity employer and we believe that diversity and inclusion are essential pillars of our success as a company. We are dedicated to embrace a culture reflecting a variety of perspectives, insights and backgrounds to drive innovation. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential.
+
+All information provided will be treated in strict confidence and used solely for recruitment purposes.
+
+Due to the high number of responses that we receive, we are only able to respond to successful applicants.
+
+Note: The use of AI tools during interviews or assessments is strictly prohibited unless explicitly authorized. We employ multiple methods to verify the authenticity of candidate responses. If it is determined that AI assistance was used at any stage of the hiring process without prior approval, we reserve the right to disqualify your application or rescind any job offer.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Management and Manufacturing
+Industries
+Capital Markets
+  
+
+Referrals increase your chances of interviewing at Eclipse Trading by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps / SRE Lead
+DevOps / SRE Lead
+RedotPay
+Hong Kong, Hong Kong SAR
+1 month ago
+DevOpsSec Engineer
+DevOpsSec Engineer
+Hays
+Hong Kong, Hong Kong SAR
+HK$40,000 - HK$50,000
+23 hours ago
+Senior Manager, DevOps & Production Support Engineer
+Senior Manager, DevOps & Production Support Engineer
+FWD Insurance
+Hong Kong, Hong Kong SAR
+17 hours ago
+DevOps Engineer, Infra
+DevOps Engineer, Infra
+Binance
+Hong Kong, Hong Kong SAR
+1 week ago
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Hong Kong, Hong Kong SAR
+2 weeks ago
+DevOps Engineer, Cloud Infra
+DevOps Engineer, Cloud Infra
+Binance
+Hong Kong, Hong Kong SAR
+1 week ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer - APAC
+Site Reliability Engineer - APAC
+
+Tyk
+
+Hong Kong, Hong Kong SAR
+1 month ago
+DevOps Engineer (Securities Firm/Up to 60K + bonus/ Multiple Headcounts)
+DevOps Engineer (Securities Firm/Up to 60K + bonus/ Multiple Headcounts)
+
+PERSOL APAC
+
+Hong Kong, Hong Kong SAR
+HK$50,000 - HK$60,000
+3 weeks ago
+Senior DevOps Engineer - PERM ($$$, 2-4 months Bonus, Group Medical etc.)
+Senior DevOps Engineer - PERM ($$$, 2-4 months Bonus, Group Medical etc.)
+
+Adecco
+
+Hong Kong, Hong Kong SAR
+4 days ago
+Operations & DevOps Engineer
+Operations & DevOps Engineer
+
+Datago Technology Limited
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior DevOps Engineer (Trading Platform)
+Senior DevOps Engineer (Trading Platform)
+
+Crypto.com
+
+Hong Kong SAR
+1 week ago
+Lead Infrastructure Engineer
+Lead Infrastructure Engineer
+
+y-intercept
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+PIONEER SERVICES PTE. LTD.
+
+Hong Kong SAR
+3 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+ManpowerGroup
+
+New Territories, Hong Kong SAR
+HK$40,000 - HK$48,000
+4 days ago
+Principal Cloud Services Engineer - Assistant Vice President - Cloud Platform Services - IT - 12 months Contract
+Principal Cloud Services Engineer - Assistant Vice President - Cloud Platform Services - IT - 12 months Contract
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+6 months ago
+Senior Site Reliability Engineer (SRE)
+Senior Site Reliability Engineer (SRE)
+
+GFT Technologies APAC & GCC
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Eclipse Trading
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
