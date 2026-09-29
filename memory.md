@@ -152,3 +152,18 @@ filelock google-auth`, `python -m playwright install chromium`; key already at
 **Known gap (also on priya_jobs):** `mark-job-deleted` writes `deletion_reason` to Firestore, but no scraper
 reads it — only review.html hides such jobs; the main table and jobs.json keep them. The skill's claim that "the
 scraper moves them to deleted.json" is not true on either board.
+## Scraper was wiping shared_state/job_status (found + removed 2026-09-30)
+`poll_firebase_feedback()` ended with `PATCH shared_state/job_status {"fields": {}}` ("clear the temporary queue")
+whenever dashboard feedback produced user_review/match updates. job_status is a PERMANENT per-job store (resume
+links, apply_url/apply_email, applied_date, form_filled, action_item, tailor_model, deletion_reason), so every such
+run erased it for every job. priya_jobs logs show it ran 17 times (latest 2026-09-29); the doc was found empty on
+2026-09-30. Removed from priya_jobs, priya_global_jobs and vineeth_jobs (manju_jobs no longer had it). Recovery:
+resume/cover-letter links rebuilt with `sync_resume_links.py --upload --force` (20 jobs). NOT recoverable:
+apply_url/apply_email, applied_date, form_filled, action_item, auto_fill_attempted_at (Firestore PITR is off).
+applied / user_review / matches values survived because they had already been synced into jobs.json.
+**Never write an empty/whole replacement document to job_status** — read-modify-write only (job_status_store.py).
+## Manual deletions now processed (2026-09-30)
+`poll_manual_deletions()` (ported from manju_jobs) runs every main-loop pass: jobs whose Firestore job_status entry
+has `deletion_reason` (mark-job-deleted skill, job_status_store.py, review.html "missed" button) are moved from
+jobs.json to deleted.json with that reason, then the flag is cleared (other fields kept). Before this, no Priya
+scraper read the flag, so such jobs stayed on the main board. Tested on temp copies with a simulated job_status.
