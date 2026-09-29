@@ -610,5 +610,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/qantas_airways_documentation_specialist_4444dfa4.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "People Specialist (6\u2011Month Contract) Cape Town",
+    "company": "MVG Recruitment Specialists",
+    "location": "Salt River, Cape Town, South Africa",
+    "url": "https://www.pnet.co.za/jobs--People-Specialist-6\u2011Month-Contract-Cape-Town-Cape-Town-MVG-Recruitment-Specialists--4270473-inline.html",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is an HR-focused 'People Specialist' role with no alignment to Priya's technical expertise in configuration management, release engineering, or regulated-industry quality/compliance work.",
+    "id": "baf6d091",
+    "source": "pnet_documentation_specialist",
+    "added_at": "2026-09-29T21:45:54+03:00",
+    "posted_date": "2026-09-28",
+    "deadline": "2026-09-20",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-20) passed by more than 2 days and unreviewed"
   }
 ]
