@@ -1,0 +1,252 @@
+Title: Senior DevOps Engineer (Asset Delivery)
+Company: Kāinga Ora - Homes and Communities
+Location: Wellington, Wellington, New Zealand
+URL: https://nz.linkedin.com/jobs/view/senior-devops-engineer-asset-delivery-at-k%C4%81inga-ora-homes-and-communities-4471230490
+Posted: 2026-09-30
+Deadline: 2026-10-12
+Reason: The job as a Senior DevOps Engineer aligns with Priya's CI/CD/release management expertise and is located in New Zealand (a target country), meeting all criteria including configuration management focus.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (Asset Delivery)
+Kāinga Ora - Homes and Communities  Wellington, Wellington, New Zealand
+22 hours ago   Be among the first 25 applicants
+  
+
+See who Kāinga Ora - Homes and Communities has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Solve complex technical challenges and influence engineering direction
+Enable business success through robust and modern platform capabilities
+Wellington-based permanent role, 5 weeks leave + insurance benefits
+
+
+Te whiwhinga mahi - Our opportunity
+
+Kāinga Ora is seeking two Senior Platform DevOps Engineers to join our Enterprise Digital Tooling Platform team.
+
+In this role, you will be responsible for the engineering, automation, reliability, and continuous improvement of enterprise tooling platforms that support technology delivery and service operations across the organisation. You will play a key role in ensuring our platforms are secure, resilient, scalable, and aligned with business needs.
+
+Working across platforms including ServiceNow, Jira, and Confluence, you will design, build, and enhance solutions that improve operational efficiency, strengthen service delivery, and simplify how teams work. You will champion DevOps practices, drive automation, and contribute to the ongoing evolution of our platform capabilities.
+
+As a senior member of the team, you will provide technical leadership, mentor engineers, and promote engineering standards that support the delivery of reliable, high-performing, and supportable solutions.
+
+Working closely with stakeholders across Technology and the wider business, you will support the delivery of strategic initiatives while ensuring platform services remain stable, secure, and fit for purpose. You will be instrumental in creating sustainable solutions that improve service quality, reduce operational overhead, and deliver long-term business value.
+
+Please note, these roles require the successful applicants to be in our Wellington office 3-4 days per week.
+
+Ngā Pūmanawatanga Ōu - What You Will Bring
+
+We are looking for an experienced and influential professional who thrives in complex enterprise environments and is passionate about delivering reliable, secure, and high-performing technology platforms. Experience supporting platforms such as Oracle Cloud Infrastructure (OCI), Asset Data platforms and services such as Oracle Primavera along with experience supporting cloud platform operations and delivering business change (delivery initiatives).
+
+Here’s What You Will Bring To The Role
+
+
+Experience supporting and operating enterprise technology platforms, with a strong focus on service reliability, operational excellence, and continuous improvement
+Demonstrated success leading complex engineering initiatives, including platform upgrades, technology lifecycle management, and the resolution of incidents and problems within production environments
+Strong understanding of IT service management principles, operational processes, risk management practices, and the disciplines required to maintain secure, stable, and resilient services
+Proven ability to provide technical leadership, mentor and develop engineers, influence technical outcomes, and make sound decisions in fast-paced and high-pressure situations
+Excellent communication, stakeholder engagement, and problem-solving skills, with the ability to collaborate across technical and business teams
+Able to balance operational stability, service improvement initiatives, and delivery commitments while managing competing priorities in complex enterprise environments.
+
+
+This role is ideal for a senior technology professional who combines deep technical expertise with strong leadership capability and a commitment to driving operational excellence and continuous improvement.
+
+Nōu te rourou - What's in it for you?
+
+We offer competitive salaries, five weeks' annual leave and a benefits package including a range of insurances, flexible working arrangements and career development. These benefits are described in more detail here https://careers.kaingaora.govt.nz/a-great-place-to-work/benefits
+
+As a Kāinga Ora - Homes and Communities employee, we want to make sure that you have all the tools and support you need. We want to ensure you are healthy and have work-life balance. We also want to support and grow your personal and career development through on-the-job learning, training courses, secondments and study opportunities.
+
+Mō mātou - Our Organisation
+
+At Kāinga Ora, ours is the important responsibility of transforming New Zealand’s housing choices, outcomes and the entire housing sector by creating homes and communities that allow New Zealanders to thrive.
+
+What is exciting about working for Kāinga Ora is getting the chance to make a real and positive impact on New Zealanders’ lives. With skills, planning and purposeful action, our people are creating the homes and neighbourhoods that will build the future of Aotearoa.
+
+We are passionate about transforming New Zealand for the better. That includes being a trusted partner for Māori and iwi, protecting and enabling their rights, interests and aspirations under the guidance of Te Tiriti o Waitangi.
+
+Ō tātou uara - Our values
+
+Our Values Were Developed By Us, For Us. They Unite Us As An Organisation And Guide How We Work Every Day. Our Values Are
+
+
+Manaakitanga – People at the Heart
+Mahi Tahi – Better Together
+Whanake – Be Bold
+
+
+Tūhono mai - Join us
+
+To view the position description and apply for this role, please follow the online process via http://careers.kaingaora.govt.nz. Please note: all applicants, including existing employees, need to follow this process. If you have any questions about this role, please contact kaingaora.recruit@kaingaora.govt.nz.
+
+Applications close Monday 12th October at 5.00pm.
+
+We value diversity and are committed to working with each other and our customers in an inclusive and respectful way. We welcome applicants from all walks of life and appreciate the richness of experience that your point of difference brings to the organisation.
+
+If you don’t tick all the boxes in this listing but think that you could be a great fit based on your unique background and skillset, we would welcome an application from you. Don’t hesitate, as we may review applications as they are received and reserve the right to close advertising early.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Government Administration
+  
+
+Referrals increase your chances of interviewing at Kāinga Ora - Homes and Communities by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Wellington, Wellington, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Principal Engineer - Cloud & DevOps
+Principal Engineer - Cloud & DevOps
+LAB3
+Wellington, Wellington, New Zealand
+1 week ago
+Platform Engineer
+Platform Engineer
+Share
+Wellington, Wellington, New Zealand
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Future Secure AI
+Wellington, Wellington, New Zealand
+1 week ago
+Cloud Engineer - AWS
+Cloud Engineer - AWS
+Datacom
+Wellington, Wellington, New Zealand
+1 day ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+Comply365
+Wellington, Wellington, New Zealand
+3 weeks ago
+DevOps Engineering Lead
+DevOps Engineering Lead
+ACC New Zealand
+Wellington, Wellington, New Zealand
+NZ$146,436 - NZ$195,248
+1 day ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer
+Senior Software Engineer
+
+Crimson Global Academy
+
+Wellington, Wellington, New Zealand
+1 week ago
+Senior Full Stack Engineer - Practice Engineering
+Senior Full Stack Engineer - Practice Engineering
+
+Xero
+
+Wellington, Wellington, New Zealand
+14 hours ago
+Senior Technical Engineer - Managed Services
+Senior Technical Engineer - Managed Services
+
+Fusion5
+
+Wellington, New Zealand
+22 hours ago
+Senior ICT Systems Administrator
+Senior ICT Systems Administrator
+
+Wellington Free Ambulance
+
+Wellington, Wellington, New Zealand
+1 week ago
+Senior Software Engineer - AI Platform
+Senior Software Engineer - AI Platform
+
+Fusion5
+
+Wellington, New Zealand
+1 week ago
+Systems Administrator
+Systems Administrator
+
+Wētā Workshop Ltd
+
+Wellington, Wellington, New Zealand
+6 days ago
+Senior Backend Engineer (NZ-based)
+Senior Backend Engineer (NZ-based)
+
+Ticketure
+
+Wellington, Wellington, New Zealand
+1 month ago
+Senior HPC & AI Deployment Engineer
+Senior HPC & AI Deployment Engineer
+
+Hewlett Packard Enterprise
+
+Wellington, Wellington, New Zealand
+1 day ago
+Senior Contact Centre Engineer
+Senior Contact Centre Engineer
+
+IAG
+
+Wellington, Wellington, New Zealand
+1 week ago
+Senior Full Stack Developer
+Senior Full Stack Developer
+
+LAB3
+
+Wellington, Wellington, New Zealand
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Kāinga Ora - Homes and Communities
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

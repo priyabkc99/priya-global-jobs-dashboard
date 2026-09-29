@@ -1,0 +1,236 @@
+Title: Principal Engineer - Cloud & DevOps
+Company: LAB3
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/principal-engineer-cloud-devops-at-lab3-4467598704
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The job aligns with Priya's DevOps and CI/CD expertise, located in New Zealand (a target country), and matches her experience with Azure infrastructure, Terraform, and pipeline automation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Principal Engineer - Cloud & DevOps
+LAB3  Auckland, Auckland, New Zealand
+1 week ago   Be among the first 25 applicants
+  
+
+See who LAB3 has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+LAB3 is one of the largest Azure engineering practices in the Australasia region with a focus on Cloud & DevOps, Data, IoT & AI, Modern Workplace, Modern Apps & Integration, Security, and Network services. 
+
+We are looking for a Principal Engineer- Cloud & DevOps, ideally based anywhere in Australia or New Zealand (but open to work AEST hours). You'll own Azure platform and automation outcomes from design through documentation to delivery, while helping shape engineering standards, governance, and ways of working.
+
+The role
+
+
+Lead the end-to-end delivery of Azure platform and automation initiatives.
+Design, document and implement secure, scalable and reliable Azure solutions.
+Develop and maintain Infrastructure as Code using Terraform, supported by robust CI/CD pipelines.
+Provision and manage AKS environments, including application deployment, microservices configuration and Helm chart management.
+Act as a trusted technical advisor, providing architecture and design guidance across multiple engagements.
+Translate complex technical concepts into clear recommendations for senior stakeholders and executives.
+Produce high-quality engineering artefacts including solution designs, runbooks, governance documentation and change records.
+Partner with delivery leaders on estimation, planning and risk management.
+Mentor engineers, support onboarding, contribute to hiring activities and help uplift engineering capability across the team.
+
+
+
+The ideal candidate
+
+Skills
+
+We are looking for a motivated, proactive, detail-oriented individual who takes pride in their work, takes ownership and communicates well. Technically should have the following skills:
+
+
+Azure IaaS and PaaS: Deep hands-on capability across the full Azure estate with a DevOps mindset
+Infrastructure as Code: Terraform, ARM Templates and Bicep
+Kubernetes (AKS)
+Pipelines and source control: Azure DevOps, GitHub, GitHub Actions, Bitbucket, Bamboo & Jenkins
+HashiCorp tooling: Terraform and Vault for secrets and credential management
+Azure Networking, Security and Identity: cloud networking, security controls, Entra ID, RBAC and access design
+Cloud Automation: Python, Bash and PowerShell
+Azure Functions, Key Vault, Backups and Cloud Storage
+Azure Integration: Logic Apps, API Management and Microservices
+Cloud Identity, Governance, Licensing and Azure AD
+Azure Databases including PostgreSQL
+
+
+
+What's in it for you? 
+
+
+Be part of a team that leverages modern technologies to solve real problems and provides top level of customer satisfaction 
+Work with a Microsoft Partner of the Year award winner with multiple specialisations 
+Be supported by experienced peers and leaders that value technical expertise and encourage innovation, with clear career pathways and ongoing learning 
+Enjoy a supportive workplace that promotes inclusion, flexibility, diversity, and celebrates differences. 
+Take advantage of largely working from home in our remote/hybrid workplace and enjoy the flexibility to balance your life 
+Thrive in a community with strong values #BeTrue #TeamUp #StandOut #ThinkAhead #FearLessAchieveMore 
+
+
+
+Apply now, call or connect on LinkedIn for further information. 
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at LAB3 by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Auckland, Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Principal Engineer, Platform & Security
+Principal Engineer, Platform & Security
+Stuff
+Auckland, Auckland, New Zealand
+2 weeks ago
+Prinicipal Engineer
+Prinicipal Engineer
+Xero
+Auckland, Auckland, New Zealand
+5 days ago
+Lead Software Engineer - Platform
+Lead Software Engineer - Platform
+Halter
+Auckland, New Zealand
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+Level
+Auckland, Auckland, New Zealand
+2 weeks ago
+Principal Engineer
+Principal Engineer
+Westpac New Zealand
+Auckland, New Zealand
+1 day ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+Lightspeed Commerce
+Auckland, Auckland, New Zealand
+1 week ago
+Show more jobs like this 
+People also viewed
+Unix OpenShift Dev Ops Specialist
+Unix OpenShift Dev Ops Specialist
+
+One New Zealand
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior System Engineer, Dev Ops
+Senior System Engineer, Dev Ops
+
+MAS - Medical Assurance Society
+
+Auckland Metropolitan Area
+1 week ago
+Head of Platform
+Head of Platform
+
+Partly
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Staff Engineer
+Staff Engineer
+
+Kernel
+
+Auckland, Auckland, New Zealand
+1 month ago
+Senior Developer Experience Engineer
+Senior Developer Experience Engineer
+
+IDEXX
+
+Auckland, Auckland, New Zealand
+1 week ago
+Digital Platform Engineer
+Digital Platform Engineer
+
+Sky New Zealand
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+ASB Bank
+
+Auckland, New Zealand
+22 hours ago
+Principal Backend Software Engineer
+Principal Backend Software Engineer
+
+Atlassian
+
+Auckland, Auckland, New Zealand
+1 week ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+
+centrapay
+
+Auckland, Auckland, New Zealand
+NZ$90,000 - NZ$125,000
+4 days ago
+Architect – Red Hat OpenShift & Cloud-Native Solutions
+Architect – Red Hat OpenShift & Cloud-Native Solutions
+
+Red Hat
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at LAB3
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
