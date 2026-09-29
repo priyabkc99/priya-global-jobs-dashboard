@@ -627,5 +627,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "System Requirements Engineer",
+    "company": "Cambridge Aerospace",
+    "location": "Cambridge, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/system-requirements-engineer-at-cambridge-aerospace-4448189996",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's experience as a Requirements Engineer/Manager (requirements traceability, baseline management) and fits her target countries (UK), with no visa sponsorship restrictions explicitly stated.",
+    "id": "c4ae2c1b",
+    "source": "linkedin_uk_requirements_engineer",
+    "added_at": "2026-09-29T22:08:05+03:00",
+    "posted_date": "2026-08-30",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/cambridge_aerospace_system_requirements_engineer_c4ae2c1b.txt",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Requirements Management Systems Engineer",
+    "company": "Leonardo",
+    "location": "Edinburgh, Scotland, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/requirements-management-systems-engineer-at-leonardo-4456255118",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires UK government security clearance (BPSS, SC, or DV), which the candidate cannot meet due to lack of UK citizenship or prior residency, triggering a hard rejection under 'No Visa Sponsorship / Existing Right to Work Required'.",
+    "id": "d46a137b",
+    "source": "linkedin_uk_requirements_engineer",
+    "added_at": "2026-09-29T22:08:05+03:00",
+    "posted_date": "2026-09-15",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

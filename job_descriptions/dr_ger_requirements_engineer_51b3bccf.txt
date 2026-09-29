@@ -1,0 +1,391 @@
+Title: Requirements Engineer
+Company: Dräger
+Location: Blyth, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/requirements-engineer-at-dr%C3%A4ger-4469225506
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The job as a Requirements Engineer at Dräger in Blyth, UK matches Priya’s experience in requirements traceability (Topcon/Elektrobit), regulated/safety-critical domains, and cross-functional collaboration, aligning with her background and positive constraints.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Requirements Engineer
+Dräger  Blyth, England, United Kingdom
+1 week ago  54 applicants
+  
+
+See who Dräger has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Who We Are
+
+Every life is unique and so are you!
+
+At Dräger we protect, support and rescue lives day in and day out. We are interested in you if you have the desire to work for an organisation that does something more, something that is truly worth working for.
+
+As an international leader in medical and safety technology, we develop pioneering devices, software, services and solutions that people around the world trust. Wherever Dräger products are used, it's about the most important thing: it's about life.
+
+About The Role
+
+The Requirements Engineer is responsible for establishing, managing, and improving the requirements engineering process across product development projects & Life Cycle activities. The role ensures that customer, regulatory, business, and technical requirements are accurately captured, structured, traced, verified, and maintained throughout the product lifecycle.
+
+In addition, the role will drive the adoption of AI-enabled requirements engineering practices, supporting the use of Generative AI, model-based systems engineering (MBSE), and digital engineering methods to improve product quality, development efficiency, and compliance.
+
+Key Responsibilities
+
+Requirements Management
+
+
+Capture and analyse stakeholder, customer, business, regulatory, and technical requirements.
+Create and maintain Product Requirements (PR), Technical System Requirements (TSR), and lower-level subsystem requirements, ensuring alignment with platform strategies, modular design principles, and opportunities for reuse across product variants.
+Ensure requirements are complete, clear, testable, measurable, and traceable.
+Manage requirements baselines and change control throughout project lifecycles.
+Develop and maintain requirement hierarchies, taxonomies, and attribute structures.
+Facilitate requirements reviews, workshops, and stakeholder alignment sessions.
+
+
+Systems Engineering Integration
+
+
+Support systems engineering activities from concept through product release.
+Support maintenance traceability of requirements, architecture, design, verification, validation, and risk management activities.
+Work closely with Project Managers, Product Managers, Systems Engineers, Software Engineers, Electronics Engineers, Mechanical Engineers, Quality, and Regulatory teams.
+Contribute to MBSE and digital engineering initiatives.
+Support system decomposition and functional analysis activities.
+
+
+Verification & Validation
+
+
+Ensure requirements are linked to verification and validation methods.
+Support creation of acceptance criteria and test specifications.
+Help identify requirement gaps, ambiguities, conflicts, and risks early in development.
+Monitor requirement maturity and quality metrics throughout projects.
+
+
+AI & Digital Engineering
+
+
+Lead adoption of AI-assisted requirements engineering tools and processes.
+Develop AI-assisted methods for:
+Requirement generation
+Requirement review
+Ambiguity detection
+Consistency checking
+Traceability analysis
+Requirements reuse
+Identify opportunities to improve engineering productivity through automation and AI.
+Train and coach engineering teams in the use of AI-enabled requirements engineering practices.
+
+Governance & Continuous Improvement
+
+
+Define and maintain requirements engineering standards, templates, and best practices.
+Contribute to process improvement initiatives across R&D.
+Support audits, compliance reviews, and regulatory submissions.
+Establish KPI reporting for requirements quality and maturity.
+Represent and actively contribute to the Dräger Requirements Engineering community across sites and business fields
+
+
+Shared Responsibilities
+
+All employees have a responsibility:
+
+
+to comply with the Integrated Management System (IMS) and minimise any impact on the environment whilst carrying out their duties.
+to ensure and promote safe working conditions for all employees, visitors and contractors by implementing, monitoring and complying with occupational health & safety provisions
+to embed our WeLEAD competencies – I build trust, I create value for the customer, I enable others, I provide direction, I embrace diversity, I deliver results
+
+
+Reporting Relationships
+
+Manager
+
+
+Head of Program SRPS
+
+
+Size of team/environment
+
+
+Working within a small PMO team alongside Systems Engineers, Lifecycle Managers and Project Managers.
+
+
+Education/Qualifications
+
+Role Requirements
+
+
+Degree in Systems Engineering, Software Engineering, Electronics Engineering, Mechanical Engineering, Computer Science, or related discipline.
+
+
+Essential
+
+Related Experience
+
+
+Experience in requirements engineering within complex product development environments.
+Strong understanding of systems engineering principles.
+Experience implementing AI-enabled engineering processes.
+Experience using requirements management tools such as: IBM DOORS, DOORS Next Gen, Polarion, Jama or similar requirements management platforms
+5+ years' experience in product development or systems engineering environments.
+Experience managing requirements from concept through verification and release.
+Experience working within cross-functional engineering teams.
+Experience facilitating stakeholder workshops and technical reviews.
+
+
+Desirable
+
+
+Experience working within cross-site & country engineering teams
+INCOSE ASEP/CSEP certification.
+MBSE experience.
+Safety-critical or regulated product experience.
+AI, machine learning, or digital engineering experience.
+Knowledge of ISO, IEC, EN, or other applicable standards.
+Experience with connected products, embedded systems, software-intensive systems, or safety products.
+Experience supporting global development teams.
+
+
+Skills, Special Competencies
+
+Technical
+
+
+Requirements Engineering
+Systems Thinking
+Verification & Validation
+Requirement Traceability
+Risk Management
+MBSE
+Data Analysis
+AI Applications in Engineering
+
+
+Behavioural
+
+
+Strong analytical thinking
+Excellent communication skills
+Influencing and stakeholder management
+Attention to detail
+Continuous improvement mindset
+Collaboration and teamwork
+Ability to work across disciplines and cultures
+Sense of urgency with a “play to win” attitude and track record of success in prioritisation and delivery
+
+
+Dräger‘s Benefits
+
+
+27 days holiday plus bank holidays, with option to purchase up to 3 additional days
+Flexi scheme
+Hybrid working available
+Discounted critical illness cover, dental cover and partner life assurance
+Healthcare cash plan
+Subsidised canteen
+Discounted shopping & leisure vouchers
+Cycle to Work
+Gym membership discounts – up to 25%
+Charity Giving scheme
+
+
+Dräger‘s dedication
+
+At Dräger we have a clear vision, to be an organisation with a working environment that includes a diverse mix of talented people who want to come, stay and grow.
+
+We ensure candidates with the required qualifications and experience will be considered for employment without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+All are welcome to apply!
+
+As an international leader in medical and safety technology, we develop pioneering devices, software, services and solutions that people around the world trust. Wherever Dräger products are used, it's about the most important thing: it's about life.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Manufacturing
+  
+
+Referrals increase your chances of interviewing at Dräger by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Systems Engineering - Requirements and Verification Manager
+Systems Engineering - Requirements and Verification Manager
+Lockheed Martin
+Newcastle Upon Tyne, England, United Kingdom
+6 hours ago
+System Engineer
+System Engineer
+Dräger
+Blyth, England, United Kingdom
+1 week ago
+Radar Health Systems Engineer
+Radar Health Systems Engineer
+Leonardo
+Newcastle Upon Tyne, England, United Kingdom
+£44,500 - £68,000
+6 days ago
+Systems Engineer - All Levels
+Systems Engineer - All Levels
+Leonardo
+Newcastle Upon Tyne, England, United Kingdom
+£38,000 - £75,000
+2 weeks ago
+Spacecraft Platform Engineer
+Spacecraft Platform Engineer
+Lockheed Martin
+Newcastle Upon Tyne, England, United Kingdom
+1 month ago
+Business Analyst - Newcastle
+Business Analyst - Newcastle
+Accenture UK & Ireland
+Newcastle Upon Tyne, England, United Kingdom
+4 days ago
+Show more jobs like this 
+People also viewed
+Product Engineering Specialist
+Product Engineering Specialist
+
+Cummins Europe
+
+Darlington, England, United Kingdom
+3 weeks ago
+QA Automation Engineer – Newcastle (Hybrid Remote) - £45k
+QA Automation Engineer – Newcastle (Hybrid Remote) - £45k
+
+Ada Meher
+
+Newcastle Upon Tyne, England, United Kingdom
+£40,000 - £45,000
+5 days ago
+Senior Test Engineer
+Senior Test Engineer
+
+Version 1
+
+Newcastle Upon Tyne, England, United Kingdom
+4 hours ago
+Quality Control Engineer
+Quality Control Engineer
+
+Balfour Beatty plc
+
+Newcastle Upon Tyne, England, United Kingdom
+3 weeks ago
+Senior Quality Engineer
+Senior Quality Engineer
+
+Plexus Corp.
+
+Kelso, Scotland, United Kingdom
+1 week ago
+Payload Product Assurance Engineer
+Payload Product Assurance Engineer
+
+Filtronic
+
+Sedgefield, England, United Kingdom
+1 week ago
+Systems Engineer - Advanced Targeting - All Levels
+Systems Engineer - Advanced Targeting - All Levels
+
+Leonardo
+
+Newcastle Upon Tyne, England, United Kingdom
+£38,000 - £75,000
+2 weeks ago
+System Safety Engineer
+System Safety Engineer
+
+Leonardo
+
+Newcastle Upon Tyne, England, United Kingdom
+£38,000 - £75,000
+2 weeks ago
+Senior System Engineer
+Senior System Engineer
+
+Lockheed Martin
+
+Newcastle Upon Tyne, England, United Kingdom
+£93,000 - £116,000
+3 weeks ago
+Systems Engineer - Radar Systems - All Levels
+Systems Engineer - Radar Systems - All Levels
+
+Leonardo
+
+Newcastle Upon Tyne, England, United Kingdom
+£38,000 - £75,000
+2 weeks ago
+Similar Searches
+Usability Manager jobs
+416 open jobs
+Test Design Engineer jobs
+2,048 open jobs
+Senior Transportation Engineer jobs
+1,660 open jobs
+System Safety Engineer jobs
+2,354 open jobs
+Sub Project Manager jobs
+706 open jobs
+Usability Engineer jobs
+20,396 open jobs
+Lead System Engineer jobs
+1,835 open jobs
+System Architect jobs
+3,888 open jobs
+System Engineer jobs
+6,154 open jobs
+Patent Engineer jobs
+47 open jobs
+Automotive Engineer jobs
+4,805 open jobs
+Avionics System Engineer jobs
+21,228 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

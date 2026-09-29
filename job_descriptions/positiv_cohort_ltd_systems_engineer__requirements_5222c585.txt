@@ -1,0 +1,317 @@
+Title: Systems Engineer- Requirements
+Company: Positiv Cohort Ltd
+Location: Stevenage, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/systems-engineer-requirements-at-positiv-cohort-ltd-4444442642
+Posted: 2026-07-01
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in requirements traceability, documentation (TRS/SRS), and regulated-industry compliance (ISO/MDR), matches her target location (UK), and fits within her mid-senior experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Systems Engineer- Requirements
+Positiv Cohort Ltd  Stevenage, England, United Kingdom
+3 months ago   Be among the first 25 applicants
+  
+
+See who Positiv Cohort Ltd has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+We're looking for an experienced Technical Requirements Systems Engineer to drive the definition, structure, and governance of system and software requirements for a complex, high‑impact engineering programme.
+
+This is a critical role at the heart of delivery — translating stakeholder needs into clear, testable, and traceable requirements that underpin system design, integration, and validation.
+
+If you thrive on bringing structure to complexity and enjoy working across systems, software, and testing domains, we'd love to hear from you.
+
+🔍 About The Role
+
+You'll take ownership of the requirements lifecycle — from early stakeholder engagement through to detailed specification — ensuring alignment across engineering, development, and test teams.
+
+You'll lead the development of both high‑level and detailed specifications, with a strong focus on traceability, governance, and real-world testability.
+
+🧩 Key Responsibilities
+
+🔹 Requirements Analysis & Governance
+
+
+Analyse and refine system requirements to align with programme objectives
+Translate stakeholder needs into clear, structured, and testable requirements
+Develop and maintain a robust requirements governance framework
+Traceability (end-to-end)
+Version control
+Change management
+
+🔹 Stakeholder Engagement
+
+
+Collaborate with a wide range of stakeholders, including:
+End users of test systems
+System designers and engineers
+Software developers
+Integration & test teams
+Facilitate workshops, reviews, and requirement validation sessions
+Ensure alignment between technical delivery and business needs
+
+
+🔹 Documentation & Specification
+
+
+Own the creation and progression of:
+Technical Requirements Specification (TRS)
+Software Requirements Specification (SRS)
+Produce high-quality documentation that is:
+Clear, complete, and unambiguous
+Structured and maintainable
+Fit for engineering and test teams
+
+
+🔹 System & Software Requirements Development
+
+
+Define end-to-end system requirements including:
+Hardware
+Software
+Interfaces
+Constraints
+Break down high-level requirements into:
+Detailed software functionality
+Performance and behavioural requirements
+Ensure full traceability between TRS and SRS
+
+
+🔹 Integration, Test & Simulation
+
+
+Ensure requirements are testable and measurable
+Align requirements with system integration and validation strategies
+Support the use of simulation-led testing to validate system behaviour
+
+
+📦 Key Deliverables
+
+✅ Technical Requirements Specification (TRS)
+
+A complete, high-level requirements document covering the full test system, including:
+
+
+Stakeholder-driven inputs
+Hardware, software, and interface requirements
+System constraints and dependencies
+
+
+✅ Software Requirements Specification (SRS)
+
+A detailed, structured breakdown of software requirements that:
+
+
+Defines system functionality and behaviour
+Links directly back to TRS (full traceability)
+Supports development, integration, and testing
+
+
+🛠️ What We're Looking For
+
+
+Strong experience in requirements engineering within complex systems environments
+Proven track record delivering TRS / SRS documentation
+Deep understanding of:
+System integration & testing
+Verification & validation processes
+Simulation-based testing approaches
+Experience with requirements management tools (e.g. DOORS, Jama, Polarion)
+Excellent stakeholder engagement and communication skills
+Highly structured, detail-oriented, and analytical mindset
+
+
+🎯 Why Join?
+
+
+Work at the centre of a technically complex, high-impact programme
+Shape how requirements drive design, development, and testing
+Collaborate with multidisciplinary teams across engineering, software, and operations
+Play a key role in ensuring successful system delivery
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Other
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Positiv Cohort Ltd by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Systems Engineer
+Systems Engineer
+Mott MacDonald
+London, England, United Kingdom
+3 days ago
+System Requirements Engineer
+System Requirements Engineer
+Cambridge Aerospace
+Cambridge, England, United Kingdom
+1 month ago
+Engineer (Systems Engineering)
+Engineer (Systems Engineering)
+SYSTRA UK & Ireland
+Reading, England, United Kingdom
+2 days ago
+Systems Engineer - Epic Management & Requirements
+Systems Engineer - Epic Management & Requirements
+Capgemini Engineering
+London Area, United Kingdom
+1 week ago
+Systems Engineer - Epic Management & Requirements
+Systems Engineer - Epic Management & Requirements
+Capgemini Engineering
+London, England, United Kingdom
+22 hours ago
+Senior Systems Engineer
+Senior Systems Engineer
+Mott MacDonald
+London, England, United Kingdom
+3 days ago
+Show more jobs like this 
+People also viewed
+Senior Systems Engineer
+Senior Systems Engineer
+
+Evolito Ltd
+
+Bicester, England, United Kingdom
+3 weeks ago
+Verification & Test Engineer
+Verification & Test Engineer
+
+Hypersonica
+
+London, England, United Kingdom
+2 weeks ago
+Principal Systems Engineer
+Principal Systems Engineer
+
+Gold Group Ltd
+
+Loudwater, England, United Kingdom
+4 days ago
+Lead Systems Engineer
+Lead Systems Engineer
+
+Archangel Autonomy
+
+Oxford, England, United Kingdom
+2 weeks ago
+Senior Systems Engineer
+Senior Systems Engineer
+
+Humanoid
+
+London, England, United Kingdom
+4 days ago
+Senior Systems Engineer
+Senior Systems Engineer
+
+UK Space Jobs
+
+London, England, United Kingdom
+6 days ago
+Senior Systems Engineer
+Senior Systems Engineer
+
+Inspiration Healthcare
+
+Croydon, England, United Kingdom
+1 month ago
+Sonar Systems Engineer
+Sonar Systems Engineer
+
+Experis UK
+
+Reading, England, United Kingdom
+£60 - £70
+4 weeks ago
+Lead Systems Engineer
+Lead Systems Engineer
+
+Leonardo
+
+Luton, England, United Kingdom
+£67,000 - £81,000
+2 weeks ago
+Senior Systems Engineer
+Senior Systems Engineer
+
+Archangel Lightworks
+
+Oxford, England, United Kingdom
+5 hours ago
+Similar Searches
+System Engineer jobs
+6,154 open jobs
+Engineer jobs
+79,088 open jobs
+Junior System Engineer jobs
+449 open jobs
+Microsoft System Engineer jobs
+64 open jobs
+Domain Administrator jobs
+1,393 open jobs
+Requirements Engineer jobs
+7,247 open jobs
+Computer Systems Engineer jobs
+20,897 open jobs
+Lead System Administrator jobs
+1,128 open jobs
+Electronic System Engineer jobs
+1,803 open jobs
+Power System Engineer jobs
+4,466 open jobs
+Windows System Engineer jobs
+1,349 open jobs
+Infrastructure System Engineer jobs
+347 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
