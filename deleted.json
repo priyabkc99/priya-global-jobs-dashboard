@@ -321,5 +321,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-19) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Field Product Specialist",
+    "company": "HAYLEY DEXIS",
+    "location": "Halesowen, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/field-product-specialist-at-hayley-dexis-4450645323",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a quota-carrying sales role mislabeled as 'Field Product Specialist', which falls under the hard rejection criteria for sales-oriented roles using this title, despite her prior technical/quality-focused 'Product Specialist' experience.",
+    "id": "bc3c6ce2",
+    "source": "linkedin_uk_product_specialist",
+    "added_at": "2026-09-29T08:59:23+03:00",
+    "posted_date": "2026-08-30",
+    "deadline": "2023-10-08",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-08) passed by more than 2 days and unreviewed"
   }
 ]
