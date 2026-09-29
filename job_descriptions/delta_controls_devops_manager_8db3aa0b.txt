@@ -1,0 +1,320 @@
+Title: DevOps Manager
+Company: Delta Controls
+Location: Surrey, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-manager-at-delta-controls-4454994843
+Posted: 2026-08-30
+Deadline: N/A
+Reason: The DevOps Manager role at Delta Controls aligns with Priya's expertise in CI/CD pipelines, release management, and enterprise DevOps tooling (GitLab, Jenkins), matching her background at Elektrobit and Topcon, and is located in Canada, a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Manager
+Delta Controls  Surrey, British Columbia, Canada
+1 month ago   Be among the first 25 applicants
+  
+
+See who Delta Controls has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Delta Intelligent Building Technologies (Canada) Inc.(formerly known as Delta Controls).
+
+Delta Intelligent Building Technologies (Canada) Inc. (a subsidiary of Delta Electronics) is a leading building controls manufacturer with over 300 partners in more than 80 countries. For over three decades, we have provided innovative building automation solutions for commercial, healthcare, education, and leisure facilities. We delivered the world’s first fully integrated BACnet building solution for HVAC, lighting, and access control.
+
+Job Summary
+
+The DevOps Manager owns DevOps practice, tooling, and release management across the entire Product Development department. This role is accountable for release and deployment success and works collaboratively with each product's DevOps Specialist and team lead to resolve issues. The role also owns operations and maintenance of the department's shared DevOps tooling, including source control and code quality platforms, and owns the enterprise On-Call/incident response program for SaaS applications.
+
+DevOps Specialists embedded within individual product teams continue to report administratively to their Team Leads or Enterprise Directors; the DevOps Manager is their functional manager, setting technical direction and standards for the discipline org-wide, without holding direct people-management responsibility over them.
+
+Duties & Responsibilities
+
+Responsibilities include but are not limited to:
+
+Release & Pipeline Management
+
+
+Accountable for the overall success of build and deployment processes across all PD products — reliability, consistency, and adherence to DevOps standards — partnering with each product's DevOps Specialist and team lead to diagnose and resolve issues
+Define and promote consistent merge/branching/release standards across PD; work with product teams to adopt them
+Advise and coordinate on deployment windows and cadence for products to avoid cross-team conflicts
+Maintain and continually improve CI/CD infrastructure standards across PD
+
+
+Enterprise DevOps Tooling
+
+
+Own operations, maintenance, and administration of enterprise DevOps tooling used across Product Development (GitLab, SonarQube, Jenkins, and others)
+Ensure availability, performance, and security of these platforms, including upgrades, patching, and capacity planning
+Manage access, permissions, and integration of these tools across product teams and global offices
+Evaluate, select, and onboard new enterprise DevOps tooling as the department's needs evolve
+Maintain licensing, vendor relationships, and cost management for owned tooling
+
+
+Functional Management of DevOps Specialists
+
+
+Set technical direction, standards, and best practices for all DevOps Specialists in PD
+Provide technical mentorship, coaching, and career guidance to DevOps Specialists across the organization
+Conduct technical reviews of DevOps Specialists' work as input to their performance reviews (in partnership with their direct managers)
+Identify practice or performance concerns and raise them with the DevOps Specialist's manager; work collaboratively with the engineer to implement the agreed resolution
+Participate in hiring processes for new DevOps Specialists across PD (technical evaluation/input)
+
+
+On-Call Program Ownership
+
+
+Own the enterprise on-call/incident response program in its entirety, including tooling, escalation policies, and rotation structure
+Drive the phased rollout: runbook completion, tool launch, and progression to full 24x7 coverage
+Set and enforce runbook standards and completion requirements across product teams
+Own incident response process design, including severity definitions, escalation paths, and post-incident review process
+Coordinate with product/team leads to ensure adequate on-call staffing and rotation fairness
+
+
+General
+
+
+Continually improve DevOps and release practices based on incident trends, release outcomes, and team feedback
+Report on release health, deployment frequency/failure rate, and on-call/incident metrics to the Chief Product Development Officer
+
+
+Required Or Preferred Skills And Abilities
+
+
+Strong technical communication and cross-team influence skills — able to enforce standards across multiple offices and teams
+Demonstrated experience managing or leading release/deployment processes at scale, across more than one product line
+Experience administering enterprise DevOps tooling (e.g., GitLab, SonarQube, or equivalents)
+Experience designing or running an on-call/incident response program
+Knowledge of CI/CD tooling and practices (e.g., GitLab CI/CD, Jenkins, Kubernetes/Helm)
+Ability to mentor, coach, and hold accountable team members outside a direct reporting line
+Outstanding diagnostic and problem-solving skills
+Knowledge of SDLC, application architecture, deployment, and infrastructure practices across multiple products
+Conflict resolution skills, particularly for cross-team/cross-office release disputes
+
+
+Minimum Qualifications
+
+
+College diploma or University degree in computer science, information systems, or software engineering, or equivalent experience
+5+ years of experience in DevOps, release engineering, or related infrastructure roles
+Prior experience in a functional/matrixed management role (technical authority without direct people-management authority) preferred
+Experience running or building an incident response/on-call program preferred
+Experience administering source control and code quality platforms at scale preferred
+
+
+Work Location: In-office environment that is currently 3 days per week
+
+City: Surrey
+
+Type: full-time, Permanent
+
+Salary: 108,000 - 122,000 CAD
+
+This range reflects the minimum and maximum target payable for the base salary of new hires across all Canadian locations. Actual compensation may vary outside this range and is dependent on various factors.
+
+Why work for us?
+
+We provide fantastic opportunities to individuals passionate about business and technology. Delta Electronics products are the most energy efficient power products in the industry and our company is perfect for those who want to create, design and build sustainable solutions using massively scalable, big-data architecture, with a strong focus on building automation. Here are some of the Delta perks you’ll receive from day 1!
+
+
+Employee & safety centric culture with the possibility of remote work
+Flexible hours and scheduling available
+Competitive total compensation along with generous vacation allowances
+Three weeks of vacation
+In-house & external training provided along with education support and opportunities for growth
+Company funded annual personal development budget
+Financial benefits & planning such as group RRSP & company match
+Employer paid premiums for extended healthcare and family-focused benefits (health, vision and dental)
+Travel insurance coverage and access to the Employee Assistance Program (EAP)
+Wellness - onsite fitness center & company reimbursement for personal gym memberships
+Internal Recognition & Service Awards
+Employee Referral bonuses
+Transit accessible with free onsite parking
+Regular company events such as "Food Truck Fridays", Lunch & Learn and other planned activities.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Strategy/Planning and Information Technology
+Industries
+Appliances, Electrical, and Electronics Manufacturing
+  
+
+Referrals increase your chances of interviewing at Delta Controls by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Manager
+DevOps Manager
+Motorola Solutions
+Greater Vancouver Metropolitan Area
+4 days ago
+DevOps Team Lead
+DevOps Team Lead
+LMI Technologies
+Burnaby, British Columbia, Canada
+2 months ago
+Site Reliability Engineering Manager
+Site Reliability Engineering Manager
+TekRek
+Vancouver, British Columbia, Canada
+3 days ago
+Platform Engineering Manager
+Platform Engineering Manager
+Connor, Clark & Lunn Financial Group (CC&L)
+Vancouver, British Columbia, Canada
+2 weeks ago
+Manager, Site Reliability Engineering
+Manager, Site Reliability Engineering
+LayerZero Labs
+Vancouver, British Columbia, Canada
+2 weeks ago
+AI DevOps & Reliability Engineer
+AI DevOps & Reliability Engineer
+Branch
+Vancouver, British Columbia, Canada
+3 days ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+Cover Genius
+
+Vancouver, British Columbia, Canada
+2 days ago
+Senior Site Reliability Engineer I
+Senior Site Reliability Engineer I
+
+Braze
+
+Vancouver, British Columbia, Canada
+1 week ago
+DevOps Specialist
+DevOps Specialist
+
+Vancouver Coastal Health
+
+Vancouver, British Columbia, Canada
+1 week ago
+Intermediate/Senior DevOps, Site Reliability (Linux)
+Intermediate/Senior DevOps, Site Reliability (Linux)
+
+Global Relay
+
+Vancouver, British Columbia, Canada
+2 days ago
+Director, Developer Platform & Experience
+Director, Developer Platform & Experience
+
+Motive
+
+Vancouver, British Columbia, Canada
+3 days ago
+Staff DevOps Developer
+Staff DevOps Developer
+
+Visier Inc.
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior Director, Technology Operations
+Senior Director, Technology Operations
+
+Seequent
+
+Vancouver, British Columbia, Canada
+1 week ago
+Senior CloudOps Developer
+Senior CloudOps Developer
+
+Thales
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+Electronic Arts (EA)
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+PayByPhone
+
+Vancouver, British Columbia, Canada
+6 days ago
+Similar Searches
+Electronic Technologist jobs
+802 open jobs
+Hardware Engineering Intern jobs
+59 open jobs
+Scada Engineer jobs
+1,638 open jobs
+Social Media Marketing Manager jobs
+508 open jobs
+Senior Human Resources Specialist jobs
+1,300 open jobs
+Instrumentation Engineer jobs
+1,153 open jobs
+Electronic Engineer jobs
+1,637 open jobs
+Dentist jobs
+614 open jobs
+Content Editor jobs
+897 open jobs
+Video Producer jobs
+131 open jobs
+Test Engineer jobs
+16,092 open jobs
+Hardware Engineer jobs
+15,189 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Delta Controls
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

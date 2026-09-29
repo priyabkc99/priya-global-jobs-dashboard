@@ -1,0 +1,310 @@
+Title: Senior Portfolio Release Manager, Customer Growth
+Company: Priceline
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-portfolio-release-manager-customer-growth-at-priceline-4431896082
+Posted: 2026-09-22
+Deadline: N/A
+Reason: Priyanga's extensive experience in release management, CI/CD pipelines, cross-functional coordination, and compliance aligns with the Senior Portfolio Release Manager role at Priceline, which matches her background in regulated environments and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Portfolio Release Manager, Customer Growth
+Priceline  Toronto, Ontario, Canada
+1 week ago  119 applicants
+  
+
+See who Priceline has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+This role is eligible for our hybrid work model: Two days in-office.
+
+Senior Portfolio Release Manager
+
+Our Technology team is the backbone of our company: constantly creating, testing, learning and iterating to better meet the needs of our customers. If you thrive in a fast-paced, ideas-led environment, you’re in the right place.
+
+Why This Job’s a Big Deal
+
+As a Release Manager working within a Product Operating Model (POM) — and supporting a business portfolio and platform — your role centers on orchestrating the successful and predictable release of value to end users. You ensure that product and platform teams deliver with quality, timing, and alignment, while continuously improving the release process to support agility, scale, and compliance. Release Managers are tied to support Product Groups or Products (if Product Group layer doesn’t exist).
+
+In This Role You Will Get To
+
+
+Release Planning & Coordination
+Own and maintain the release calendar, working across product, engineering, QA, and operations teams to schedule and coordinate releases.
+Ensure that releases — especially cross-team or cross-domain ones — are well-planned, communicated, and aligned to business milestones (e.g., launches, campaigns, seasonal readiness).
+Drive release readiness checkpoints, confirming that testing, documentation, approvals, and risk assessments are complete.
+Risk & Quality Management
+Identify and manage risks to release quality, timing, or rollback readiness.
+Partner with QA and SRE/DevOps to enforce release criteria, stability gates, and post-release validation processes.
+Maintain controls required for compliance, audit, or change management (especially in regulated environments).
+Cross-Team Communication & Stakeholder Alignment
+Serve as the central point of coordination for product and platform releases — connecting engineering, product, marketing, legal, and support.
+Ensure key stakeholders are informed of release scope, timing, and any critical changes or incidents.
+Help shape release notes, rollout communications, or change advisories in partnership with product managers and comms leads.
+Process Improvement & Automation
+Continuously improve the release process, tooling, and reporting to support faster, safer, and more frequent releases.
+Partner with DevOps, SRE, and platform teams to advance CI/CD pipelines, release automation, and feature flagging strategies
+Support the organization’s shift toward agile and continuous delivery by evolving traditional release cadences and change control practices.
+Metrics & Post-Release Analysis
+Track and report on release health metrics (e.g., failed deployments, change lead time, change failure rate, MTTR).
+Facilitate release retrospectives to identify and act on improvement opportunities.
+Help assess the business and customer impact of major releases.
+
+Who You Are
+
+
+You bring in 8 -10 years of strong Agile and Project/Program Management experience, with a solid understanding of how release management integrates into iterative delivery models.
+You’ve led or supported cross-functional release planning, coordinated dependencies across multiple teams, and ensured smooth delivery through disciplined execution and continuous improvement.
+You’re fluent in Agile ceremonies, metrics, and frameworks (Scrum, Kanban, SAFe, or similar) and can apply them pragmatically to drive outcomes.
+You understand the importance of governance, communication, and stakeholder management in scaling delivery across a portfolio.
+You act as a bridge between rapid product development and operational stability.
+You reduce friction and risk in the last mile of delivery, helping product and engineering teams move with confidence.
+Proactive in identifying risks and opportunities, and comfortable making decisions with incomplete information
+Experienced in coordinating software releases, especially in complex environments with multiple dependencies
+A detail-oriented operator who thrives in fast-paced environments and can manage multiple competing priorities
+Illustrated history of living the values necessary to Priceline: Customer, Innovation, Team, Accountability and Trust
+The Right Results, the Right Way is not just a motto at Priceline; it’s a way of life. Unquestionable integrity and ethics is essential
+
+
+There are a variety of factors that go into determining a salary range, including but not limited to external market benchmark data, geographic location, and years of experience sought/required. In addition to a competitive base salary, certain roles may be eligible for an annual bonus and/or equity grant.
+
+The salary range for this position is $115,000- $135,000K CAD
+
+Who We Are
+
+WE ARE PRICELINE.
+
+Our success as one of the biggest players in online travel is all thanks to our incredible, dedicated team of talented employees. Priceliners are focused on being the best travel deal makers in the world, motivated by our passion to help everyone experience the moments that matter most in their lives. Whether it’s a dream vacation, your cousin’s graduation, or your best friend’s wedding - we make travel affordable and accessible to our customers.
+
+Our culture is unique and inspiring (that’s what our employees tell us). We’re a grown-up, startup. We deliver the excitement of a new venture, without the struggles and chaos that can come with a business that hasn’t stabilized.
+
+We’re on the cutting edge of innovative technologies. We keep the customer at the center of all that we do. Our ability to meet their needs relies on the strength of a workforce as diverse as the customers we serve. We bring together employees from all walks of life and we are proud to provide the kind of inclusive environment that stimulates innovation, creativity and collaboration.
+
+Priceline is part of the Booking Holdings, Inc. (Nasdaq: BKNG) family of companies, a highly profitable global online travel company with a market capitalization of over $80 billion. Our sister companies include Booking.com, BookingGo, Agoda, Kayak and OpenTable.
+
+If you want to be part of something truly special, check us out!
+
+Flexible work at Priceline
+
+Priceline is following a hybrid working model, which includes two days onsite as determined by you and your manager (ideally selecting among Tuesday, Wednesday, or Thursday). On the remaining days, you can choose to be remote or in the office.
+
+Perks & Benefits At Priceline
+
+Our benefits are designed to support your health, wellbeing, and life inside and outside of work. Eligible Priceliners have access to:
+
+Health & wellness coverage including medical, dental, vision, and mental health resources
+
+Generous time off including PTO, holidays, a company-wide Priceline Pause reset week, and paid volunteer days
+
+Work/life support including the ability to work up to 4 weeks per year from anywhere, parental leave, dependent care and family support resources, Summer Fridays, and office perks like stocked kitchens and catered meals (varies by location)
+
+Financial security programs such as retirement plans with company contributions, life and disability coverage, and tax-advantaged accounts
+
+Signature travel perks including employee-only discounts on hotels and flights, VIP deals, and Big Deal Bucks credits
+
+Additional perks & discounts like travel and partner discounts, tuition support, legal support, and pet benefits
+
+A people-first culture with Employee Resource Groups (ERGs), social events, recognition programs, and service awards that help you connect, grow, and celebrate together
+
+Specific benefits and programs vary by location.
+
+Inclusion is a Big Deal!
+
+To be the best travel dealmakers in the world, we believe our team should reflect the broad range of customers and communities we serve. We are committed to cultivating a culture where all employees have the freedom to bring their individual perspectives, life experiences, and passion to work.
+
+Priceline is a proud equal opportunity employer. We embrace and celebrate the unique lenses through which our employees see the world. We’d love for you to join us and help shape what makes our team extraordinary.
+
+Applying for this position
+
+We're excited that you are interested in a career with us. For all current employees, please use the internal portal to find jobs and apply.
+
+External candidates are required to have an account before applying. When you click Apply, returning candidates can log in, or new candidates can quickly create an account to save/view applications.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Hospitality, IT Services and IT Consulting, and Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Priceline by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Channel Strategy - Product Launch & Strategic Projects
+Channel Strategy - Product Launch & Strategic Projects
+Apple
+Toronto, Ontario, Canada
+3 weeks ago
+Staff Portfolio Release Manager
+Staff Portfolio Release Manager
+Priceline
+Toronto, Ontario, Canada
+1 week ago
+Go-To-Market (GTM) Lead
+Go-To-Market (GTM) Lead
+Makeship
+Toronto, Ontario, Canada
+1 week ago
+Growth and Retention Delivery Lead
+Growth and Retention Delivery Lead
+Intuit
+Toronto, Ontario, Canada
+1 week ago
+Senior Manager, Gift Cards & Loyalty
+Senior Manager, Gift Cards & Loyalty
+Rakuten Kobo Inc.
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Manager, Customer Segments and Growth (Product & Digital)
+Senior Manager, Customer Segments and Growth (Product & Digital)
+BMO
+Toronto, Ontario, Canada
+1 month ago
+Show more jobs like this 
+People also viewed
+Strategy & Ops Lead
+Strategy & Ops Lead
+
+Stadium Vault (Stadium Live Studios)
+
+Greater Toronto Area, Canada
+9 hours ago
+Delivery Lead – Content Operations
+Delivery Lead – Content Operations
+
+Accenture
+
+Toronto, Ontario, Canada
+1 week ago
+Client Success Lead
+Client Success Lead
+
+Affirm
+
+Toronto, Ontario, Canada
+1 week ago
+Manager, Product Strategy II
+Manager, Product Strategy II
+
+Moneris
+
+Toronto, Ontario, Canada
+2 weeks ago
+Lead, Vertical & Performance Solutions
+Lead, Vertical & Performance Solutions
+
+StackAdapt
+
+Toronto, Ontario, Canada
+4 days ago
+Senior Product Manager, Platform / OS
+Senior Product Manager, Platform / OS
+
+Roku
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Manager, Loyalty Engagement (Toronto, ON)
+Senior Manager, Loyalty Engagement (Toronto, ON)
+
+Scotiabank
+
+Toronto, Ontario, Canada
+4 days ago
+Senior Product Proposition Manager
+Senior Product Proposition Manager
+
+Global Payments Inc.
+
+Toronto, Ontario, Canada
+4 days ago
+Director of Self Serve
+Director of Self Serve
+
+Paddle
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Manager, Digital Delivery Enablement
+Senior Manager, Digital Delivery Enablement
+
+RBC
+
+Toronto, Ontario, Canada
+3 days ago
+Similar Searches
+Change And Release Manager jobs
+167 open jobs
+Release Engineer jobs
+1,158 open jobs
+Deployment Manager jobs
+4,679 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Configuration Manager jobs
+487 open jobs
+Change Manager jobs
+8,343 open jobs
+Problem Manager jobs
+2,369 open jobs
+Assistant Professor of Mathematics jobs
+67 open jobs
+Delivery Manager jobs
+11,325 open jobs
+Game Producer jobs
+87 open jobs
+Incident Manager jobs
+585 open jobs
+SAP Basis Manager jobs
+124 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Priceline
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

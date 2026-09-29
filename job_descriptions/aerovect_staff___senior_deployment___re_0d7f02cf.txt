@@ -1,0 +1,248 @@
+Title: Staff / Senior Deployment & Release Manager
+Company: AeroVect
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/staff-senior-deployment-release-manager-at-aerovect-4459380233
+Posted: 2026-08-30
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in release management, configuration management, and safety-critical deployments, located in Canada (target country), with no visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff / Senior Deployment & Release Manager
+AeroVect  Toronto, Ontario, Canada
+1 month ago  27 applicants
+  
+
+See who AeroVect has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Who We Are
+
+AeroVect is transforming ground handling with autonomy, redefining how airlines and ground service providers around the globe run day-to-day operations. We are a Series A company backed by top-tier venture capital investors in aviation and autonomous driving. Our customers include some of the world’s largest airlines and ground handling providers. For more information, visit www.aerovect.com.
+
+The Deployment & Release Manager is responsible for ensuring that AeroVect’s Autonomous Ground Support Equipment (AGSE) service deployments are safe and reliable, specifically the AV fleet.
+
+This role requires a unique blend of balancing system level overviews and subsystem level details. The candidate will work directly with the Director of Safety, Systems, and Product and the VP of Engineering to develop and own processes that support and empower data-driven development while ensuring safe deployments and scaling.
+
+You Will
+
+
+Own and drive the process to evaluate and approve deployments for defined Operational Design Domains (ODDs)
+Ensure that only the system and vehicles that have been verified, validated, and approved are deployed accordingly
+Support the bringup process for new AVs, from receipt to commissioning to first autonomous missions
+Own and drive the release process to evaluate and approve recurring SW updates, including gates, QA, etc.
+Partner with Engineering and Safety & Systems to verify that new software releases meet required criteria through simulation, closed course, shadow mode, and preliminary supervised testing before production rollout
+Schedule and execute software updates to the fleet, ensuring zero downtime during peak operational hours while maintain 100% readiness for reversion protocols
+Define, document, and maintain the chosen configuration for every vehicle type (e.g., components, firmware versions, system parameters, connectivity settings, etc.)
+Own and drive the change management process and lead the board that reviews all requested changes from the chosen configuration (e.g., swapping a sensor)
+Maintain documentation of all changes with supporting artifacts in compliance with regulator and customer needs
+
+
+You Have
+
+
+BS degree in Computer Science, Engineering, Mechatronics, Aerospace, or equivalent preferred
+Extensive knowledge and hands-on experience with developing and managing safety-critical autonomous deployments
+Strong understanding of software development, system architecture, and cloud infrastructure
+Demonstrated ability to successfully manage XFN teams to align on a unified process vision and deliver against it
+Ability to articulate technical issues and solutions to all levels of the business, within and beyond the engineering communities
+
+
+We Prefer
+
+
+MS in Computer Engineering, Computer Science, Electrical Engineering, Aerospace Engineering, or other related technical disciplines
+Experience with fostering a safety culture in the context of aviation / airline or robotics applications
+Familiarity with airport/airline operations and / or the airside driving environment at major global airports
+Experience with safety standards in the development and deployment of complex autonomous systems (including but not limited to ISO 26262, ISO 21448, UL 4600, IEC 61508, ANSI B56.5, ISO3691, ANSI 15.08)
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Airlines and Aviation
+  
+
+Referrals increase your chances of interviewing at AeroVect by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Sr. Release Manager
+Sr. Release Manager
+PAR Technology
+Toronto, Ontario, Canada
+2 weeks ago
+Staff Portfolio Release Manager
+Staff Portfolio Release Manager
+Priceline
+Toronto, Ontario, Canada
+1 week ago
+Incident and Release Manager FCC
+Incident and Release Manager FCC
+Fidelity Canada
+Toronto, Ontario, Canada
+1 week ago
+Release Lead
+Release Lead
+J&M Group
+Toronto, Ontario, Canada
+1 month ago
+Senior Portfolio Release Manager, Customer Growth
+Senior Portfolio Release Manager, Customer Growth
+Priceline
+Toronto, Ontario, Canada
+1 week ago
+Engineering Manager, Service Platform
+Engineering Manager, Service Platform
+Instacart
+Canada
+3 days ago
+Show more jobs like this 
+People also viewed
+Engineering Manager, Platform
+Engineering Manager, Platform
+
+Shakepay
+
+Canada
+5 months ago
+Senior Program Manager
+Senior Program Manager
+
+Jobgether
+
+Canada
+4 days ago
+Manager, Release Train Engineer, Deloitte Global Technology
+Manager, Release Train Engineer, Deloitte Global Technology
+
+Deloitte
+
+Toronto, Ontario, Canada
+18 hours ago
+Senior Manager Implementation and Onboarding
+Senior Manager Implementation and Onboarding
+
+1Password
+
+Canada
+1 week ago
+Enterprise Implementation Specialist
+Enterprise Implementation Specialist
+
+Fellow - AI Meeting Assistant
+
+Toronto, Ontario, Canada
+1 month ago
+Principal Technical Program Manager
+Principal Technical Program Manager
+
+GitLab
+
+Canada
+1 week ago
+DevOps Project Manager
+DevOps Project Manager
+
+PeoplePilot
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+PENN Interactive
+
+Canada
+1 month ago
+Senior Delivery Lead
+Senior Delivery Lead
+
+Scotiabank
+
+Toronto, Ontario, Canada
+14 hours ago
+Director, Program Management
+Director, Program Management
+
+Create Music Group
+
+Canada
+4 months ago
+Similar Searches
+Change And Release Manager jobs
+167 open jobs
+Release Engineer jobs
+1,158 open jobs
+Deployment Manager jobs
+4,679 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Configuration Manager jobs
+487 open jobs
+Change Manager jobs
+8,343 open jobs
+Problem Manager jobs
+2,369 open jobs
+Assistant Professor of Mathematics jobs
+67 open jobs
+Delivery Manager jobs
+11,325 open jobs
+Game Producer jobs
+87 open jobs
+Incident Manager jobs
+585 open jobs
+SAP Basis Manager jobs
+124 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at AeroVect
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,297 @@
+Title: SAP Release Manager
+Company: Accenture
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/sap-release-manager-at-accenture-4464172819
+Posted: 2026-09-15
+Deadline: N/A
+Reason: The role aligns with Priya's experience as a Release Manager (Topcon/ Elektrobit), located in Canada (target country), and requires no US-based work authorization. While SAP BASIS/BTP experience is explicitly required, her 15+ years in regulated release management and CI/CD ownership strongly overlap with the role's core responsibilities.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+SAP Release Manager
+Accenture  Montreal, Quebec, Canada
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who Accenture has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+We are:
+
+Accenture’s SAP practice, and we bring the New to life using design thinking, agile development methodologies, and the latest smart tech like IoT, automation, and AI. We even built myConcerto, a mix of SAP and Accenture that helps lead our clients to big wins. Ready to learn as much as you can? We train our people on "new" SAP like SAP Leonardo, S/4HANA and Cloud, and we offer classes and support through our 50,000+ member community. It’s also nice to know our hard work doesn’t go unrecognized. We’ve got over 70 SAP awards—more than any other partner—and we’re the leading business partner for SAP SuccessFactors, SAP Ariba, SAP Hybris, SAP FieldGlass, SAP Concur, and more. Visit us here to find out more about Accenture's SAP practice.
+
+You are:
+
+A SAP Release Manager is accountable for the end‑to‑end planning, governance, and operational control of all SAP environments (e.g., DEV, QA, UAT, PRE‑PROD, PROD) to ensure that projects, enhancements, testing cycles, and production operations can proceed predictably, safely, and without conflict. The role owns the environment strategy and day‑to‑day orchestration across the SAP landscape, acting as the single point of coordination between projects, AMS, release management, Basis, testing teams, and business stakeholders.
+
+The work:
+
+
+
+Owns the overall SAP environment strategy and governance across all landscapes.
+
+Defines and enforces environment usage rules, refresh policies, access standards, and naming conventions aligned with SAP and enterprise governance.
+
+Ensures environments are used appropriately for their intended purpose (build, test, training, cutover, production).
+
+They plan, schedule and control the build, test and deployment of releases, and to deliver new functionality required by the business while protecting the integrity of the existing services
+
+Plans, schedules, and controls environment usage across:
+
+Projects
+
+AMS enhancements and defect fixes
+
+Regression testing cycles
+
+Maintenance and technical upgrades
+
+Manages who is using which environment, when, proactively resolving conflicts between concurrent initiatives. Bundling of releases, minor and major. For example, a major monthly release may include a small project and a bundle of AMS enhancements. The major release will then be regression tested all together as one bundle which means all components have to be ready in UAT at a certain time.
+
+Maintains a single integrated environment calendar covering releases, testing windows, refreshes, freezes, and maintenance periods.
+
+Ensure smooth transition from the BUILD phases to the RUN phase. They ensure that all involved stakeholders are informed of upcoming releases and that all elements required to deploy and operate the services and products are delivered, controlled and traceable resulting in improved operational efficiency.
+
+Proactively manages S/4HANA system performance (monitoring CPU/memory, background jobs, SAP short dumps, etc.)
+
+Implements SAP BASIS best practices (e.g. regular kernel updates, HANA tuning, job scheduling review) to improve month-end close speeds and overall system health.
+
+enforce proper preventive maintenance regimes, such as monitoring SAP Notes and applying updates promptly.
+
+Own Regular environment health checks and drive related enhancement initiatives
+
+3 days in office is required.
+
+
+Here's what you need:
+
+
+
+10-12 years of SAP Release Management experience.
+
+Basis/BTP experience is required.
+
+English is required for this position as this role will regularly interact with stakeholders across Canada, US and other countries across our Global footprint where English is the common language. Due to the significant high volume of interactions with these English-speaking stakeholders, which is inherent to this position, it is not possible to reorganize the company's activities to avoid this requirement.
+
+
+
+Bonus points:
+
+
+
+English is must, French is bonus.
+
+
+
+
+
+Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location,
+
+role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation, based on full-time
+
+employment, for roles that may be hired as set forth below.
+
+The recruiting efforts for this position are intended to fill a brand new position.
+
+The base pay range shown below is intended as a guideline to reflect the majority of offers for this role.
+
+It does not represent a maximum limit — in some cases, actual compensation may exceed the range where appropriate.
+
+Information on benefits is here:
+
+Role Location Annual Salary Range
+
+British Columbia/Ontario/New Brunswick $82,600 to $132,600
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Internet Publishing
+  
+
+Referrals increase your chances of interviewing at Accenture by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+SAP Release Manager
+SAP Release Manager
+Accenture
+Montreal, Quebec, Canada
+1 week ago
+SAP S4 Upgrade Lead
+SAP S4 Upgrade Lead
+Accenture
+Montreal, Quebec, Canada
+2 weeks ago
+Application Delivery and Lifecycle Manager, Logistics
+Application Delivery and Lifecycle Manager, Logistics
+BRP
+Greater Montreal Metropolitan Area
+4 days ago
+SAP/ERP IT Manager (Corporate Functions)
+SAP/ERP IT Manager (Corporate Functions)
+Bombardier
+Dorval, Quebec, Canada
+1 week ago
+SAP Cutover Lead
+SAP Cutover Lead
+PrecisionERP / PrecisionIT
+Montreal, Quebec, Canada
+8 hours ago
+Gestionnaire de projet (SAP S/4HANA)
+Gestionnaire de projet (SAP S/4HANA)
+CGI
+Montreal, Quebec, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Responsable de la gestion de configuration / Configuration Management Responsible
+Responsable de la gestion de configuration / Configuration Management Responsible
+
+Airbus
+
+Montreal, Quebec, Canada
+2 weeks ago
+Release Manager – Dead By Daylight
+Release Manager – Dead By Daylight
+
+Behaviour Interactive
+
+Montreal, Quebec, Canada
+2 weeks ago
+Responsable de la gestion de configuration / Configuration Management Responsible
+Responsable de la gestion de configuration / Configuration Management Responsible
+
+Airbus Aircraft
+
+Montreal, Quebec, Canada
+2 weeks ago
+IT Senior Manager, Data Governance
+IT Senior Manager, Data Governance
+
+Saputo Inc.
+
+Montreal, Quebec, Canada
+5 days ago
+Propriétaire de plateforme – Systèmes RH
+Propriétaire de plateforme – Systèmes RH
+
+Pomerleau
+
+Montreal, Quebec, Canada
+CA$79,000 - CA$102,000
+1 week ago
+HR Platform & Systems Owner
+HR Platform & Systems Owner
+
+Pomerleau
+
+Montreal, Quebec, Canada
+CA$79,000 - CA$102,000
+1 week ago
+Chargé.e de projet ERP
+Chargé.e de projet ERP
+
+Boralex Inc.
+
+Montreal, Quebec, Canada
+3 weeks ago
+Release Train Engineer
+Release Train Engineer
+
+Acuity
+
+Brossard, Quebec, Canada
+2 days ago
+Lead SAP Portal – S/4HANA Migration
+Lead SAP Portal – S/4HANA Migration
+
+Infosys
+
+Montreal, Quebec, Canada
+2 weeks ago
+SAP Delivery Lead
+SAP Delivery Lead
+
+Accenture
+
+Montreal, Quebec, Canada
+1 week ago
+Similar Searches
+Change Management Manager jobs
+951 open jobs
+Release Manager jobs
+3,420 open jobs
+Delivery Manager jobs
+11,325 open jobs
+Engineer jobs
+24,068 open jobs
+Change And Release Manager jobs
+167 open jobs
+Release Engineer jobs
+1,158 open jobs
+Deployment Manager jobs
+4,679 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Configuration Manager jobs
+487 open jobs
+Change Manager jobs
+8,343 open jobs
+Problem Manager jobs
+2,369 open jobs
+Assistant Professor of Mathematics jobs
+67 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Accenture
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,303 @@
+Title: Senior Manager, SDK Release
+Company: Analog Devices
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-manager-sdk-release-at-analog-devices-4446676386
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The role aligns with Configuration Management Engineer and Release Manager responsibilities, located in Canada (target country), and matches mid-to-senior experience level requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Manager, SDK Release
+Analog Devices  Vancouver, British Columbia, Canada
+1 week ago  27 applicants
+  
+
+See who Analog Devices has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Analog Devices
+
+Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X.
+
+Analog Devices is seeking an experienced Senior Manager to lead SDK Release & Operations for a scalable SDK platform supporting multiple SoC families and product organizations.
+
+The successful candidate will lead a team responsible for SDK release execution, CI/CD infrastructure, software configuration management, and operational support. This role will help scale and improve software delivery processes that support products across all stages of development, from pre-silicon platforms and silicon bring-up through customer releases and production software.
+
+Working closely with software development, validation, product, and customer-facing teams, this individual will drive high-quality and predictable software deliveries across multiple programs.
+
+Key Responsibilities
+
+SDK Release Management
+
+
+Lead planning and execution of SDK releases across multiple product programs.
+Coordinate release activities across software, validation, platform, and product teams.
+Support release readiness reviews and milestone tracking.
+Ensure software releases are delivered with appropriate quality, documentation, and traceability.
+
+
+Release Operations
+
+
+Manage releases supporting:
+Pre-silicon and virtual platforms
+FPGA and emulation platforms
+Engineering sample programs
+Customer evaluation programs
+Production and maintenance releases
+Drive consistency and repeatability across software delivery processes.
+
+
+CI/CD & Development Infrastructure
+
+
+Lead teams responsible for build infrastructure, CI/CD pipelines, test automation, and release automation.
+Improve software quality, build reliability, and release efficiency.
+Support adoption of common development and release workflows across SDK programs.
+
+
+Configuration Management
+
+
+Oversee software configuration management practices, including versioning, branching, and release baselines.
+Maintain traceability across source code, build artifacts, and software releases.
+Support management of software dependencies and third-party components.
+
+
+Customer & Product Support
+
+
+Support delivery of SDK releases to internal and external customers.
+Partner with product teams on release planning, customer enablement, and software distribution.
+Help define release packaging, documentation, and release note processes.
+
+
+People Leadership
+
+
+Lead and develop a team of release, DevOps, and software operations engineers.
+Foster a culture of collaboration, continuous improvement, and operational excellence.
+Coach team members and support career growth and development.
+
+
+Minimum Qualifications
+
+
+Bachelor's degree in Computer Engineering, Electrical Engineering, Computer Science, or related field.
+10+ years of software engineering experience.
+3+ years of engineering management experience.
+Experience delivering embedded software, SDKs, or platform software.
+Familiarity with CI/CD, source control, and software release processes.
+Strong communication and cross-functional collaboration skills.
+
+
+Preferred Qualifications
+
+
+Experience in semiconductor or embedded systems development.
+Experience with GitHub, GitHub Actions, Azure DevOps, Jenkins, GitLab, or similar tools.
+Familiarity with Zephyr, Linux, RTOS-based systems, and embedded development toolchains.
+Experience supporting software releases for silicon bring-up, customer evaluations, or production programs.
+Knowledge of software compliance, cybersecurity, and SBOM requirements.
+
+
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.
+
+Accessibility for Ontarians with Disabilities Act (AODA): Analog Devices Canada Ltd. has a process in place and provides accommodations for employees with disabilities. To request an accommodation, please contact Connections HR Services at 781-937-2500 or at ConnectionsHRServices@analog.com.
+
+Job Req Type: Experienced
+
+Required Travel: Yes, 10% of the time
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Other
+Industries
+Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at Analog Devices by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Release Management Lead
+Release Management Lead
+Epic Games
+Greater Vancouver, British Columbia, Canada
+1 week ago
+Staff / Senior Deployment & Release Manager
+Staff / Senior Deployment & Release Manager
+AeroVect
+Vancouver, British Columbia, Canada
+1 month ago
+DevOps Manager
+DevOps Manager
+Delta Controls
+Surrey, British Columbia, Canada
+1 month ago
+Staff Platform Engineer
+Staff Platform Engineer
+Rivian
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Manager
+DevOps Manager
+Motorola Solutions
+Greater Vancouver Metropolitan Area
+4 days ago
+Senior Program Manager, AI Engineering and Transformation | IFS Copperleaf
+Senior Program Manager, AI Engineering and Transformation | IFS Copperleaf
+IFS
+Vancouver, British Columbia, Canada
+CA$134,000 - CA$160,000
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Manager, Software and Data Engineering
+Senior Manager, Software and Data Engineering
+
+STEMCELL Technologies
+
+Burnaby, British Columbia, Canada
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+2K
+
+Burnaby, British Columbia, Canada
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Boeing
+
+Richmond, British Columbia, Canada
+2 days ago
+Technical Director Core Assets - Netflix Animation Studios
+Technical Director Core Assets - Netflix Animation Studios
+
+Netflix
+
+Vancouver, British Columbia, Canada
+1 week ago
+Technical Director Pre-Production - Netflix Animation Studios
+Technical Director Pre-Production - Netflix Animation Studios
+
+Netflix
+
+Vancouver, British Columbia, Canada
+1 week ago
+Director, Technical Program Management
+Director, Technical Program Management
+
+Seismic
+
+Vancouver, British Columbia, Canada
+5 days ago
+Technical Project Manager / Technical Program Manager
+Technical Project Manager / Technical Program Manager
+
+A&K Robotics
+
+Vancouver, British Columbia, Canada
+3 months ago
+Technical Program Manager - Software, Firmware, Emulation, and Validation (Vancouver)
+Technical Program Manager - Software, Firmware, Emulation, and Validation (Vancouver)
+
+Qualcomm
+
+Vancouver, British Columbia, Canada
+5 days ago
+Director of Engineering
+Director of Engineering
+
+Lantern
+
+Vancouver, British Columbia, Canada
+1 week ago
+Manager, Engineering
+Manager, Engineering
+
+Trulioo
+
+Vancouver, British Columbia, Canada
+3 days ago
+Similar Searches
+Senior Manager Financial Reporting jobs
+965 open jobs
+Senior Manager Compensation jobs
+949 open jobs
+Senior Audit Manager jobs
+414 open jobs
+Senior Manager Internal Audit jobs
+158 open jobs
+Director Compensation jobs
+497 open jobs
+Senior Finance Manager jobs
+914 open jobs
+Senior Manager Analytics jobs
+611 open jobs
+Director of Internal Audit jobs
+161 open jobs
+Associate Director jobs
+5,856 open jobs
+Senior Manager Ecommerce jobs
+271 open jobs
+Senior Software Engineering Manager jobs
+2,522 open jobs
+Senior Engineering Manager jobs
+1,016 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Analog Devices
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
