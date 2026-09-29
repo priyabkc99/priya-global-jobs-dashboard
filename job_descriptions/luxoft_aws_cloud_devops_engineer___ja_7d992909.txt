@@ -1,0 +1,287 @@
+Title: AWS Cloud DevOps Engineer – Java-Based Trading Systems | Sydney
+Company: Luxoft
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/aws-cloud-devops-engineer-%E2%80%93-java-based-trading-systems-sydney-at-luxoft-4462143658
+Posted: 2026-09-09
+Deadline: N/A
+Reason: The job matches as a DevOps Engineer role in Australia (target country), requiring mid-senior level experience with CI/CD and cloud infrastructure, aligning with the candidate’s 15+ years of experience in regulated industries and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AWS Cloud DevOps Engineer – Java-Based Trading Systems | Sydney
+Luxoft  Sydney, New South Wales, Australia
+3 weeks ago  35 applicants
+  
+
+See who Luxoft has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Luxoft
+
+Vidya Gn
+Vidya Gn
+Recruiter at luxoft (a DXC technology company) IT recruiter | Hiring Niche roles #MUREX, #CALYPSO, #TEMENOS #SUMMIT #PEGA #AXIOM|…
+
+Project Description
+
+An opportunity is available to join the OTC Clearing team, which is responsible for the delivery, support, and modernization of the Calypso platform for our client, a leading Australian financial market infrastructure provider.
+As part of the technology transformation agenda, you will participate in strategic initiatives such as Calypso cloud migration, Aurora PostgreSQL adoption, DevOps automation enhancement, GitLab SaaS migration, observability improvements, and overall platform modernization.
+The team operates within a cross-functional Agile framework, encompassing Engineering, Quality Engineering, DevOps, Product, Business Analysis, and Application Support roles.
+
+
+
+
+Responsibilities
+
+Build, maintain, and support AWS cloud infrastructure hosting the core platform and related services.
+Develop and manage CI/CD pipelines using GitLab SaaS to enable automated, repeatable deployments across environments.
+Support migration of workloads from on-premise infrastructure to AWS cloud platforms.
+Implement and maintain Infrastructure as Code (IaC) using Terraform and Ansible.
+Automate application deployments, database refreshes, environment provisioning, and operational support processes.
+Collaborate with Engineering, QA, Application Support, Infrastructure, and Architecture teams to enhance delivery efficiency and platform resilience.
+Support migration activities including deployment automation, configuration management, and environment support for Aurora PostgreSQL.
+Drive observability improvements through logging, monitoring, alerting, OpenTelemetry, CloudWatch, and associated tools.
+Manage secrets, certificates, credentials, and access controls following enterprise security patterns and tools.
+Support release governance, production readiness assessments, change management, and incident response activities.
+Troubleshoot application, infrastructure, networking, and deployment issues across multiple environments.
+Contribute to DevOps standards, reusable pipeline patterns, and cloud deployment frameworks within the technology domain.
+
+
+
+
+Mandatory Skills Description
+
+The candidate should have 9+ years of experience in DevOps, Platform, Cloud Engineering, and Site Reliability Engineering to support and optimize cloud-based infrastructure.
+They possess advanced hands-on skills with AWS services including compute, container orchestration, storage, identity and access management, networking, monitoring, secrets management, and databases.
+
+
+
+
+Hard skills include:
+
+Experienced in implementing DevOps pipeline for leading capital markets trading applications like Calypso, Murex, FIS..etc
+Designing and managing CI/CD pipelines using GitLab SaaS for automated deployments and release orchestration
+Implementing Infrastructure as Code with Terraform alongside configuration management via Ansible
+Administering Linux systems and developing automation scripts in Bash and Python
+Supporting mission-critical production environments within regulated industries
+Applying deployment strategies, change and environment management, and release governance best practices
+Establishing monitoring, logging, observability, and incident response frameworks
+Executing comprehensive troubleshooting across applications, databases, infrastructure, and networks
+Managing secrets securely using tools like HashiCorp Vault
+
+
+
+
+Soft skills emphasize effective communication and collaboration:
+
+Engaging with diverse teams including Engineering, QA, Operations, Security, and Architecture
+Facilitating stakeholder alignment to ensure successful project delivery and operational stability
+
+
+
+
+Nice-to-Have Skills Description
+
+Experience in Oracle-to-Aurora PostgreSQL database migrations, indicating proficiency in database transition processes.
+Experience with Kubernetes, container orchestration, and cloud-native deployment patterns, reflecting knowledge of modern infrastructure management.
+Exposure to OpenTelemetry, Grafana, ELK, Splunk, or enterprise observability platforms, suggesting awareness of monitoring and logging tools.
+Experience with Liquibase, database automation, schema migrations, and configuration management, highlighting capabilities in database lifecycle management.
+Knowledge of financial services, exchange infrastructure, or regulated technology environments, indicating understanding of industry-specific contexts.
+Exposure to test automation frameworks and DevOps-driven Quality Engineering practices, implying familiarity with automated testing and continuous integration approaches.
+Familiarity with ITIL processes including Incident, Problem, Change, and Release Management, reflecting understanding of IT service management.
+Experience supporting large-scale cloud transformation and platform modernization initiatives, showing involvement in significant technology upgrade projects
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Luxoft by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Progress Developer jobs
+AWS Cloud DevOps Engineer – Java-Based Trading Systems | Sydney
+Similar jobs
+Site Reliability Engineer - Liquidity Platform
+Site Reliability Engineer - Liquidity Platform
+Macquarie Group
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+2 weeks ago
+Devops Engineer
+Devops Engineer
+ASX
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Precisely
+Sydney, New South Wales, Australia
+1 week ago
+AWS DevOps Engineer (with Java based trading platform)
+AWS DevOps Engineer (with Java based trading platform)
+Luxoft
+Sydney, New South Wales, Australia
+1 week ago
+Cloud Site Reliability Engineer
+Cloud Site Reliability Engineer
+Intrinzic
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+CreditorWatch
+
+Sydney, New South Wales, Australia
+1 day ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Immutable
+
+Sydney, New South Wales, Australia
+1 month ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+XPT Software
+
+Sydney, New South Wales, Australia
+5 days ago
+Senior Software DevOps Engineer
+Senior Software DevOps Engineer
+
+SITA
+
+Sydney, New South Wales, Australia
+1 week ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Site Reliability Engineer, Global E-Commerce - USDS
+Site Reliability Engineer, Global E-Commerce - USDS
+
+TikTok USDS Joint Venture
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior DevOps Engineer @ Australian Payments Plus
+Senior DevOps Engineer @ Australian Payments Plus
+
+Hatch
+
+Sydney, New South Wales, Australia
+5 days ago
+Senior DevOps Engineer / Site Reliability Engineer
+Senior DevOps Engineer / Site Reliability Engineer
+
+Freelancer.com
+
+Sydney, New South Wales, Australia
+A$180,000 - A$220,000
+5 months ago
+Platform Engineer (Terraform | AWS)
+Platform Engineer (Terraform | AWS)
+
+ClearRoute
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+3 days ago
+Similar Searches
+Progress Developer jobs
+4,446 open jobs
+Payroll Team Lead jobs
+242 open jobs
+Web Engineer jobs
+1,989 open jobs
+Requirements Engineer jobs
+1,272 open jobs
+System Test Engineer jobs
+4,254 open jobs
+Software Test Manager jobs
+110 open jobs
+Trust Officer jobs
+1,134 open jobs
+Java Architect jobs
+186 open jobs
+Diagnostic Engineer jobs
+4,423 open jobs
+Embedded Software Engineer jobs
+52 open jobs
+Senior Database Administrator jobs
+126 open jobs
+Database Consultant jobs
+135 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Luxoft
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

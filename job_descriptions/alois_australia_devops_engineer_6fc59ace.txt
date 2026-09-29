@@ -1,0 +1,286 @@
+Title: DevOps Engineer
+Company: ALOIS Australia
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-alois-australia-4452401145
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The DevOps Engineer role at ALOIS Australia matches Priya’s expertise in CI/CD pipelines (Jenkins/GitHub Actions), cloud infrastructure (Azure), and container orchestration (Kubernetes/Docker), aligning with her experience in regulated industries and configuration management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+ALOIS Australia  Sydney, New South Wales, Australia
+1 day ago  46 applicants
+  
+
+See who ALOIS Australia has hired for this role
+
+Apply
+Save
+
+About Us:
+
+ALOIS is a trusted staffing partner across Australia & NZ, managing 250+ consultants and supporting several major multinational clients. Our 75,000+ strong IT talent network and fast delivery model enable us to meet hiring needs with precision and efficiency.
+
+
+
+
+From Sydney to Perth and everywhere in between, we’re driven by one purpose: to empower Australian businesses and professionals to thrive in a rapidly changing world of work. At ALOIS Australia, every challenge is an opportunity to innovate, and every partnership is built on trust, transparency, and long-term success.
+
+
+
+
+Job Description:
+
+Senior DevOps Engineer
+
+Job Title
+
+Senior DevOps Engineer – Azure & Kubernetes
+
+Experience
+
+5+ Years
+
+Job Summary
+
+We are looking for a Senior DevOps Engineer to design, implement, and manage enterprise DevOps platforms, cloud infrastructure, CI/CD pipelines, and container orchestration environments. The ideal candidate will have deep expertise in Azure cloud services, Kubernetes, automation, infrastructure management, monitoring, and observability tools.
+
+Key Responsibilities
+
+Design, build, and maintain scalable DevOps platforms and CI/CD pipelines.
+Automate infrastructure provisioning, deployment, monitoring, and operational processes.
+Manage Azure cloud environments ensuring security, availability, and performance.
+Implement containerization and orchestration solutions using Docker and Kubernetes.
+Develop and maintain deployment automation using Helm and Ansible.
+Build and support monitoring, logging, and alerting frameworks.
+Troubleshoot complex production and infrastructure issues.
+Collaborate with development teams to improve release processes and platform reliability.
+Implement DevSecOps and infrastructure-as-code best practices.
+Ensure platform compliance, security, and operational excellence.
+
+Primary Technical Skills
+
+Cloud Platform
+
+Microsoft Azure
+
+CI/CD & Source Control
+
+Jenkins
+Git
+
+Containerization & Orchestration
+
+Docker
+Kubernetes
+Helm
+
+Configuration Management & Automation
+
+Ansible
+
+Monitoring & Logging
+
+ELK Stack (Elasticsearch, Logstash, Kibana)
+EFK Stack (Elasticsearch, Fluentd, Kibana)
+
+Scripting & Automation
+
+Python
+Bash/Shell Scripting
+
+Secrets & Configuration Management
+
+HashiCorp Vault
+
+Secondary Technical Skills
+
+Infrastructure as Code
+
+Terraform
+
+Observability & Monitoring
+
+Dynatrace
+Prometheus
+Grafana
+
+Code Quality & Security
+
+SonarQube
+
+Automation
+
+PowerShell
+
+
+
+
+
+
+
+EEO Statement:
+
+ALOIS Australia is committed to fostering a diverse and inclusive workplace. We provide equal employment opportunities to all qualified applicants and do not discriminate on the basis of race, colour, religion, sex, age, national origin, disability, or any other characteristic protected under applicable laws. We value diversity and believe it strengthens our people, our culture, and the outcomes we deliver.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at ALOIS Australia by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+CMSN Group Pty Ltd
+Greater Sydney Area
+2 months ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Colonial First State
+Sydney, New South Wales, Australia
+3 weeks ago
+Devops Engineer
+Devops Engineer
+ASX
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Precisely
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer - Liquidity Platform
+Site Reliability Engineer - Liquidity Platform
+
+Macquarie Group
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Cloud DevOps Engineer - GCP
+Cloud DevOps Engineer - GCP
+
+Westpac Group
+
+Kogarah, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+1 week ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+CORTO
+
+Millers Point, New South Wales, Australia
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Silicon Quantum Computing
+
+Sydney, New South Wales, Australia
+1 week ago
+Site Reliability Engineer (Australia, Remote)
+Site Reliability Engineer (Australia, Remote)
+
+Axon
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer (Google Cloud)
+DevOps Engineer (Google Cloud)
+
+NCS Group Australia
+
+Sydney, New South Wales, Australia
+19 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Atain
+
+Sydney, New South Wales, Australia
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at ALOIS Australia
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

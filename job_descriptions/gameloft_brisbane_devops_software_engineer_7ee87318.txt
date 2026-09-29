@@ -1,0 +1,339 @@
+Title: DevOps Software Engineer
+Company: Gameloft Brisbane
+Location: Brisbane, Queensland, Australia
+URL: https://au.linkedin.com/jobs/view/devops-software-engineer-at-gameloft-brisbane-4456700619
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The job aligns with the candidate's expertise in DevOps/CI-CD (Jenkins, Git/Git LFS, Docker), regulated-industry experience (though not explicitly medical/device here), and location in Australia (target country). The role's focus on CI/CD pipelines, source control infrastructure, and automation matches her background at Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Software Engineer
+Gameloft Brisbane  Brisbane, Queensland, Australia
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who Gameloft Brisbane has hired for this role
+
+Apply
+Save
+
+
+
+
+
+We're looking for a mid-level DevOps Engineer to help build, maintain, and scale the infrastructure that powers our game development pipeline. You'll work closely with programmers, technical artists, and QA to keep build systems fast, reliable, and painless — so the team can focus on making great games instead of fighting tools.
+
+
+
+
+Key Responsibilities
+
+
+Design, build, and maintain CI/CD pipelines for game builds across multiple platforms (PC, console, mobile)
+Manage and optimize build farms, automated build systems, and nightly/CI build processes
+Maintain source control infrastructure (Perforce, Git/Git LFS) including branching strategies, repo health, and performance tuning
+Automate packaging, deployment, and distribution to platform storefronts (Steam, console cert submission tools, app stores) and internal QA builds
+Monitor build pipeline health, diagnose failures, and reduce build/iteration times
+Support and improve automated testing infrastructure (smoke tests, regression suites, crash reporting integration)
+Manage cloud and on-prem infrastructure (AWS/Azure/GCP, Kubernetes/Docker) supporting build servers, backend services, or live-ops tooling
+Write and maintain internal tools/scripts (Python, Bash, PowerShell) to streamline developer workflows
+Collaborate with engineering leads to define infrastructure needs for upcoming projects and platform requirements
+Own incident response for pipeline/build outages, including root cause analysis and postmortems
+Document processes and provide support/training to programmers and technical staff using the pipeline
+Coordinate with the engine team and technical leads to communicate required features and share best practices.
+Work closely with game development teams to integrate Unreal Engine features seamlessly into studio games, providing technical solutions and troubleshooting assistance.
+Provide flexible support to team members during critical development stages, ensuring project milestones are met on time.
+
+
+
+
+What you need to succeed
+
+
+2-3 years of experience in DevOps, build engineering, or infrastructure roles (game industry experience a strong plus)
+Solid scripting/programming ability (Python, C#, Bash, or similar)
+Experience with CI/CD tools (Jenkins, TeamCity, GitLab CI, Azure DevOps, or similar)
+Hands-on experience with version control systems at scale, especially Perforce and/or Git (Git LFS)
+Familiarity with containerization and orchestration (Docker, Kubernetes)
+Experience with at least one major cloud provider (AWS, Azure, GCP)
+Comfortable working cross-functionally with programmers, artists, and producers
+Strong troubleshooting skills and a bias toward automating repetitive work
+
+
+
+
+
+Nice to have
+
+
+Experience with Unreal Engine
+Understanding of build processes for game engines (Unity, Unreal, or proprietary engines)
+Experience with console cert/submission pipelines (PlayStation, Xbox, Switch)
+Familiarity with live-ops backend services and telemetry pipelines
+Experience with infrastructure-as-code (Terraform, Ansible)
+Experience scaling build infrastructure for a live-service or multi-title studio
+
+
+
+
+
+What You’ll Gain
+
+
+Mentorship from experienced engine programmers
+Exposure to real-world AAA development
+Hands-on experience with production-level codebases
+Opportunity to contribute to shipped titles
+Networking opportunities within the games industry
+
+
+
+
+
+
+
+What's in it for you
+
+
+
+
+Perks & benefits:
+
+
+A flexible work model that supports work–life balance
+Subsidised car parking
+Ongoing learning and development opportunities to support career growth
+An employee referral program with generous bonuses
+Private health insurance and fitness subsidies
+Access to employee mental health and wellbeing support
+Paid parental leave
+Childcare assistance
+A dedicated relaxation space, including a massage chair
+Additional paid leave, including: Birthday leave, Christmas shutdown leave, Volunteer leave, Women’s health leave
+Free coffee from a commercial espresso machine, plus daily snacks and a light breakfast
+Friday social drinks with friendly game tournaments
+A stunning rooftop terrace with river views and a games room
+Exclusive Gameloft-branded merchandise
+
+
+
+
+Life at Gameloft
+
+
+Gameloft Brisbane, part of the global Gameloft family, opened its doors in 2014 and has since delivered hit titles such as Zombie Anarchy, Ballistic Baseball, My Little Pony: Mane Merge, the multi-award-winning The Oregon Trail™, and Carmen Sandiego.
+
+
+Today, we are the largest video game studio in Queensland, employing more than 130 talented professionals across programming, art, design, production, QA, audio, marketing, administration and management. Together, we create immersive gaming experiences enjoyed by millions of players around the world.
+
+
+We are proud to be developing Bluey’s Happy Snaps, bringing one of Australia’s most iconic IPs to life in a brand-new interactive experience. As we continue to grow, we’re also working on a range of exciting unannounced projects that will help shape the future of our studio.
+
+
+At Gameloft Brisbane, people are at the heart of everything we do. Our studio fosters a collaborative, creative and inclusive workplace where everyone has the opportunity to contribute, learn and grow. We are proud to be Great Place to Work® Certified for 2025–2026, recognising our strong culture, inclusive practices and ongoing commitment to employee well-being.
+
+
+Employee well-being is a top priority, supported by flexible work arrangements, wellness initiatives, career development opportunities and world-class facilities. We actively invest in our people’s growth through mentorship, training programs, industry events and speaking opportunities that encourage everyone to develop their skills and make an impact.
+
+
+As pioneers in Brisbane’s game development industry, we continue to push the boundaries of cross-platform game development while creating unforgettable experiences for players around the world. Whether you’re an experienced professional or just starting your career, you’ll find a supportive environment where creativity, collaboration and innovation thrive.
+
+
+Gameloft Brisbane is an equal opportunity employer and is committed to fostering diversity and inclusivity within our work environment.
+
+
+Driven by a strong studio culture and a passion for creating meaningful experiences, we build games that resonate with players around the world.
+
+
+Ready to level up your career and join the team? Apply now with your CV in English.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Entertainment Providers and Graphic Design
+  
+
+Referrals increase your chances of interviewing at Gameloft Brisbane by 2x
+
+See who you know
+
+Get notified about new Software Engineer jobs in Brisbane, Queensland, Australia.
+
+Sign in to create job alert
+Jobs
+3D Artist jobs
+DevOps Software Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Future Secure AI
+Brisbane, Queensland, Australia
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+National Heavy Vehicle Regulator
+Brisbane City, Queensland, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Great Southern Bank
+Brisbane, Queensland, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Australian Broadcasting Corporation (ABC)
+Brisbane, Queensland, Australia
+1 week ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+Future Secure AI
+Brisbane, Queensland, Australia
+2 days ago
+Platform Engineer - Core Data Platforms
+Platform Engineer - Core Data Platforms
+Suncorp Group
+Brisbane, Queensland, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Developer
+Software Developer
+
+RWS Global
+
+Brisbane, Queensland, Australia
+1 month ago
+Engineering | Multiple Opportunities Available
+Engineering | Multiple Opportunities Available
+
+Deloitte
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Principle Platform Engineer
+Principle Platform Engineer
+
+Australian Energy Market Operator (AEMO)
+
+Brisbane, Queensland, Australia
+1 week ago
+Principal Production Engineer
+Principal Production Engineer
+
+Canva
+
+Brisbane, Queensland, Australia
+1 day ago
+Senior Software Engineer
+Senior Software Engineer
+
+Squiz
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Cloud Architect
+Cloud Architect
+
+Southern Cross University
+
+Gold Coast, Queensland, Australia
+9 hours ago
+Expression of Interest – Cyber & Information Technology Professionals
+Expression of Interest – Cyber & Information Technology Professionals
+
+KBR, Inc.
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Implementation Engineer
+Implementation Engineer
+
+EngFlow
+
+Brisbane, Queensland, Australia
+$80,000 - $120,000
+7 months ago
+Referrals for Google Cloud Practitioners (EoI)
+Referrals for Google Cloud Practitioners (EoI)
+
+Accenture Australia
+
+Brisbane, Queensland, Australia
+1 week ago
+Cloud Infrastructure & Azure Engineer
+Cloud Infrastructure & Azure Engineer
+
+Sonata Software North America Inc.
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Similar Searches
+3D Artist jobs
+31 open jobs
+Software Engineer jobs
+5,632 open jobs
+3D Modeler jobs
+17 open jobs
+Software Engineer Intern jobs
+12 open jobs
+Computer Software Engineer jobs
+4,209 open jobs
+Software Intern jobs
+23 open jobs
+Web Programmer jobs
+106 open jobs
+Back End Developer jobs
+1,070 open jobs
+Junior Software Engineer jobs
+4,491 open jobs
+Graduate Software Engineer jobs
+4,187 open jobs
+Game Programmer jobs
+32 open jobs
+Student Software Engineer jobs
+70 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Gameloft Brisbane
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

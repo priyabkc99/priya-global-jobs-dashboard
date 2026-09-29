@@ -1,0 +1,284 @@
+Title: DevOps Engineer
+Company: Verra Mobility
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-verra-mobility-4467792603
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The DevOps Engineer role at Verra Mobility aligns with Priya's CI/CD, infrastructure-as-code (Terraform), and Kubernetes experience, and matches the target criteria for regulated/safety-critical domains through her Elektrobit and Topcon background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Verra Mobility  Melbourne, Victoria, Australia
+2 weeks ago  104 applicants
+  
+
+See who Verra Mobility has hired for this role
+
+Apply
+Save
+Verra Mobility is a global leader in smart mobility, developing technology-driven solutions that help make transportation safer and more efficient. Our platforms support government, enforcement, tolling and commercial mobility customers across Australia, North America and Europe.
+
+As we continue to expand and modernise our cloud platforms, we are looking for a DevOps Engineer to join our SaaS Operations Support team in South Melbourne.
+
+This is a hands-on role with genuine production ownership. You will operate and improve AWS-hosted SaaS platforms, strengthen automation and deployment capability, support Kubernetes environments and contribute to broader platform modernisation initiatives across APAC.
+
+The role
+
+As a DevOps Engineer At Verra Mobility, You Will
+
+
+Build, operate and improve AWS infrastructure across services including EKS, EC2, RDS, Lambda, IAM, S3 and Route 53.
+Manage Kubernetes workloads and the EKS platform lifecycle, including upgrades, deployments, troubleshooting and operational stability.
+Build and improve CI/CD pipelines using tools such as GitHub Actions and Bamboo.
+Develop and maintain reusable Infrastructure as Code using Terraform, CloudFormation or similar technologies.
+Monitor platform performance and availability using New Relic, Prometheus and Grafana.
+Lead and support P1/P2 production incident response, root cause analysis and preventative actions.
+Contribute to platform reliability, automation, scalability, security and operational improvement initiatives.
+Work closely with engineering, product and support teams within an agile delivery environment.
+Participate in the DevOps on-call roster, providing out-of-hours support for critical production incidents.
+
+
+What You Bring
+
+
+3+ years' experience in DevOps, Cloud Engineering, Site Reliability Engineering or a similar role.
+Strong hands-on AWS experience within production environments.
+Practical experience with Kubernetes, ideally Amazon EKS.
+Strong Infrastructure as Code capability using Terraform, CloudFormation or similar.
+Experience building and supporting CI/CD pipelines.
+Scripting capability using Shell, Python or PowerShell.
+Linux administration experience.
+A sound understanding of networking, cloud security, IAM and infrastructure fundamentals.
+Experience supporting highly available, customer-facing or SaaS platforms.
+Strong troubleshooting skills and the ability to work effectively during production incidents.
+
+
+Experience with tools such as Git, GitHub Actions, Bamboo, Jira, SonarQube, Veracode, New Relic, Prometheus and Grafana will be well regarded.
+
+Why Verra Mobility?
+
+You will work on technology that supports real-world transport and public safety outcomes, with exposure to both modern cloud-native architecture and established production platforms.
+
+The Role Offers
+
+
+Broad technical ownership across cloud infrastructure and platform operations.
+Exposure to major customer and technology initiatives across APAC.
+Opportunities to improve automation, reliability and engineering practices.
+A collaborative international technology environment.
+Hybrid working from our South Melbourne office and home.
+
+
+Our values
+
+Our Values Guide How We Work And Make Decisions
+
+Do What’s Right | Choose Courage Over Comfort | Win Together | Own It
+
+To apply, submit your resume and a cover letter outlining your relevant experience.
+
+We value the unique backgrounds, experiences, and contributions that each person brings to our community and encourage and celebrate diversity. First Nations people, those identifying as LGBTQIA+, females, people of all ages, with disabilities and culturally and linguistically diverse people are encouraged to apply. Our aim is to create a workforce that reflects the community in which we live.
+
+Verra Mobility Values
+
+An ideal candidate for this role naturally works in alignment with the Verra Mobility Core Values:
+
+
+Own It. We focus on high performance and drive toward breakthrough outcomes. Our employees ensure accountability, optimize and align work, focus on the customer, and cultivate innovation.
+Do What’s Right. We champion integrity and good character. Our team members model ethical behavior, demonstrate good judgment and are courageous.
+Choose Courage Over Comfort. We lean into the conversations, decisions and actions that move the business forward, even when they feel uncomfortable. We challenge assumptions, address issues early and prioritize progress over ease.
+Win Together. We believe in growing and inspiring people together. We seek people who collaborate, value differences, think and act globally, foster an engaging work environment, and recognize and develop others.
+
+
+With your explicit consent which you provided as part of the application process, we will retain candidate personal data solely for the business purpose for which it was collected. In no event will we retain such data more than two (2) years following the closure of the recruitment process relating to the role for which you applied or in the event other related job opportunities arise within the company. Verra Mobility Applicant Privacy Notice
+
+Verra Mobility is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Verra Mobility by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Melbourne, Victoria, Australia.
+
+Sign in to create job alert
+Jobs
+Hardware Engineer jobs
+DevOps Engineer
+Similar jobs
+Cloud & DevOps Engineer
+Cloud & DevOps Engineer
+Accenture Australia
+Melbourne, Victoria, Australia
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Verra Mobility
+South Melbourne, Victoria, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Precisely
+Melbourne, Victoria, Australia
+1 week ago
+DevOps / Cloud Engineer
+DevOps / Cloud Engineer
+Accenture Australia
+Melbourne, Victoria, Australia
+2 weeks ago
+Software Engineer, DevOps
+Software Engineer, DevOps
+H2O.ai
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Engineer
+Cloud Engineer
+Slalom
+Melbourne, Victoria, Australia
+4 days ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+Transurban
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Platform Engineer - Core Data Platforms
+Platform Engineer - Core Data Platforms
+
+Suncorp Group
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Change Recruitment
+
+Greater Melbourne Area
+A$130,000 - A$150,000
+4 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+IAG
+
+Melbourne, Victoria, Australia
+4 days ago
+Cloud Engineer (Remote in AU)
+Cloud Engineer (Remote in AU)
+
+Budgetly
+
+Melbourne, Victoria, Australia
+5 days ago
+Cloud Engineer
+Cloud Engineer
+
+Macquarie Group
+
+Melbourne, Victoria, Australia
+1 week ago
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Cloud / DevOps Engineer
+Senior Cloud / DevOps Engineer
+
+Eightcap
+
+Melbourne, Victoria, Australia
+1 week ago
+DevOps Engineer – AI & Data Science
+DevOps Engineer – AI & Data Science
+
+DFP Recruitment
+
+Melbourne, Victoria, Australia
+1 week ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Future Secure AI
+
+Melbourne, Victoria, Australia
+1 week ago
+Similar Searches
+Hardware Engineer jobs
+4,577 open jobs
+Director of Implementation jobs
+461 open jobs
+Assistant General Counsel jobs
+586 open jobs
+Business Unit Manager jobs
+2,777 open jobs
+Director of Product Management jobs
+261 open jobs
+Vice President of Product Management jobs
+16 open jobs
+Strategic Advisor jobs
+548 open jobs
+Fund Administrator jobs
+1,522 open jobs
+Associate Engineer jobs
+1,362 open jobs
+Vice President of Technology jobs
+17 open jobs
+Accounting Analyst jobs
+3,174 open jobs
+Director of Quality jobs
+907 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Verra Mobility
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

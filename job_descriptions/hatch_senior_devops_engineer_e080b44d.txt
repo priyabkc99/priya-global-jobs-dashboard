@@ -1,0 +1,292 @@
+Title: Senior DevOps Engineer
+Company: Hatch
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-hatch-4468493757
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The job matches as a Senior DevOps Engineer role in Australia (target country), aligning with Priya’s CI/CD pipeline ownership, infrastructure tooling experience, and regulated-industry compliance background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Hatch  Sydney, New South Wales, Australia
+1 week ago   Be among the first 25 applicants
+  
+
+See who Hatch has hired for this role
+
+Apply 
+Save
+This is a Senior DevOps Engineer role with Australian Payments Plus based in Sydney, NSW, AU
+
+== Australian Payments Plus ==
+
+Role Seniority - senior
+
+More about the Senior DevOps Engineer role at Australian Payments Plus
+
+Life @ AP+:
+
+We are one connected team in pursuit of one inspiring purpose – to unite people and technology to power better experiences. Each of us has a part to play in making that happen. You’ll be encouraged to bring your big ideas forward and make a difference through your work. Taking steps forward in your career whilst still having room for fun, friendships, and flexibility in your daily life.
+
+We’re driven by our core values: lead with heart, learn for tomorrow and live our legacy. A purpose like ours takes the inspired impact of an incredible team. Ready to change the game? We’re ready to help you do it.
+
+The Purpose
+
+As a Senior DevOps Engineer at AP+, you’ll play a key role in designing, building and continuously improving the infrastructure and integration pipelines that enable secure, scalable and high-performing software delivery across our payments environment. This is a hands-on senior engineering role where you’ll bring expertise across automation, system integration, cloud infrastructure, deployment and observability, while helping evolve the tools and practices that keep our services reliable. You’ll also champion the use of AI-assisted monitoring and automation and support the development of engineers around you.
+
+Key Responsibilities The Role Owns
+
+
+Design, develop, test and maintain complex software components, scripts and integration services using secure and standardised engineering practices.
+Lead system integration activities across configuration, testing, fault diagnosis and deployment, ensuring environments and services are ready for reliable operation.
+Provision, configure and optimise infrastructure across physical, virtual and cloud environments, with a strong focus on performance, security and resilience.
+Build automation that removes repetitive administration, improves deployment efficiency and creates more consistent, reliable engineering outcomes.
+Coordinate release and deployment activities, including testing, quality assurance and resolving issues that could impact production readiness.
+Drive improvements across DevOps processes, tooling and observability, including the practical use of AI-assisted monitoring and automation, while mentoring junior engineers.
+
+
+The capabilities needed to be successful for this role are:
+
+
+Education & Certification: Bachelor’s degree in engineering, Computer Science, or equivalent experience. Certifications in cloud platforms, DevOps, or scripting languages are desirable
+Experience: Approximately 5+ years in a DevOps or equivalent engineering role, ideally within technology-driven environments(AWS preferred cloud, GCP as secondary)
+AI & Automation: Mastery in AI-enabled tools for software delivery and operations (e.g., AI-assisted coding, testing, anomaly detection) and their ethical, responsible application
+Tooling & Monitoring: Solid knowledge of cloud deployment, automation frameworks, and observability tooling.
+Analytical & Problem-Solving: Strong troubleshooting, diagnostic, and performance optimisation skills
+Mentoring: Demonstrated ability to lead initiatives and mentor junior engineers.
+Collaboration & Communication: Implements stakeholder engagement/communications plan. Collects and uses feedback from customers and stakeholders to help measure the effectiveness of stakeholder management.
+Industry Insight (Desirable): Exposure to payments or financial technology environments is an advantage
+
+
+Technical Proficiency
+
+
+Strong understanding of CI/CD pipelines and automation frameworks, (Gitlab CI preferred).
+Experience with Infrastructure-as-Code tools such as Terraform, OpenTofu or CDK.
+Skilled in scripting languages including Bash, Python or GoLang.
+Familiar with container orchestration(Kubernetes/ECS) and major cloud platforms (AWS preferred)Deep understanding of event-driven and microservices architectures.
+Strong working knowledge on technologies including GitOps(ArgoCD), Observability(Dynatrace), Security Tooling(Wiz) etc.
+
+
+What Happens Next
+
+At AP+, we believe in the power of passion, pride and purpose. Our team is driven by a shared mission to make a difference in the world of payments, and we're proud to work together towards this common goal.
+
+If you’re a hands-on DevOps engineer who enjoys solving complex problems, improving how software gets into production and finding smarter ways to automate and operate critical technology, we’d love to hear from you.
+
+If you’re ready to be a game changer, please submit your application. The Talent Acquisition team will endeavour to review your application and notify you of the outcome within the next two weeks.
+
+We want to remove all barriers to inclusion, so if you need advice or support with your application, we’re here to help. Please reach out to recruitment@auspayplus.com.au. We also encourage you to let us know your pronouns at any point during the recruitment process.
+
+AP+ are not partnering with Recruitment agencies for this role
+
+Before we jump into the responsibilities of the role. No matter what you come in knowing, you’ll be learning new things all the time and the Australian Payments Plus team will be there to support your growth.
+
+🟢 Please consider applying even if you don't meet 100% of what’s outlined 🟢
+
+Key Responsibilities
+
+
+🛠️ Designing and developing software components
+🔗 Leading system integration activities
+📈 Driving improvements in DevOps processes
+
+
+Key Strengths
+
+
+⚙️ DevOps Engineering
+🤖 Automation
+☁️ Cloud Infrastructure
+🧠 AI & Automation
+👩‍🏫 Mentoring
+💳 Industry Insight
+
+
+Why Australian Payments Plus is partnering with Hatch on this role. Hatch exists to level the playing field for people as they discover a career that’s right for them. So when you apply you have the chance to show more than just your resume.
+
+A Final Note: This is a role with Australian Payments Plus not with Hatch.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Hatch by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Vehicle Engineer jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Settify
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CORTO
+Millers Point, New South Wales, Australia
+1 week ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software
+Sydney, New South Wales, Australia
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+2 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software Australia
+Sydney, New South Wales, Australia
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+4 days ago
+Show more jobs like this 
+People also viewed
+Senior AI DevOps Engineer
+Senior AI DevOps Engineer
+
+Allianz Australia
+
+Sydney, New South Wales, Australia
+6 days ago
+Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
+Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
+
+Anduril Industries
+
+Sydney, New South Wales, Australia
+5 days ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pet Circle
+
+Sydney, New South Wales, Australia
+5 days ago
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+1 week ago
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
+
+Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Vehicle Engineer jobs
+813 open jobs
+Senior Brand Strategist jobs
+174 open jobs
+Ecommerce Coordinator jobs
+505 open jobs
+Public Relations Account Coordinator jobs
+35 open jobs
+Game Producer jobs
+25 open jobs
+Head of Policy jobs
+153 open jobs
+Software Project Manager jobs
+1,227 open jobs
+Strategy Analyst jobs
+1,504 open jobs
+Enterprise Account Manager jobs
+1,033 open jobs
+Senior Brand Manager jobs
+1,012 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Hatch
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

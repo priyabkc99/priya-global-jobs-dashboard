@@ -1,0 +1,399 @@
+Title: Senior DevOps Engineer
+Company: Tata Consultancy Services
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-tata-consultancy-services-4461311342
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The role of Senior DevOps Engineer aligns with Priya’s expertise in CI/CD pipelines (Jenkins, GitHub Actions), infrastructure automation, and regulated-industry experience, while being located in Sydney, Australia (a target country) and not requiring US-based work or visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Tata Consultancy Services  Sydney, New South Wales, Australia
+21 hours ago  54 applicants
+  
+
+See who Tata Consultancy Services has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Tata Consultancy Services
+
+Sakshi Singh
+Sakshi Singh
+TAG - APAC Team
+
+About TCS:
+
+Join Tata Consultancy Services, Asia Pacific and be part of an organization committed to sustainable development for our future. TCS follows the Tata group philosophy of building sustainable businesses that are rooted in the community and demonstrate care for the environment. Our unique values position us to combine a purpose-driven worldview with digital innovation, collaborating with customers, communities and governments to lead and shape innovative solutions for a sustainable future. TCS has been carbon neutral in its operations across 11 countries, 12 delivery centres and 18 offices in Asia Pacific since 2022. This is only the initial stage in TCS’ journey as we strive to achieve long-term net zero emissions by 2030.
+
+
+
+
+Corporate sustainability is embedded in our triple-bottom-line, focusing on people, the planet, and our purpose. Our offices are designed with eco-friendly features that significantly reduce our carbon footprint and enhance energy efficiency. We actively champion green initiatives, such as promoting paperless operations, implementing energy-efficient practices, and fostering employee engagement in sustainability efforts. When you become part of the TCS family, you will play an essential role dedicated to innovation, excellence, and crafting a brighter, greener future together. Join us and be a part of our mission to drive sustainability through technology and talent at Tata Consultancy Services, APAC today.
+
+
+
+
+Role : Senior DevOps Engineer
+
+Experience : 10+ Years
+
+Location : Sydney
+
+Job Type : Full Time (Permanent)
+
+
+
+
+Desirable :
+
+
+
+
+Strong experience in infrastructure operations, application builds, and deployments across environments.
+Expertise in DevOps automation and CI/CD implementation.
+Deep understanding of CI/CD tools and practices.
+Hands-on experience with:
+Git, Jenkins, Bamboo, Ansible
+Linux/Unix administration
+Tomcat, Spring Boot, Apache, IBM HTTP Server, WebSphere
+Experience with cloud platforms such as AWS and Azure.
+Knowledge of container technologies including Kubernetes and OpenShift.
+Proficiency with monitoring and observability tools such as Dynatrace and Splunk.
+Familiarity with DB2, PostgreSQL, and MySQL databases.
+Experience working in Agile/Scrum environments.
+Strong planning, prioritization, and stakeholder communication skills.
+
+
+
+
+Essential Skills
+
+AWS / Azure Cloud
+Jenkins
+Ansible
+Git / GitHub
+Linux Administration
+CI/CD Pipeline Implementation
+Infrastructure as Code (IaC)
+Kubernetes / OpenShift
+Java Platform Support
+Dynatrace / Splunk Monitoring
+Production Support & Troubleshooting
+
+
+
+
+Key Responsibilities :
+
+
+
+
+Design, develop, and manage CI/CD pipelines using Jenkins, Ansible, GitHub, and related tools.
+Develop automation scripts for application deployment, configuration, and operational management.
+Manage Linux and Windows environments through Infrastructure as Code and automation.
+Implement and support DevOps toolchains including AWS DevOps, Git, Jenkins, SVN, and Ansible.
+Maintain and administer Java/J2EE application platforms and middleware.
+Support production and non-production environments, including troubleshooting and release support.
+Contribute to DevOps strategy, tooling standards, and automation frameworks.
+Document processes and provide knowledge transfer to development and operations teams.
+Participate in production release activities and operational support.
+
+
+
+
+
+
+
+Top Reasons to Join Our Team at TCS Australia
+
+
+
+
+Attractive compensation & rewards
+
+We offer a highly competitive salary package aligned with the Australian market, complemented by performance-based incentives, recognition programs, and comprehensive employee benefits. Your achievements are celebrated, and your contributions truly matter.
+
+
+
+
+Global exposure with local impact
+
+At TCS, you’ll work with leading Australian enterprises across diverse industries while collaborating with our global network of experts. This means access to world-class practices, transformative technologies, and the chance to shape solutions that have a real impact — locally and globally.
+
+
+
+
+Empowering leadership & supportive environment
+
+Our leadership team is committed to helping you succeed. We encourage initiative, reward innovation, and provide a collaborative environment where your ideas are heard and valued.
+
+
+
+
+Long-term career growth
+
+We believe in careers, not just jobs. With continuous learning, certification support, career mobility, and clear progression pathways, TCS empowers you to grow and evolve — whether you want to deepen your expertise, explore new domains, or take on leadership roles.
+
+
+
+
+Inclusive, collaborative culture
+
+Diversity, inclusion, and respect are central to who we are. At TCS Australia, you’ll join a workplace where collaboration thrives, individuality is valued, and everyone can contribute to meaningful outcomes.
+
+
+
+
+Continuous learning & cutting-edge innovation
+
+We invest heavily in your development, offering structured learning programs, global certifications, leadership development, and opportunities to work with emerging technologies. You’ll be part of an environment that constantly challenges and expands your capabilities.
+
+
+
+
+A Great Fit for the TCS Culture
+
+
+
+
+We’re looking for people who are:
+
+Passionate about technology and transformation
+Driven by curiosity, innovation, and continuous learning
+Excited to work in a collaborative, purpose-driven environment
+Motivated by delivering real impact for clients, communities, and society
+
+
+
+
+Our core values — Integrity, Excellence, Responsibility, Pioneering Spirit, and Unity — shape how we work and how we grow together.
+
+
+
+
+The TCS Community in Australia and Beyond
+
+Global strength: Over 600,000+ associates in 55+ countries, united by a shared purpose — to innovate and make a difference.
+Local presence: A trusted partner to Australia’s leading enterprises across financial services, government, retail, healthcare, telecom, and more.
+Social impact: Deeply committed to sustainability, digital inclusion, and community engagement initiatives in Australia and around the world.
+Empowered workplace: We foster a culture where diversity, equity, and accessibility are integral to how we operate.
+
+
+
+
+We don’t just imagine a better future — we help build it.
+
+About TCS
+
+Tata Consultancy Services (TCS) is a global leader in IT services, consulting, and business solutions. We have partnered with many of the world’s largest organisations to help them transform their businesses, operating models, and technology ecosystems.
+
+Learn more at www.tcs.com.
+
+
+
+
+Equal Opportunity Employer
+
+TCS is an equal opportunity employer. All qualified applicants will be considered without regard to race, colour, religion, gender, gender identity, sexual orientation, national origin, disability, veteran status, or any other characteristic protected by applicable law.
+
+
+
+
+Note: Compensation details are accurate as of this posting and may be adjusted in line with Australian laws and market conditions. Applicants may be asked to attend interviews in person or via video conference and present valid identification during the process
+
+
+
+
+Thank you for your interest in applying for this position with TCS. All applicants who meet the requirements will be considered equally and fairly for employment. We will review your application and will get back to you if we are considering your interest in this opportunity.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Tata Consultancy Services by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+General Manager Customer Service jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Settify
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CORTO
+Millers Point, New South Wales, Australia
+1 week ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software
+Sydney, New South Wales, Australia
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+2 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software Australia
+Sydney, New South Wales, Australia
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+4 days ago
+Show more jobs like this 
+People also viewed
+Senior AI DevOps Engineer
+Senior AI DevOps Engineer
+
+Allianz Australia
+
+Sydney, New South Wales, Australia
+6 days ago
+Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
+Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer
+
+Anduril Industries
+
+Sydney, New South Wales, Australia
+5 days ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pet Circle
+
+Sydney, New South Wales, Australia
+5 days ago
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+1 week ago
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
+
+Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+General Manager Customer Service jobs
+981 open jobs
+IBM Consultant jobs
+132 open jobs
+Citrix Administrator jobs
+485 open jobs
+Process Associate jobs
+840 open jobs
+Automation Test Analyst jobs
+266 open jobs
+Java Software Engineer jobs
+760 open jobs
+Senior ETL Developer jobs
+88 open jobs
+Personal Banking Advisor jobs
+151 open jobs
+Developer jobs
+5,939 open jobs
+Windows Server Administrator jobs
+130 open jobs
+Windows Administrator jobs
+494 open jobs
+SQL Developer jobs
+208 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Tata Consultancy Services
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
