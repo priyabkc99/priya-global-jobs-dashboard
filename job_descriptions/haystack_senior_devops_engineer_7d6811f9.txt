@@ -1,0 +1,244 @@
+Title: Senior DevOps Engineer
+Company: Haystack
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-haystack-4470808164
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps engineering (CI/CD pipelines, automation tools like Jenkins/GitLab, cloud infrastructure) and meets location/work-model criteria (London, UK; hybrid model).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Haystack  London, England, United Kingdom
+21 hours ago   Be among the first 25 applicants
+  
+
+See who Haystack has hired for this role
+
+Apply 
+Save
+A diversified global financial markets infrastructure and data business, at the forefront of enabling innovation and managing risk for economies worldwide, is seeking a talented professional to join their team. This organization plays a critical role in supporting the financial stability and growth of communities globally for over 300 years, providing trusted financial market infrastructure services with an open-access model.
+
+The Role
+
+
+Be a subject matter expert in underlying technologies, providing detailed technical support for developers.
+Contribute to modernising DevOps practices through automation and AI-assisted engineering capabilities.
+Design, implement, and lead CI/CD pipelines (GitLab, Jenkins).
+Automate infrastructure provisioning and configuration management (Ansible, Terraform).
+Develop and maintain containerised applications (Docker, Kubernetes, EKS, AKS) and implement cloud infrastructure (AWS).
+Mentor and guide team members, driving POCs and onboarding new tools, including AI-assisted development and intelligent automation.
+
+
+What You'll Need
+
+
+Strong hands-on experience in DevOps and Cloud technologies, with a Bachelor's degree in Computer Science/Engineering or equivalent.
+Expertise with CI/CD pipelines (GitLab preferred), Ansible, Terraform, and YAML-based pipelines.
+Proficient in AWS cloud infrastructure and scripting (Shell/PowerShell, Python advantageous).
+Experience with Agile/Scrum practices and troubleshooting across development, testing, and production environments.
+Knowledge of SQL/PL-SQL optimisation, familiarity with Control-M or scheduling tools, and experience in financial services environments.
+Strong communication and stakeholder management skills, with exposure to AI/ML-powered tooling in software engineering or DevOps workflows.
+
+
+What's On Offer
+
+
+Opportunity to work on a robust, high-performance platform that serves as the backbone of global financial markets.
+Contribute to an organisation known for its regulatory excellence, operational integrity, and industry confidence.
+Thrive in a culture that values engineering precision, open communication, and continuous improvement, with avenues for personal growth and development.
+Work in a hybrid model based in London, United Kingdom.
+
+
+Apply via Haystack today!
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Haystack by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Wedding Coordinator jobs
+Senior DevOps Engineer
+Similar jobs
+Sr DevOps Engineer
+Sr DevOps Engineer
+Xe.com
+Bracknell, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Catapult
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Deliveroo
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+LocalStack
+London, England, United Kingdom
+£70,000 - £90,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Global Relay
+London Area, United Kingdom
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Kybera
+London Area, United Kingdom
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+London, England, United Kingdom
+£105,000 - £125,000
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Triple Point
+
+City Of London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Ministry of Housing, Communities and Local Government
+
+London, England, United Kingdom
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+B4B Payments - A Banking Circle Group Company
+
+London, England, United Kingdom
+1 week ago
+Founding Senior DevOps Engineer
+Founding Senior DevOps Engineer
+
+Perceptic
+
+Greater London, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Halian | Managed Services, Recruitment Agency & Contract Staffing
+
+Reading, England, United Kingdom
+£90,000 - £95,000
+1 week ago
+Senior DevOps Engineer - Global
+Senior DevOps Engineer - Global
+
+Orix Digi
+
+Harrow, England, United Kingdom
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Oliver Bernard
+
+London Area, United Kingdom
+£100,000 - £125,000
+1 day ago
+Similar Searches
+Wedding Coordinator jobs
+6,212 open jobs
+Web Development Manager jobs
+1,857 open jobs
+Aircraft Maintenance Engineer jobs
+135 open jobs
+Automation Test Analyst jobs
+483 open jobs
+Senior Test Engineer jobs
+1,670 open jobs
+Commercial Account Executive jobs
+7,349 open jobs
+Playwright jobs
+13,692 open jobs
+Platform Engineer jobs
+7,837 open jobs
+Learning and Development Manager jobs
+2,473 open jobs
+Principal jobs
+41,548 open jobs
+Presales Consultant jobs
+3,375 open jobs
+Java Software Engineer jobs
+3,702 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Haystack
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,222 @@
+Title: DEVOPS ENGINEER - AWS
+Company: Felix Consultants
+Location: Birmingham, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-aws-at-felix-consultants-4463859878
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The job matches Priya's expertise as a DevOps Engineer with AWS experience, located in the UK (target country), and aligns with her background in CI/CD pipelines and infrastructure management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DEVOPS ENGINEER - AWS
+Felix Consultants  Birmingham, England, United Kingdom
+2 weeks ago  103 applicants
+  
+
+See who Felix Consultants has hired for this role
+
+Apply 
+Save
+As an experienced Devops engineer, you will be working within an agile software development team, and will be the pivotal link between developers, testers, and external support providers. You will be working on projects helping the business with the implementation of hosting solutions for the software product portfolio. The successful DevOps Engineer will have vast experience working with AWS cloud technologies and have experience in the following areas.
+
+Key Responsibilities And Experience
+
+
+Implementing and maintaining the CI/CD pipelines for deployment and hosting.
+Maintaining and developing AWS infrastructure.
+Automating a variety of tests to ensure services are working effectively
+Creating scalable solutions for services using AWS cloud technologies.
+Working with the software development teams to deliver new features, maintenance of existing features as well as R&D
+Contributing and participating in high level design discussions, design reviews and code reviews
+Documentation of DevOps solutions and becoming the SME across the DevOps platform
+Performs incremental testing actions on code, processes, and deployments to identify ways to streamline execution and minimize errors encountered
+
+
+Qualifications / Skills Required
+
+
+BS in Computer science, IT or equivalent
+4+ years' experience working in a DevOps capacity
+Extensive AWS cloud experience. Any qualifications would be highly desirable.
+CloudFormation
+CI/CD - CodePipeline. Jenkins etc.
+Linux
+Docker
+Solid Scripting experience with the likes of Bash or Python etc.
+Understanding of database technologies including SQL and NoSQL
+Experience working in highly agile environments
+
+
+Candidate Soft Skills
+
+
+Ability to get involved in all team activities from requirements elaboration, prioritization, design, testing approach to build and deploy
+Strong team player and willingness to share knowledge and best practices
+Working knowledge of the techniques like six thinking hats, brainstorming and role plays
+Have strong conflict resolution skills
+Excellent oral and written communication skills with a keen sense of customer service
+Excellent problem-solving and troubleshooting skills
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Information Technology & Services
+  
+
+Referrals increase your chances of interviewing at Felix Consultants by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Design Engineer jobs
+DEVOPS ENGINEER - AWS
+Similar jobs
+AWS DevOps Engineer - SC MOD Required
+AWS DevOps Engineer - SC MOD Required
+IBM
+Leicester, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Information Tech Consultants
+England, United Kingdom
+1 day ago
+Platform Engineer
+Platform Engineer
+Experian
+Nottingham, England, United Kingdom
+6 days ago
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+Accenture UK & Ireland
+Birmingham, England, United Kingdom
+4 days ago
+AWS DevOps Engineer - SC MOD Required
+AWS DevOps Engineer - SC MOD Required
+IBM
+Cheltenham, England, United Kingdom
+1 week ago
+DevOps Laravel Engineer
+DevOps Laravel Engineer
+DeterTech | UK
+Telford, England, United Kingdom
+6 days ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+Obsidian Security
+
+Cheltenham, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Cloudfy
+
+Leicester, England, United Kingdom
+£45,000 - £50,000
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Austin Elliot Consultancy
+
+Gloucestershire, England, United Kingdom
+2 weeks ago
+DevOps Development Engineer
+DevOps Development Engineer
+
+NFU Mutual
+
+Stratford-Upon-Avon, England, United Kingdom
+12 hours ago
+AWS Sys Admin
+AWS Sys Admin
+
+Accenture
+
+Birmingham, England, United Kingdom
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Clio
+
+England, United Kingdom
+2 days ago
+DevOps Engineer (SC Cleared)
+DevOps Engineer (SC Cleared)
+
+Montash
+
+England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Digital Skills ltd
+
+England, United Kingdom
+£75,000 - £80,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Next
+
+Leicester, England, United Kingdom
+2 weeks ago
+Senior Cloud Solutions Engineer
+Senior Cloud Solutions Engineer
+
+Northrop Grumman UK
+
+Cheltenham, England, United Kingdom
+2 months ago
+Similar Searches
+Design Engineer jobs
+17,242 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Felix Consultants
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

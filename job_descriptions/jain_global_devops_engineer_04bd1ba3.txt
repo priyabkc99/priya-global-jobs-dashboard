@@ -1,0 +1,265 @@
+Title: DevOps Engineer
+Company: Jain Global
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-jain-global-4462475780
+Posted: 2026-09-09
+Deadline: N/A
+Reason: The role of DevOps Engineer at Jain Global aligns with Priya's expertise in CI/CD pipelines (GitHub Actions), Infrastructure as Code (Terraform), AWS services, and Kubernetes, which directly matches her experience in regulated industries and technical communication/documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Jain Global  London, England, United Kingdom
+3 weeks ago  165 applicants
+  
+
+See who Jain Global has hired for this role
+
+Apply 
+Save
+Job Description
+
+We are seeking a hands-on DevOps Engineer to join our Global Cloud and DevOps team, based in London. The role will focus on building and operating the automation, platforms, and tooling that allow development teams to deploy and manage applications reliably and securely. Key areas include IaC, CI/CD, Kubernetes, observability, AWS services, and developer self-service. The engineer will collaborate closely with global cloud, infrastructure, security, and application development teams. As our cloud and platform operating model evolves, the role may also contribute to adjacent cloud foundation and infrastructure initiatives.
+
+Key Responsibilities
+
+
+Build and maintain reusable IaC modules and automation using Terraform.
+Develop self-service capabilities for engineering teams to provision and manage approved AWS resources.
+Provision and operate AWS services including EC2, EKS, RDS, S3, MSK, ElastiCache, IAM, and CloudWatch.
+Build and maintain CI/CD pipelines using GitHub Actions and related tooling.
+Manage and improve Kubernetes platforms, GitOps workflows, Helm charts, and application onboarding.
+Develop monitoring, logging, alerting, and observability capabilities using Grafana, Prometheus, DataDog, Loki, and CloudWatch.
+Support cloud networking and connectivity across AWS accounts, regions, on-prem environments, and other cloud platforms we use.
+Implement and maintain secure IAM, encryption, network security, secrets management, and compliance controls.
+Improve the reliability, scalability, security, and operational supportability of shared platforms.
+Automate manual processes and improve the consistency of infrastructure and application deployments.
+Support development teams with infrastructure design, troubleshooting, performance analysis, and production readiness.
+Participate in incident response, root-cause analysis, and preventative improvement work.
+Embed security, access control, secrets management, and governance requirements into platform tooling.
+Collaborate with technology teams across Singapore, London, New York, and other locations.
+Contribute to cloud foundation, networking, storage, and resilience initiatives where they intersect with application delivery.
+
+
+Required Skills And Experience
+
+
+4+ years of hands-on experience in DevOps, platform engineering, cloud engineering, Site Reliability Engineering, or a related role.
+Strong practical experience with AWS and services such as EC2, EKS, IAM, RDS, S3, and CloudWatch.
+Strong experience with Terraform and Infrastructure as Code.
+Hands-on experience with Kubernetes and Docker.
+Experience building and maintaining CI/CD pipelines, preferably using GitHub Actions.
+Strong scripting and automation skills using Python, Bash, or a similar language.
+Experience with monitoring, logging, alerting, and observability platforms.
+Solid understanding of cloud security, including IAM, encryption, network security, secrets management, and compliance controls.
+Strong understanding of cloud networking and hybrid connectivity, including routing, DNS, VPC peering, Transit Gateway, Direct Connect, or ExpressRoute.
+Experience troubleshooting cloud infrastructure, network connectivity, and distributed applications.
+Strong communication skills and the ability to work effectively with globally distributed teams.
+A pragmatic engineering mindset focused on automation, reliability, and maintainable solutions.
+
+
+Preferred Qualifications
+
+
+Experience with Argo CD, Helm, or other GitOps tooling.
+Familiarity with Airflow, Snowflake, or Apache Iceberg.
+Experience with Apache Kafka or Amazon MSK.
+Experience with hybrid cloud, enterprise networking, or multi-account AWS environments.
+Experience with Ansible or similar configuration management tools.
+Experience in financial services, trading, fintech, or another high-availability environment.
+Relevant AWS certification.
+
+
+Compensation
+
+Jain Global offers a total compensation package which includes a base salary, discretionary bonus, and comprehensive benefits. The estimated base salary range for this position is £120,000 – £170,000 which is specific to London and may change in the future. When finalizing an offer, we take into consideration an individual’s experience level and the qualifications they bring to the role to formulate a competitive total compensation package.
+
+We are an Equal Opportunity Employer
+
+As an employer, we believe every individual brings with them unique diversity of thought and perspectives to meaningfully enrich perspectives of Jain Global teams to drive competitive performance. We believe an inclusive environment can yield exceptional contributions.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Jain Global by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Chief Administrative Officer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Pharo Management
+London, England, United Kingdom
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Ripjar
+London, England, United Kingdom
+5 months ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Xelix
+London, England, United Kingdom
+5 days ago
+DevOps Engineer - UK
+DevOps Engineer - UK
+ANRA Technologies
+London, England, United Kingdom
+7 months ago
+DevOps Engineer
+DevOps Engineer
+Sensor Tower
+London, England, United Kingdom
+3 months ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Kharon
+
+London, England, United Kingdom
+£90,000 - £105,000
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Code Wizards Group
+
+Theale, England, United Kingdom
+4 weeks ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+La Fosse
+
+London Area, United Kingdom
+£80,000 - £90,000
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Charlotte Tilbury Beauty
+
+London, England, United Kingdom
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Akuna Capital
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineer - AWS & Terraform
+DevOps Engineer - AWS & Terraform
+
+Worldpay
+
+London Area, United Kingdom
+5 days ago
+Platform Engineer
+Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Griffin
+
+London, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+REMIUM
+
+City Of London, England, United Kingdom
+1 month ago
+Platform Engineer
+Platform Engineer
+
+Lendable
+
+London, England, United Kingdom
+11 hours ago
+Similar Searches
+Chief Administrative Officer jobs
+486 open jobs
+Portfolio Manager jobs
+6,625 open jobs
+Investment Analyst jobs
+2,570 open jobs
+Business Manager jobs
+50,168 open jobs
+Researcher jobs
+23,635 open jobs
+Head of Analytics jobs
+1,148 open jobs
+Head of Product jobs
+3,774 open jobs
+Quantitative Analyst jobs
+3,359 open jobs
+Solutions Engineer jobs
+12,487 open jobs
+Product Manager jobs
+24,856 open jobs
+Director jobs
+156,873 open jobs
+Project Manager jobs
+33,848 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Jain Global
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
