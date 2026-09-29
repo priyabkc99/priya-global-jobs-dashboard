@@ -2621,8 +2621,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T08:05:29+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-29T14:14:59+03:00"
   },
   {
     "title": "DevOps Engineer - ELK",
@@ -2638,8 +2638,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T08:05:29+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-29T14:14:59+03:00"
   },
   {
     "title": "Fractional DevOps Engineer",
@@ -2655,8 +2655,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T08:05:30+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-29T14:14:59+03:00"
   },
   {
     "title": "DevOps Engineer",
@@ -2672,8 +2672,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T08:05:30+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-29T14:14:59+03:00"
   },
   {
     "title": "DevOps Engineer",
@@ -2689,8 +2689,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T08:05:30+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-29T14:15:00+03:00"
   },
   {
     "title": "DevOps Engineer",
@@ -10814,8 +10814,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:58+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T14:15:00+03:00"
   },
   {
     "title": "Director,  Strategic Change & Programme Delivery",
@@ -10831,8 +10831,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:58+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T14:15:00+03:00"
   },
   {
     "title": "Head of Technology Delivery (Contract)",
@@ -10848,8 +10848,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:58+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T14:15:00+03:00"
   },
   {
     "title": "Director, Regional Device & Drug Delivery Center of Excellence (RTC)",
@@ -10865,59 +10865,56 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:58+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T14:15:00+03:00"
   },
   {
     "title": "Program Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Novintix Technologies Limited",
+    "location": "Ireland",
     "url": "https://www.irishjobs.ie/job/program-manager/novintix-technologies-limited-job108050857",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job posting is inaccessible, preventing verification of location details, role responsibilities, and visa sponsorship availability.",
     "id": "9f4d326c",
     "source": "irishjobs_release_manager",
     "added_at": "2026-09-29T08:05:57+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:59+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Manager, Finance - 12 Month Contract",
-    "company": "Extract from page",
+    "company": "Icon Clinical Research Ltd",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/manager-of-finance/icon-clinical-research-ltd-job108013559",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job title 'Manager, Finance' does not align with Priyanga's target roles in technical communication, configuration management, release management, or quality engineering.",
     "id": "248c6b8e",
     "source": "irishjobs_release_manager",
     "added_at": "2026-09-29T08:05:57+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:59+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Health and Social Care Transformation Manager, Hybrid",
-    "company": "Extract from page",
+    "company": "Deloitte",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/health-social-care-manager/deloitte-job108004102",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, preventing verification of critical details such as location, role responsibilities, and sponsorship availability.",
     "id": "d7961023",
     "source": "irishjobs_release_manager",
     "added_at": "2026-09-29T08:05:57+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:59+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Commissioning Manager  - Data Centre",
@@ -10925,16 +10922,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/manager-data/gertek-project-management-job108014948",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job posting is inaccessible, making it impossible to confirm location, required skills, or visa sponsorship details; however, the URL suggests Ireland (target country) and the 'Commissioning Manager' title may involve project/infrastructure management, which is uncertain against Priya's release/CM/DevOps focus.",
     "id": "dde3fee4",
     "source": "irishjobs_release_manager",
     "added_at": "2026-09-29T08:05:57+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:59+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "R&D Programme & Governance Manager",
@@ -10942,16 +10938,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/r-d-programme-governance-manager/tirlan-job107975591",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job posting is inaccessible (access denied), so key details like location, company specifics, and role responsibilities cannot be verified against the candidate's requirements.",
     "id": "295bbf9a",
     "source": "irishjobs_release_manager",
     "added_at": "2026-09-29T08:05:57+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T08:05:59+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Program Manager, Offices of Data Centers",
