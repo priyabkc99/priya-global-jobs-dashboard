@@ -491,5 +491,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "proposal writer",
+    "company": "Pomerleau",
+    "location": "Montr\u00e9al, QC, Canada",
+    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50305530",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires fluency in French as a mandatory qualification and mandates existing Canadian work authorization (no visa sponsorship available), both of which are hard rejections for the candidate.",
+    "id": "c659d086",
+    "source": "jobbank_ca_technical_writer",
+    "added_at": "2026-09-29T15:57:45+03:00",
+    "posted_date": "2026-09-17",
+    "deadline": "2026-10-08",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
