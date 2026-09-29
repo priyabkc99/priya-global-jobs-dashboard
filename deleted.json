@@ -253,5 +253,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-10-02) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Team Leader",
+    "company": "Bank of Valletta plc",
+    "location": "Santa Venera, Santa Venera, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/team-leader-at-bank-of-valletta-plc-4464575585",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role involves oversight of release and configuration management activities, aligning partially with the candidate\u2019s expertise, but the primary focus on team leadership in enterprise IT may not fully match her technical/release-management specialization.",
+    "id": "3a3fe98c",
+    "source": "linkedin_mt_release_manager",
+    "added_at": "2026-09-29T07:00:00+03:00",
+    "posted_date": "2026-09-15",
+    "deadline": "2026-09-24",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-24) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Lead",
+    "company": "Bank of Valletta plc",
+    "location": "Santa Venera, Santa Venera, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/lead-at-bank-of-valletta-plc-4464530766",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job requires leadership in enterprise IT and application management, which may overlap with the candidate\u2019s release/CM experience but does not explicitly align with her target domains (DevOps, configuration management, technical writing) or regulated-industry focus.",
+    "id": "0f273c46",
+    "source": "linkedin_mt_release_manager",
+    "added_at": "2026-09-29T07:00:00+03:00",
+    "posted_date": "2026-09-15",
+    "deadline": "2026-09-24",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-24) passed by more than 2 days and unreviewed"
   }
 ]
