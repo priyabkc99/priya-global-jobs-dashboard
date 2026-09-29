@@ -1,0 +1,309 @@
+Title: Technical Manager - GitHub Platform Uplift
+Company: Coforge
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/technical-manager-github-platform-uplift-at-coforge-4460962101
+Posted: 2026-09-08
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in CI/CD pipeline ownership, GitHub Actions, and DevSecOps, as well as her experience in regulated environments (though not explicitly required here). It matches the 'Configuration Manager' and 'DevOps Engineer' role types, and is located in Australia (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Manager - GitHub Platform Uplift
+Coforge  Sydney, New South Wales, Australia
+3 weeks ago   Be among the first 25 applicants
+  
+
+See who Coforge has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Coforge
+
+Anshuman Gazta
+Anshuman Gazta
+Senior Executive TA at Coforge (ANZ Region) | Talent Acquisition | Ex Optum, UHG
+
+Role: Technical Manager - GitHub Platform Uplift
+
+Skills: Github, DevSecOps, Delivery & Stakeholder Management
+
+Location: Sydney
+
+Duration: Permanent
+
+
+
+
+Role Overview
+
+
+
+
+We are seeking an experienced Technical Manager to lead the uplift and modernization of GitHub and DevSecOps platforms within a large enterprise environment. This role combines technical leadership and hands-on engineering, driving platform transformation, secure software delivery, automation, and engineering enablement initiatives.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Delivery & Stakeholder Management
+
+Lead platform uplift initiatives from planning through delivery.
+Manage project scope, risks, dependencies, and stakeholder communications.
+Coordinate engineering, cloud, security, and infrastructure teams to achieve delivery outcomes.
+Provide governance, reporting, and implementation oversight.
+
+GitHub Platform Management
+
+Administer GitHub Enterprise environments, including repository governance, access controls, and security settings.
+Lead GitHub migration and onboarding activities.
+Establish standards and best practices for GitHub usage and governance.
+
+DevSecOps & CI/CD Engineering
+
+Design and improve secure CI/CD pipelines and platform capabilities.
+Implement DevSecOps controls across source code, dependencies, secrets, and container platforms.
+Drive automation, standardization, and operational excellence within software delivery processes.
+
+Automation & Operational Readiness
+
+Develop automation solutions using scripting and Infrastructure-as-Code.
+Implement monitoring, dashboards, and platform observability.
+Produce technical documentation, runbooks, and support procedures.
+Conduct knowledge transfer and enablement sessions for engineering teams.
+
+
+
+
+Required Experience
+
+Essential
+
+8+ years' experience in Platform Engineering, DevOps, DevSecOps, or Cloud Engineering.
+Strong experience with GitHub Enterprise administration and migration programs.
+Expertise in CI/CD platforms, GitHub Actions, and pipeline automation.
+Practical experience implementing DevSecOps and secure software delivery practices.
+Kubernetes and container platform experience.
+Strong automation and scripting skills.
+Proven ability to lead complex technical initiatives and manage stakeholders.
+
+
+
+
+Desirable
+
+Experience with SAML SSO, SCIM, identity integration, GitOps, and self-hosted runners.
+Exposure to regulated or highly governed environments.
+Understanding of security and compliance frameworks.
+
+
+
+
+Technical Skills
+
+GitHub Enterprise Administration
+GitHub Actions & CI/CD Pipelines
+DevSecOps & Secure SDLC
+Kubernetes & Container Platforms
+Infrastructure as Code
+Python, Bash, PowerShell
+Grafana, Open Telemetry, Monitoring & Alerting
+Developer Portals and Internal Developer Platforms (IDP)
+Bachelor's degree in computer science, Information Technology, Engineering, or related field.
+GitHub Certifications desirable.
+AWS and/or Kubernetes certifications preferred.
+
+
+
+
+Show more 
+Seniority level
+Director
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Coforge by 2x
+
+See who you know
+
+Get notified about new Technical Manager jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Technology Officer jobs
+Technical Manager - GitHub Platform Uplift
+Similar jobs
+Technical Delivery Manager
+Technical Delivery Manager
+Coforge
+Sydney, New South Wales, Australia
+3 weeks ago
+Engineering Lead - Developer Platform
+Engineering Lead - Developer Platform
+Heidi
+Sydney, New South Wales, Australia
+1 month ago
+Engineering Manager
+Engineering Manager
+Woolworths Group
+Sydney, New South Wales, Australia
+3 days ago
+Developer Experience Manager
+Developer Experience Manager
+Nuix
+Sydney, New South Wales, Australia
+1 week ago
+Tech Lead Manager (multiple teams)
+Tech Lead Manager (multiple teams)
+Neara
+Sydney, New South Wales, Australia
+3 days ago
+Engineering Manager, Site Reliability Engineering
+Engineering Manager, Site Reliability Engineering
+Google
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Technical Lead
+Technical Lead
+
+Zurich Australia
+
+North Sydney, New South Wales, Australia
+4 days ago
+Technology Manager
+Technology Manager
+
+UNSW
+
+Sydney, New South Wales, Australia
+1 week ago
+Cloud Services Manager
+Cloud Services Manager
+
+Harvey Norman
+
+Homebush, New South Wales, Australia
+5 days ago
+Systems Development Manager, Region Services
+Systems Development Manager, Region Services
+
+Amazon Web Services (AWS)
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Delivery Manager
+Senior Delivery Manager
+
+Nine
+
+Sydney, New South Wales, Australia
+1 week ago
+Staff Technical Program Manager - Developer Experience
+Staff Technical Program Manager - Developer Experience
+
+Canva
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Technical Lead, GitHub Enterprise Cloud Uplift
+Technical Lead, GitHub Enterprise Cloud Uplift
+
+Cuscal Limited
+
+Sydney, New South Wales, Australia
+1 week ago
+ENGINEERING MANAGER - SRE
+ENGINEERING MANAGER - SRE
+
+Xero
+
+Sydney, New South Wales, Australia
+5 days ago
+Executive Manager Site Reliability Engineering
+Executive Manager Site Reliability Engineering
+
+Commonwealth Bank
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Enterprise Release Manager
+Enterprise Release Manager
+
+ASX
+
+Sydney, New South Wales, Australia
+1 day ago
+Similar Searches
+Technology Officer jobs
+5,606 open jobs
+Regional Quality Assurance Manager jobs
+84 open jobs
+Technical Director jobs
+738 open jobs
+Coldfusion Developer jobs
+533 open jobs
+Senior Naval Architect jobs
+20 open jobs
+Technical Head jobs
+714 open jobs
+Plant Chemist jobs
+11 open jobs
+Cisco Engineer jobs
+36 open jobs
+SAP Basis Manager jobs
+32 open jobs
+Senior Mechanical Designer jobs
+174 open jobs
+Technical Architect jobs
+2,079 open jobs
+Senior Technical Architect jobs
+1,382 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Coforge
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
