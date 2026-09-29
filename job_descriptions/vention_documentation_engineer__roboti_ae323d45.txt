@@ -1,0 +1,369 @@
+Title: Documentation Engineer, Robotics & Software platform / Ingénieur(e) en documentation – Plateforme Robotique et Logiciels /
+Company: Vention
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/documentation-engineer-robotics-software-platform-ing%C3%A9nieur-e-en-documentation-%E2%80%93-plateforme-robotique-et-logiciels-at-vention-4458314351
+Posted: 2026-08-30
+Deadline: N/A
+Reason: The role aligns with Priya’s technical writing and documentation expertise (matches her Topcon and Accenture experience), is located in Canada (target country), and does not require US-based work authorization or language skills beyond English.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Documentation Engineer, Robotics & Software platform / Ingénieur(e) en documentation – Plateforme Robotique et Logiciels /
+Vention  Montreal, Quebec, Canada
+1 month ago  26 applicants
+  
+
+See who Vention has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Version française ci-dessous
+
+
+Company Description
+
+Headquartered in Montreal, Detroit and Munich, Vention helps manufacturers automate their operations in record time with the only hardware and software AI-powered platform built for the factory floor. Our technology powers over 25,000 machines across 4,000 factories across 5 continents and we have the privilege to work with a significant proportion of Fortune 500 manufacturers, from space rockets, to electrical cars, to robotics.
+
+At Vention, you’ll work alongside driven and talented people who care deeply about their craft and the impact they create. We’re a team of high achievers who grow through meaningful work, solving complex challenges, learning fast, and seeing the results of our efforts every day.
+
+We move quickly and aim high, but we do it together with care, collaboration, and respect. Our culture celebrates diverse perspectives and supports your growth through intentional development, strong leadership, and opportunities to make a real difference.
+
+What You’ll Do
+
+
+Write and maintain hardware documentation, including assembly instructions, integration guides, wiring diagrams references, and product specification sheets
+Write and maintain software documentation, including MachineLogic user guides, API references, release notes, and MachineBuilder how-tos
+Develop and curate customer-facing knowledge base and help center content to reduce support ticket volume and improve self-serve resolution
+Partner with Product Line Managers and Engineering teams to gather technical requirements and translate them into clear, well-structured documentation
+Establish and maintain documentation standards, style guides, and templates to ensure consistency across product lines
+Audit and update existing documentation to keep pace with new product launches, feature updates, and end-of-life transitions
+Create and maintain internal technical references and structure (e.g., safety and certification documentation, validation audit trails) in support of compliance and certification processes
+Work with UX/design and engineering to incorporate diagrams, screenshots, and video content into documentation
+Collect and act on feedback from customers, sales, application engineers, and support teams to continuously improve documentation quality and coverage
+Support product launches by ensuring documentation is ready and aligned with go-to-market timelines
+Manage the documentation content pipeline, prioritizing work across multiple product lines and stakeholders
+Collaborate with our User Education & Community Lead to develop user centric documentation
+
+
+What You Bring To The Table
+
+
+Bachelor's degree in Engineering, Technical Writing, or a related field (or equivalent hands-on experience in an industrial/automation environment)
+Experience translating complex technical concepts (mechanical, electrical, or software) into clear, structured documentation for diverse audiences — whether that experience was gained as a technical writer, engineer, or automation technician
+Comfortable working directly with engineers and product managers to extract and validate technical details
+Strong organizational skills, with the ability to manage multiple documentation projects simultaneously across different product lines and stakeholders
+Excellent written communication skills in English; able to maintain a consistent tone and style across a high volume of content
+Able to work in a fast-paced environment with tight deadlines and strong time management
+
+Nice to Have
+
+
+Comfortable with AI/LLM tools (e.g. Claude, ChatGPT) and willing to build skills to speed up writing, editing, and research as part of the documentation process
+Experience with API documentation and developer-facing content
+Familiarity with documentation tools and platforms (e.g. Confluence, Doc360, GitBook, or similar) is a plus, but not required
+Experience with diagramming, screen capture, or video tools (e.g. Figma, Snagit, Camtasia)
+
+
+What We Offer
+
+
+Career pathing: Real opportunities to grow through personalized development plans, bi-annual employee reviews, and mentorship program
+Professional development: Continuous training in performance management, inclusive leadership, leadership operating model, team building, and giving/receiving feedback
+Gender diversity & inclusion: Pay equity reviews, inclusive policies, and a Women’s Employee Resource Group offering networking, mentorship, and quarterly learning sessions.
+Hybrid work: Enjoy flexibility with our hybrid model, allowing you to work from home on select days.
+Community engagement: Two paid volunteering days per year to give back to causes you care about.
+Team events: All year round employee events including annual kick-off, employee summit, quarterly happy hours, and department events.
+Comprehensive benefits: A complete group benefits plan for you and your family that start day one.
+Top-up and benefits for new parents: Additional financial support and resources to support employees during their transition to parenthood.
+
+
+What To Expect In Your Interview
+
+
+Initial Call
+Meet the Team
+Case or take-home interview
+Decision & Offer
+
+
+We’re committed to making every step of the process inclusive and accessible. If you require accommodations at any stage, please let us know, we’ll ensure you have what you need to succeed.
+
+Vention’s culture
+
+Vention is an uplifting environment for high achievers. Thinking that Vention’s culture would keep you energized? See our full culture guide here
+
+Demo Day 2025
+
+Culture Video
+
+Description De L’entreprise
+
+Basée à Montréal, Detroit et Munich, Vention aide les fabricants à automatiser leurs opérations en un temps record grâce à la seule plateforme matérielle et logicielle alimentée par l’IA conçue pour l’usine. Notre technologie alimente plus de 25 000 machines dans 4 000 usines réparties sur 5 continents, et nous avons le privilège de collaborer avec une grande proportion des fabricants du Fortune 500, allant de la construction de fusées à l’automobile électrique, en passant par la robotique.
+
+Chez Vention, vous travaillerez aux côtés de personnes passionnées et talentueuses qui ont à cœur leur métier et l’impact qu’elles créent. Nous formons une équipe de personnes ambitieuses qui évoluent grâce à un travail porteur de sens, en relevant des défis complexes, en apprenant rapidement et en constatant chaque jour les résultats de leurs efforts.
+
+Nous avançons vite et visons haut, mais nous le faisons ensemble, avec soin, collaboration et respect. Notre culture valorise la diversité des perspectives et soutient votre développement grâce à un encadrement intentionnel, un leadership fort et des occasions concrètes de faire une réelle différence.
+
+Ce Que Vous Ferez
+
+
+Rédiger et maintenir la documentation matérielle, y compris les instructions d'assemblage, les guides d'intégration, les schémas de câblage de référence et les fiches techniques produits
+Rédiger et maintenir la documentation logicielle, y compris les guides d'utilisation MachineLogic, les références API, les notes de version et les tutoriels MachineBuilder
+Développer et organiser le contenu de la base de connaissances et du centre d'aide destiné aux clients, afin de réduire le volume de tickets de support et d'améliorer la résolution en libre-service
+Collaborer avec les Product Line Managers et les équipes d'ingénierie pour recueillir les exigences techniques et les traduire en documentation claire et bien structurée
+Établir et maintenir des normes de documentation, des guides de style et des modèles afin d'assurer la cohérence entre les lignes de produits
+Auditer et mettre à jour la documentation existante pour suivre le rythme des lancements de nouveaux produits, des mises à jour de fonctionnalités et des transitions de fin de vie (end-of-life)
+Créer et maintenir des références et structures techniques internes (par exemple, la documentation de sécurité et de certification, les pistes d'audit de validation) en soutien aux processus de conformité et de certification
+Travailler avec les équipes UX/design et ingénierie pour intégrer des diagrammes, captures d'écran et contenus vidéo à la documentation
+Recueillir et exploiter les retours des clients, des équipes de vente, des ingénieurs d'application et des équipes de support afin d'améliorer continuellement la qualité et la couverture de la documentation
+Soutenir les lancements de produits en veillant à ce que la documentation soit prête et alignée avec les échéanciers de mise sur le marché (go-to-market)
+Gérer le pipeline de contenu documentaire, en priorisant le travail entre plusieurs lignes de produits et parties prenantes
+Collaborer avec notre responsable de l'éducation utilisateur et de la communauté (User Education & Community Lead) pour développer une documentation centrée sur l'utilisateur
+
+
+Ce que vous apportez à l’équipe
+
+
+Baccalauréat en génie, en rédaction technique ou dans un domaine connexe (ou expérience pratique équivalente dans un environnement industriel/automatisé)
+Expérience dans la traduction de concepts techniques complexes (mécaniques, électriques ou logiciels) en documentation claire et structurée destinée à divers publics — que cette expérience ait été acquise en tant que rédacteur technique, ingénieur ou technicien en automatisation
+Aisance à travailler directement avec des ingénieurs et des chefs de produit pour extraire et valider les détails techniques
+Excellentes compétences organisationnelles, avec la capacité de gérer plusieurs projets de documentation simultanément, à travers différentes lignes de produits et parties prenantes
+Capacité à travailler dans un environnement rapide, avec des délais serrés et une bonne gestion du temps
+Maîtrise du français et de l’anglais, à l’oral et à l’écrit (Anglais demandé pour répondre à notre clientèle anglophone).
+
+Atouts
+
+
+Aisance avec les outils d'IA/LLM (par exemple, Claude, ChatGPT) et volonté de développer des compétences pour accélérer la rédaction, l'édition et la recherche dans le cadre du processus de documentation
+Expérience avec la documentation d'API et le contenu destiné aux développeurs
+Une connaissance des outils et plateformes de documentation (par exemple, Confluence, Doc360, GitBook ou similaires) est un atout, mais non requise
+Expérience avec des outils de diagramme, de capture d'écran ou de vidéo (par exemple, Figma, Snagit, Camtasia)
+
+
+Ce Que Nous Offrons
+
+
+Cheminement de carrière : De réelles possibilités d’évolution grâce à des plans de développement personnalisés, des évaluations biannuelles et un programme de mentorat.
+Développement professionnel : Formations continues sur la gestion de la performance, le leadership inclusif, la construction d’équipes performantes et la rétroaction constructive.
+Diversité et inclusion : Revues d’équité salariale, politiques inclusives et groupe-ressource pour les femmes offrant mentorat, réseautage et sessions d’apprentissage trimestrielles.
+Travail hybride : Profitez de la flexibilité de notre modèle hybride vous permettant de travailler de la maison certains jours.
+Engagement communautaire : Deux journées de bénévolat rémunérées par an pour redonner aux causes qui vous tiennent à cœur.
+Événements d’équipe : Activités tout au long de l’année, incluant le lancement annuel, le sommet des employés, des 5à7 trimestriels et des événements par département.
+Avantages sociaux complets : Régime complet d’assurances collectives pour vous et votre famille, dès votre premier jour.
+Compléments et avantages pour les nouveaux parents : Soutien financier et ressources pour accompagner les employés dans leur transition vers la parentalité.
+
+
+Déroulement du processus d’entrevue
+
+
+Appel initial
+Rencontre avec l’équipe
+Étude de cas ou exercice à domicile
+Décision et offre
+
+
+Nous nous engageons à rendre chaque étape du processus inclusive et accessible. Si vous avez besoin d’adaptations, faites-le-nous savoir — nous veillerons à ce que vous disposiez de tout ce dont vous avez besoin pour réussir.
+
+La culture de Vention
+
+Vention est un environnement stimulant pour les personnes ambitieuses. Vous pensez que notre culture vous inspire ? Consultez notre guide complet de la culture ici.
+
+Journée de démonstration 2025
+
+Vidéo sur la culture
+
+Helping manufacturers automate their operations in record time with the only hardware and software AI-powered platform built for the factory floor.
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Administrative
+Industries
+Automation Machinery Manufacturing
+  
+
+Referrals increase your chances of interviewing at Vention by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Contract Technical Writer jobs
+Documentation Engineer, Robotics & Software platform / Ingénieur(e) en documentation – Plateforme Robotique et Logiciels /
+Similar jobs
+Spécialiste en rédaction technique et automatisation des contenus
+Spécialiste en rédaction technique et automatisation des contenus
+NūMove Robotics & Vision
+Montreal, Quebec, Canada
+1 day ago
+Rédacteur(trice) technique
+Rédacteur(trice) technique
+ANCIA
+Saint-Eustache, Quebec, Canada
+CA$31.52 - CA$40.74
+5 days ago
+Rédacteur(trice) technique
+Rédacteur(trice) technique
+Nova Bus
+Saint-Eustache, Quebec, Canada
+1 week ago
+Rédacteur technique sénior ou rédactrice technique sénior, Ingénierie L'occasion / Senior Technical Writer, Development
+Rédacteur technique sénior ou rédactrice technique sénior, Ingénierie L'occasion / Senior Technical Writer, Development
+Unity
+Montreal, Quebec, Canada
+1 week ago
+Technical Writer
+Technical Writer
+Bombardier
+Dorval, Quebec, Canada
+2 weeks ago
+Rédacteur Technique
+Rédacteur Technique
+Bombardier
+Dorval, Quebec, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Rédacteur Technique 3
+Rédacteur Technique 3
+
+Bombardier
+
+Dorval, Quebec, Canada
+2 weeks ago
+Professional Engineering, Bombardier Engineering System
+Professional Engineering, Bombardier Engineering System
+
+Bombardier
+
+Dorval, Quebec, Canada
+3 days ago
+Professionel·le ingénierie, Système d'Ingénierie Bombardier
+Professionel·le ingénierie, Système d'Ingénierie Bombardier
+
+Bombardier
+
+Dorval, Quebec, Canada
+3 days ago
+Analyst, Product Support
+Analyst, Product Support
+
+Bombardier
+
+Dorval, Quebec, Canada
+1 week ago
+Représentant Service Après-vente 3
+Représentant Service Après-vente 3
+
+Bombardier
+
+Dorval, Quebec, Canada
+1 week ago
+Ingénieur principal, automatisation et robotique
+Ingénieur principal, automatisation et robotique
+
+Merkur
+
+Brossard, Quebec, Canada
+4 days ago
+Ingénieur principal, automatisation et robotique
+Ingénieur principal, automatisation et robotique
+
+Merkur
+
+Montreal, Quebec, Canada
+4 days ago
+Ingénieur principal, automatisation et robotique
+Ingénieur principal, automatisation et robotique
+
+Merkur
+
+Blainville, Quebec, Canada
+4 days ago
+Ingénieur principal, automatisation et robotique
+Ingénieur principal, automatisation et robotique
+
+Merkur
+
+Boisbriand, Quebec, Canada
+4 days ago
+Methods Agent
+Methods Agent
+
+Bombardier
+
+Montreal, Quebec, Canada
+2 weeks ago
+Similar Searches
+Contract Technical Writer jobs
+123 open jobs
+Lead Technical Writer jobs
+253 open jobs
+Senior Technical Writer jobs
+396 open jobs
+Document Developer jobs
+15,738 open jobs
+Regulatory Engineer jobs
+224 open jobs
+Technical Writer jobs
+1,614 open jobs
+Information Architect jobs
+1,753 open jobs
+Product Test Engineer jobs
+379 open jobs
+Documentation Manager jobs
+2,050 open jobs
+Documentation Coordinator jobs
+2,945 open jobs
+Information Developer jobs
+14,724 open jobs
+Knowledge Engineer jobs
+15,427 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Vention
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
