@@ -355,5 +355,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "product specialist - retail",
+    "company": "Endcaps Inc.",
+    "location": "London, ON",
+    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50350234",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the applicant to already have the right to work in Canada (Canadian citizen/permanent resident/temporary resident with valid work permit), which Priya does not possess, and no visa sponsorship is offered for this role.",
+    "id": "a3990ad6",
+    "source": "jobbank_ca_product_specialist",
+    "added_at": "2026-09-29T11:18:29+03:00",
+    "posted_date": "2026-09-23",
+    "deadline": "2026-10-14",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
