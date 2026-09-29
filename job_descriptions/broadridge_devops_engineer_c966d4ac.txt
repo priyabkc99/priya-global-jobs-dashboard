@@ -1,0 +1,286 @@
+Title: DevOps Engineer
+Company: Broadridge
+Location: Greater Vancouver Metropolitan Area
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-broadridge-4443003971
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The DevOps Engineer role at Broadridge in Canada matches Priya’s expertise in CI/CD, configuration management, and regulated-industry experience, aligning with her background in Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Broadridge  Greater Vancouver Metropolitan Area
+1 week ago   Over 200 applicants
+  
+
+See who Broadridge has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.
+
+At Broadridge, we believe our mission is simple yet powerful: to earn our clients' confidence every day by delivering real business value through leading technology-driven solutions that set the standard for the financial services industry and beyond. We’ve built a culture where our associates are empowered to grow, innovate, and contribute to meaningful work.
+
+Our workplace is grounded in FACS: Flexible, Accountable, Connected, and Supported, ensuring that we not only deliver for clients but also foster balance, connection, and belonging for our associates. We are also deeply committed to diversity, equity, and inclusion—creating a workplace where every individual feels welcomed, valued, and empowered to thrive.
+
+About The Role
+
+We are looking for a DevOps Engineer to design, build, and enhance the cloud and automation platforms that power Broadridge products and services. In this role, you will work closely with development teams to understand their needs, deliver innovative solutions, and drive highly secure, scalable, and resilient DevOps capabilities across the enterprise.
+
+Responsibilities
+
+
+Design, build, and evolve the DevOps platform supporting Broadridge product and service delivery.
+Collaborate with development teams to gather requirements, ideate, and translate solutions into secure and scalable implementations.
+Develop automation frameworks and scripts to streamline CI/CD pipelines, infrastructure provisioning, and deployments.
+Drive best practices in enterprise software delivery, including configuration management, release processes, and observability.
+Support global-scale systems leveraging modern networking, distributed architectures, containers, and microservices.
+Partner with cross-functional teams to ensure effective collaboration, security compliance, and continuous improvement.
+
+
+Qualifications
+
+
+Proven experience as a DevOps Engineer, building DevOps capabilities for enterprise applications.
+8-10 years’ experience DevOps toolsets Terraform, Jenkins, Chef, Docker, JF
+Hands-on expertise with AWS cloud services (Azure or GCP experience a plus).
+Skilled in DevOps toolsets including Terraform, Jenkins, Chef, Docker, JFrog (Kubernetes proficiency highly beneficial).
+Strong knowledge of CI/CD pipelines, source control (Git), configuration management, and monitoring practices.
+Proficiency with scripting/programming languages such as Python, GoLang, or Shell.
+Excellent communication skills and ability to work effectively with cross-functional teams.
+Strong analytical mindset with the organizational skills to manage multiple priorities.
+
+
+Preferred Qualifications:
+
+
+Cloud/DevOps certifications (e.g., AWS DevOps Engineer, CKA, Terraform Associate).
+Familiarity with advanced networking, master/slave architectures, and modern design patterns.
+Hands-on experience across multiple cloud providers (AWS, GCP, Azure).
+
+
+Background Check Process
+
+Broadridge requires employees to complete a background check that is completed by one of our service providers. We use this service to complete the following checks:
+
+
+Employment verification
+Education verification
+Credit inquiry
+Canadian criminal record check
+
+
+Compensation
+
+Salary Range: CAD $100,000 – $120,000. Compensation may vary depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location
+
+Workplace Flexibility
+
+We are committed to supporting flexible work arrangements, investing in technology or other resources to enable you to work from home effectively, wherever possible.
+
+At this time this is a hybrid role, and therefore you should have a basic home office set up, high-speed internet, and the ability to work without distractions during core business hours.
+
+Accessibility & Accommodation
+
+Broadridge is an equal opportunity employer and is committed to a diverse and inclusive workplace ensuring that equal employment opportunities are provided to all individuals, regardless of race, colour, gender identity, sexual orientation, marital status, creed, age, disability, religious affiliation, or national origin or citizenship. If you require any accommodations during the recruitment process, please notify our recruitment team.
+
+We are dedicated to fostering a collaborative, engaging, and inclusive environment and are committed to providing a workplace that empowers associates to be authentic and bring their best to work. We believe that associates do their best when they feel safe, understood, and valued, and we work diligently and collaboratively to ensure Broadridge is a company—and ultimately a community—that recognizes and celebrates everyone’s unique perspective.
+
+Use of AI in Hiring
+
+As part of the recruiting process, Broadridge may use technology, including artificial intelligence (AI)-based tools, to help review and evaluate applications. These tools are used only to support our recruiters and hiring managers, and all employment decisions include human review to ensure fairness, accuracy, and compliance with applicable laws. Please note that honesty and transparency are critical to our hiring process. Any attempt to falsify, misrepresent, or disguise information in an application, resume, assessment, or interview will result in disqualification from consideration.
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Broadridge by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Greater Vancouver Metropolitan Area.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Corpay
+Vancouver, British Columbia, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+StackAdapt
+Vancouver, British Columbia, Canada
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Varonis
+Vancouver, British Columbia, Canada
+6 days ago
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+EA SPORTS
+Vancouver, British Columbia, Canada
+5 days ago
+SRE Specialist/DevOps Developer
+SRE Specialist/DevOps Developer
+Fortinet
+Burnaby, British Columbia, Canada
+4 months ago
+AI DevOps & Reliability Engineer
+AI DevOps & Reliability Engineer
+Branch
+Vancouver, British Columbia, Canada
+4 days ago
+Show more jobs like this 
+People also viewed
+Lead Software Engineer(DevOps)
+Lead Software Engineer(DevOps)
+
+Mastercard
+
+Vancouver, British Columbia, Canada
+4 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+2K
+
+Burnaby, British Columbia, Canada
+2 days ago
+Site Reliability Consultant
+Site Reliability Consultant
+
+Pythian
+
+Greater Vancouver Metropolitan Area
+1 week ago
+Azure DevOps engineer
+Azure DevOps engineer
+
+IFG - International Financial Group
+
+Greater Vancouver, British Columbia, Canada
+CA$109 - CA$113
+4 days ago
+Software Engineer - Infrastructure
+Software Engineer - Infrastructure
+
+Gumloop
+
+Vancouver, British Columbia, Canada
+$185,000 - $285,000
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Boeing
+
+Richmond, British Columbia, Canada
+3 days ago
+Staff Platform Engineer
+Staff Platform Engineer
+
+Rivian
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior Cloud Platform Engineer, DevOps
+Senior Cloud Platform Engineer, DevOps
+
+ProCogia
+
+Vancouver, British Columbia, Canada
+CA$100,000 - CA$115,000
+1 week ago
+Senior Cloud Platform Engineer, DevOps
+Senior Cloud Platform Engineer, DevOps
+
+ProCogia
+
+Greater Vancouver Metropolitan Area
+6 days ago
+Platform Development Engineer-II
+Platform Development Engineer-II
+
+Best Buy Canada
+
+Vancouver, British Columbia, Canada
+6 days ago
+Similar Searches
+Legal Services Manager jobs
+139 open jobs
+Director Equity jobs
+284 open jobs
+Multimedia Director jobs
+95 open jobs
+Mainframe Programmer jobs
+129 open jobs
+Service Account Manager jobs
+1,602 open jobs
+Exchange Engineer jobs
+767 open jobs
+Staff Developer jobs
+16,619 open jobs
+Network Support Analyst jobs
+566 open jobs
+Senior Business Project Manager jobs
+1,955 open jobs
+Direct Marketing Assistant jobs
+259 open jobs
+Interface Developer jobs
+674 open jobs
+Senior Vice President Finance jobs
+135 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Broadridge
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,257 @@
+Title: Senior DevOps Developer
+Company: Mappedin
+Location: Waterloo, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-developer-at-mappedin-4469064186
+Posted: 2026-08-31
+Deadline: N/A
+Reason: The role of Senior DevOps Developer at Mappedin in Waterloo, Ontario, Canada aligns with Priyanga's expertise in CI/CD pipeline ownership, infrastructure tooling, and regulated-industry experience, while meeting all location, visa sponsorship, and language criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Developer
+Mappedin  Waterloo, Ontario, Canada
+1 month ago  47 applicants
+  
+
+See who Mappedin has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About The Company
+
+Mappedin is the leading indoor mapping platform transforming the way venues are experienced, managed, and understood. Built for scale and trusted by the world’s biggest brands, our AI-powered tools make indoor mapping fast, flexible, and easy to integrate—powering indoor experiences at top destinations worldwide. With billions of square feet mapped across 57 countries, we help make public spaces easier to explore, simpler to manage, and safer for every visitor. For more information, visit mappedin.com. To try out our mapping tools, visit https://app.mappedin.com/editor/
+
+About The Role
+
+Mappedin is a SaaS company with some big clients and exciting growth opportunities. That means we have a lot of critical cloud infrastructure, and we need another DevOps developer to help us scale our infrastructure and development processes.
+
+Here’s the bullet point list of requirements you probably jumped straight to:
+
+
+You understand the challenges of a rapidly growing company and can steer DevOps practices to unleash customer value
+You spend your time growing, and supporting the members of your team, and collaborating with Product and Customer Success to plan and prioritize work
+You care about developer productivity and best practices as much as service health and performance
+You are comfortable with Kubernetes and cloud providers
+You use AI tools to ship solutions faster
+
+
+Plus you should be interested in learning about, or are already experienced with:
+
+
+Azure or other cloud providers
+ArgoCD or other GitOps tools
+Terraform or other infrastructure-as-code tools
+Obsess over reliability, stability and scalability
+Infrastructure security and SOC2 compliance
+
+
+Behind the scenes
+
+We move fast and pivot as needed. We operate with experimental mindsets and are constantly pushing the boundaries of our industry. Because of this, we can’t guarantee exactly what you’ll be working on three months from now but we can guarantee that you will be working on high value projects that will foster your growth along with Mappedin’s. One of our core values is playing for the team. This means that we’re constantly balancing our own goals with the needs of the organization and jump in to help others whenever needed. There is a lot of discovery work involved as we frequently do things that are ahead of current technology.
+
+At Mappedin, we don’t take a one-size-fits-all approach to how we work. While we have colleagues around the globe, some roles are best suited for full-time, in-person work at our home office in Waterloo. We are committed to getting things done and holding each other accountable. We stay curious, embrace risks, and learn from our mistakes. We’re competitive and enjoy winning together as a team.
+
+We believe in being transparent about how we hire. We use artificial intelligence (AI) tools to help record interviews and create notes for us to review later. Every application and interview is still reviewed by our People Operations team, and all hiring decisions are made by people - not AI.
+
+We welcome applications from people with disabilities. We provide reasonable accommodations for candidates upon request through the recruitment process. For additional information, please email us at accessibility@mappedin.com or call us at (519) 594-0102 and ask to speak to a member of the Human Resources team.
+
+What's in it for you
+
+
+Competitive base salary: $120,000 - $150,000 CAD
+20 days of paid vacation, available from your first day
+Comprehensive benefits from Day 1
+A team of bar raisers with low ego and high ownership
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Mappedin by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Waterloo, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+e-STORAGE
+Kitchener, Ontario, Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Nelnet
+Mississauga, Ontario, Canada
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Infosys
+Mississauga, Ontario, Canada
+1 week ago
+Founding DevOps/SRE Engineer
+Founding DevOps/SRE Engineer
+Requesty
+London, Ontario, Canada
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Synechron
+Mississauga, Ontario, Canada
+CA$105,000 - CA$120,000
+2 weeks ago
+Sr. DevSecOps Engineer
+Sr. DevSecOps Engineer
+Rogers Communications
+Brampton, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer / Release Management & Automation Specialist
+Site Reliability Engineer / Release Management & Automation Specialist
+
+Sun Life
+
+Greater Toronto Area, Canada
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Tata Consultancy Services
+
+Greater Toronto Area, Canada
+CA$100,000 - CA$120,000
+1 week ago
+DevOps Manager
+DevOps Manager
+
+NLB Services
+
+Brampton, Ontario, Canada
+1 day ago
+Cloud Engineer
+Cloud Engineer
+
+Morson Edge (Canada)
+
+Oakville, Ontario, Canada
+CA$95,000 - CA$135,000
+4 days ago
+Administrateur(trice) cloud/DevOps
+Administrateur(trice) cloud/DevOps
+
+CGI
+
+Greater Toronto Area, Canada
+4 days ago
+IT Cloud & DevOps Engineer
+IT Cloud & DevOps Engineer
+
+Survalent
+
+Greater Toronto Area, Canada
+2 weeks ago
+Principal DataOps Engineer (DevOps for Data)
+Principal DataOps Engineer (DevOps for Data)
+
+Workday
+
+Greater Toronto Area, Canada
+2 weeks ago
+Sr. Developer/SRE - Vice President
+Sr. Developer/SRE - Vice President
+
+Citi
+
+Mississauga, Ontario, Canada
+2 weeks ago
+IT Infrastructure Administrator
+IT Infrastructure Administrator
+
+Pelmorex
+
+Oakville, Ontario, Canada
+3 weeks ago
+Junior DevOps Specialist
+Junior DevOps Specialist
+
+CGI
+
+Greater Toronto Area, Canada
+2 weeks ago
+Similar Searches
+Small Business Consultant jobs
+1,271 open jobs
+Geospatial Analyst jobs
+97 open jobs
+Character Artist jobs
+181 open jobs
+Analyst Internship jobs
+53 open jobs
+3D Animator jobs
+505 open jobs
+Integration Specialist jobs
+14,368 open jobs
+Graduate Software Engineer jobs
+13,785 open jobs
+Junior Web Developer jobs
+699 open jobs
+Junior Software Engineer jobs
+15,782 open jobs
+3D Artist jobs
+205 open jobs
+Programming Analyst jobs
+15,873 open jobs
+Web Developer jobs
+2,982 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Mappedin
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

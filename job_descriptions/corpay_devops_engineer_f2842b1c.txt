@@ -1,0 +1,319 @@
+Title: DevOps Engineer
+Company: Corpay
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-corpay-4459672497
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The job matches Priya's profile as a DevOps Engineer with CI/CD and infrastructure management experience, located in Canada (target country), and does not have any hard-rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Corpay  Vancouver, British Columbia, Canada
+1 week ago   Over 200 applicants
+  
+
+See who Corpay has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+What We Need
+
+Corpay is currently looking to hire a DevOps Engineer within our Buyatab division. This position falls under our Gift card line of business and is located in Vancouver, Canada. You will report into the DevOps Team Lead In this role and will join a high-performing DevOps team and collaborate with highly skilled Agile development teams to build and develop scalable and high traffic eCommerce solutions hosted in a cloud platform. Buyatab, a subsidiary of Stored Value Solutions and Corpay, Inc., is not just about team lunches, fun company events or puppies in the office (although we have all 3!). A FinTech maverick and officially one of the most popular technology companies in BC, Buyatab is a leading supplier of advanced online gift card infrastructure, technology and marketing services for leading brands. Working with some of the world’s leading brands (including Four Seasons, Fairmont, Whole Foods Market, Lowes), we are recognized for our solution and design flexibility, focus on client brand standards, high-quality customer support, and fraud protection guarantee. As a result, our clients are positioned to grow their gift card business, enhance their brands, gain a competitive edge, and leverage the rapid growth in mobile device use and social media.
+
+How We Work
+
+As a DevOps Engineer you will be expected to work out of our Vancouver office location. Corpay will set you up for success by providing:
+
+
+Company-issued equipment
+Assigned workspace in our Vancouver office
+Formal, hands-on training
+
+
+Role Responsibilities
+
+The responsibilities of the role will include:
+
+
+Planning, implementing, and deploying AWS infrastructure changes that improve platform reliability, scalability, security, and deployment velocity
+Working closely with software development teams to design, automate, and support AWS-based infrastructure and deployment pipelines
+Designing and maintaining secure, scalable, and highly available cloud infrastructure on AWS
+Supporting and enhancing CI/CD pipelines to enable frequent, safe, and repeatable deployments
+Collaborating with engineering teams to define infrastructure, deployment, and operational requirements early in the development lifecycle
+Monitoring and proactively addressing infrastructure issues, escalating and proposing solutions when necessary
+Contributing to infrastructure standards, best practices, and documentation
+Building strong working relationships across teams and with external partners, communicating infrastructure needs clearly and effectively
+
+
+Required
+
+Qualifications and Skills:
+
+
+Degree in Computer Science or equivalent practical experience
+3–5 years of experience working in an Agile software development environment
+3–5 years of experience building, operating, and supporting AWS infrastructure
+Hands-on experience with AWS services such as VPC, EC2, Lambda, IAM, Route 53, S3, and infrastructure-as-code tools (e.g., CloudFormation or Terraform)
+Experience enabling and supporting CI/CD pipelines using tools such as Jenkins, AWS CodePipeline, AWS CodeDeploy, or CircleCI
+Practical experience with Git, Docker, and deploying applications to AWS environments
+Solid understanding of networking concepts and Linux and/or Windows Server administration
+Experience with scripting languages such as PowerShell, Python, or bash
+Familiarity with automation and configuration management tools (e.g., PowerShell DSC, Chef, Ansible)
+Experience enabling and using metrics, logging, and monitoring within cloud infrastructure
+
+
+Nice to Have
+
+
+Familiarity with DevSecOps practices and cloud security controls
+Experience with Gerrit Code Review
+Exposure to high-traffic or customer-facing production systems
+
+
+Soft Skills
+
+
+Strong written and verbal communication skills
+Ability to collaborate across teams and explain technical concepts clearly
+Demonstrated curiosity, adaptability, and willingness to learn new technologies
+A pragmatic DevOps mindset with a focus on continuous improvement
+
+
+Benefits & Perks
+
+
+Comprehensive Benefits Package including, Medical, Dental, Vision and Paramedical benefits, as of day one
+Optional company match RRSP program
+Virtual fitness classes offered company-wide
+Time-off including major holidays, vacation, sick, personal, & volunteer time
+Discounted gym membership rate
+Philanthropic support with both local and national organizations
+Fun culture with company-wide contests and prizes
+
+
+Pay Transparency
+
+The expected salary range for this position is CAD $115,000 – $125,000, based on the candidate’s work location. This range reflects a good faith estimate of the expected compensation for this role at the time of posting. The final offer will be determined based on job-related factors including skills, experience, qualifications, and applicable market conditions. Compensation may vary based on geographic location and will be confirmed during the hiring process. Additional compensation and benefits, including incentive programs, health coverage, retirement plans, paid time off, and other benefits (where applicable), may also be provided.
+
+About Corpay
+
+Corpay is a global technology organization that is leading the future of commercial payments with a culture of innovation that drives us to constantly create new and better ways to pay. Our specialized payment solutions help businesses control, simplify, and secure payment for fuel, general payables, toll and lodging expenses. Millions of people in over 80 countries around the world use our solutions for their payments.
+
+At Corpay, we are committed to fostering an inclusive and respectful workplace where employees are valued for their diverse perspectives, experiences, and contributions. We believe that diversity, equity, and inclusion strengthen our teams, drive innovation, and support our continued success globally.
+
+As part of our hiring process, offers of employment may be subject to the successful completion of pre-employment screening conducted by an authorized third-party provider, in accordance with applicable laws and Corpay policies. Screening requirements may include employment references, identity verification, criminal record checks, financial or sanctions screening, and other background checks relevant to the role and permitted by local law.
+
+Notice to Recruitment Agencies and Search Firms: Corpay does not accept unsolicited resumes from agencies or search firms without a valid written agreement in place. Any unsolicited candidate submissions will become the property of Corpay, and no fees will be paid related to such submissions.
+
+Learn more about Corpay: https://www.corpay.com
+
+Transparency & Compliance
+
+Equal Opportunity Employer
+
+Corpay is committed to providing equal employment opportunities to all applicants and employees. Employment decisions are made without regard to race, color, religion, sex (including pregnancy), gender, gender identity or expression, sexual orientation, national origin, ancestry, age, disability, marital status, genetic information, military or veteran status, or any other characteristic protected by applicable law. Corpay is committed to fostering an inclusive workplace where individuals are respected and valued for their diverse perspectives, experiences, and contributions. If you require reasonable accommodation during any part of the application or interview process, please notify a representative of the Human Resources Department.
+
+Use of Artificial Intelligence in Hiring
+
+Corpay may use artificial intelligence (AI) and other technology-enabled tools to support certain aspects of the recruitment process, such as application screening, candidate assessment, or interview scheduling. These tools are designed to enhance efficiency, consistency, and fairness throughout the hiring process. AI tools do not make final hiring decisions. All employment decisions involve human review. Corpay is committed to the responsible use of AI, including appropriate oversight and safeguards designed to support fair and unbiased outcomes.
+
+Candidate Privacy Notice
+
+For information about how Corpay processes personal information during the recruitment process, please review our Candidate Privacy Notice: https://www.corpay.com/privacy-policy.
+
+Pay Philosophy
+
+Corpay is committed to fair, equitable, and transparent compensation practices. Compensation decisions are based on objective, job-related factors including skills, experience, qualifications, and market benchmarks. Where required by applicable law, salary or compensation ranges will be included in the job posting or provided prior to the interview process, where required by applicable law. Additional compensation elements such as bonuses, incentives, benefits, or variable pay may apply where applicable.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Corpay by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Vancouver, British Columbia, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+StackAdapt
+Vancouver, British Columbia, Canada
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Varonis
+Vancouver, British Columbia, Canada
+6 days ago
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+EA SPORTS
+Vancouver, British Columbia, Canada
+5 days ago
+SRE Specialist/DevOps Developer
+SRE Specialist/DevOps Developer
+Fortinet
+Burnaby, British Columbia, Canada
+4 months ago
+DevOps Engineer
+DevOps Engineer
+Broadridge
+Greater Vancouver Metropolitan Area
+1 week ago
+AI DevOps & Reliability Engineer
+AI DevOps & Reliability Engineer
+Branch
+Vancouver, British Columbia, Canada
+4 days ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+LayerZero Labs
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Lead Software Engineer(DevOps)
+Lead Software Engineer(DevOps)
+
+Mastercard
+
+Vancouver, British Columbia, Canada
+4 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+2K
+
+Burnaby, British Columbia, Canada
+2 days ago
+Site Reliability Consultant
+Site Reliability Consultant
+
+Pythian
+
+Greater Vancouver Metropolitan Area
+1 week ago
+Software Engineer - Infrastructure
+Software Engineer - Infrastructure
+
+Gumloop
+
+Vancouver, British Columbia, Canada
+$185,000 - $285,000
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Boeing
+
+Richmond, British Columbia, Canada
+3 days ago
+Staff Platform Engineer
+Staff Platform Engineer
+
+Rivian
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior Cloud Platform Engineer, DevOps
+Senior Cloud Platform Engineer, DevOps
+
+ProCogia
+
+Vancouver, British Columbia, Canada
+CA$100,000 - CA$115,000
+1 week ago
+Senior Cloud Platform Engineer, DevOps
+Senior Cloud Platform Engineer, DevOps
+
+ProCogia
+
+Greater Vancouver Metropolitan Area
+6 days ago
+Platform Development Engineer-II
+Platform Development Engineer-II
+
+Best Buy Canada
+
+Vancouver, British Columbia, Canada
+6 days ago
+Similar Searches
+Financial Analyst Contract jobs
+2,099 open jobs
+Automotive Account Manager jobs
+24 open jobs
+Accounts Payable Officer jobs
+445 open jobs
+Corporate Account Executive jobs
+1,839 open jobs
+Director of Client Relations jobs
+347 open jobs
+Market Maker jobs
+66 open jobs
+Vice President Transportation jobs
+20 open jobs
+Archaeologist jobs
+136 open jobs
+Risk Management Associate jobs
+8,015 open jobs
+Sales Trader jobs
+12 open jobs
+Life Insurance Specialist jobs
+283 open jobs
+Data Steward jobs
+1,631 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Corpay
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

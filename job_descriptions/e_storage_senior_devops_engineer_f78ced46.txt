@@ -1,0 +1,325 @@
+Title: Senior DevOps Engineer
+Company: e-STORAGE
+Location: Kitchener, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-e-storage-4449869927
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The job as a Senior DevOps Engineer in Kitchener, Ontario, Canada aligns with Priya’s experience in CI/CD pipeline ownership, infrastructure-as-code (IaC), and release management, meeting her target role type, location, and seniority level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+e-STORAGE  Kitchener, Ontario, Canada
+1 week ago   Over 200 applicants
+  
+
+See who e-STORAGE has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Ready to Make a Real Impact? Join e-STORAGE!
+
+Who We Are
+
+Welcome to e-STORAGE, a proud member of the Canadian Solar Inc. (NASDAQ: CSIQ) family! We’re leading the way in designing, building, and integrating advanced battery energy storage systems for utility-scale projects. Our mission? To accelerate the world’s renewable energy transition and create a more sustainable, resilient energy future for everyone.
+
+With our innovative SolBank lithium-iron phosphate battery technology and comprehensive project services, we’re not just building products we’re powering communities and making a difference worldwide.
+
+Position Title: Senior DevOps Engineer
+
+Department: EQS
+
+Compensation: $110,000 - $140,000 + annual bonus (paid in local currency; range varies by location)
+
+Reports To: Data and Delivery Manager
+
+Location: Kitchener, ON (Onsite)
+
+About the Role:
+
+We are seeking a talented Sr DevOps Engineer to join our dynamic team and contribute to the delivery of on-site and cloud-based Energy Management System (EMS) for utility grade systems. The ideal candidate will be responsible for designing, implementing, and maintaining the build and deployment pipelines to ensure smooth and efficient delivery of software products. You will work closely with leadership, engineering and project execution teams to streamline the software development lifecycle and enhance the overall productivity and quality of our software releases both to cloud systems and edge real-time embedded systems. Further, you are passionate about advancing clean energy initiatives and working collaboratively in a dynamic startup like environment..
+
+Responsibilities:
+
+
+Design, implement, and maintain CI/CD pipelines to automate the build, test, and deployment processes.
+Collaborate with product development, engineering, QA, execution, and operations teams to define and implement best practices for software development and deployment.
+Manage and maintain build servers, repositories, and related infrastructure.
+Monitor, debug and troubleshoot build and deployment issues, ensuring timely resolution and minimizing downtime.
+Implement and manage software release channels and mechanisms for on-site and remote software image deployment – both for cloud-based systems and real-time embedded devices and industrial PCs.
+Implement security and data protection measures.
+Automate repetitive tasks and improve the efficiency of the development and deployment processes.
+Ensure security and compliance of the build and deployment pipelines.
+Maintain and enhance infrastructure as code (IaC) using tools such as Terraform, Ansible, or CloudFormation.
+Monitor system performance and ensure high availability of infrastructure and applications.
+Stay up-to-date with industry trends and emerging technologies to continuously improve the DevOps processes.
+Ensure the performance, quality, and responsiveness of applications.
+Collaborate with embedded software engineer, front/back -end developers to integrate software components.
+Optimize (incl upgrade) build and release applications for maximum speed and scalability.
+Develop and maintain technical documentation (e.g. release notes), including design specifications and user manuals.
+Support cultivating a culture of accountability, transparency, and continuous learning
+Take ownership of their work and contribute to the overall success of the organization.
+Conduct other duties as required
+
+
+
+Required Qualifications and Skills:
+
+
+Bachelor's or master's degree in engineering, Computer Science, information technology, power automation, or related field. Advanced degree or equivalent experience preferred.
+5+ years proven experience as a DevOps Engineer or in a similar role.
+Strong knowledge of CI/CD tools (e.g., Jenkins, GitLab CI, CircleCI).
+Experience with version control systems (e.g., Git).
+Proficiency in scripting languages (e.g., Python, Bash, Java, Ruby, PHP, PowerShell).
+Hands-on experience with containerization technologies (e.g., Docker, Kubernetes).
+Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud).
+Knowledge of infrastructure as code (IaC) tools (e.g., Terraform, Ansible, CloudFormation).
+Experience with monitoring and logging tools (e.g., Prometheus, Grafana, ELK Stack) is a plus.
+Knowledge of security best practices in DevOps is required.
+Familiar with power SCADA/EMS system software architecture is a plus.
+Knowledge of embedded software, front/back -end development environment; familiar with basic data structures; familiar with multi-thread programming is a plus
+Experience with database systems such as MySQL, PostgreSQL, MongoDB, or Oracle is a plus.
+Understanding RESTful APIs and web services is a plus.
+Experience with cloud services and infrastructure, such as AWS, Azure, or Google Cloud.
+Able to work independently on assigned tasks and escalate to surface roadblocks and risk mitigation.
+Passion for technology innovation and building systems from scratch.
+Have domain experience with software systems for utility scale battery energy storage systems is a big plus
+Excellent problem-solving skills and attention to detail.
+
+
+
+e-STORAGE is Equal Opportunity Employer (EOE). Qualified applicants are considered for employment without regard to age, race, colour, religion, sex, national origin, sexual orientation, disability, or veteran status.
+
+e-STORAGE uses AI-assisted tools during parts of the hiring process, including screening and workflow automation. All final hiring decisions are made by humans.
+
+This is a current vacancy, and we are actively hiring for this position.
+
+What It’s Like To Work Here
+
+At e-STORAGE, you’re more than just an employee—you’re part of a team that values your ideas, your background, and your unique perspective. We believe that a culture of equity, diversity, and inclusion isn’t just the right thing to do—it’s the secret to our success. Here, you’ll find:
+
+
+Integrity: We do what’s right, always.
+Innovation: We encourage fresh thinking and bold ideas.
+Quality: We take pride in delivering excellence, every time.
+Customer Focus: We listen, we care, and we deliver.
+Sustainability: We’re passionate about protecting our planet for future generations.
+
+
+
+Why You’ll Love Working With Us
+
+
+Join a global leader in renewable energy, backed by over 23 years of Canadian Solar experience.
+Work on projects that matter—helping to build a cleaner, greener world.
+Thrive in a supportive, collaborative environment where your growth is our priority.
+Enjoy a competitive salary and a generous benefits package.
+
+
+
+Want to join here is what we are looking For
+
+
+The right mix of education, experience, and skills for the role.
+Great communication, teamwork, and problem-solving abilities.
+A true commitment to safety, ethics, and sustainability.
+
+
+
+Your Rewards
+
+We offer a competitive salary, performance bonuses, and a comprehensive benefits package—including health coverage, retirement plans, paid time off, and more.
+
+#CSeSTORAGE
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Renewable Energy Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at e-STORAGE by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Kitchener, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Nelnet
+Mississauga, Ontario, Canada
+1 month ago
+Senior DevOps Developer
+Senior DevOps Developer
+Mappedin
+Waterloo, Ontario, Canada
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Infosys
+Mississauga, Ontario, Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Synechron
+Mississauga, Ontario, Canada
+CA$105,000 - CA$120,000
+2 weeks ago
+AI-First DevOps Engineer
+AI-First DevOps Engineer
+Computrition, Inc.
+Greater Toronto Area, Canada
+1 month ago
+Sr. DevSecOps Engineer
+Sr. DevSecOps Engineer
+Rogers Communications
+Brampton, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer
+Cloud Engineer
+
+Morson Edge (Canada)
+
+Oakville, Ontario, Canada
+CA$95,000 - CA$135,000
+4 days ago
+DevOps Manager
+DevOps Manager
+
+NLB Services
+
+Brampton, Ontario, Canada
+1 day ago
+Apps Development Sr Manager - Vice President
+Apps Development Sr Manager - Vice President
+
+Citi
+
+Mississauga, Ontario, Canada
+3 days ago
+Principal DataOps Engineer (DevOps for Data)
+Principal DataOps Engineer (DevOps for Data)
+
+Workday
+
+Greater Toronto Area, Canada
+2 weeks ago
+IT Infrastructure Administrator
+IT Infrastructure Administrator
+
+Pelmorex
+
+Oakville, Ontario, Canada
+3 weeks ago
+IT Cloud & DevOps Engineer
+IT Cloud & DevOps Engineer
+
+Survalent
+
+Greater Toronto Area, Canada
+2 weeks ago
+Senior Manager, Site Reliability Engineering
+Senior Manager, Site Reliability Engineering
+
+Finastra
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Senior Platform Engineer - Terraform, Azure
+Senior Platform Engineer - Terraform, Azure
+
+BDO Canada
+
+Oakville, Ontario, Canada
+5 days ago
+Software Reliability Engineer
+Software Reliability Engineer
+
+RE Partners
+
+Mississauga, Ontario, Canada
+1 month ago
+Administrateur(trice) cloud/DevOps
+Administrateur(trice) cloud/DevOps
+
+CGI
+
+Greater Toronto Area, Canada
+4 days ago
+Similar Searches
+Utilities Director jobs
+316 open jobs
+Manufacturing Quality Manager jobs
+343 open jobs
+Project Developer jobs
+5,253 open jobs
+Senior Product Engineer jobs
+899 open jobs
+Piping Stress Engineer jobs
+56 open jobs
+Clinical Operations Manager jobs
+241 open jobs
+Director of Rehabilitation jobs
+79 open jobs
+Senior Vice President Operations jobs
+131 open jobs
+Clinic Director jobs
+138 open jobs
+Compliance Engineer jobs
+740 open jobs
+Energy Manager jobs
+1,990 open jobs
+Supplier Quality Engineer jobs
+642 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at e-STORAGE
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

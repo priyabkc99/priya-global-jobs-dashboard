@@ -1,0 +1,297 @@
+Title: Senior DevOps Engineer
+Company: Aptiv
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-aptiv-4433552476
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise, is located in Canada (target country), and matches her experience in configuration management and regulated industries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Aptiv  Ottawa, Ontario, Canada
+1 week ago   Over 200 applicants
+  
+
+See who Aptiv has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Why Choose Wind River?
+
+Wind River is a global leader in delivering software for mission-critical intelligent systems, powering secure, reliable, and high-performance technology across telecommunications, automotive, aerospace and defense, industrial, healthcare, and medical industries.
+
+The company’s software powers generation after generation of the safest, most secure systems in the world, from playing a key role in NASA space missions such as Artemis I, the James Webb Space Telescope, and multiple Mars rovers, to achieving recent 5G milestones, including the world’s first successful 5G data session with Verizon and building one of the largest Open RAN networks in the world with Vodafone.
+
+Within the Wind River Cloud team, we work with cloud-native technologies such as Kubernetes, Docker, OpenStack, StarlingX, Helm, and Ansible to deliver highly distributed, carrier-grade intelligent edge platforms.
+
+As a leading contributor to the open-source StarlingX project, Wind River helps shape the future of distributed cloud infrastructure for 5G, industrial automation, autonomous systems, and intelligent edge use cases.
+
+Join a team where your work has real-world impact, your engineering contributions matter, and the culture is grounded in growth mindset, customer focus, collaboration, and inclusion.
+
+About The Opportunity
+
+We are looking for a Senior DevOps Engineer who can help strengthen the reliability, automation, build, release, and developer experience of our cloud platform products. This role is not limited to maintaining pipelines or resolving build issues. The right candidate will be expected to improve how engineering teams build, test, release, troubleshoot, and operate platform software across a complex distributed product environment.
+
+The right candidate will possess proven software engineering skills. You are expected to be versatile and able to thrive in a dynamic environment. You are comfortable managing competing priorities and can bring order to ambiguous scenarios. Impeccable judgment, and the ability to influence and lead are essential to success in this role.
+
+This person should be comfortable working across software engineering, DevOps, CI/CD, infrastructure automation, release engineering, and open-source cloud-native technologies.
+
+Responsibilities:
+
+
+Owner of the virtualization environment for the Wind River Cloud Platform product.
+Own and improve CI/CD workflows supporting Wind River Cloud Platform, Conductor, and related products.
+Improve build reliability, release readiness, build reporting, failure analysis, and actionable pipeline telemetry.
+Develop automation to reduce manual effort across build, test, release, deployment, troubleshooting, and operational workflows.
+Work with cloud-native technologies such as Kubernetes, Helm, Docker, Ansible, OpenStack, and StarlingX to support distributed edge and carrier-grade platform deployments.
+Act as a senior technical contributor who brings structure to ambiguous problems, communicates risks clearly, and drives issues to closure.
+Contribute actively to StarlingX, an open-source project under the Open Infrastructure Foundation - a fully featured cloud infrastructure software stack for the edge (https://www.starlingx.io/).
+Develop and deliver platform features with high quality design and code.
+Build tooling that improves developer productivity, reduces SDLC friction, and makes engineering workflows more repeatable.
+Act as a senior technical contributor who brings structure to ambiguous problems, communicates risks clearly, and drives issues to closure.
+Participate in all aspects of the software development process using agile development.
+
+
+Basic Qualifications:
+
+
+Bachelor’s / Master’s degree in Computer Science or related field.
+3 to 5 years of experience in software engineering, DevOps, platform engineering, SRE, infrastructure engineering, or release engineering with a Bachelor's degree or 4+ years with a Master’s degree.
+3+ years of programming experience with Python or Linux.
+1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+Hands-on experience with CI/CD ecosystems such as Gerrit, Zuul, Jenkins, and GitLab CI, including build reliability, pipeline optimization, release readiness, and actionable reporting.
+Plus: Experience with automation and platform tooling, including configuration management, deployment automation, artifact management, container registries, and image build pipelines.
+Ability to work across multiple teams and drive issues to closure without needing constant direction.
+
+
+Preferred Qualifications:
+
+
+Experience with StarlingX, OpenStack, Kubernetes, or edge/cloud infrastructure platforms supporting distributed, carrier-grade, or mission-critical systems.
+Experience supporting source control and CI/CD modernization or migration efforts, pipeline conversion, runner strategy, repository governance, branching models, access controls, and developer enablement.
+Experience improving observability and operational reliability through monitoring, alerting, dashboards, engineering metrics, troubleshooting workflows, and production-readiness practices.
+Experience working in open-source, Agile, and globally distributed engineering environments, with strong ownership, collaboration, and ability to operate effectively in ambiguous situations.
+Exposure to Kiro, Amazon Q or similar agentic/spec-driven development tools is an asset.
+
+
+This role is compensation range is between $95,000 to $120,000 CAD annual plus annual incentive plan bonus. Compensation is determined through interviews and a review of the education, experience, knowledge, skills, location, and abilities of the applicant, and equity with other team members. Employees in this role are also eligible for the following benefits in accordance with the terms of the Company's plans: health, dental, vision insurance, life insurance, vacation time, eligibility to enroll in RRSP, and paid holidays.
+
+BENEFITS - Canada
+
+
+Workplace Flexibility: Hybrid Work.
+Company-sponsored health, dental, and life insurance.
+Income protection through short and long-term disability coverage.
+Matching RRSP.
+Vacation and various time off policies to encourage work-life balance.
+Well-being programs: Employee assistance program, mental well-being through Unmind.
+Learning benefits: LinkedIn Learning subscription and seminars.
+
+
+APPLICANT PRIVACY NOTICE:
+
+Your privacy is of the utmost importance to us. At Wind River, we strictly adhere to all applicable data privacy laws. Please review Wind River's Applicant Privacy Notice, which can be found here.
+
+“Wind River is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law”
+
+Privacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.
+
+Privacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Automation Machinery Manufacturing
+  
+
+Referrals increase your chances of interviewing at Aptiv by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Ottawa, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps / Platform Engineer — Cloud
+Senior DevOps / Platform Engineer — Cloud
+Dominion Dynamics
+Ottawa, Ontario, Canada
+3 months ago
+Senior Platform Engineering Specialist
+Senior Platform Engineering Specialist
+CANARIE
+Ottawa, Ontario, Canada
+1 week ago
+Senior Cloud Operations and CI/CD Specialist
+Senior Cloud Operations and CI/CD Specialist
+Syntronic - A Global Design House
+Kanata, Ontario, Canada
+1 week ago
+DevSecOps Specialist
+DevSecOps Specialist
+Onepoint
+Ottawa, Ontario, Canada
+1 day ago
+Member of Technical Staff - Cloud Operations
+Member of Technical Staff - Cloud Operations
+Aptiv
+Ottawa, Ontario, Canada
+6 days ago
+Senior Cloud Site Reliability Engineer
+Senior Cloud Site Reliability Engineer
+Solace
+Ottawa, Ontario, Canada
+4 months ago
+Show more jobs like this 
+People also viewed
+Cloud Ops Administrator (Canada) - N.A. Service Delivery Group
+Cloud Ops Administrator (Canada) - N.A. Service Delivery Group
+
+Canadian Bank Note Company, Limited
+
+Ottawa, Ontario, Canada
+CA$65,000 - CA$81,000
+5 days ago
+Intermediate Software Developer
+Intermediate Software Developer
+
+March Networks
+
+Ottawa, Ontario, Canada
+3 weeks ago
+Senior Infrastructure Engineer (Forward Deployed)
+Senior Infrastructure Engineer (Forward Deployed)
+
+ANVIL
+
+Ottawa, Ontario, Canada
+1 week ago
+Software Developer
+Software Developer
+
+Cisco
+
+Ottawa, Ontario, Canada
+1 week ago
+Senior System Administrator
+Senior System Administrator
+
+Harris Computer
+
+Ottawa, Ontario, Canada
+1 month ago
+Infra System Administrator
+Infra System Administrator
+
+Accenture
+
+Ottawa, Ontario, Canada
+1 day ago
+Senior Release Engineer - Linux Distribution
+Senior Release Engineer - Linux Distribution
+
+Ciena
+
+Ottawa, Ontario, Canada
+1 week ago
+Software Engineer, Compute Infrastructure
+Software Engineer, Compute Infrastructure
+
+Render
+
+United Counties of Stormont, Ontario, Canada
+6 days ago
+Forward Deployed Engineer, Infrastructure Specialist (Public Sector)
+Forward Deployed Engineer, Infrastructure Specialist (Public Sector)
+
+Cohere
+
+Ottawa, Ontario, Canada
+1 day ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Vertage
+
+Ottawa, Ontario, Canada
+4 days ago
+Similar Searches
+Plant Finance Manager jobs
+492 open jobs
+Hardware Architect jobs
+232 open jobs
+Senior Purchasing Manager jobs
+232 open jobs
+Wireless System Engineer jobs
+773 open jobs
+Embedded Software Manager jobs
+992 open jobs
+Senior Quality Assurance Manager jobs
+255 open jobs
+Junior Application Developer jobs
+122 open jobs
+New Product Introduction Engineer jobs
+663 open jobs
+Business Strategy Analyst jobs
+773 open jobs
+Antenna Engineer jobs
+28 open jobs
+Powertrain Engineer jobs
+380 open jobs
+Physical Design Engineer jobs
+427 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Aptiv
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
