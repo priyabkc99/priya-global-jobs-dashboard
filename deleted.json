@@ -338,5 +338,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-10-08) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Product Specialist \u2013 Paediatric Assistive Technology",
+    "company": "Etac Group",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/product-specialist-%E2%80%93-paediatric-assistive-technology-at-etac-group-4463006968",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a quota-carrying sales role as a 'Product Specialist', which falls under the hard rejection criteria for sales roles mislabeled with that title, despite her prior technical/quality-focused Product Specialist experience.",
+    "id": "1906d71b",
+    "source": "linkedin_au_product_specialist",
+    "added_at": "2026-09-29T09:51:56+03:00",
+    "posted_date": "2026-09-15",
+    "deadline": "2026-09-25",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-25) passed by more than 2 days and unreviewed"
   }
 ]
