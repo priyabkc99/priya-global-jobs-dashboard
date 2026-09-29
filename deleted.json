@@ -576,5 +576,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/poet_technologies_qc_document_controller_b21dcb30.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Documentation Specialist",
+    "company": "Randstad Construction & Property",
+    "location": "Swindon, UK",
+    "url": "https://www.reed.co.uk/jobs/documentation-specialist/57302115",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that candidates must be eligible to live and work in the UK, which would require visa sponsorship not offered by the role, falling under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection criterion.",
+    "id": "334330cb",
+    "source": "reed_documentation_specialist",
+    "added_at": "2026-09-29T20:04:20+03:00",
+    "posted_date": "2 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
