@@ -593,5 +593,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Documentation Specialist",
+    "company": "Qantas Airways",
+    "location": "Sydney NSW, Australia",
+    "url": "https://au.jora.com/job/Documentation-Specialist-f70e68542535fa0eace5b3c191806813",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The Documentation Specialist role at Qantas Airways aligns with Priya\u2019s background in technical documentation (Topcon Healthcare) and regulated compliance experience, despite not explicitly mentioning MDR/ISO 13485; location is Sydney, Australia (target country), and no visa sponsorship restrictions are stated.",
+    "id": "4444dfa4",
+    "source": "jora_au_documentation_specialist",
+    "added_at": "2026-09-29T21:14:44+03:00",
+    "posted_date": "2026-09-16",
+    "deadline": "2026-10-01",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/qantas_airways_documentation_specialist_4444dfa4.txt",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
