@@ -17844,8 +17844,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Technical Report Writer (Working at Height) / Training Provided",
@@ -17861,8 +17861,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Technical Writer",
@@ -17878,8 +17878,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Technical Author",
@@ -17895,8 +17895,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Staff Information Developer-Technical Writer",
@@ -17912,8 +17912,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Technical Services Technician",
@@ -17929,8 +17929,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Technical Assistant",
@@ -17946,8 +17946,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Technical Advisor",
@@ -17963,8 +17963,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Technical Specialist",
@@ -17980,8 +17980,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:40:36+03:00"
   },
   {
     "title": "Technical Assistant",
@@ -17989,16 +17989,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/technical-assistant/morson-edge-job107989181",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job description inaccessible due to access denial, preventing evaluation of location, role type, or other criteria.",
     "id": "795bd780",
     "source": "totaljobs_technical_writer",
     "added_at": "2026-09-29T15:35:18+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Technical Advisor",
@@ -18006,16 +18005,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/technical-advisor/etex-building-performance-job107970493",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, preventing evaluation against candidate requirements.",
     "id": "16ddeaa4",
     "source": "totaljobs_technical_writer",
     "added_at": "2026-09-29T15:35:18+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Technical Author (Hybrid)",
@@ -18031,8 +18029,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:45:28+03:00"
   },
   {
     "title": "Technical Author (Hybrid)",
@@ -18048,8 +18046,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:45:28+03:00"
   },
   {
     "title": "Technical Author",
@@ -18065,8 +18063,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:45:28+03:00"
   },
   {
     "title": "Technical Coordinator",
@@ -18082,8 +18080,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T15:35:20+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-29T21:45:28+03:00"
   },
   {
     "title": "Technical Writer - Manufacturing",
