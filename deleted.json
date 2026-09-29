@@ -695,5 +695,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-10-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Technical Writer Health Safety and Environment",
+    "company": "NBN Co",
+    "location": "Melbourne VIC, Australia",
+    "url": "https://au.jora.com/job/Technical-Writer-6fa219a8dc880750f52f63257e701a06",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with Priya's technical writing experience and is located in Australia (a target country), but the posting requires 'full working rights in Australia' without explicitly confirming visa sponsorship availability, creating uncertainty about her eligibility.",
+    "id": "297ca9da",
+    "source": "jora_au_technical_writer",
+    "added_at": "2026-09-29T15:57:58+03:00",
+    "posted_date": "2026-09-22",
+    "deadline": "2026-09-28",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-28) passed by more than 2 days and unreviewed"
   }
 ]
