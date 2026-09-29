@@ -1,0 +1,280 @@
+Title: Manager – Global Employer Services Technology Center (GESTC) - Digital Release Management
+Company: Deloitte
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/manager-%E2%80%93-global-employer-services-technology-center-gestc-digital-release-management-at-deloitte-4466861190
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in release management, CI/CD processes, and regulated environments, and is located in Hyderabad, India (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Manager – Global Employer Services Technology Center (GESTC) - Digital Release Management
+Deloitte  Hyderabad, Telangana, India
+1 week ago  144 applicants
+  
+
+See who Deloitte has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Summary
+
+Position Summary
+
+As a Manager within the GES Technology Group, you will have the opportunity to work directly with the Digital Delivery and be responsible for planning, coordinating, and overseeing the deployment of software releases across multiple workstreams and multiple environments. This role ensures that releases are delivered on time, within scope, and with minimal disruption to business operations that impact a global audience. This role collaborates with development, QA, operations, risk and business teams to manage the end-to-end release lifecycle, including planning, risk management, and communication.
+
+Key job responsibilities:
+
+
+Develop and manage detailed release plans, schedules, and milestones for software deployments.
+Coordinate release activities across multiple teams, including development, QA, operations, risk and business stakeholders.
+Ensure all release deliverables meet quality standards and compliance requirements.
+Identify, document, and mitigate risks associated with software releases.
+Manage and communicate release status, issues, and changes to stakeholders.
+Oversee the execution of release processes, including code branching, merging, build management, and deployment.
+Facilitate release readiness reviews, go/no-go meetings, and post-release retrospectives.
+Continuously improve release management processes, tools, and documentation.
+Maintain release documentation, including release notes, deployment guides, and rollback procedures.
+Support incident management and root cause analysis for release-related issues.
+Own Hypercare plan and activities including hypercare releases or on demand releases to manage high priority production issues
+
+
+Location: Hyderabad
+
+Shift Timings: 11:00 AM to 8:00 PM
+
+Qualification:
+
+
+Bachelor's degree in engineering (preferably computer science) and/or masters degree in business
+At least one of the accreditations or working on Project Management Professional (PMP), or Six Sigma (Green or Black Belt)
+
+
+Key skills desired;
+
+
+5+ years of experience working within Project Management Office (PMO) and or strategy/consulting experience
+Technology Project Management experience with Azure DevOps / JIRA (or similar Software product development management tool)
+Proficiency with the Microsoft suite of applications such as Excel, PowerPoint, Project and other collaboration tools such as SharePoint and Teams
+Awareness of SSDLC
+Able to collaborate effectively as part of a global, remote team
+Ability to travel 10% - 20% both in the US / Global (including travel to Hyderabad, India)
+Strong analytical, consultative, quantitative, and project management skills
+Strong executive presence, excellent communication (verbal and written) and presentation skills with an aptitude for working as part of a global team
+Problem solving, critical thinking and conceptual thinking skills
+Ability to perform tasks with minimal supervision and manage multiple projects from start to finish
+Experience in driving cross-organizational initiatives
+A proven strategic thinker with the ability to contribute to the creation of business cases, and build roadmaps under the guidance of a program leader.
+Awareness of SOC 2 standards / Data Privacy standards (GDPR, etc.)
+Experience of working in a highly regulated technology environment
+
+
+Our purpose
+
+Deloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities.
+
+Our people and culture
+
+Our inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas and perspectives, and bring more creativity and innovation to help solve our clients’ most complex challenges. This makes Deloitte one of the most rewarding places to work.
+
+Professional development
+
+At Deloitte, professionals have the opportunity to work with some of the best and discover what works best for them. Here, we prioritize professional growth, offering diverse learning and networking opportunities to help accelerate careers and enhance leadership skills. Our state-of-the-art DU: The Leadership Center in India, located in Hyderabad, represents a tangible symbol of our commitment to the holistic growth and development of our people. Explore DU: The Leadership Center in India .
+
+Benefits To Help You Thrive
+
+At Deloitte, we know that great people make a great organization. Our comprehensive rewards program helps us deliver a distinctly Deloitte experience that helps that empowers our professionals to thrive mentally, physically, and financially—and live their purpose. To support our professionals and their loved ones, we offer a broad range of benefits. Eligibility requirements may be based on role, tenure, type of employment and/ or other criteria. Learn more about what working at Deloitte can mean for you.
+
+Recruiting tips
+
+From developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. Check out recruiting tips from Deloitte recruiters.
+
+Requisition code: 366989
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Deloitte by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Operations & Release Architect
+Operations & Release Architect
+Mattel, Inc.
+Hyderabad, Telangana, India
+1 week ago
+Workplace Enablement Global Deployments and Governance -Deputy Director
+Workplace Enablement Global Deployments and Governance -Deputy Director
+PepsiCo
+Hyderabad, Telangana, India
+1 week ago
+Global Lead of HR Systems and Solutions
+Global Lead of HR Systems and Solutions
+Amgen
+Hyderabad, Telangana, India
+3 months ago
+Associate Director Business Services, Solutions Delivery
+Associate Director Business Services, Solutions Delivery
+Novartis India
+Greater Hyderabad Area
+3 days ago
+TPM Leader - GESTC - Hyderabad
+TPM Leader - GESTC - Hyderabad
+Deloitte
+Hyderabad, Telangana, India
+5 days ago
+Alpha Environments & Batch Manager, Assistant Vice President
+Alpha Environments & Batch Manager, Assistant Vice President
+State Street
+Hyderabad, Telangana, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Application Manager
+Application Manager
+
+CosMicIT
+
+Greater Hyderabad Area
+5 days ago
+Senior Technical Program Manager
+Senior Technical Program Manager
+
+Microsoft
+
+Hyderabad, Telangana, India
+3 days ago
+Senior Manager 2, Product Development IT lead Hyd
+Senior Manager 2, Product Development IT lead Hyd
+
+Bristol Myers Squibb EU Policy
+
+Hyderabad, Telangana, India
+1 week ago
+Service Delivery Manager - RDT Digital Operations and Reliability
+Service Delivery Manager - RDT Digital Operations and Reliability
+
+Roche
+
+Hyderabad, Telangana, India
+1 week ago
+Sr Mgr Technology - MarTech DevOps/Content Supply Chain
+Sr Mgr Technology - MarTech DevOps/Content Supply Chain
+
+Southwest Airlines
+
+Greater Hyderabad Area
+2 weeks ago
+Manager - Global CM Documentation & Industrialization Hub
+Manager - Global CM Documentation & Industrialization Hub
+
+Thermo Fisher Scientific
+
+Hyderabad, Telangana, India
+4 weeks ago
+Principal Software Engineering Manager- GitHub India
+Principal Software Engineering Manager- GitHub India
+
+Microsoft
+
+Hyderabad, Telangana, India
+1 week ago
+Head of AI enabled IT Process Excellence & Service Management
+Head of AI enabled IT Process Excellence & Service Management
+
+Roche
+
+Hyderabad, Telangana, India
+11 hours ago
+Technical Delivery Manager
+Technical Delivery Manager
+
+Zelis
+
+Greater Hyderabad Area
+2 weeks ago
+PMO Manager – Workday & Enterprise Applications
+PMO Manager – Workday & Enterprise Applications
+
+Blue Yonder
+
+Hyderabad, Telangana, India
+16 hours ago
+Similar Searches
+Release Manager jobs
+5,638 open jobs
+Senior Data Engineer jobs
+13,563 open jobs
+Data Engineer jobs
+28,941 open jobs
+Engineer jobs
+71,158 open jobs
+Information Technology Manager jobs
+4,151 open jobs
+Project Manager jobs
+18,687 open jobs
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Deloitte
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

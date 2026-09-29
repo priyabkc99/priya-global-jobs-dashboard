@@ -1,0 +1,313 @@
+Title: Program Manager - Release
+Company: JUSPAY
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/program-manager-release-at-juspay-4457912318
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in release management, CI/CD pipelines, and cross-team coordination, matching her background at Elektrobit and Topcon, and is located in India (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Program Manager - Release
+JUSPAY  Bengaluru, Karnataka, India
+6 days ago   Over 200 applicants
+  
+
+See who JUSPAY has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from JUSPAY
+
+Dillipkumar B.
+Dillipkumar B.
+Hiring Product Designers @ Juspay | Scaling Design for Millions of Users | Product Design • Design Engineers • UX Hiring | Talent Acquisition |…
+
+About the Role
+
+
+
+
+We're looking for an experienced Release Manager to own and drive the end-to-end release and deployment lifecycle for Juspay's core Express Checkout product — a high-scale, high-availability payments system built on microservices. This role sits at the intersection of Engineering, DevOps, Product, and QA, and is expected to be hands-on: driving deployments, monitoring rollouts, running experiments, and ensuring every release is validated, well-coordinated, and delivered reliably at scale.
+
+
+
+
+The ideal candidate combines strong technical depth in deployment engineering and observability with proven experience managing complex, high-frequency releases across many independently deployable services.
+
+
+
+
+What You'll Do
+
+
+
+
+Own end-to-end deployment management for all microservices powering Express Checkout, across multiple engineering teams.
+Define release strategy, timelines, quality gates, readiness criteria, and go/no-go processes.
+Design and manage progressive rollout strategies (canary, blue-green, staged rollouts) and run A/B tests to validate feature and performance changes before full production release.
+Partner closely with Engineering, QA, Product, and DevOps to plan, sequence, and execute releases across interdependent services.
+Drive functional, regression, integration, API, performance, and end-to-end testing across releases.
+Build and monitor release/deployment dashboards (Grafana or equivalent) to track health, latency, error rates, and rollout progress in real time.
+Query and analyze release, performance, and product metrics using SQL, ClickHouse, and BigQuery to inform go/no-go decisions and post-release health checks.
+Track and manage release risks, dependencies, blockers, and mitigation plans.
+Coordinate production deployments, release validation, rollback plans, and post-release monitoring.
+Establish and monitor release quality metrics, including defect leakage, release stability, automation coverage, deployment success rates, and A/B test outcomes.
+Identify bottlenecks in the deployment pipeline and drive improvements in tooling, automation, testing, and CI/CD workflows (Jenkins and related systems).
+Lead release retrospectives and work with teams to implement corrective and preventive actions.
+Maintain release documentation, deployment checklists, release notes, and governance processes.
+Act as the central point of coordination during critical or high-impact releases, including incident response and rollback decisions.
+
+
+
+
+What We're Looking For
+
+
+
+
+5–7 years of experience in Release Management, DevOps, Deployment Engineering, or a closely related engineering function, ideally in a microservices environment.
+Bachelor's degree in Computer Engineering, Computer Science, or a related field.
+Hands-on experience owning production deployments for microservices at scale — not just coordinating release schedules.
+Practical experience designing and running A/B tests / experiments as part of feature rollout and release validation.
+Working proficiency in SQL, and hands-on experience querying analytical data stores such as ClickHouse and BigQuery.
+Hands-on experience with Grafana (or equivalent observability tools) for building dashboards and monitoring production releases.
+Hands-on experience with CI/CD and release tooling such as Jenkins, GitHub Actions, GitLab CI, or similar platforms.
+Deep understanding of SDLC, testing methodologies, release management, and software quality practices.
+Strong technical understanding of APIs, distributed systems, CI/CD pipelines, version control, and production environments.
+Strong stakeholder management skills with the ability to drive decisions and coordinate teams during high-pressure releases.
+Excellent analytical, problem-solving, planning, and communication skills.
+Experience working in Agile/product development environments with frequent and iterative releases.
+
+
+
+
+Good to Have
+
+
+
+
+Experience in fintech, payments, or checkout/transaction systems specifically — familiarity with payment flows, PSP integrations, and checkout funnel metrics.
+Experience with test automation frameworks and quality engineering practices.
+Knowledge of performance testing, reliability testing, and chaos/resilience testing.
+Familiarity with Jira, Confluence, incident management, and engineering productivity tools.
+
+
+
+
+Key Skills
+
+
+
+
+Release Management • Microservices Deployment • A/B Testing & Experimentation • CI/CD (Jenkins) • Grafana & Observability • SQL • ClickHouse • BigQuery • Test Strategy & Automation • Risk & Dependency Management • Stakeholder Management • Incident & Rollback Management • Agile/Scrum
+
+
+
+
+What Success Looks Like
+
+
+
+
+Microservice releases for Express Checkout are deployed predictably, on schedule, and with minimal production issues.
+A/B tests and staged rollouts are used consistently to de-risk feature and performance changes before full release.
+Clear quality gates and release readiness criteria are consistently followed across teams.
+Engineering and Product stakeholders have real-time visibility into release progress, risks, and dependencies via dashboards.
+Production defects and release-related incidents are continuously reduced through better testing, monitoring, and automation.
+The deployment process becomes faster, more reliable, and increasingly automated.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Product Management
+Industries
+Financial Services and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at JUSPAY by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Engineering Program Manager
+Engineering Program Manager
+Cisco
+Bengaluru, Karnataka, India
+1 week ago
+Vice President - Product Delivery Manager
+Vice President - Product Delivery Manager
+JPMorganChase
+Bengaluru, Karnataka, India
+3 days ago
+Program Manager
+Program Manager
+Tektronix
+Bengaluru North, Karnataka, India
+4 days ago
+Technical Program Manager
+Technical Program Manager
+MakeMyTrip
+Bengaluru, Karnataka, India
+1 week ago
+Technical Program Manager
+Technical Program Manager
+Visa
+Bengaluru, Karnataka, India
+16 hours ago
+Program Manager
+Program Manager
+SourcingXPress
+Bengaluru, Karnataka, India
+₹1,500,000 - ₹2,500,000
+1 month ago
+Show more jobs like this 
+People also viewed
+Change Delivery Manager
+Change Delivery Manager
+
+Stats Perform
+
+Bengaluru, Karnataka, India
+6 days ago
+Sr Technical Program Manager, Amazon Leo Commerce
+Sr Technical Program Manager, Amazon Leo Commerce
+
+Amazon
+
+Bengaluru, Karnataka, India
+1 week ago
+Senior Technical Program Manager, Amazon Music
+Senior Technical Program Manager, Amazon Music
+
+Amazon Music
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Technical Program Manager I
+Senior Technical Program Manager I
+
+Nielsen
+
+Bengaluru East, Karnataka, India
+1 week ago
+Technical Program Manager
+Technical Program Manager
+
+Zillow
+
+Bengaluru, Karnataka, India
+1 week ago
+Engineering Project Manager
+Engineering Project Manager
+
+Apple
+
+Bengaluru, Karnataka, India
+1 month ago
+Senior Release Management , Vice President
+Senior Release Management , Vice President
+
+State Street
+
+Bengaluru, Karnataka, India
+1 week ago
+Project Manager (R&D)
+Project Manager (R&D)
+
+Siemens Healthineers
+
+Bengaluru, Karnataka, India
+3 hours ago
+Technical Program Manager
+Technical Program Manager
+
+SourcingXPress
+
+Bengaluru, Karnataka, India
+₹3,000,000 - ₹5,000,000
+3 months ago
+Program Manager
+Program Manager
+
+FinacPlus
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at JUSPAY
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

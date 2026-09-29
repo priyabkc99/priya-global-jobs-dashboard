@@ -1,0 +1,286 @@
+Title: Salesforce Release Manager with Gearset /Copado experience- 5-8 Years – Pune
+Company: Worldpay
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/salesforce-release-manager-with-gearset-copado-experience-5-8-years-%E2%80%93-pune-at-worldpay-4453077366
+Posted: 2026-09-24
+Deadline: N/A
+Reason: The job aligns with Priya's extensive release management experience (Elektrobit/Topcon), Salesforce platform expertise (Accenture certification), and fits her target location (India).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Salesforce Release Manager with Gearset /Copado experience- 5-8 Years – Pune
+Worldpay  Pune Division, Maharashtra, India
+5 days ago  124 applicants
+  
+
+See who Worldpay has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Worldpay
+
+Susmita Tripathy
+Susmita Tripathy
+Talent Acquisition at Worldpay India
+Ready to take your career global?
+
+Make your mark at one of the biggest names in payments. We’re looking for an InP - ITIL Release & Deployment Management Analyst Senior to join our ever-evolving Enterprise Operations Team and help us unleash the potential of every business.
+
+What You’ll Own
+
+We are seeking an experienced Release Manager to join our Enterprise Operations team, responsible for planning, coordinating, and governing Salesforce platform releases across Enterprise (LOB). This role is critical in ensuring changes are delivered safely, efficiently, and with minimal disruption to business operations while maintaining a high standard of quality, compliance, and operational stability.
+
+You will work closely with product teams, developers, administrators, architects, engineers, business analysts, testing teams, and business stakeholders to manage the end-to-end release lifecycle across the Salesforce ecosystem. This includes coordinating deployments, managing release schedules, overseeing change control processes, mitigating release risk, and driving continuous improvement in release management practices.
+
+As the central point of coordination for platform changes, you will ensure that Salesforce releases are planned, tested, approved, communicated, and successfully deployed in alignment with enterprise governance standards.
+
+
+Own and manage the end-to-end Salesforce release lifecycle across multiple products, teams, and environments.
+Develop and maintain release calendars, deployment schedules, and release roadmaps across the Salesforce ecosystem.
+Coordinate release activities across Salesforce Core, Agentforce, Data Cloud, Experience Cloud, integrations, and supporting platforms.
+Facilitate release planning, go/no-go decisions, deployment readiness reviews, and release governance forums.
+Manage change control processes, ensuring all changes are appropriately assessed, approved, documented, and communicated.
+Coordinate dependencies across development, testing, business readiness, infrastructure, and operational support teams.
+Drive release risk management, identifying potential conflicts, issues, and deployment impacts before production implementation.
+Partner with engineering teams to support CI/CD adoption and automation of deployment processes.
+Ensure comprehensive release documentation, deployment plans, rollback procedures, and implementation records are maintained.
+Support testing coordination, including system integration testing, regression testing, user acceptance testing, and deployment validation activities.
+Lead production deployment activities and act as the central point of coordination during release events.
+Monitor release outcomes, deployment success metrics, and post-release performance to drive continuous improvement.
+Manage communication plans to ensure stakeholders are informed of release schedules, impacts, outages, and business readiness activities.
+Coordinate incident resolution and rollback activities when required following production deployments.
+Ensure releases comply with enterprise governance, security, audit, and regulatory requirements
+
+
+What You Bring
+
+
+Minimum 5+ years of experience in Release Management, Change Management, or Delivery Management within enterprise technology environments.
+Experience managing releases across Salesforce environments including Sales Cloud, Service Cloud, Experience Cloud, and related technologies.
+Strong understanding of Salesforce deployment processes, environment management, and release best practices.
+Experience working with:
+Salesforce DevOps processes
+CI/CD pipelines
+Git-based source control
+Automated deployment tools
+Environment strategy and management
+Experience coordinating complex releases involving multiple teams, stakeholders, and technology platforms.
+Strong knowledge of change management, risk management, and governance processes.
+Familiarity with Salesforce deployment tools such as:
+Copado
+Gearset
+Salesforce DevOps Center
+AutoRABIT
+Azure DevOps
+Understanding of testing lifecycle activities including SIT, UAT, regression testing, and release validation.
+Experience managing release schedules, dependencies, and production deployment activities within Agile delivery environments.
+Knowledge of Agile delivery methodologies including Scrum, Kanban, and SAFe Agile.
+Excellent organisational and planning skills with the ability to manage multiple concurrent releases and competing priorities.
+Strong stakeholder management and communication skills, including the ability to coordinate senior business and technology leaders during major releases.
+Proven problem-solving skills with the ability to remain calm and decisive during critical deployment activities.
+ITIL Change Management certification or equivalent experience is highly desirable.
+Salesforce certifications or experience within Salesforce platform delivery teams would be beneficial
+
+
+About The Team
+
+Our inclusive and global teams win together every day. We’re proud to have the best minds in the industry, who you can learn from as you grow your career. The people, the energy, the connections – it’s unmatched. Come and be part of an ever-evolving company and get dynamic opportunities that go beyond borders.
+
+What makes a Globalpayer?
+
+Globalpayers think like a client, act like an owner and win as one team. We’re curious and innovative – always finding better ways to deliver impact. We empower each other to make decisions, and it’s our passion that drives excellence in everything we set out to do.
+
+Does this sound like you? Then you sound like a Globalpayer. Apply now to take your career global.
+
+LinkedIn # ()
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Worldpay by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Salesforce Release Manager with Gearset
+Salesforce Release Manager with Gearset
+Global Payments Inc.
+Pune Division, Maharashtra, India
+4 days ago
+Software Engineer
+Software Engineer
+Cisco
+Pune Division, Maharashtra, India
+5 days ago
+Senior Cloud Administrator
+Senior Cloud Administrator
+ZS
+Pune Division, Maharashtra, India
+2 months ago
+Lead Engineer, Systems Engineering
+Lead Engineer, Systems Engineering
+Cencora
+Pune Division, Maharashtra, India
+1 month ago
+Salesforce Operations Engineer
+Salesforce Operations Engineer
+ACS International India Pvt. Ltd. (ACSII)
+Pune Division, Maharashtra, India
+2 months ago
+Business System Manager
+Business System Manager
+Mastercam
+Pune City, Maharashtra, India
+14 hours ago
+Show more jobs like this 
+People also viewed
+Salesforce Technical PM
+Salesforce Technical PM
+
+Jade Global
+
+Pune Division, Maharashtra, India
+1 year ago
+Salesforce Engineer
+Salesforce Engineer
+
+Barclays
+
+Pune Division, Maharashtra, India
+1 month ago
+Technical Project Manager
+Technical Project Manager
+
+SPAR Solutions
+
+Pune Division, Maharashtra, India
+11 months ago
+Salesforce Administrator
+Salesforce Administrator
+
+Persistent Systems
+
+Pune City, Maharashtra, India
+3 weeks ago
+Onboarding & Implementation Manager
+Onboarding & Implementation Manager
+
+SMS-Magic
+
+Pune Division, Maharashtra, India
+2 months ago
+Release and Project Management, Consultant
+Release and Project Management, Consultant
+
+PTC
+
+Pune City, Maharashtra, India
+1 week ago
+Salesforce Project Manager
+Salesforce Project Manager
+
+Salesforce
+
+Pune City, Maharashtra, India
+2 weeks ago
+Release Project Management, Consultant
+Release Project Management, Consultant
+
+PTC
+
+Pune Division, Maharashtra, India
+6 days ago
+Packaged/SaaS Application Engineer
+Packaged/SaaS Application Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+4 days ago
+Packaged/SaaS Application Engineer
+Packaged/SaaS Application Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+4 days ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Worldpay
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,317 @@
+Title: Release Manager
+Company: Rakuten India
+Location: Greater Bengaluru Area
+URL: https://in.linkedin.com/jobs/view/release-manager-at-rakuten-india-4461660760
+Posted: 2026-09-08
+Deadline: N/A
+Reason: The job as a Release Manager at Rakuten India matches Priya's expertise in end-to-end release ownership, CI/CD pipeline management, and cross-team coordination, with location in India (a target country) and mid-senior level alignment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager
+Rakuten India  Greater Bengaluru Area
+3 weeks ago   Over 200 applicants
+  
+
+See who Rakuten India has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Rakuten India
+
+Sowmya M S
+Sowmya M S
+Associate Manager - HR at Rakuten India
+
+About the Company:
+
+Rakuten India is the Development Centre and key technology hub of the Rakuten Group, Inc. We enable our businesses with our depth of knowledge in multiple streams of technology such as Mobile and Web Development, Web Analytics, Platform Development, Backend Engineering, Data Science, Machine Learning, Artificial Intelligence and much more. Our unique 24/7 support center ensures reliability and sustenance of the Rakuten Ecosystem. With dedicated centres of excellence for Mobile Application Development, Data Analytics, Engineering, DevOps and Information Security, we ensure the success of multiple units of Rakuten Group, Inc. With 1700+ employees and growing, Rakuten India is housed in Crimson House Bangalore in the heart of the city.
+
+
+
+
+Role Summary
+
+We are looking for an experienced Release Manager to own and orchestrate the end-to-end software release lifecycle across multi-cloud environments (GCP, Opensource) and a distributed microservices architecture. Operating at the intersection of engineering, operations, and business delivery, the role ensures that BSS platform releases — spanning billing, charging, customer management, and digital channels — are deployed to production safely, predictably, and with full stakeholder alignment.
+
+
+
+
+You will coordinate releases across engineering, QA, DevOps, and product teams — ensuring quality, stability, and speed of delivery while managing a structured release calendar from scope freeze through post-deployment closure.
+
+
+
+
+Works closely with: Engineering Leads, QA, Security, DBAs, Product, SRE/Ops, and Platform teams.
+
+
+
+
+Key Responsibilities
+
+1. Release Planning & Coordination
+
+Define and maintain release schedules, release trains, and sprint-to-production pipelines
+Coordinate with product managers, tech leads, and QA to align release scope, timelines, and dependencies
+Manage release calendars across multiple microservices with independent deployment cadences
+Run release readiness reviews, align stakeholders, and manage maintenance windows for successful production deployments
+Chair the release kick-off with the Change Management team to freeze release scope (CRs, Trouble Tickets, Problem Tickets, Technical Enhancements etc.)
+Conduct CR explanation sessions with Functional Leads.
+
+2. CI/CD & GitHub Management
+
+Own and maintain branching strategies (GitFlow, trunk-based development) in GitHub
+Manage GitHub Actions workflows, pull request policies, and branch protection rules
+Coordinate merges, feature flags, and hotfix processes across 100+ microservice repositories
+Enforce tagging, versioning (SemVer), and changelog standards across repos
+Collaborate with DevOps/Platform teams on Kubernetes (EKS, AKS, GKE), Helm charts, and Terraform-based infrastructure changes
+
+Validate branch commits for each Microservice against release scope
+
+3. Infrastructure & Configuration Management
+
+Manage environment-specific config promotions and secrets management (Vault, AWS Secrets Manager, Azure Key Vault)
+Ensure zero-downtime deployment strategies: blue/green, canary, and rolling updates
+Execute configuration comparison across QA, Pre-prod and Production environments
+Review PR checklists covering: EPIC completeness, flow impact analysis, NFR compliance, code coverage, and unit test coverage
+Perform replication validation of production deployment on pre prod environment.
+
+4. Database Release Management
+
+Coordinate schema migrations and data migrations across polyglot database stacks (PostgreSQL, MySQL, Couchbase, Elastic)
+Partner with DBAs to review, test, and schedule backward-compatible DDL changes
+Ensure migration rollback plans exist for every release
+Oversee data remediation MOP preparation and obtain DBA/Designer/EM approvals before release
+
+5. Runbook & MOP Ownership
+
+Author step-by-step runbooks covering execution sequence, expected timings, approver/reviewer names, rollback steps, and PR & Docker image details
+Prepare MOPs for all applicable release items — particularly manual activities such as DB field additions, template creation/activation, and config changes
+Conduct rollback simulation testing in the Staging environment and update runbook accordingly
+Create and maintain the Dependency Matrix mapping EPICs to Microservices for partial rollback analysis
+
+6. Quality Gates & Risk Management
+
+Define and enforce release quality gates (test coverage, DAST/SAST scans, performance benchmarks)
+Identify, track, and communicate release risks and cross-service dependencies
+Lead post-release retrospectives and blameless post-mortems; maintain an incident escalation playbook
+Conduct pre-release BU (Business Unit) impact assessment and communicate risks to stakeholders
+
+7. Monitoring & Observability
+
+Verify release health via monitoring dashboards (Datadog, Grafana, CloudWatch, Dynatrace)
+Define and track release KPIs: deployment frequency, change failure rate (CFR), MTTR, and lead time for changes (DORA metrics)
+Coordinate rollback execution when SLOs are breached post-deployment
+
+8. SVC, CR & Approval Management
+
+Create and drive approvals for SVC (Security Change) tickets and Release Requests (RR)
+Ensure all regulatory, security, and process compliance gates are cleared before production deployment authorization
+
+9. Stakeholder Communication & Release Reviews
+
+Prepare and present release materials for L3 stakeholder review including release scope, risk summary, and deployment plan
+Facilitate L2 and L1.5 release review sessions for management sign-off
+Communicate release status, delays, and re-scheduling internal and external stakeholders with appropriate approval materials
+
+10. Security, Compliance & Post-Release
+
+Manage Security Vulnerability (SecEx) ticket status and obtain extension approvals for vulnerabilities deferred to future minor releases
+Lead post-release RCA processes; track and close all open action items before the next release kick-off
+Drive process improvement initiatives in SCM, config validation, automated quality gates, and pre-production environment parity
+
+
+
+
+“Rakuten is committed to cultivating and preserving a culture of inclusion and connectedness. We are able to grow and learn better together with a diverse team and inclusive workforce. The collective sum of the individual differences, life experiences, knowledge, innovation, self-expression, and talent that our employees invest in their work represents not only part of our culture, but our reputation and Rakuten’s achievement as well. In recruiting for our team, we welcome the unique contributions that you can bring in terms of their education, opinions, culture, ethnicity, race, sex, gender identity and expression, nation of origin, age, languages spoken, veteran’s status, color, religion, disability, sexual orientation and beliefs”
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Rakuten India by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Release Manager
+Release Manager
+Thoucentric
+Bengaluru, Karnataka, India
+6 months ago
+Release Manager
+Release Manager
+Infosys
+Bengaluru East, Karnataka, India
+2 weeks ago
+Program Manager - Release
+Program Manager - Release
+JUSPAY
+Bengaluru, Karnataka, India
+6 days ago
+IT Support - Release Engineer
+IT Support - Release Engineer
+BNP Paribas
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Release Management , Vice President
+Senior Release Management , Vice President
+State Street
+Bengaluru, Karnataka, India
+1 week ago
+Senior Configuration and Delivery Manager
+Senior Configuration and Delivery Manager
+WSP in India
+Bengaluru, Karnataka, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+SAP Landscape Lead
+SAP Landscape Lead
+
+Arm
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Engineering Program Manager
+Senior Engineering Program Manager
+
+Adtran
+
+Bengaluru, Karnataka, India
+2 days ago
+Senior Release Engineer
+Senior Release Engineer
+
+InvestCloud, Inc.
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Sr. Manager, Technical Programs
+Sr. Manager, Technical Programs
+
+PayPal
+
+Bengaluru, Karnataka, India
+11 hours ago
+Senior Engineering Manager - Continuous Deployment
+Senior Engineering Manager - Continuous Deployment
+
+GitLab
+
+Bengaluru, Karnataka, India
+1 week ago
+Engineering Program Manager
+Engineering Program Manager
+
+Cisco
+
+Bengaluru, Karnataka, India
+1 week ago
+Delivery Manager – Software Development
+Delivery Manager – Software Development
+
+Toolyt
+
+Bengaluru, Karnataka, India
+£35,000 - £45,000
+3 weeks ago
+Senior Technical Program Manager
+Senior Technical Program Manager
+
+Everpure
+
+Bengaluru, Karnataka, India
+6 days ago
+Technical Delivery Manager - WebOps - Core Maintenance
+Technical Delivery Manager - WebOps - Core Maintenance
+
+Google Operations Center
+
+Bengaluru East, Karnataka, India
+1 week ago
+Delivery Manager
+Delivery Manager
+
+Bidgely
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Rakuten India
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

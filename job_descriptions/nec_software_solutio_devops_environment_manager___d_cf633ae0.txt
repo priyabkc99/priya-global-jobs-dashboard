@@ -1,0 +1,268 @@
+Title: Devops Environment Manager - Devops Release Lead
+Company: NEC Software Solutions
+Location: Mumbai Metropolitan Region
+URL: https://in.linkedin.com/jobs/view/devops-environment-manager-devops-release-lead-at-nec-software-solutions-4386844269
+Posted: 2026-04-02
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/Release Management expertise (CI/CD tools, cross-team coordination), is located in India (target country), and matches her configuration-management-focused approval criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Devops Environment Manager - Devops Release Lead
+NEC Software Solutions  Mumbai Metropolitan Region
+6 months ago  106 applicants
+  
+
+See who NEC Software Solutions has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Company Description
+
+NEC Software Solutions (India) Private Limited! is based in Mumbai (Worli & Airoli) and
+
+Bangalore with an employee strength of 1300+. It is one of the foremost providers of end-
+
+to-end IT services across various sectors. We work with diverse industry verticals which
+
+include publishing, media, financial services, retail, healthcare and technology companies
+
+around the world. Our customers range from two-person startups to $bn listed companies.
+
+We have more than 30 years of experience in providing end to end IT services across the
+
+globe and have earned a reputation for delighting our customers by consistently surpassing
+
+expectations and helping them deliver robust, market-ready software products that meet
+
+the highest standards of engineering and user experience. Supported by more than 1300
+
+exceptionally talented manpower, we are a hub for offshore support and technology
+
+services.
+
+Job Description
+
+Exp 12 - 15 Yrs
+
+Role Summary: Responsible for leading and coordinating DevOps, release, and build-related project activities Multiple Mobile projects. This includes planning and onboarding new customers, ensuring smooth coordination with the Project Management team, and overseeing automation of building pipelines and operational processes. This role requires strong cross-team collaboration, dependency tracking, environment readiness, strong engagement with project managers including the ability to push back where required.
+
+Skill set / Responsibilities
+
+Essential: Project / Delivery Management Skills:
+
+
+DevOps Plan & Build Coordination: Tracking roadmaps, sprints, builds, customer onboarding, documentation.
+Release Support: Preparing release packages, readiness checks, change governance, automation oversight.
+Operational Coordination: Handling escalations, recurring issue analysis, dashboards.
+Agile PM: Sprint planning, velocity tracking, dependency/risk management.
+Process Improvement: Identifying gaps, enhancing automation, promoting best practices. Cross-Team Collaboration:
+Act as the central coordination point across Development, QA, DevOps, Infra/Cloud Operations, and Support teams.
+Facilitate daily/weekly stand-ups, sprint planning, release readiness reviews, and stakeholder sync-ups.
+Communicate status updates, risks, and blockers clearly and proactively to UK project managers and internal PM teams.
+Ensure alignment on priorities, dependencies, and timelines across all participating teams.
+
+
+Technical Skills:
+
+
+Exposure to mobile app build processes (Android/iOS), app packaging, or release workflows.
+Familiarity with CI/CD tools (Azure DevOps, Jenkins, GitLab CI, etc.)
+Understanding cloud deployment models (Azure / AWS)
+Knowledge of APIs, microservices, and architecture. Leadership Skills:
+Strong stakeholder management, especially coordinating with UK-based project managers and cross-functional teams.
+Ability to anticipate risks and proactively drive mitigation.
+Decision-making based on delivery data and team inputs. Personal Attributes:
+Structured, detail-oriented, collaborative team player.
+Ability to work independently and handle pressure.
+Ability to manage conflicting priorities
+Strong articulation of both technical and non‑technical content
+High attention to detail
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at NEC Software Solutions by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Team Lead, Platform & Engineering
+Team Lead, Platform & Engineering
+MUFG Pension & Market Services
+Mumbai Metropolitan Region
+18 hours ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Navi Mumbai, Maharashtra, India
+4 days ago
+Workday Release Manager
+Workday Release Manager
+Agilysis
+Mumbai, Maharashtra, India
+14 hours ago
+DevOps Lead
+DevOps Lead
+Straive
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps & Platform Engineering
+DevOps & Platform Engineering
+Kotak Neo
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps Manager
+DevOps Manager
+Dentsu Global Services
+Mumbai, Maharashtra, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+BNP Paribas
+
+Mumbai, Maharashtra, India
+2 days ago
+Associate Consultant / Manager Consulting Expert - DevOps Architect
+Associate Consultant / Manager Consulting Expert - DevOps Architect
+
+CGI
+
+Mumbai Metropolitan Region
+6 days ago
+DevOps Engineer - GitLab Enterprise
+DevOps Engineer - GitLab Enterprise
+
+Luxoft
+
+Mumbai, Maharashtra, India
+1 week ago
+Lead Software Engineer
+Lead Software Engineer
+
+Mastercard
+
+Navi Mumbai, Maharashtra, India
+6 days ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+ShopSe Digital Finance
+
+Mumbai Metropolitan Region
+4 months ago
+AVP - CMP Development Lead
+AVP - CMP Development Lead
+
+IFTAS - Indian Financial Technology & Allied Services
+
+Mumbai, Maharashtra, India
+2 months ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Sia
+
+Mumbai, Maharashtra, India
+1 week ago
+DevOps Automation Platform Engineer
+DevOps Automation Platform Engineer
+
+Transaction Network Services (TNS)
+
+Mumbai Metropolitan Region
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Larsen & Toubro
+
+Mumbai Metropolitan Region
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+SourcingXPress
+
+Mumbai, Maharashtra, India
+5 months ago
+Similar Searches
+Environmental Director jobs
+16 open jobs
+Environmental Compliance Manager jobs
+24 open jobs
+Senior Environmental Specialist jobs
+47 open jobs
+Senior Environmental Engineer jobs
+156 open jobs
+Senior Environmental Manager jobs
+26 open jobs
+Environmental Supervisor jobs
+67 open jobs
+Director Environment jobs
+332 open jobs
+Environmental Program Manager jobs
+26 open jobs
+Environmental Coordinator jobs
+92 open jobs
+Senior Environmental Consultant jobs
+36 open jobs
+Environmental Specialist jobs
+97 open jobs
+Senior Environmental Scientist jobs
+19 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NEC Software Solutions
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
