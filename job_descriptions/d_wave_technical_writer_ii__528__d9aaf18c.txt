@@ -1,0 +1,297 @@
+Title: Technical Writer II [528]
+Company: D-Wave
+Location: Burnaby, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/technical-writer-ii-528-at-d-wave-4446326108
+Posted: 2026-09-24
+Deadline: N/A
+Reason: The job aligns with the candidate's experience as a Technical Communication Specialist and fits within the target country (Canada) with a mid-senior role in technical writing.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Writer II [528]
+D-Wave  Burnaby, British Columbia, Canada
+5 days ago  51 applicants
+  
+
+See who D-Wave has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+D-Wave Quantum Inc. (NASDAQ: QBTS) is a leader in the development and delivery of quantum computing systems, software, and services. It is the world’s first commercial supplier of quantum computers, and the first and only to offer dual-platform quantum computing products and services, spanning both annealing and gate-model quantum computing technologies. D-Wave’s mission is to help customers realize the value of quantum today through enterprise-grade systems available on-premises and via its Leap™ quantum cloud service, which offers 99.9% availability and uptime. More than 100 organizations across commercial, government, and research sectors trust D-Wave to address complex computational challenges using quantum computing. Learn more about realizing the value of quantum computing today and how D-Wave is shaping the quantum-driven industrial and societal advancements of tomorrow: www.dwavequantum.com.
+
+About The Role
+
+D-Wave is seeking a Technical Writer II to support our growth and continued product releases. In this role, you will join our team of technical writers and work closely with software, hardware, support, and marketing teams to research, create, and maintain customer-facing technical documentation. This includes API reference material, programming instructions, code examples, user guides, system administration guides, hardware documentation, training materials, error messages, release notes, and more.
+
+To be successful in this role, you will develop a strong understanding of D-Wave's quantum computers, the Ocean Software Development Kit (SDK), and the Leap quantum cloud service through study of existing materials, hands-on experience with D-Wave's products, and collaboration with technical subject matter experts. You will support documentation initiatives, contribute to documentation strategy and standards, and help drive continuous improvements to the user experience.
+
+What You'll Do
+
+
+Produce high-quality customer-facing technical documentation that meets the needs of technical audiences, including API references, user guides, hardware documentation, training materials, release notes, and code examples.
+Partner with software, hardware, support, product, and marketing teams to gather information, understand documentation requirements, and ensure content is accurate, complete, and aligned with product functionality.
+Participate in the product development lifecycle to identify, plan, and deliver documentation additions, enhancements, and updates for new releases.
+Analyze existing and proposed content to identify opportunities for reuse, single-sourcing, consistency, and improved maintainability across documentation assets.
+Identify, track, and resolve documentation gaps, inconsistencies, and defects, particularly related to product maintenance, troubleshooting, and user workflows, using tools such as Git and Jira, through hand-on work on the product and APIs.
+Define, review, and improve documentation management processes, standards, and best practices, while incorporating relevant industry trends and advancements.
+Ensure consistent, accurate, and user-friendly information across customer-facing platforms, including documentation websites, open-source repositories, learning management systems, and knowledge bases.
+Review and edit peer content to maintain quality, clarity, consistency, and adherence to established documentation standards.
+Contribute to continuous improvements in the documentation experience by recommending process enhancements, improving content discoverability, and advocating for customer documentation needs across teams.
+
+
+About You
+
+
+Bachelor's degree in Computer Science, Mathematics, Engineering, Physics, or equivalent experience.
+3+ years of experience as a technical writer producing customer-facing documentation for software development or technical audiences.
+Experience coding in Python.
+Ability to independently manage multiple priorities and deliver high-quality work on schedule.
+Strong analytical and problem-solving skills with the ability to evaluate complex technical information and determine the best approach to communicate it.
+Ability to quickly learn complex technical concepts and translate them into clear, user-friendly documentation.
+Excellent written and verbal communication skills.
+Strong collaboration and cross-functional partnership skills.
+Demonstrated attention to detail and commitment to quality.
+
+
+Bonus Points
+
+
+Experience with Docs-as-Code methodologies.
+Experience with HTML and CSS.
+Experience producing hardware documentation.
+Experience applying single-sourcing and minimalist documentation principles.
+Experience with reStructuredText, Markdown, or similar markup languages.
+Experience using Git-based workflows.
+Experience supporting documentation translation or localization efforts.
+Experience applying accessibility standards and best practices.
+Experience with UI/UX design principles.
+Experience conducting user analysis and incorporating user feedback into documentation improvements.
+Experience analyzing documentation metrics and using data to inform decisions.
+Experience with graphic design and technical illustration.
+Experience creating, maintaining, and troubleshooting documentation publishing pipelines.
+
+
+A D-Waver's DNA
+
+
+We look at the future and say “why not”; we see possibilities where others see problems or routines. We show the way ahead and are committed to achieving ambitious goals.
+We practice straight talk and listen generously to each other with empathy. We value different opinions and points of views. We ensure that we connect outside as well as inside to learn from others and inspire each other.
+We hold ourselves accountable for delivering results. We make decisions & take responsibility so that we can act & support each other.
+As leaders we motivate & engage our teams to undertake beyond what they originally thought possible, by developing our teams & creating the conditions for people to grow and empower themselves through enabling & coaching.
+
+
+Inclusion
+
+We celebrate diverse perspectives to drive innovation in our pursuit. Our employees range from distinguished domain experts with decades of experience in their respective fields, to bright and motivated graduates eager to make their mark. Our diverse and innovative team will make you feel appreciated, supported and empower your career growth at D-Wave.
+
+Our Compensation Philosophy Is Simple But Powerful
+
+We believe providing D-Wavers with company ownership, competitive pay, and a range of meaningful benefits is the start of creating a culture where people want to give the best they’ve got — not because they’re simply making money, but because they’ve fallen in love with our vision, mission, values, and team.
+
+During the interview process, your Recruiter will explain how our rubrics work across all our total rewards (base, equity, bonus, perks, benefit, culture) offerings. The base salary for this role is targeted between $84,000 - $115,000 CAD per year. The final offer is determined by your proficiencies within this level. 
+
+The Fine Print
+
+No 3rd party candidates will be accepted
+
+It is D-Wave Systems Inc. policy to provide equal employment opportunity (EEO) to all persons regardless of race, color, religion, sex, national origin, age, sexual orientation, gender identity, genetic information, physical or mental disability, protected veteran status, or any other characteristic protected by federal, state/provincial, local law.
+
+The Pay Range For This Role Is
+
+84,000 - 115,000 CAD per year(Burnaby)
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Marketing, Public Relations, and Writing/Editing
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at D-Wave by 2x
+
+See who you know
+
+Get notified about new Technical Writer jobs in Burnaby, British Columbia, Canada.
+
+Sign in to create job alert
+Jobs
+Senior Technical Writer jobs
+Technical Writer II [528]
+Similar jobs
+Product Technical Writer | Mining Technology - Vancouver
+Product Technical Writer | Mining Technology - Vancouver
+Hexagon Mining
+Metro Vancouver A, British Columbia, Canada
+3 days ago
+Documentation Engineer
+Documentation Engineer
+Stellar Recruitment Inc.
+North Vancouver, British Columbia, Canada
+CA$42 - CA$48
+1 week ago
+Technical Content Developer (AI)
+Technical Content Developer (AI)
+Fortinet
+Burnaby, British Columbia, Canada
+4 months ago
+AJISS Technical Spec Writer (Mechanical)
+AJISS Technical Spec Writer (Mechanical)
+Thales
+Mill Bay, British Columbia, Canada
+2 weeks ago
+Knowledge Enablement Coordinator
+Knowledge Enablement Coordinator
+VRIFY
+Vancouver, British Columbia, Canada
+1 week ago
+Technical and Content Writer (Bilingual Spanish/English)
+Technical and Content Writer (Bilingual Spanish/English)
+Solaris MCI
+Surrey, British Columbia, Canada
+CA$70,000 - CA$90,000
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Alternate Format Production Technician - Provincial Resource Centre for the Visually Impaired
+Alternate Format Production Technician - Provincial Resource Centre for the Visually Impaired
+
+Vancouver School Board
+
+Vancouver, British Columbia, Canada
+6 days ago
+Communications Advisor
+Communications Advisor
+
+The University of British Columbia
+
+Vancouver, British Columbia, Canada
+8 hours ago
+Engineering Services Manager
+Engineering Services Manager
+
+Albion Marine Solutions
+
+Port Coquitlam, British Columbia, Canada
+1 week ago
+Records & Info Mgmt Assistant (FTT)
+Records & Info Mgmt Assistant (FTT)
+
+BC Hydro
+
+Burnaby, British Columbia, Canada
+CA$57,300 - CA$62,200
+3 weeks ago
+AI Enablement Specialist
+AI Enablement Specialist
+
+Rocky Mountaineer
+
+Vancouver, British Columbia, Canada
+2 months ago
+Communications Specialist
+Communications Specialist
+
+Vancouver Airport Authority
+
+Vancouver, British Columbia, Canada
+3 weeks ago
+Document Controller
+Document Controller
+
+Solaris MCI
+
+Surrey, British Columbia, Canada
+2 months ago
+Bilingual Document Specialist (Remote - Multiple Shifts Available)
+Bilingual Document Specialist (Remote - Multiple Shifts Available)
+
+McCarthy Tétrault
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+SMB Enablement Go to Market
+SMB Enablement Go to Market
+
+Rogers Communications
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior Document Controller
+Senior Document Controller
+
+Worley
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Similar Searches
+Senior Technical Writer jobs
+396 open jobs
+Lead Technical Writer jobs
+253 open jobs
+Contract Technical Writer jobs
+123 open jobs
+Technical Editor jobs
+323 open jobs
+Senior Project Control Specialist jobs
+117 open jobs
+Documentation Manager jobs
+2,050 open jobs
+Documentation Engineer jobs
+1,410 open jobs
+Information Developer jobs
+14,724 open jobs
+Writer jobs
+1,376 open jobs
+Language Arts Teacher jobs
+36 open jobs
+Technical Illustrator jobs
+540 open jobs
+Information System Administrator jobs
+879 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at D-Wave
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

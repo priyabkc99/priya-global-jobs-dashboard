@@ -1,0 +1,301 @@
+Title: Technical Writer, User Terminal (UT) Engineering
+Company: Telesat
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/technical-writer-user-terminal-ut-engineering-at-telesat-4465567511
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The Technical Writer role at Telesat matches Priya's expertise in technical documentation, requirements traceability, and regulated environments, with location in Canada (target country) and no explicit visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Writer, User Terminal (UT) Engineering
+Telesat  Ottawa, Ontario, Canada
+1 week ago  30 applicants
+  
+
+See who Telesat has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Telesat (Nasdaq and TSX: TSAT) is a leading global satellite operator, providing reliable and secure satellite-delivered communications solutions worldwide to broadcast, telecommunications, corporate and government customers for over 55 years. Backed by a legacy of engineering excellence, reliability and industry-leading customer service, Telesat has grown to be one of the largest and most successful global satellite operators.
+
+Telesat Lightspeed, our revolutionary Low Earth Orbit (LEO) satellite network, scheduled to begin service in 2027, will revolutionize global broadband connectivity for enterprise and Government users by delivering a combination of high capacity, security, resiliency and affordability with ultra-low latency and fiber-like speeds. Telesat is headquartered in Ottawa, Canada, and has offices and facilities around the world.
+
+The company’s state-of-the-art Satellite fleet consists of 12 GEO satellites, the Canadian payload on ViaSat-1 and one LEO 3 demonstration satellite. For more information, follow Telesat on X and LinkedIn or visit www.telesat.com
+
+The Technical Writer will support the User Terminal (UT) Engineering team by developing, maintaining, and improving technical documentation throughout the product lifecycle for Telesat Lightspeed User Terminals. The role will work closely with product managers, engineers, subject matter experts, and UT leadership to ensure documentation is accurate, consistent, traceable, and professionally presented.
+
+The successful candidate will be responsible for transforming complex technical information into clear, structured documentation suitable for engineering teams, suppliers, integrators, manufacturing partners, and internal stakeholders. The role will help refine documentation standards, improve document quality, manage document reviews, and ensure requirements traceability across the UT product portfolio.
+
+Main Responsibilities
+
+
+Author, edit, and maintain engineering documentation
+Technical Requirements Documents (TRDs)
+Product Requirements Documents (PRDs)
+Interface Requirements Documents (IRDs)
+Interface Control Documents (ICDs)
+Technical Notes (TNs)
+Design Description Documents (DDDs)
+Concepts of Operation (CONOPS)
+Verification and Validation Plans
+Installation, Commissioning, and Service Documentation
+Establish best practices to improve consistency across the UT organization.
+Develop executive summaries and management-level documentation from detailed engineering inputs. Collaborate with subject matter experts to accurately document technical concepts, decisions, and assumptions.
+Support the creation and maintenance of requirement baselines.
+Assist engineering teams in documenting requirement rationale, assumptions, and compliance evidence. Support document updates associated with Change Requests (CRs) and Change Notices (CNs).
+Manage document review cycles and coordinate stakeholder feedback.
+Ensure documentation complies with company standards, quality processes, and configuration management requirements.
+Verify consistency of terminology, acronyms, references, and interface definitions across documents. Maintain document version control and release records.
+Coordinate with product management, subject matter experts, engineering teams. Support communication and document exchanges with suppliers and development partners.
+Identify opportunities to streamline documentation workflows.
+Improve document reuse, automation, and content management practices.
+Support migration and organization of documentation within Confluence, SharePoint, Jama, and related tools.
+Drive continuous improvement of UT engineering documentation quality and accessibility.
+
+
+Education And Experience
+
+
+College diploma or bachelor's degree in Technical Communication, Technical Writing, Communications, Engineering
+Technology, Engineering, Computer Science, Telecommunications, or a related field. Equivalent combinations of education, technical training, and professional experience will be considered.
+6+ years of experience creating technical documentation for engineering products, telecommunications systems, aerospace products, or other complex technology environments.
+Exceptional written communication, editing, and document organization skills.
+Demonstrated ability to translate complex technical concepts into clear, concise, and accurate documentation.
+Strong organizational, planning, and project coordination skills.
+Experience working directly with engineering subject matter experts within multidisciplinary development teams.
+Certificate, diploma, or degree specializing in Technical Communication, Technical Writing, Professional Writing, Information Design, or Documentation Management.
+Experience in aerospace, telecommunications, networking, satellite communications, or embedded systems.
+Familiarity with requirements-driven development processes.
+Experience documenting hardware, software, FPGA, RF, or system-level designs.
+Knowledge of configuration management, document control, and product development lifecycle processes.
+Experience working within regulated or standards-based development environments.
+
+
+Specialized Knowledge, Skills, And Abilities
+
+
+Microsoft Office Suite
+Confluence
+Jira
+SharePoint
+Jama Connect
+Visio
+Configuration management systems
+Document publishing and content management platforms
+Using AI tools like Co-Pilot, Gemini, Claude, etc., to support documentation creation, review, and updates.
+Strong attention to detail.
+Ability to quickly learn new technical concepts.
+Comfortable challenging inconsistencies and identifying documentation gaps.
+Excellent interviewing and information-gathering skills.
+Highly collaborative with both technical and non-technical stakeholders.
+Strong proofreading and editorial capabilities.
+Ability to manage multiple priorities and deadlines.
+
+
+Working Conditions
+
+
+Resource is required to be in office four (4) days weekly.
+Professional office environment.
+Support of projects across multiple time zones may occasionally require schedule flexibility.
+
+
+The successful candidate must be able to work in Canada and obtain clearance under the Canadian Controlled Goods program (CGP) and Canadian Reliability clearance.
+
+At Telesat, we take pride in being an equal opportunity employer that values equality in the workplace. We are committed to providing the best candidate experience possible including any required accommodations at every stage of our interview process. All qualified applicants that have been selected for an interview that require accommodations, are advised to inform the Telesat Talent team accordingly. We will work with you to meet your needs. All accommodation information provided will be treated as confidential.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Marketing, Public Relations, and Writing/Editing
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Telesat by 2x
+
+See who you know
+
+Get notified about new Technical Writer jobs in Ottawa, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Senior Technical Writer jobs
+Technical Writer, User Terminal (UT) Engineering
+Similar jobs
+Staff Technical Writer
+Staff Technical Writer
+Aptiv
+Ottawa, Ontario, Canada
+2 weeks ago
+Technical Writer
+Technical Writer
+Raytheon
+Ottawa, Ontario, Canada
+4 days ago
+Technical Writer (Ottawa, Hybrid)
+Technical Writer (Ottawa, Hybrid)
+Entrust
+Greater Ottawa Metropolitan Area
+3 months ago
+Software Developer II (Technical Writing)
+Software Developer II (Technical Writing)
+CNN
+Kanata, Ontario, Canada
+1 week ago
+Technical Writer
+Technical Writer
+Compucom Staffing
+Ottawa, Ontario, Canada
+1 month ago
+Senior Technical Writer - Contract - 19470
+Senior Technical Writer - Contract - 19470
+LRO Staffing
+Ottawa, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Co-op/ Intern Content Development
+Co-op/ Intern Content Development
+
+Kinaxis
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Réviseur ou réviseure technique de langue anglaise
+Réviseur ou réviseure technique de langue anglaise
+
+National Research Council Canada / Conseil national de recherches Canada
+
+Ottawa, Ontario, Canada
+1 week ago
+CCaaS Tech Consultant - Amazon Connect
+CCaaS Tech Consultant - Amazon Connect
+
+Accenture
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Medical Writer, Medical Communications
+Medical Writer, Medical Communications
+
+Prime
+
+Ottawa, Ontario, Canada
+1 week ago
+Specialist, Digital Experience
+Specialist, Digital Experience
+
+Canadian Blood Services
+
+Ottawa, Ontario, Canada
+3 days ago
+Engineering hardware Technician
+Engineering hardware Technician
+
+Thales
+
+Ottawa, Ontario, Canada
+17 hours ago
+IT Support Associate , OTS
+IT Support Associate , OTS
+
+Amazon
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Technical Support Engineer
+Technical Support Engineer
+
+Fortinet
+
+Ottawa, Ontario, Canada
+3 months ago
+Submarine Technical Training SME-EN
+Submarine Technical Training SME-EN
+
+CAE
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Proposal Specialist
+Proposal Specialist
+
+Calian in Space & Technology
+
+Ottawa, Ontario, Canada
+1 week ago
+Similar Searches
+Senior Technical Writer jobs
+396 open jobs
+Lead Technical Writer jobs
+253 open jobs
+Contract Technical Writer jobs
+123 open jobs
+Technical Editor jobs
+323 open jobs
+Senior Project Control Specialist jobs
+117 open jobs
+Documentation Manager jobs
+2,050 open jobs
+Documentation Engineer jobs
+1,410 open jobs
+Information Developer jobs
+14,724 open jobs
+Writer jobs
+1,376 open jobs
+Language Arts Teacher jobs
+36 open jobs
+Technical Illustrator jobs
+540 open jobs
+Information System Administrator jobs
+879 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Telesat
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,275 @@
+Title: Staff Technical Writer
+Company: Aptiv
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/staff-technical-writer-at-aptiv-4467256996
+Posted: 2026-09-15
+Deadline: N/A
+Reason: The job aligns with Priya's experience as a Technical Communication Specialist and her background in technical writing, documentation ownership, and regulated-industry compliance (MDR/ISO 13485), matching the 'Technical Writer' role type and target location (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff Technical Writer
+Aptiv  Ottawa, Ontario, Canada
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who Aptiv has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Wind River
+
+Wind River is a global leader in delivering software for mission-critical intelligent systems. For more than four decades, the company has been an innovator and pioneer, powering billions of systems that require the highest levels of security, safety, and reliability.
+
+Wind River helps customers across automotive, aerospace, defense, industrial, medical, and telecommunications industries solve complex technology challenges on their journey toward the new intelligent machine economy. The company’s software powers generation after generation of the safest, most secure systems in the world. Examples include playing a key role in NASA space missions such as Artemis I, the James Webb Space Telescope, and multiple Mars rovers. We’ve achieved recent 5G milestones including the world’s first successful 5G data session with Verizon and building one of the largest Open RAN networks in the world with Vodafone.
+
+The company has received industry recognition for its technology innovation and leadership, and for its workplace culture, including global Great Place to Work certification and being named a “Top Workplace” for ten consecutive years. If you want to be part of a unique culture where the lived experience is based on our cultural attributes of growth mindset, customer-focus, and diversity, equity, inclusion & belonging, come join us and help advance the future software defined world.
+
+YOUR ROLE
+
+As a Staff Technical Writer on our team, you’ll collaborate with software engineers, technical writers, product managers, system testers, and documentation tools specialists to contribute to the adoption of leading-edge technology by developing world-class documentation.
+
+You’ll be writing about products such as:
+
+
+Helix Virtualization Platform Cert Edition -a product targeted at customers and systems that require consolidation of both safety-critical and general-purpose applications.
+Wind River Diab Compiler - a suite of software development tools for device applications.
+VxWorks Cert Graphics Stack - a collection of components that enable graphical user interfaces (GUIs), rendering, and display management.
+
+
+In your daily job you will:
+
+
+Collaborate with Wind River engineers and product managers to document Wind River products.
+Develop and maintain deeply technical, task-oriented documentation covering installation, configuration, customization, and troubleshooting of Wind River products.
+Author, structure, and maintain content in a DITA-based CCMS (e.g., Ixiasoft), ensuring modular, reusable, and consistent documentation.
+Align documentation with agile release cycles, ensuring readiness for product deliveries.
+Engage with SMEs, participate in technical reviews, and incorporate feedback from globally distributed teams.
+Act as a technical bridge between engineering and the documentation team.
+
+
+Required Qualifications
+
+HOW YOU WILL CONTRIBUTE
+
+
+Minimum 8 years of technical writing experience.
+Excellent verbal and written skills in the English language.
+Experience writing in a DITA-based CCMS (such as Ixiasoft).
+Ability to quickly learn complex software technologies and translate engineering concepts into clear, accurate, and user-focused documentation.
+Experience collaborating with software engineers and subject matter experts to gather, validate, and organize technical information.
+Experience writing developer-facing documentation, including user guides, configuration guides, tutorials, and reference documentation.
+Experience documenting command-line workflows, APIs, configuration settings, or software deployment procedures.
+Comfortable working in version-controlled environments.
+Ability to work efficiently with colleagues across geographic locations and time zones.
+Experience working in an Agile software development environment.
+Experience using AI-assisted authoring tools, to support content creation.
+
+
+Preferred Qualifications
+
+
+Familiarity with software development concepts such as compilers, build systems, operating systems, and software deployment.
+Experience documenting software platforms used by developers, system integrators, or solution architects.
+Knowledge of UX principles and accessibility standards in documentation.
+Experience or education in software programming.
+Knowledge of XML schemas and configuration.
+
+
+Privacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Marketing, Public Relations, and Writing/Editing
+Industries
+Automation Machinery Manufacturing
+  
+
+Referrals increase your chances of interviewing at Aptiv by 2x
+
+See who you know
+
+Get notified about new Staff Technical Writer jobs in Ottawa, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Lead Technical Writer jobs
+Staff Technical Writer
+Similar jobs
+Technical Writer
+Technical Writer
+Raytheon
+Ottawa, Ontario, Canada
+4 days ago
+Senior Technical Writer - Contract - 19470
+Senior Technical Writer - Contract - 19470
+LRO Staffing
+Ottawa, Ontario, Canada
+1 week ago
+Technical Writer (Ottawa, Hybrid)
+Technical Writer (Ottawa, Hybrid)
+Entrust
+Greater Ottawa Metropolitan Area
+3 months ago
+Technical Writer, User Terminal (UT) Engineering
+Technical Writer, User Terminal (UT) Engineering
+Telesat
+Ottawa, Ontario, Canada
+1 week ago
+Software Developer II (Technical Writing)
+Software Developer II (Technical Writing)
+CNN
+Kanata, Ontario, Canada
+1 week ago
+Technical Writer
+Technical Writer
+Compucom Staffing
+Ottawa, Ontario, Canada
+1 month ago
+Show more jobs like this 
+People also viewed
+Staff Software Engineer (Backend) - Fable Core
+Staff Software Engineer (Backend) - Fable Core
+
+Scribd, Inc.
+
+Ottawa, Ontario, Canada
+4 days ago
+Senior Member of Technical Staff - Sys
+Senior Member of Technical Staff - Sys
+
+Aptiv
+
+Ottawa, Ontario, Canada
+1 week ago
+Staff Software Developer
+Staff Software Developer
+
+CNN
+
+Kanata, Ontario, Canada
+1 week ago
+Technical Liaison Engineer (Korean-English)
+Technical Liaison Engineer (Korean-English)
+
+Remote Robotic
+
+Kanata, Ontario, Canada
+CA$75,000 - CA$90,000
+4 weeks ago
+PR & Content Marketing Specialist
+PR & Content Marketing Specialist
+
+Plan A Technologies
+
+Ottawa, Ontario, Canada
+1 week ago
+Senior Proposal Advisor
+Senior Proposal Advisor
+
+CIMA+
+
+Gatineau, Quebec, Canada
+1 month ago
+Submarine Technical Training SME-EN
+Submarine Technical Training SME-EN
+
+CAE
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Technical Data Manager
+Technical Data Manager
+
+Nokia
+
+Kanata, Ontario, Canada
+2 weeks ago
+Proposal Specialist
+Proposal Specialist
+
+Calian in Space & Technology
+
+Ottawa, Ontario, Canada
+1 week ago
+Rédactrice ou Rédacteur aux offres de services
+Rédactrice ou Rédacteur aux offres de services
+
+CIMA+
+
+Gatineau, Quebec, Canada
+1 month ago
+Similar Searches
+Lead Technical Writer jobs
+253 open jobs
+Senior Technical Writer jobs
+396 open jobs
+Contract Technical Writer jobs
+123 open jobs
+Documentation Manager jobs
+2,050 open jobs
+Document Developer jobs
+15,738 open jobs
+Documentation Engineer jobs
+1,410 open jobs
+Product Advisor jobs
+3,101 open jobs
+Technical Writer jobs
+1,614 open jobs
+Business Development Advisor jobs
+2,457 open jobs
+Freelance Proofreader jobs
+100 open jobs
+Technical Editor jobs
+323 open jobs
+Information Developer jobs
+14,724 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Aptiv
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
