@@ -202,5 +202,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-10-01) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Manager: Digital Solutions (Engineering & System)",
+    "company": "FlySafair",
+    "location": "City of Johannesburg, Gauteng, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/manager-digital-solutions-engineering-system-at-flysafair-4415508244",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job is located in South Africa (target country) and requires managerial experience aligned with Priya\u2019s senior-level background, but the role focuses on systems architecture and project management rather than her specialized expertise in CI/CD, release management, or regulated-industry compliance.",
+    "id": "58638b75",
+    "source": "linkedin_za_configuration_manager",
+    "added_at": "2026-09-29T02:50:46+03:00",
+    "posted_date": "2026-09-22",
+    "deadline": "2026-08-21",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-21) passed by more than 2 days and unreviewed"
   }
 ]
