@@ -1,0 +1,264 @@
+Title: DevOps Engineer
+Company: GemPool Recruitment
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-gempool-recruitment-4465627445
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Dublin, Ireland aligns with Priya's CI/CD/release management expertise, regulated industry experience (AWS/Kubernetes infrastructure), and mid-senior level fit, while meeting all location/work authorization criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+GemPool Recruitment  Dublin, County Dublin, Ireland
+2 weeks ago  181 applicants
+  
+
+See who GemPool Recruitment has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from GemPool Recruitment
+
+Tanisha Barkakaty ERF Cert RP
+Tanisha Barkakaty ERF Cert RP
+Senior IT Recruitment Consultant | Client & Talent Partner | Account Management | Revenue, Retention & Workforce Delivery | Tech & IT
+
+DevOps Engineer
+
+Location: Dublin / Belfast / Malta
+
+Salary: Up to €90,000 / £78,000
+
+Hybrid: 2–3 days onsite
+
+Full-Time | Permanent
+
+
+
+
+Gempool is partnering with a leading international technology-driven organisation to hire an experienced DevOps Engineer to join a growing engineering team across Dublin, Belfast, or Malta.
+
+
+
+
+This is an exciting opportunity for a Platform/DevOps Engineer with strong Kubernetes and AWS experience to help drive cloud modernisation, platform engineering initiatives, and infrastructure scalability within a highly secure and regulated environment.
+
+
+
+
+The Role
+
+You will work closely with engineering and infrastructure teams to design, implement, and optimise cloud-native platforms while improving automation, observability, and deployment processes.
+
+
+
+
+Responsibilities
+
+Design, implement, and maintain Kubernetes (EKS) platforms on AWS
+Support and optimise CI/CD pipelines using GitHub Actions and Harness.io
+Implement and manage observability tooling across the platform using Datadog
+Enhance and support AWS cloud infrastructure environments
+Review, optimise, and document deployment and operational processes
+Ensure change management processes align with security and compliance standards
+Collaborate with development teams to enable self-service platform capabilities
+Support incident response and platform reliability initiatives
+Analyse and optimise cloud infrastructure costs
+
+
+
+
+Required Skills & Experience
+
+3+ years’ experience in a senior DevOps or Platform Engineering role
+Strong hands-on experience with Kubernetes, particularly AWS EKS
+Experience working with AWS ECS environments
+Strong knowledge of AWS services across compute, databases, and security
+Experience with Infrastructure as Code tools such as Terraform
+Hands-on experience with observability and monitoring tools, ideally Datadog
+Strong scripting skills using Python and/or Bash
+Good understanding of container security best practices
+Experience working within regulated or security-focused environments
+Strong communication skills with the ability to manage multiple priorities and deadlines
+
+
+
+
+Nice to Have
+
+Experience with GitOps workflows and tooling
+Exposure to service mesh technologies such as Istio
+Understanding of platform engineering concepts
+AWS cost optimisation experience
+Linux or database administration experience
+Experience working within financial services environments
+Agile or SAFe methodology experience
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Finance and Engineering
+Industries
+IT Services and IT Consulting and Financial Services
+  
+
+Referrals increase your chances of interviewing at GemPool Recruitment by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+RWS
+Dublin, County Dublin, Ireland
+2 weeks ago
+Devops Engineer - DDT
+Devops Engineer - DDT
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+1 day ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin, County Dublin, Ireland
+2 weeks ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin 4, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Arista Networks
+Dublin, County Dublin, Ireland
+1 month ago
+DevOps Engineer (Azure)
+DevOps Engineer (Azure)
+DOCOsoft
+Dublin, County Dublin, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer
+Cloud Engineer
+
+Adecco
+
+Dublin, County Dublin, Ireland
+12 hours ago
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+
+Apple
+
+Dublin, County Dublin, Ireland
+4 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Newcode.ai
+
+Dublin, County Dublin, Ireland
+4 months ago
+Staff Engineer, DevOps
+Staff Engineer, DevOps
+
+LearnUpon
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Hays
+
+Dublin, County Dublin, Ireland
+€60,000 - €80,000
+4 days ago
+Kubernetes Engineer
+Kubernetes Engineer
+
+InterSystems
+
+Dublin, County Dublin, Ireland
+1 week ago
+Cloud Operations Engineer
+Cloud Operations Engineer
+
+Laserfiche
+
+Dublin, County Dublin, Ireland
+1 week ago
+Production Systems Engineer
+Production Systems Engineer
+
+Meta
+
+Dublin, County Dublin, Ireland
+5 days ago
+DevOps Engineer, Charles River Development, Senior Associate
+DevOps Engineer, Charles River Development, Senior Associate
+
+Charles River Development
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Fivetran
+
+Dublin, County Dublin, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at GemPool Recruitment
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

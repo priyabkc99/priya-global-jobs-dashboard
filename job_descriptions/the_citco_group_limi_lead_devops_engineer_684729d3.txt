@@ -1,0 +1,276 @@
+Title: Lead DevOps Engineer
+Company: The Citco Group Limited
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/lead-devops-engineer-at-the-citco-group-limited-4469932679
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role of Lead DevOps Engineer aligns with Priya’s expertise in CI/CD pipelines, infrastructure automation, and regulated-industry experience, and the location (Cork, Ireland) falls within her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead DevOps Engineer
+The Citco Group Limited  Cork, County Cork, Ireland
+1 week ago  34 applicants
+  
+
+See who The Citco Group Limited has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from The Citco Group Limited
+
+Amanda Radice
+Amanda Radice
+Talent Acquisition Professional | Program & Project Leader | Financial Services & Technology | Citco
+Job Description
+
+Lead DevOps Engineer
+
+About Citco
+
+Since the 1940s Citco has provided specialist financial services to alternative investment funds, investors, multinationals and private clients worldwide. With close to 12,000 employees in 45 countries we pioneer innovative solutions that meet our clients’ evolving needs, and deliver exceptional service.
+
+Our continuous investment in learning means our people are among the best in the industry. And our corporate social responsibility programs provide meaningful and fulfilling work in the community.
+
+A career at Citco isn’t just a job – it’s an opportunity to excel in an environment that genuinely supports your personal and professional development.
+
+About The Role
+
+The Lead DevOps Engineer will drive the technical strategy and architecture for the department's automation platforms, infrastructure automation capabilities, self-service engineering solutions, and containerization initiatives. This role blends deep technical ownership with team leadership, driving the modernization of infrastructure automation and self-service capabilities while mentoring engineers and partnering with stakeholders to align platform capabilities with business needs.
+
+The successful candidate will be responsible for evaluating, designing, implementing, and evolving automation and self-service solutions, whether commercial, open-source, or internally developed, to improve operational efficiency, scalability, and reliability across the organization. This role requires flexibility to work shifting schedules to support cross-timezone collaboration.
+
+The Lead DevOps Engineer will work closely with leadership, Development Teams, and IT Operations to shape the technical roadmap for automation, infrastructure provisioning, self-service engineering capabilities, and container platforms across the organization.
+
+Job Duties In Brief
+
+
+Own the technical strategy and architecture for the department's automation, infrastructure provisioning, and self-service engineering platforms.
+Lead the design, implementation, and continuous improvement of self-service capabilities that empower teams to request, provision, and manage IT services efficiently.
+Design and manage enterprise automation platforms and workflow orchestration solutions, identifying and delivering high-value automation opportunities.
+Establish and govern Infrastructure as Code (IaC) practices (e.g., Terraform) for on-premises and cloud environments, defining standards, reusable components, and best practices.
+Own the technical strategy for containerization initiatives, leading Kubernetes adoption and workload migrations across teams
+Design and implement GitOps workflows and practices, driving standardization of deployment models across the department
+Architect and manage AWS infrastructure (EC2, S3, Lambda, IAM, VPC, CloudWatch) to support scalable, resilient, and cost-effective solutions
+Design and build serverless automation solutions using AWS Lambda to reduce manual operational overhead
+Develop and maintain automation frameworks, integrations, and APIs that connect self-service platforms, orchestration tools, provisioning systems, and backend services.
+Act as the primary technical escalation point for complex automation and platform issues; lead root cause analysis and drive permanent fixes
+Mentor and coach mid-level and junior engineers; provide technical guidance, code/design reviews, and career development support
+Partner with stakeholders across development and operations teams to translate business and operational needs into scalable automation and self-service capabilities.
+Own architecture documentation, runbooks, and knowledge base standards for automation and containerization practices
+Contribute to capacity planning, cost optimization, and tooling/vendor decisions
+Support hiring and technical interviews for the teams
+Willingness and flexibility to work shifting schedules to support cross-timezone collaboration
+
+
+About You
+
+You are a seasoned DevOps or Platform Engineer who has moved beyond hands-on execution into owning technical strategy and leading teams through modernization efforts. You have deep expertise in automation platforms, infrastructure provisioning, self-service engineering solutions, Kubernetes, and AWS, and you're passionate about reducing operational complexity through scalable automation and platform engineering practices.
+
+You are comfortable evaluating, implementing, and evolving a variety of technologies, whether open-source, vendor-provided, or custom-developed, and can balance short-term business needs with long-term platform strategy. You naturally mentor others, elevate technical standards across the team, and communicate clearly with both technical and non-technical stakeholders.
+
+Experience And Technical Skills
+
+
+7+ years of professional hands-on experience with cloud infrastructure, DevOps engineering, or platform engineering, including experience leading or mentoring within a team
+Strong experience with automation platforms such as Rundeck (or equivalent job orchestration tools), self-service portal design, and workflow automation
+Advanced experience with Terraform including on-premises provisioning use cases; ability to define IaC standards, design reusable modules, and guide teams on best practices
+Experience designing and delivering self-service platforms/portals for IT Operations or internal engineering teams (NexOps or similar)
+Strong, hands-on expertise with Kubernetes architecture, deployment, Helm charts, networking, storage, and leading workload migrations to containers
+Strong AWS background, especially EC2, S3, Lambda, IAM, VPC, CloudWatch; ability to architect and optimize cloud infrastructure at scale
+Strong experience designing and implementing GitOps workflows (ArgoCD, Flux, or similar) for Kubernetes deployments
+Strong experience with Jenkins or similar CI/CD tooling — pipeline design, scaling, and optimization
+Strong scripting/automation experience (Python, Bash); proven track record building automation frameworks and API integrations that reduce operational toil
+Solid Linux/Unix administration background; strong understanding of networking and system fundamentals
+Experience with monitoring/observability tools (Prometheus, Grafana, CloudWatch) to support automation platforms and container initiatives
+Excellent problem-solving and troubleshooting skills; comfortable navigating ambiguity and driving resolution on complex, cross-system issues
+Strong communication skills; experience presenting technical decisions and roadmaps to both technical and non-technical stakeholders
+Demonstrated experience mentoring engineers and elevating team technical capability
+Willingness and flexibility to work shifting schedules to support cross-timezone collaboration
+
+
+Education
+
+
+Bachelor's degree in Information Technology, Computer Science, or equivalent hands-on experience
+Relevant certifications (AWS Certified Solutions Architect – Associate/Professional, Certified Kubernetes Administrator (CKA), HashiCorp Certified: Terraform Associate) are a plus but not required
+
+
+What We Offer
+
+
+A challenging and rewarding role in an award-winning global business.
+Opportunities for personal and professional career development.
+Great working environment, competitive salary and benefits, and opportunities for educational support.
+Be part of an industry leading global team, renowned for excellence.
+
+
+Remuneration
+
+A highly competitive salary package will be awarded the successful candidate.
+
+Confidentiality Assured.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at The Citco Group Limited by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Cork, County Cork, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+OpenText
+Cork, County Cork, Ireland
+2 weeks ago
+DevOps Lead @ Limerick, Ireland - 24 Months with Ext - Onsite
+DevOps Lead @ Limerick, Ireland - 24 Months with Ext - Onsite
+Cbase Inc
+County Limerick, Ireland
+2 weeks ago
+Lead Cloud Operations Engineer | Cork Based
+Lead Cloud Operations Engineer | Cork Based
+OpenText
+Cork, County Cork, Ireland
+2 weeks ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Cork, County Cork, Ireland
+2 months ago
+AWS Expert
+AWS Expert
+The Citco Group Limited
+Cork, County Cork, Ireland
+1 week ago
+Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+MongoDB
+Cork, County Cork, Ireland
+5 days ago
+Show more jobs like this 
+People also viewed
+Lead Site Reliability Engineer | Cork
+Lead Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Sr. Site Reliability Engineer
+Sr. Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+5 days ago
+Sr. Site Reliability Engineer | Cork
+Sr. Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+3 hours ago
+Lead Cloud Systems Engineer
+Lead Cloud Systems Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Sr. Site Reliability Administrator
+Sr. Site Reliability Administrator
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Sr. Cloud Applications Engineer (SRE) | Cork
+Sr. Cloud Applications Engineer (SRE) | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+6 hours ago
+Principal Cloud Systems Engineer
+Principal Cloud Systems Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Senior Cloud Applications Developer
+Senior Cloud Applications Developer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 day ago
+Staff Technical Program Manager, Site Reliability Engineering
+Staff Technical Program Manager, Site Reliability Engineering
+
+MongoDB
+
+Cork, County Cork, Ireland
+1 week ago
+Staff Engineer
+Staff Engineer
+
+MongoDB
+
+Cork, County Cork, Ireland
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at The Citco Group Limited
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

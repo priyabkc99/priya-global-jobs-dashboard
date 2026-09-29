@@ -1,0 +1,286 @@
+Title: DevOps Engineer
+Company: The Craneware Group
+Location: Edinburgh, Scotland, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-the-craneware-group-4470874205
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The role aligns with Priya's expertise as a DevOps Engineer (CI/CD pipeline ownership, cloud infrastructure automation) and matches her regulated-industry experience through The Craneware Group's healthcare focus. Location (Edinburgh, UK) is in her target countries, and the job explicitly mentions configuration management relevance.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+The Craneware Group  Edinburgh, Scotland, United Kingdom
+1 day ago  53 applicants
+  
+
+See who The Craneware Group has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from The Craneware Group
+
+Sinead Dewar
+Sinead Dewar
+Talent Acquisition @ The Craneware Group | IT & Technology Recruitment Specialist
+
+Let’s transform the business of healthcare.
+
+At The Craneware Group, we’re helping healthcare organisations use data and technology to drive better outcomes. We’re looking for talented people who enjoy solving technical problems, working with cloud technologies and finding smarter ways to build, deploy and operate software.
+
+Join a team of more than 750 professionals as we continue to grow our SaaS platform and develop cloud-based solutions supporting the US healthcare market.
+
+
+
+
+We support a flexible, collaborative working environment. For UK-based roles, employees work on a hybrid basis, spending 40% of their working time per month in our Tanfield office, approximately two days per week.
+
+
+
+
+The Team
+
+We’re looking for a DevOps Engineer to join our Engineering team and help us build, automate and continuously improve the environments and processes that support the delivery of our software.
+
+
+
+
+As part of a collaborative Agile environment, you’ll work closely with Software Engineers and other technical colleagues to improve the way our applications are built, tested, deployed and supported.
+
+
+
+
+This is a great opportunity for someone with existing DevOps and cloud experience who wants to continue developing their skills while taking ownership of meaningful technical challenges.
+
+Your work will span the software delivery lifecycle, from CI/CD and environment automation through to monitoring, configuration, security and operational reliability. You’ll help us reduce manual processes, improve deployment efficiency and create consistent, repeatable approaches that make it easier for our engineering teams to deliver high-quality software.
+
+
+
+
+You Will Be
+
+Building, maintaining and improving CI/CD pipelines to support reliable and repeatable software delivery.
+Creating and supporting cloud-based environments across different stages of the software development lifecycle.
+Automating infrastructure, environment configuration and deployment processes to reduce manual effort and improve consistency.
+Working with Software Engineers to troubleshoot environment, deployment and infrastructure-related issues.
+Implementing and maintaining monitoring, alerting and health checks that help identify and resolve issues effectively.
+Supporting secure access to cloud environments and helping ensure appropriate security controls are followed.
+Managing application and environment configuration across multiple stages of delivery.
+Helping improve the reliability, efficiency and maintainability of our software delivery processes.
+Creating scripts and automation to support development and delivery teams.
+Investigating and resolving technical issues across development and cloud environments.
+Maintaining clear technical documentation, processes and operational runbooks.
+Contributing ideas and recommendations to improve our DevOps practices, tooling and ways of working.
+Keeping up to date with developments in cloud, automation and DevOps technologies and sharing what you learn with the wider team.
+
+
+
+
+You Will Bring
+
+Commercial experience working in a DevOps, Cloud Engineering, Platform Engineering or similar technical role.
+Hands-on experience supporting cloud-based applications and infrastructure.
+Practical experience building, maintaining or working with CI/CD pipelines.
+Experience using scripting or automation to improve deployment, infrastructure or operational processes.
+An understanding of modern software delivery practices, including continuous integration and continuous deployment.
+Experience working with infrastructure or application monitoring and alerting.
+An understanding of cloud security principles, including environment access and permissions.
+Experience working with database technologies such as SQL and/or NoSQL.
+Familiarity with containerisation technologies such as Docker.
+Experience with source control and collaborative software development practices.
+Strong troubleshooting and problem-solving skills, with the ability to investigate technical issues through to resolution.
+The ability to communicate clearly and work collaboratively with Software Engineers and other technical colleagues.
+An interest in automation and continuous improvement, with a desire to make engineering processes simpler, faster and more reliable.
+Curiosity about new technologies and a willingness to continue developing your DevOps and cloud engineering expertise.
+
+
+
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Hospitals and Health Care, Software Development, and IT System Custom Software Development
+  
+
+Referrals increase your chances of interviewing at The Craneware Group by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Site Reliability Engineer (SRE) - Glasgow, UK
+Site Reliability Engineer (SRE) - Glasgow, UK
+Capgemini
+Glasgow, Scotland, United Kingdom
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Capgemini
+Glasgow, Scotland, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+CGI
+Glasgow, Scotland, United Kingdom
+2 weeks ago
+Tech-Ops Engineer
+Tech-Ops Engineer
+Scorus Solutions Limited
+Greater Glasgow Area
+2 months ago
+Software Engineer II (AWS Infrastructure)
+Software Engineer II (AWS Infrastructure)
+JPMorganChase
+Glasgow, Scotland, United Kingdom
+2 weeks ago
+Software Engineer III - DevOps & AWS
+Software Engineer III - DevOps & AWS
+JPMorganChase
+Glasgow, Scotland, United Kingdom
+5 days ago
+Show more jobs like this 
+People also viewed
+Platform Engineer
+Platform Engineer
+
+Barclays
+
+Glasgow, Scotland, United Kingdom
+17 hours ago
+Employee Platform Engineer
+Employee Platform Engineer
+
+Wordsmith AI
+
+Edinburgh, Scotland, United Kingdom
+2 weeks ago
+Azure Cloud Engineer
+Azure Cloud Engineer
+
+Cloud People
+
+Glasgow, Scotland, United Kingdom
+£50,000 - £55,000
+5 days ago
+Cloud Infra Engineer
+Cloud Infra Engineer
+
+Neev
+
+Glasgow, Scotland, United Kingdom
+14 hours ago
+Cloud Infrastructure Engineer (FLS)
+Cloud Infrastructure Engineer (FLS)
+
+Forestry and Land Scotland
+
+Edinburgh, Scotland, United Kingdom
+£45,711 - £49,229
+3 weeks ago
+Associate/Vice President, AI Infrastructure Engineer
+Associate/Vice President, AI Infrastructure Engineer
+
+BlackRock
+
+Edinburgh, Scotland, United Kingdom
+1 week ago
+Technical Lead
+Technical Lead
+
+E-Solutions
+
+Glasgow, Scotland, United Kingdom
+11 hours ago
+Lead Cloud Engineer
+Lead Cloud Engineer
+
+CreateFuture
+
+Edinburgh, Scotland, United Kingdom
+1 week ago
+Sr Lead Infrastructure Engineer- Devops/AWS
+Sr Lead Infrastructure Engineer- Devops/AWS
+
+JPMorganChase
+
+Glasgow, Scotland, United Kingdom
+2 weeks ago
+Site Reliability Engineer II - AI & Corporate Risk Tech
+Site Reliability Engineer II - AI & Corporate Risk Tech
+
+JPMorganChase
+
+Glasgow, Scotland, United Kingdom
+1 week ago
+Similar Searches
+Senior System Administrator jobs
+1,465 open jobs
+Hospital Administrator jobs
+4,521 open jobs
+Lead Data Analyst jobs
+4,111 open jobs
+Transaction Manager jobs
+3,386 open jobs
+Revenue Cycle Manager jobs
+696 open jobs
+Director of Revenue jobs
+1,070 open jobs
+Senior Data Manager jobs
+4,359 open jobs
+Senior Data Analyst jobs
+4,909 open jobs
+Admissions Advisor jobs
+10 open jobs
+Data Architect jobs
+8,308 open jobs
+Senior Engineer jobs
+26,122 open jobs
+Technology Officer jobs
+21,365 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at The Craneware Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

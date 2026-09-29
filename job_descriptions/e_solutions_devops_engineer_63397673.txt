@@ -1,0 +1,290 @@
+Title: DevOps Engineer
+Company: E-Solutions
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-e-solutions-4468211810
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The DevOps Engineer role at E-Solutions matches Priya's expertise in CI/CD pipelines, infrastructure tools (Kubernetes, Terraform), and regulated environments, with location in Ireland (target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+E-Solutions  Dublin, County Dublin, Ireland
+6 hours ago  112 applicants
+  
+
+See who E-Solutions has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Key Responsibilities
+
+
+
+
+You will be a strong, technical & proactive engineer who will be responsible for:
+
+
+
+
+Working closely with our engineering teams to understand their product requirements, how they build / test / deploy their software applications
+
+Provide guidance on DevOps tools, environments & best practices to our teams that have been developed by the DevOps Centre of Excellence (DCOE)
+
+Contribute to the DCOE initiatives, either in the form of documentation and best practices or helping to deliver strategic solutions to the bank that work for our engineering teams.
+
+You are able to promote DevOps internally within the bank, and be an advocate for clean, rapid & robust software delivery pipelines within the bank
+
+You have a excellent technical background and you can seamlessly move from the presentation deck to the code editor and help realize our strategic ambitions
+
+What is the Opportunity
+
+
+
+
+To work with our Engineering Factories & DevOps Centre of Excellence to build best in class in delivery pipelines.
+
+
+
+
+
+
+
+Essential Skills and Experience
+
+
+
+
+A minimum of 8 years in either a software development role where you have excellent exposure to releasing applications into a production environment or an operational facing role where you've had to deploy and support production type workloads
+
+You can articulate technical designs and processes to both engineering teams and non-technical audiences
+
+Exposure to the requirements of delivering software in regulated environments, and comfortable with a large number of stakeholders who need to understand how your processes are designed and delivered.
+
+Excellent communication skills and comfortable with Email and other team collaboration tools.
+
+Experience using the Atlassian tool stack - Jira, Confluence, Bitbucket & Crucible
+
+
+
+
+
+
+
+If you've done software development, we would look for:
+
+
+
+
+Excellent skills in one of the main scripting languages such as python, perl, ruby and their test frameworks
+
+Strong development background in languages such as C, C#, Java, Golang and a thorough understanding of their test frameworks
+
+You have developed applications that have involved the delivery and consumption of API's
+
+Exposure to one or more cloud providers (AWS / Azure / GCP) and you're comfortable with how to provision infrastructure using the portal UI.
+
+Excellent hands on experience in CI tools such as Jenkins, Bamboo etc.
+
+You're used tools like Ansible / Puppet / Chef to deliver infrastructure, and you know how to test them thoroughly
+
+You've used Terraform to build cloud based environments, or private cloud services
+
+Docker and orchestration environments such as Kubernetes / OpenShift exposure
+
+
+
+
+
+
+
+OR
+
+
+
+
+
+
+
+If you've been more involved in the operational side of things, we like to see something like the following:
+
+
+
+
+You have a through understanding of how the infrastructure is managed and provisioned in virtualized environments such as VMWare
+
+You've used configuration management tools like Ansible / Puppet / Chef in anger and have a thorough understanding of their test frameworks
+
+In depth experience of one or more of the cloud providers (AWS / Azure / GCP) and can automate infrastructure using tools such as Terraform, CloudFormation, ARM Templates etc. Certifications are nice, but hands on experience preferable.
+
+You've been on the receiving side of poorly specified and tested software, had to make last minutes fixes and swore this was never going to happen again. You are willing to use test first development to help overcome these last minute surprises.
+
+You've configured and managed container orchestration tools such as Kubernetes, OpenShift and understand workload lifecycles in these environments
+
+In depth experience of configuration management orchestration tools such as Ansible Tower / Chef Server
+
+Thorough understanding of SSL & Cryptography and solutions for automation & management of SSL Certificates for applications
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting and Financial Services
+  
+
+Referrals increase your chances of interviewing at E-Solutions by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+RWS
+Dublin, County Dublin, Ireland
+2 weeks ago
+Devops Engineer - DDT
+Devops Engineer - DDT
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+1 day ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin, County Dublin, Ireland
+2 weeks ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin 4, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Arista Networks
+Dublin, County Dublin, Ireland
+1 month ago
+DevOps Engineer
+DevOps Engineer
+GemPool Recruitment
+Dublin, County Dublin, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer
+Cloud Engineer
+
+Fruition Group Ireland
+
+Dublin, County Dublin, Ireland
+1 day ago
+Cloud Engineer
+Cloud Engineer
+
+Adecco
+
+Dublin, County Dublin, Ireland
+12 hours ago
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+
+Apple
+
+Dublin, County Dublin, Ireland
+4 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Newcode.ai
+
+Dublin, County Dublin, Ireland
+4 months ago
+Staff Engineer, DevOps
+Staff Engineer, DevOps
+
+LearnUpon
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Hays
+
+Dublin, County Dublin, Ireland
+€60,000 - €80,000
+4 days ago
+Kubernetes Engineer
+Kubernetes Engineer
+
+InterSystems
+
+Dublin, County Dublin, Ireland
+1 week ago
+Cloud Operations Engineer
+Cloud Operations Engineer
+
+Laserfiche
+
+Dublin, County Dublin, Ireland
+1 week ago
+Production Systems Engineer
+Production Systems Engineer
+
+Meta
+
+Dublin, County Dublin, Ireland
+5 days ago
+DevOps Engineer, Charles River Development, Senior Associate
+DevOps Engineer, Charles River Development, Senior Associate
+
+Charles River Development
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at E-Solutions
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

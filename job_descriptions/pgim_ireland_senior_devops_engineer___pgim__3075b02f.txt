@@ -1,0 +1,263 @@
+Title: Senior DevOps Engineer | PGIM Ireland
+Company: PGIM Ireland
+Location: Letterkenny, County Donegal, Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-devops-engineer-pgim-ireland-at-pgim-ireland-4432663360
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The role of Senior DevOps Engineer at PGIM Ireland in Letterkenny, Ireland matches Priya’s expertise in CI/CD pipeline ownership, infrastructure-as-code (Terraform/CloudFormation), and GitOps-based deployment patterns, aligning with her experience in configuration management and release automation at Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer | PGIM Ireland
+PGIM Ireland  Letterkenny, County Donegal, Ireland
+5 days ago  124 applicants
+  
+
+See who PGIM Ireland has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Location: Letterkenny (Hybrid 2-3 days In Office)
+
+What You Will Do
+
+Our Technology Solutions Group is a dynamic, fast-paced environment, with exciting changes on the horizon under new senior leadership. We are looking for you to build out scalable applications to support our Portfolio Management, Compliance, Finance, Data Governance, Operational Risk, and Human Resources teams. You will need to have in-depth technical knowledge of Java or Python together with strong SQL and should feel comfortable working within large internal and external data sets. We want you to see this challenge as a unique and valuable opportunity, so if this sounds interesting, then PGIM could be the place for you.
+
+What You Can Expect
+
+
+This role focuses on CI/CD, platform engineering, and operational excellence across on-prem, AWS, and Azure
+Will work closely with development teams to understand their design/challenges, propose technical solutions, and assist with implementation of systems.
+Standardize CI/CD on GitHub Actions by building reusable workflows/composite actions, defining runner strategy, and enforcing environment protections/approvals and required quality gates; automate build, test, security checks, and progressive delivery (blue/green, canary) to enable developer self-service.
+Develop automated infrastructure provisioning, configuration management, source code management and new ways to operate and collaborate; implement Infrastructure as Code using CloudFormation and Terraform.
+Use role-relevant languages and frameworks such as Python, Shell/PowerShellplus Groovy/JavaScript as needed for pipeline automation.
+Implement GitOps-based deployment patterns and environment promotion workflows; establish guardrails for configuration, secrets, and change management across environments.
+Partner with engineering and leadership on FinOps practices: cost allocation/tagging standards, budget alerts, showback/chargeback reporting, rightsizing and scheduling, and optimization of compute/storage/network spend.
+Drive DevSecOps and Security Operations alignment by partnering with security teams on detection and response (triage, containment, postmortems), improving platform hardening and access controls, and ensuring audit-ready logging and monitoring.
+Define and operationalize SRE practices: SLIs/SLOs, error budgets, on-call readiness, runbooks, automated remediation, and service health dashboards leveraging modern observability tooling.
+In addition to deep technical expertise and engineering mindset, you will bring excellent problem solving, communication and teamwork skills, along with agile ways of working, strong desire to new tools and technology and an inclusive attitude!
+
+
+What You Will Bring
+
+
+5 - 10 years of proven experience in DevOps or Platform Engineering
+Strong experience with deploying, managing and monitoring services in AWS/Azure
+Has hands-on experience using source control (Git, GitHub) and feature branching strategies
+Experience designing and operating CI/CD platforms with GitHub Actions as the primary automation layer (workflow-as-code, reusable workflows/actions, runners, environment protections), plus familiarity integrating or migrating from legacy tooling (e.g., Jenkins) as needed.
+Understands networking, DNS, routing and messaging, especially between services
+Experience with microservices and designing observability (metrics, logs, traces) for production services.
+Working knowledge of cloud security and SecOps processes (IAM, key management, logging/monitoring, vulnerability remediation, incident response) and ability to embed security controls into workflows.
+Experience applying FinOps concepts in AWS/Azure (cost visibility, tagging, budgeting, forecasting, rightsizing, reserved capacity/savings plans) and communicating cost drivers to engineering stakeholders.
+Ability to speak to SDLC best practices and industry trends.
+Familiarity with various Software Engineering domains:
+Software development processes (Java, Python, JavaScript, SQL, Shell, Infrastructure-as-Code, Configuration-as-Code)
+Issue tracking and versioning (Jira)
+Package managers (pip, npm) and Build tools (Gradle, Maven)
+Containers (Docker, Kubernetes)
+Infrastructure/config deployment tooling (Terraform, CloudFormation, Ansible).
+Artifact repositories (e.g., Artifactory, Nexus, GitHub Packages)
+CI/CD platform : Jenkins & GitHub Actions
+GitHub Actions patterns: workflow-as-code (YAML), reusable workflows/actions, runner strategy, environment protections/approvals, secrets + OIDC cloud auth, and artifacts/caching.
+Cloud container platforms: Amazon EKS/ECS and ECR; Azure AKS and ACR (including image scanning/signing where available).
+Continuous delivery & GitOps tooling (e.g., Argo CD, Flux) and Helm/Kustomize-based configuration management.
+Cloud-native identity, secrets, and configuration: AWS IAM/KMS/SSM Parameter Store/Secrets Manager; Azure Entra ID, Key Vault, and App Configuration.
+Cloud monitoring/logging: AWS CloudWatch/CloudTrail; Azure Monitor, Log Analytics, and Application Insights (plus integrations with Splunk/Dynatrace/Datadog as applicable).
+Policy-as-code and compliance automation (e.g., OPA/Gatekeeper, Terraform policy frameworks) and secrets management practices.
+Experience with monitoring and observability tools such as with Splunk, Dynatrace, Datadog, Prometheus, Grafana, OpenTelemetry etc.
+Strong verbal communication skills to address both the development community and business leaders.
+Strong documentation skills to publish user guides, defects, feature requests, and architecture designs.
+
+
+What Will Set You Apart
+
+
+AWS and Azure Cloud Certifications
+Experience in application development (Python, Groovy, JavaScript)
+Experience in SRE principles in developing metrics to measure the Web apps, Data analytics and ETL processes. Establish SLO/SLA, Performance measurements and failure mitigation for such processes.
+Familiarity with application security domains (static code analysis, SAST, DAST, SCA, xSPM)
+Hands-on experience with cloud security posture management and threat detection (e.g., AWS Security Hub/GuardDuty, Azure Defender/Sentinel) and supporting audits in regulated environments.
+FinOps certification/training (or equivalent demonstrated experience) and a track record of delivering measurable cloud cost optimization outcomes.
+Financial Industry experience
+PGIM welcomes all applicants, even if you don't meet every requirement. If your skills align with the role, we encourage you to apply.
+
+
+What We Offer You
+
+
+Health Insurance: PGIM Ireland partner with Laya and BUPA to provide health insurance schemes that cover eligible employees day to day medical and hospital expenses.
+Annual Leave of 23 days at full pay.
+Pension Scheme: Members of the scheme can contribute up to 8% of salary per annum and PGIM Ireland matches contributions up to 8% of salary. Members can also make voluntary contributions to the scheme.
+Annual Bonus Programme & Shop LK Vouchers / CleverCards (subject to eligibility): Along with an annual bonus employees are rewarded with Shop LK Vouchers/ CleverCards which are paid tax free.
+Life Assurance: fully paid by PGIM Ireland, employees are covered from their start date and beneficiaries are provided with a lump sum of four times an employee’s salary.
+Education Assistance: PGIM Ireland have an Education Assistance Programme that reimburses eligible employees for furthering their education.
+
+
+-
+
+PGIM Ireland is proud to be an equal opportunity employer and is committed to equal employment opportunity regardless of applicants’ gender, civil status, family status, sexual orientation, religion, age, disability, race or membership of the traveler community. PGIM Ireland's aim is to hire the best people for the open roles and all appointments will be made on merit.
+
+Any offer of employment made by PGIM Ireland will be contingent on receiving satisfactory references. Applicants should be aware that background checks will be carried out on all candidates offered a position within PGIM Ireland.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at PGIM Ireland by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Letterkenny, County Donegal, Ireland.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Tata Consultancy Services
+Letterkenny, County Donegal, Ireland
+3 weeks ago
+Senior GCP DevOps Engineer
+Senior GCP DevOps Engineer
+Tata Consultancy Services
+Letterkenny, County Donegal, Ireland
+1 week ago
+Lead Cloud Infrastructure Engineer
+Lead Cloud Infrastructure Engineer
+SITA
+Letterkenny, County Donegal, Ireland
+1 week ago
+Senior Staff Engineer, QA
+Senior Staff Engineer, QA
+Druva
+Letterkenny, County Donegal, Ireland
+5 days ago
+Staff Software Engineer
+Staff Software Engineer
+Druva
+Letterkenny, County Donegal, Ireland
+1 week ago
+Senior Data Engineer - Microsoft Fabric
+Senior Data Engineer - Microsoft Fabric
+PGIM Ireland
+Letterkenny, County Donegal, Ireland
+5 days ago
+Show more jobs like this 
+People also viewed
+PGIM Ireland | Manager, Talent Acquisition Enablement
+PGIM Ireland | Manager, Talent Acquisition Enablement
+
+PGIM Ireland
+
+Letterkenny, County Donegal, Ireland
+1 week ago
+Sustaining Engineering Supervisor
+Sustaining Engineering Supervisor
+
+Vertiv
+
+Burnfoot, County Donegal, Ireland
+1 week ago
+Senior Data Engineer – Azure
+Senior Data Engineer – Azure
+
+Methodius IT Recruitment
+
+County Donegal, Ireland
+12 hours ago
+Quality Engineer
+Quality Engineer
+
+Vertiv
+
+Letterkenny, County Donegal, Ireland
+5 days ago
+Continuous Improvement Manager
+Continuous Improvement Manager
+
+Vertiv
+
+Letterkenny, County Donegal, Ireland
+2 weeks ago
+Senior Financial Planning & Analysis Specialist (FP&A)
+Senior Financial Planning & Analysis Specialist (FP&A)
+
+PGIM Ireland
+
+Letterkenny, County Donegal, Ireland
+2 weeks ago
+Associate Manager, Investment Operations | PGIM Ireland
+Associate Manager, Investment Operations | PGIM Ireland
+
+PGIM Ireland
+
+Letterkenny, County Donegal, Ireland
+2 weeks ago
+Continuous Improvement Manager
+Continuous Improvement Manager
+
+Vertiv
+
+Burnfoot, County Donegal, Ireland
+1 week ago
+Digital Engineering Lead (BIM)
+Digital Engineering Lead (BIM)
+
+Vertiv
+
+Burnfoot, County Donegal, Ireland
+1 week ago
+Application Security Testing Lead - DAST
+Application Security Testing Lead - DAST
+
+Methodius IT Recruitment
+
+County Donegal, Ireland
+12 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at PGIM Ireland
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

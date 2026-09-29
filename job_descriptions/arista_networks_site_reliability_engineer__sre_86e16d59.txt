@@ -1,0 +1,242 @@
+Title: Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Company: Arista Networks
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/site-reliability-engineer-sre-devops-engineering-productivity-at-arista-networks-4450955156
+Posted: 2026-08-31
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (Jenkins, Kubernetes, Docker) and falls under the 'DevOps Engineer' target category, with location in Ireland (target country) and mid-senior level fit.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Arista Networks  Dublin, County Dublin, Ireland
+1 month ago  156 applicants
+  
+
+See who Arista Networks has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Company Description
+
+Arista Networks is an industry leader in data-driven, client-to-cloud networking for large data center, campus and routing environments. What sets us apart is our relentless pursuit of innovation. We leverage the latest advancements in cloud computing, artificial intelligence, and software-defined networking to provide our clients with a competitive edge in an increasingly interconnected world. Our solutions are designed to not only meet the current demands of the digital landscape but to also anticipate and adapt to future challenges.
+
+At Arista we value the diversity of thought and perspectives that each employee brings to the table. We believe that fostering an inclusive environment, where individuals from various backgrounds and experiences feel welcome, is essential for driving creativity and innovation.
+
+Our commitment to excellence has earned us several prestigious awards, such as Best Engineering Team, Best Company for Diversity, Compensation, and Work-Life Balance. At Arista, we take pride in our track record of success and strive to maintain the highest standards of quality and performance in everything we do.
+
+Job Description
+
+Who You'll Work With
+
+Arista Networks is looking for a skilled professional for our Engineering Productivity (EngProd) team to help maintain and support our rapidly expanding infrastructure and internal user base. The ideal candidate is someone who can wear many hats, is versatile and is enthusiastic about learning new technologies. As a part of the software engineering team, you will work with other team members to design, build and administer secure, scalable and fault-tolerant tools and infrastructure in a hybrid cloud environment.
+
+Working in the EngProd group, you will collaborate and work with other engineers to design, build, scale, and operate the systems used by Arista's product development teams. These systems are based on industry-standards, including Ansible, Artifactory, Gerrit, Jenkins, Kubernetes, Grafana, Spinnaker, MySQL, ElasticSearch, Google Cloud, Varnish, Perforce, Gerrit etc, 3rd party storage appliances, as well as internal systems developed from the ground-up to automate CI/CD, testing, analysis, and visualization.
+
+What You'll Do
+
+
+Build, deploy safely and incrementally, and operate critical production systems with focus on scalability, reliability, observability, performance and security.
+Build automation to remove toil and proactively monitor, respond to, and enhance alerts with automated handling.
+Create and maintain incident response runbooks, triage platform and infrastructural issues, and write postmortem documents to prevent recurring incidents.
+Plan and communicate maintenance windows on production systems while engaging with 3rd party vendor support as needed.
+Work with Arista's product development teams to identify infrastructural bottlenecks and design solutions to enhance developer experience and workflow efficiency.
+Survey and adopt best practices around infrastructure and platform design to maintain secure, scalable and fault-tolerant systems, including studying OSS system implementations for better triage and resolution.
+
+
+#UNIX #Go #Python #Shell Scripting #Ansible #Docker #Kubernetes
+
+Qualifications
+
+Essential Skills
+
+
+At least BSc Computer Science or Engineering + 3 years’ experience, MS Computer Science or Engineering + 3 years’ experience, or equivalent work experience.
+Knowledge of one or more of Go, Python, shell scripting to be able to implement medium complexity automation workflows.
+Knowledge of Linux (or UNIX) from administration and debugging perspective
+Hands-on experience in operating software systems (infrastructure, complex applications etc) at scale
+Experience in server provisioning (esp from storage and networking perspective).
+Strong problem solving and software troubleshooting skills
+Experience with infrastructure-as-code
+
+
+Desired Skills
+
+
+Experience managing databases - mariadb, postgres, mongodb etc
+Experience with docker and virtualization technologies - kvm, qemu, kata-containers etc
+Experience managing monitoring stack - Prometheus, Loki, Tempo, InfluxDB, Grafana, Thanos etc
+Experience managing ElasticSearch clusters
+Experience managing Artifactory, docker registry etc
+Experience managing CI/CD systems like ArgoCD, Spinnaker etc
+Experience managing version control systems like Perforce, Gerrit etc
+Experience with infrastructure-as-code frameworks like Ansible
+Experience managing large Java applications
+Experience in storage infrastructure management eg: NAS, SAN, Ceph etc
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering
+Industries
+Computer Networking
+  
+
+Referrals increase your chances of interviewing at Arista Networks by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+RELX
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer - Foundation Team
+Site Reliability Engineer - Foundation Team
+Global-e
+Dublin, County Dublin, Ireland
+5 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer - Cloud Infrastructure
+Site Reliability Engineer - Cloud Infrastructure
+TikTok
+Dublin, County Dublin, Ireland
+6 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Harvey Nash
+Dublin, County Dublin, Ireland
+4 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Fulcrum Digital Inc
+Dublin, County Dublin, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Systems Engineer, Managed Operations
+Systems Engineer, Managed Operations
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+2 days ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Okta
+
+Dublin, County Dublin, Ireland
+1 week ago
+SRE - Data & AI
+SRE - Data & AI
+
+E-Frontiers
+
+Dublin, County Dublin, Ireland
+€650 - €700
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Salesforce
+
+Dublin, County Dublin, Ireland
+2 hours ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+JPMorganChase
+
+Dublin, County Dublin, Ireland
+5 days ago
+Senior Production Engineer
+Senior Production Engineer
+
+Whatnot
+
+Dublin, County Dublin, Ireland
+€131,000 - €145,000
+1 week ago
+Senior Site Reliability Engineer – 12-Month Contract
+Senior Site Reliability Engineer – 12-Month Contract
+
+Vantage
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Production Engineer, Core PE
+Senior Production Engineer, Core PE
+
+Crusoe
+
+Dublin, County Dublin, Ireland
+1 week ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+ServiceNow
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Arista Networks
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

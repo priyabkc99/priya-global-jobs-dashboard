@@ -1,0 +1,265 @@
+Title: DevOps Engineer
+Company: Pharo Management
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-pharo-management-4473013949
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The job as a DevOps Engineer at Pharo Management in London, UK matches Priya's expertise in CI/CD pipelines, infrastructure-as-code (Terraform), cloud platforms (Azure/GCP/AWS), and scripting (Python/Bash), aligning with her experience at Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Pharo Management  London, England, United Kingdom
+1 day ago  29 applicants
+  
+
+See who Pharo Management has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Who We Are
+
+Pharo Management is a leading global macro hedge fund with a focus on emerging markets. Founded in 2000, the firm has offices in London, New York, Hong Kong and Abu Dhabi, and currently manages $8 billion in assets across four funds. Pharo trades foreign exchange, sovereign and corporate credit, local market interest rates, commodities, and their derivatives. We trade in over 70 countries across Asia, Central and Eastern Europe, the Middle East and Africa, Latin America as well as developed markets. Our investment approach combines macroeconomic fundamental research and quantitative analysis.
+
+Pharo employs a diverse, dynamic team of 140 professionals representing over 20 nationalities and 30 languages. We have a strong corporate culture anchored in core values such as collaborative spirit, creativity, and respect. We are passionate about what we do and are committed to attracting the best and brightest talent.
+
+This is a great opportunity to join a market leader and contribute to our continued success.
+
+Job Description
+
+We are seeking a DevOps Engineer to join our technology team in London. This role helps build and maintain the infrastructure, deployment pipelines, and monitoring that our trading, research, and operations systems run on. It is a hands-on position with a broad remit, offering real ownership and visible impact on how the business runs.
+
+The role sits alongside software developers, data engineers, and infrastructure staff, with support from senior engineers as the successful candidate develops. We are looking for someone curious and methodical, who enjoys understanding how systems fit together and takes pride in making things reliable and repeatable rather than merely working.
+
+Responsibilities Will Include
+
+
+Build, maintain, and improve CI/CD pipelines for internal applications, working with developers to make releases faster, safer, and more automated.
+Support day-to-day requests from development teams, helping developers debug build, deployment and environment issues.
+Support and extend our cloud and on-premise infrastructure, including provisioning environments and managing configuration through infrastructure-as-code.
+Help operate monitoring, alerting, and logging so that issues are caught before they affect users, and contribute to investigating and resolving incidents when they occur.
+Write scripts and small tools to automate manual and repetitive operational tasks.
+Contribute to improving software delivery practices across the technology team.
+Participate in an on-call rotation, providing out of hours support for DevOps related issues impacting critical services.
+
+
+Required Qualities And Skills
+
+
+3+ years of experience in a DevOps, platform, infrastructure, or software engineering role, including internships and placements.
+Experience with Git and standard branching and code review workflows.
+Experience with CI/CD tooling, particularly GitHub Actions.
+Exposure to containers and orchestration (Docker, Kubernetes, OpenShift, etc).
+Familiarity with infrastructure-as-code tools, particularly Terraform.
+Experience working with a major cloud platform (Azure, GCP, AWS).
+Understanding of networking fundamentals (DNS, TCP/IP, HTTP, load balancing, firewalls).
+Clear written and verbal communication, with the ability to explain technical issues to colleagues from non-technical teams.
+Scripting ability in at least one of Python, PowerShell, or Bash.
+Bachelor's degree in computer science, engineering, or a closely related field, or equivalent experience.
+
+
+Preferred
+
+
+Working knowledge of Linux and/or Windows Server administration.
+Experience with monitoring and observability tooling such as Grafana, Prometheus, Application Insights, or Sentry.
+Some SQL and exposure to relational databases, particularly SQL Server.
+Awareness of security and compliance considerations in a regulated financial services setting.
+
+
+Work status and location:
+
+Full time in London
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Pharo Management by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Ripjar
+London, England, United Kingdom
+5 months ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Xelix
+London, England, United Kingdom
+5 days ago
+DevOps Engineer - UK
+DevOps Engineer - UK
+ANRA Technologies
+London, England, United Kingdom
+7 months ago
+DevOps Engineer
+DevOps Engineer
+Sensor Tower
+London, England, United Kingdom
+3 months ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+Team Creation
+Hammersmith, England, United Kingdom
+3 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Kharon
+
+London, England, United Kingdom
+£90,000 - £105,000
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Code Wizards Group
+
+Theale, England, United Kingdom
+4 weeks ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+La Fosse
+
+London Area, United Kingdom
+£80,000 - £90,000
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Charlotte Tilbury Beauty
+
+London, England, United Kingdom
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Akuna Capital
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineer - AWS & Terraform
+DevOps Engineer - AWS & Terraform
+
+Worldpay
+
+London Area, United Kingdom
+5 days ago
+Platform Engineer
+Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Griffin
+
+London, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+REMIUM
+
+City Of London, England, United Kingdom
+1 month ago
+Platform Engineer
+Platform Engineer
+
+Lendable
+
+London, England, United Kingdom
+10 hours ago
+Similar Searches
+Bond Trader jobs
+453 open jobs
+Fixed Income Portfolio Manager jobs
+277 open jobs
+Senior System Architect jobs
+944 open jobs
+Fixed Income Trader jobs
+469 open jobs
+Trading Assistant jobs
+953 open jobs
+Fixed Income Analyst jobs
+3,082 open jobs
+Sales Trader jobs
+87 open jobs
+Senior Economist jobs
+131 open jobs
+Trade Analyst jobs
+2,386 open jobs
+Investor Relations Associate jobs
+198 open jobs
+Junior Technical Consultant jobs
+23,020 open jobs
+Quantitative Developer jobs
+1,718 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pharo Management
+Continue with Google
+Sign in with Email
+
+or
+
+Continue with Google
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,239 @@
+Title: Principal DevOps Engineer - Decision Management Platform
+Company: Mastercard
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/principal-devops-engineer-decision-management-platform-at-mastercard-4471755525
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The Principal DevOps Engineer role at Mastercard matches Priya's expertise in CI/CD pipelines, infrastructure-as-code, and cloud environments, aligning with her background in configuration management and release processes, while being located in Ireland (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Principal DevOps Engineer - Decision Management Platform
+Mastercard  Dublin, County Dublin, Ireland
+4 hours ago   Be among the first 25 applicants
+  
+
+See who Mastercard has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Principal DevOps Engineer - Decision Management Platform
+
+Overview
+
+Join Mastercard’s Services Technology organization as a DevOps Principal Engineer for the Decision Management Program (DMP)—a patented, real-time decisioning platform that powers fraud prevention, risk scoring, and identity verification across the global payments network. The platform processes billions of transactions each month, consistently delivering results in milliseconds to support mission critical business solutions.
+
+Role
+
+In this role you will design systems to enable deployment and management of critical high-volume, low-latency financial systems into public and private cloud environments. You will work with global engineering teams to drive DevOps initiatives across the platform utilizing a highly scalable architecture leveraging In-Memory data grids and real time processing technologies.
+
+This is a unique opportunity to shape the future of Mastercard’s decisioning ecosystem—advancing innovative, high‑performance solutions and driving engineering and operational excellence across a critical real‑time platform
+
+
+Architect, provision, and manage public and on-prem cloud infrastructure, including containerized and virtualized systems
+Design, build, and optimize CI/CD pipelines to enable fast, safe, and repeatable delivery of complex distributed systems across a global network of data centres.
+Collaborate cross-functionally with R&D teams to design scalable systems, troubleshoot complex issues, and support new product initiatives.
+Champion Infrastructure as Code principles using tools like Terraform and CloudFormation.
+Drive observability and reliability through monitoring, logging, and alerting systems (Prometheus, Grafana, Druid, Splunk etc.).
+Foster innovation and continuous improvement, adopting new tools and practices to increase efficiency, scalability, and cost optimization.
+Contribute to hands-on coding and automation efforts when needed — lead by example.
+Partner with stakeholders to align DevOps initiatives with business objectives, including uptime, deployment velocity, and cost efficiency.
+
+
+
+All About You
+
+
+8+ years of experience in Software Engineering and DevOps roles, including at least 2 years in a technical leadership capacity.
+Strong Linux systems administration background
+Deep familiarity with AWS cloud environments.
+Proven experience with container orchestration and tooling (Kubernetes, Helm, Docker Compose).
+Hands-on experience with infrastructure-as-code (Terraform, CloudFormation).
+Strong understanding of CI/CD pipelines (GitHub Actions, Jenkins, XLR etc.).
+Proficient in scripting and programming (Bash, Python, Java).
+Experience with monitoring and observability platforms (Prometheus, Grafana, Druid, Splunk, Loki).
+Excellent communication skills and the ability to work effectively with Developers, QE, Operations and support teams.
+Experience with FinOps or cost optimization in cloud environments
+Demonstrated ownership mindset, prioritization skills, and ability to thrive in a fast-paced, multi-tasking environment.
+
+
+
+Corporate Security Responsibility
+
+All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+
+
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services, IT Services and IT Consulting, and Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Mastercard by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Principal DevOps Engineer
+Principal DevOps Engineer
+Archer Recruitment
+Dublin, County Dublin, Ireland
+€110,000 - €120,000
+1 day ago
+Lead Platform Engineer
+Lead Platform Engineer
+KKR
+Dublin, County Dublin, Ireland
+5 days ago
+Staff Engineer, DevOps
+Staff Engineer, DevOps
+LearnUpon
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Autodesk
+Dublin, County Dublin, Ireland
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+Autodesk
+Greater Dublin
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Newcode.ai
+Dublin, County Dublin, Ireland
+4 months ago
+Show more jobs like this 
+People also viewed
+Lead Site Reliability Engineer (AI/ML)
+Lead Site Reliability Engineer (AI/ML)
+
+Mastercard
+
+Dublin, County Dublin, Ireland
+1 week ago
+Platform Engineering Lead
+Platform Engineering Lead
+
+BOYLE Sports
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+ServiceNow
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Java DevOps Engineer - Digital Assets (VP)
+Java DevOps Engineer - Digital Assets (VP)
+
+Citi
+
+Dublin, County Dublin, Ireland
+3 days ago
+Software Engineer (DevOps) - Observability Platform
+Software Engineer (DevOps) - Observability Platform
+
+Revolut
+
+Greater Dublin
+2 weeks ago
+Staff Software Engineer, Platform Infrastructure
+Staff Software Engineer, Platform Infrastructure
+
+Pantheon
+
+Dublin, County Dublin, Ireland
+6 days ago
+DevOps Automation Platform Engineer
+DevOps Automation Platform Engineer
+
+Transaction Network Services (TNS)
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+
+Mars Capital
+
+Dublin 4, County Dublin, Ireland
+2 weeks ago
+Platform Engineering Lead
+Platform Engineering Lead
+
+BOYLE Sports
+
+Dundalk, County Louth, Ireland
+5 months ago
+AI DevOps Engineer
+AI DevOps Engineer
+
+The Citco Group Limited
+
+Dublin, County Dublin, Ireland
+3 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Mastercard
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
