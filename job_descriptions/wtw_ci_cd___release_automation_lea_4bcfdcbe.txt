@@ -1,0 +1,300 @@
+Title: CI/CD & Release Automation Lead
+Company: WTW
+Location: Reigate, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/ci-cd-release-automation-lead-at-wtw-4466564123
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The role as a CI/CD & Release Automation Lead at WTW matches Priya's expertise in DevOps, release management, and CI/CD pipeline ownership, with alignment to regulated industries and configuration management practices.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+CI/CD & Release Automation Lead
+WTW  Reigate, England, United Kingdom
+1 week ago  32 applicants
+  
+
+See who WTW has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from WTW
+
+Priyanka Thakkarar
+Priyanka Thakkarar
+Global Hiring (UK & Ireland) | Talent & Leadership Acquisition Specialist | Driving strategic career moves, talent empowerment, and a people-first…
+Description
+
+WTW Insurance Consulting and Technology are embracing Continuous Delivery as part of our Software Development Life Cycle. At the heart of this, we are looking for a talented and experienced SaaS / DevOps Release Manager to join us to help expand and manage our approach, capabilities, tools, and colleagues to deliver agile release management.
+
+This role will be responsible for and lead key aspects of release management including planning, scheduling, communications, team coordination, deployment, and feature release. You will work closely with teams and stakeholders across the business including product management, engineering, and security to lead continuous release plans and establishing continuous improvement practices.
+
+The Role
+
+As a SaaS / DevOps Release Manager, You Will
+
+Release Management & Governance
+
+
+Establish and manage modern release practices including quality gates, automated checks, and release readiness criteria
+Ensure alignment with governance, security, and compliance requirements while minimising manual intervention through automation
+Manage risks, dependencies, and release decisions across multiple product teams
+
+
+DevOps & Automation Enablement
+
+
+Drive the adoption of CI/CD pipelines, release orchestration, and infrastructure automation across teams
+Work directly with engineering teams to embed release processes into delivery workflows (e.g. pipelines, GitOps, environment promotion models)
+Identify opportunities to replace manual release activities with automated, repeatable processes
+Support teams in implementing progressive delivery techniques (e.g. feature flags, canary releases, blue/green where applicable)
+
+
+Tooling & Platform Integration
+
+
+Collaborate with platform and engineering teams to align on DevOps tooling, pipeline standards, and release frameworks
+Ensure release processes are integrated into developer tooling and platform capabilities, not operated separately
+Contribute to standardisation of release patterns across SaaS products
+
+
+Continuous Improvement & Metrics
+
+
+Define and track DORA-style metrics (deployment frequency, lead time, change failure rate, recovery time)
+Drive continuous improvement through data-led insights
+Contribute to the evolution of ICT DevOps and SDLC practices
+
+
+Coaching & Capability Building
+
+
+Coach teams on DevOps practices, automation, and modern release approaches
+Help teams transition from manual, process-heavy release management to automated, flow-based delivery
+Act as a bridge between engineering, architecture, and governance
+
+
+Qualifications
+
+What you’ll bring
+
+The Essential Skills/experience For This Position Are
+
+
+Demonstratable experience (at least 3 years) in release management for a SaaS organisation releasing new features and updates on a frequent (e.g., team sprint) basis to customers
+Great working experience of Agile, SDLC and DevOps practices to effectively fulfil the role
+Experience in modern release management tooling e.g. ServiceNow, BMC
+Managing multiple and varied internal stakeholders and customers and cross-functional teams
+Contributions into wider organisational practice improvement and evolution
+Knowledge and passion for new techniques to achieve release management goals and evidence to show continual improvement of release management approach
+Strong working knowledge of CI/CD pipelines (e.g. Azure DevOps, GitHub Actions) and release automation
+Experience implementing pipeline-based release controls, automated testing, and deployment strategies
+Understanding of infrastructure as code (e.g. OpenTofu) and environment management concepts
+Experience with cloud-native SaaS architectures (preferably Azure)
+Familiarity with observability, monitoring, and release health metrics
+Ability to work hands-on with engineering teams to diagnose and improve delivery pipelines
+Understanding of modern DevOps practices and principles (GitOps, trunk-based development, progressive delivery)
+Experience improving developer experience and reducing delivery friction through automation
+
+
+What We Offer
+
+Enjoy a benefits package designed to help you thrive, both professionally and personally. You'll receive 25 days of annual leave plus an extra WTW day to relax and recharge. Our comprehensive health and wellbeing offering includes private healthcare, life insurance, group income protection, and regular health assessments, all giving you peace of mind. Secure your future with our defined contribution pension scheme, featuring matched contributions up to 10% from the company.
+
+We support your growth and balance with hybrid working options, access to an employee assistance programme, and a fully paid volunteer day to make a difference in your community. On top of these, you can opt into a variety of additional perks including an electric vehicle car scheme, share scheme, cycle-to-work programme, dental and optical cover, critical illness protection, and much more. Start making the most of your career and wellbeing with a range of benefits tailored for you.
+
+Equal Opportunity Employer
+
+We’re committed to equal employment opportunity and provide application, interview and workplace adjustments and accommodations to all applicants. If you foresee any barriers, from the application process through to joining WTW, please email candidatehelpdesk@wtwco.com
+
+(ICT_TECH TD_2026_27R)
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at WTW by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Software Release Manager CI/CD Automation SaaS
+Software Release Manager CI/CD Automation SaaS
+Client Server
+Reigate, England, United Kingdom
+£110,000 - £130,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+E-Solutions
+London Area, United Kingdom
+15 hours ago
+Senior Build Tools Engineer
+Senior Build Tools Engineer
+SEGA Europe
+Horsham, England, United Kingdom
+5 days ago
+Senior DevOps Engineer
+Hays Plc
+London Area, United Kingdom
+1 week ago
+Technical Lead
+Technical Lead
+LSEG
+City Of London, England, United Kingdom
+3 days ago
+Software Development Engineer - Release Engineering
+Software Development Engineer - Release Engineering
+Sky
+London, England, United Kingdom
+6 days ago
+Show more jobs like this 
+People also viewed
+Senior Director Release Management
+Senior Director Release Management
+
+IFS
+
+London, England, United Kingdom
+1 week ago
+Dev Ops/Process Change - Software Architect - Digital Product Engineering - UK Inbox
+Dev Ops/Process Change - Software Architect - Digital Product Engineering - UK Inbox
+
+NLB Services
+
+London Area, United Kingdom
+5 days ago
+Platform Engineer
+Platform Engineer
+
+Omnea
+
+London Area, United Kingdom
+£90,000 - £125,000
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+Wayve
+
+London, England, United Kingdom
+5 days ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+Northrop Grumman UK
+
+London, England, United Kingdom
+1 month ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+London, England, United Kingdom
+£105,000 - £125,000
+1 week ago
+DevOps Lead
+DevOps Lead
+
+The London School of Economics and Political Science (LSE)
+
+London, England, United Kingdom
+5 days ago
+Principal DevOps Engineer
+Principal DevOps Engineer
+
+Palo Alto Networks
+
+London, England, United Kingdom
+2 days ago
+DevOps Build Engineer
+DevOps Build Engineer
+
+Larian Studios
+
+Guildford, England, United Kingdom
+3 days ago
+Platform Engineer
+Platform Engineer
+
+Omnea
+
+London, England, United Kingdom
+3 days ago
+Similar Searches
+Lead Automation Engineer jobs
+916 open jobs
+Automation Test Lead jobs
+533 open jobs
+Senior Control System Engineer jobs
+1,043 open jobs
+Quality Assurance Architect jobs
+240 open jobs
+Test Architect jobs
+2,189 open jobs
+Business Analyst Contract jobs
+811 open jobs
+Senior Automation Engineer jobs
+4,085 open jobs
+Control Design Engineer jobs
+1,142 open jobs
+Senior Quality Assurance Manager jobs
+788 open jobs
+Playwright jobs
+13,692 open jobs
+Digital Engineer jobs
+24,667 open jobs
+Principal Test Engineer jobs
+2,914 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at WTW
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

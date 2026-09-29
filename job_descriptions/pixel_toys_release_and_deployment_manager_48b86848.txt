@@ -1,0 +1,301 @@
+Title: Release and Deployment Manager
+Company: Pixel Toys
+Location: Royal Leamington Spa, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/release-and-deployment-manager-at-pixel-toys-4466335518
+Posted: 2026-09-15
+Deadline: Open until filled
+Reason: The job aligns with Priya's release management expertise, is located in the UK (target country), and matches her configuration management/technical communication background from Topcon and Elektrobit.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release and Deployment Manager
+Pixel Toys  Royal Leamington Spa, England, United Kingdom
+2 weeks ago  54 applicants
+  
+
+See who Pixel Toys has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Pixel Toys
+
+David King
+David King
+Recruitment Manager at Pixel Toys 🎮 MHFA Certified
+
+Based in the heart of Leamington Spa, Pixel Toys have spent over a decade pushing the capabilities of mobile gaming. We have developed multiple award-winning titles, including: Warhammer 40,000: Freeblade, Warhammer Age of Sigmar: Realm War; and we’re now excited to be exclusively working on a new game, unlike ANYTHING we’ve done previously!
+
+
+
+
+As a forward thinking and innovative studio we are always looking for new technologies and techniques to develop and use in our games and make them even more engaging experiences for our customers.
+
+
+
+
+We are excited to continue to grow our team and are always on the lookout for highly talented and motivated individuals, who are passionate about gaming and excited to join us on our ambitious journey!
+
+
+
+
+The Role:
+
+
+
+
+We are now seeking a Release Manager / Technical Producer to act as the primary 'air traffic controller' for our live-service game releases.
+
+
+
+
+Operating at the vital intersection of engineering, QA, and production, you will bridge discipline gaps to visualise, plan, and execute the delivery of content, data, code, and client builds across all server environments. You will maintain a granular understanding of every upcoming feature, ensuring deliverables align strictly with scope locks and design specifications. Working closely with Engineering, you will monitor build health, oversee pre-release validation, and keep deployment branches consistently stable to support our ongoing release cadence.
+
+
+
+
+Your strategic planning skills will shine as you partner with Production to map out updates, patches, hotfixes, and live ops events into a clear, living release calendar. You will shepherd feature workflows smoothly through every stage, guiding them from initial scope lock through QA sign-offs, platform submission, and post-release care. Clear, transparent communication is at the heart of this role, and you will deliver daily updates on release status, build dependencies, and schedule adjustments to keep stakeholders across the wider game team aligned and informed.
+
+
+
+
+On the operational front, you will partner with engineering and analytics teams to monitor live client and server rollouts, utilising post-deployment telemetry to ensure platform stability and optimal performance. When technical blockers or risks emerge, you will proactively identify them before key milestones, contributing thoughtfully to critical go/no-go deployment decisions. Should live issues arise, you will coordinate calm, efficient incident response, hotfixes, or rollback strategies to minimise player impact, ensuring our community enjoys a reliable and seamless gaming experience.
+
+
+
+
+About you:
+
+
+
+
+You bring a strong background in release management, deployment management, or technical project management within live-service mobile games, ideally with focus on the free-to-play (F2P) space. You have practical, hands-on experience working with internal build infrastructure, CI/CD pipelines, build automation systems, and deployment platforms such as TestFlight. Your solid understanding of technical build workflows allows you to navigate the complexities of live operations and ensure software delivery remains predictable and smooth.
+
+
+
+
+As a proactive, collaborative problem solver, you comfortably engage with complex technical challenges, working directly alongside developers to identify and resolve release-blocking issues effectively. You are an exceptional cross-functional communicator with a proven track record of translating complex technical workflows into cohesive, actionable release plans for producers, engineers, and studio leadership alike. Your structured approach, clear communication, and commitment to team alignment make you a trusted partner in delivering seamless game updates to our players.
+
+
+
+
+What can Pixel Toys offer:
+
+
+
+
+At Pixel Toys we are proud of the progressive, inclusive, and collaborative working environment we have created; a place where everyone has the opportunity to be themselves and is welcomed and valued for who they are and what they contribute. We have some fantastic benefits we offer our employees… Here are just some of them:
+
+
+
+
+Competitive salary, reviewed annually
+25 days annual leave, excluding bank holidays
+Discretionary Bonus Scheme
+Up to 3 additional long service days (duvet days!)
+Private Medical Insurance (including optical and dental)
+Company Pension scheme
+Death in Service benefit
+Regular socials including epic summer and Christmas parties!
+Staff training and development
+Quarterly Wellness days (On-site massages and more)
+Flexi-time working hours
+
+
+
+
+Recruitment selection is based on skills, experience and a good Pixel Toys mission and values fit.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology and Production
+Industries
+Computer Games
+  
+
+Referrals increase your chances of interviewing at Pixel Toys by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Release Manager
+Release Manager
+Lighthouse Games
+Royal Leamington Spa, England, United Kingdom
+2 weeks ago
+Change & Release Manager
+Change & Release Manager
+Halfords
+Worcestershire, England, United Kingdom
+£55,000 - £70,000
+1 month ago
+Technical Delivery Manager
+Technical Delivery Manager
+DeterTech | UK
+Telford, England, United Kingdom
+3 days ago
+Service Delivery & Release Manager
+Service Delivery & Release Manager
+Finova
+Cheltenham, England, United Kingdom
+1 month ago
+Platform Manager
+Platform Manager
+Map Room
+Gloucestershire, England, United Kingdom
+3 days ago
+Change Lead
+Change Lead
+Compass Group
+Birmingham, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps & Infrastructure Lead
+DevOps & Infrastructure Lead
+
+Copello Global
+
+Gloucestershire, England, United Kingdom
+3 days ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+LSEG
+
+Nottingham, England, United Kingdom
+2 weeks ago
+Senior Service Transition Manager
+Senior Service Transition Manager
+
+OneAdvanced
+
+Birmingham, England, United Kingdom
+3 weeks ago
+Site Reliability Engineering Manager (Specialist I - DevOps Engineering)
+Site Reliability Engineering Manager (Specialist I - DevOps Engineering)
+
+UST
+
+Nottingham, England, United Kingdom
+1 week ago
+Service Delivery Manager
+Service Delivery Manager
+
+Leonardo
+
+Gloucester, England, United Kingdom
+£50,000 - £60,000
+2 weeks ago
+Project Manager - Integration
+Project Manager - Integration
+
+Akkodis
+
+Leicestershire, England, United Kingdom
+£60,000 - £70,000
+2 weeks ago
+Client Service Delivery
+Client Service Delivery
+
+Accenture
+
+Birmingham, England, United Kingdom
+3 weeks ago
+Technical Project Manager (ERP)
+Technical Project Manager (ERP)
+
+Delaney & Bourton
+
+Leicestershire, England, United Kingdom
+£65,000 - £70,000
+3 weeks ago
+IT Project Manager
+IT Project Manager
+
+Akkodis
+
+Leicestershire, England, United Kingdom
+£60,000 - £70,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+BAE Systems
+
+Gloucester, England, United Kingdom
+1 week ago
+Similar Searches
+Change And Release Manager jobs
+228 open jobs
+Network Services Manager jobs
+596 open jobs
+Release Manager jobs
+5,967 open jobs
+New Product Introduction Manager jobs
+11,159 open jobs
+Senior Executive Engineer jobs
+2,355 open jobs
+Solutions Project Manager jobs
+5,465 open jobs
+Configuration Manager jobs
+661 open jobs
+Customer Project Manager jobs
+10,324 open jobs
+Facilities Security Officer jobs
+239 open jobs
+Test Director jobs
+348 open jobs
+Geology Manager jobs
+40 open jobs
+Migration Manager jobs
+4,096 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pixel Toys
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

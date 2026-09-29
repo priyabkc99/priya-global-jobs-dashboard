@@ -1,0 +1,259 @@
+Title: Release Manager
+Company: Lighthouse Games
+Location: Royal Leamington Spa, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/release-manager-at-lighthouse-games-4462587147
+Posted: 2026-09-15
+Deadline: N/A
+Reason: The role of Release Manager at Lighthouse Games aligns with Priya's extensive experience in end-to-end release ownership, cross-team coordination, and regulated-industry compliance (matching her Elektrobit/Topcon background), and is located in the UK (a target country) with no explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager
+Lighthouse Games  Royal Leamington Spa, England, United Kingdom
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who Lighthouse Games has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Lighthouse Games is a new AAA studio in Leamington Spa. We are defined by our pedigree of talent and serious ambition to build a new best-in-class game. When you join us at Lighthouse, you will be able to create the best work of your career in an environment that feels truly collaborative. You will learn from the best and work alongside the future greats of the gaming industry. 
+
+As a Release Manager, you will play a pivotal role within the QA department, taking ownership of the end-to-end release process across all target platforms. You will coordinate build cadence, milestone readiness, platform certification submissions and go-live logistics, working closely with the QA Lead on test coverage, exit criteria and release-gate decisions. This is a high-visibility, cross-functional role that requires close collaboration with Production, Engineering, Build Engineering, Art, Design, Audio and QA.
+
+
+
+Requirements
+
+
+Coordinate build packaging, patch scheduling, and hotfix deployment processes
+Maintain the branching and build-promotion strategy in partnership with Build Engineering
+Own the build release schedule, ensuring builds are packaged, promoted and distributed in line with agreed milestones and release timelines
+Coordinate build handovers between Engineering, Build Engineering, QA and Production, ensuring all teams have clear visibility
+Ensure release builds meet agreed readiness criteria before promotion to QA, certification or production environments
+Track build stability and identify potential risks or blockers
+Manage build versioning and ensure consistent naming, labelling and tracking across platforms and environments
+Coordinate patch and hotfix timelines, ensuring appropriate testing, approvals and deployment windows are agreed with relevant teams
+Work closely with Build Engineering to identify and resolve build pipeline, packaging or deployment issues that could impact delivery
+Communicate build status, deployment timelines, blockers and changes to relevant stakeholders in a clear and timely manner
+
+
+Desirable Experience 
+
+Previous experience working as a Release Manager
+Experience managing complex releases across multiple platforms
+Familiarity with platform certification processes and requirements
+Strong understanding of software development lifecycles, build pipelines, branching strategies and deployment processes
+Experience working closely with Build Engineering, DevOps or technical teams to manage build promotion and release pipelines
+Knowledge of QA methodologies, test coverage, release criteria and quality gates
+Experience using source control and build management systems in a production environment
+Experience working within Agile development environments and coordinating multiple teams against fixed milestones
+Experience producing release dashboards, status reports, risk registers and executive-level reporting
+Strong understanding of release risk management, including technical, content, certification and schedule risks
+Experience working with external stakeholders, platform holders or third-party partners
+A strong understanding of game development workflows and the relationship between Production, Engineering, Art, Design, Audio and QA
+
+
+Benefits
+
+
+25 Days Holiday, plus 1 day for your birthday
+Studio Shutdown between Christmas and New Year
+Discretionary Bonus Scheme
+Private Pension Scheme
+Private Healthcare
+Health and Well-Being Benefits
+Dental Care
+Optical Treatments
+Mental Health Support
+Hybrid Working Model
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Lighthouse Games by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Release and Deployment Manager
+Release and Deployment Manager
+Pixel Toys
+Royal Leamington Spa, England, United Kingdom
+2 weeks ago
+Change & Release Manager
+Change & Release Manager
+Halfords
+Worcestershire, England, United Kingdom
+£55,000 - £70,000
+1 month ago
+Technical Delivery Manager
+Technical Delivery Manager
+DeterTech | UK
+Telford, England, United Kingdom
+3 days ago
+Service Delivery & Release Manager
+Service Delivery & Release Manager
+Finova
+Cheltenham, England, United Kingdom
+1 month ago
+Change Lead
+Change Lead
+Compass Group
+Birmingham, England, United Kingdom
+1 week ago
+Platform Manager
+Platform Manager
+Map Room
+Gloucestershire, England, United Kingdom
+3 days ago
+Show more jobs like this 
+People also viewed
+Software Capability Lead
+Software Capability Lead
+
+Rolls-Royce
+
+Solihull, England, United Kingdom
+2 weeks ago
+PMO Lead
+PMO Lead
+
+Nominet
+
+Oxford, England, United Kingdom
+1 week ago
+Integration Lead
+Integration Lead
+
+Tata Technologies
+
+Gaydon, England, United Kingdom
+1 week ago
+Platform Product Lead
+Platform Product Lead
+
+Toolstation
+
+Northampton, England, United Kingdom
+2 weeks ago
+Junifer Capability Lead
+Junifer Capability Lead
+
+Shell
+
+Milton Keynes, England, United Kingdom
+1 day ago
+Project Manager II
+Project Manager II
+
+RELX
+
+Oxford, England, United Kingdom
+1 month ago
+Technical Change Manager
+Technical Change Manager
+
+HS2 (High Speed Two) Ltd
+
+Birmingham, England, United Kingdom
+4 days ago
+Tech Lead, Site Reliability Engineering
+Tech Lead, Site Reliability Engineering
+
+LSEG
+
+Nottingham, England, United Kingdom
+5 days ago
+Knowledge Manager
+Knowledge Manager
+
+Rolls-Royce
+
+Derby, England, United Kingdom
+2 weeks ago
+Senior Service Transition Manager
+Senior Service Transition Manager
+
+OneAdvanced
+
+Birmingham, England, United Kingdom
+3 weeks ago
+Similar Searches
+Change And Release Manager jobs
+228 open jobs
+Unix Consultant jobs
+319 open jobs
+Release Engineer jobs
+2,904 open jobs
+Deployment Manager jobs
+11,482 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Configuration Manager jobs
+661 open jobs
+Change Manager jobs
+19,466 open jobs
+Problem Manager jobs
+4,516 open jobs
+Contract Test Engineer jobs
+393 open jobs
+Assistant Professor of Mathematics jobs
+120 open jobs
+Delivery Manager jobs
+32,530 open jobs
+Game Producer jobs
+190 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Lighthouse Games
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

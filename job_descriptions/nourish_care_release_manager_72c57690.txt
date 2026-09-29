@@ -1,0 +1,374 @@
+Title: Release Manager
+Company: Nourish Care
+Location: Bournemouth, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/release-manager-at-nourish-care-4472020054
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The job as a Release Manager in Bournemouth, UK matches Priya's expertise in release management, cross-functional coordination, and quality gatekeeping, aligned with her experience at Topcon and Elektrobit.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager
+Nourish Care  Bournemouth, England, United Kingdom
+3 days ago   Be among the first 25 applicants
+  
+
+See who Nourish Care has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Release Manager
+
+
+
+
+Reporting To: Head of Release Management
+
+Location: Bournemouth / Hybrid
+
+Job Type: Full Time 37.5 hours a week
+
+
+
+
+Our Purpose: A Better Life for Everyone
+
+
+
+
+Nourish is not simply a technology company; we are a digital partner for the social and health care sector rooted in human connections, with the person being supported at its core. We offer a range of co-produced software solutions tailored to the unique challenges of care, while still being flexible enough to meet the specific needs of each individual service we work with.
+
+
+
+
+We are at an exciting stage of growth. While we are the market leader, we remain ambitious and dedicated to our mission. We continue to revolutionise the sector by investing in our platform and our incredible employees who make this impact possible.
+
+
+
+
+Our Ecosystem
+
+At Nourish, you will contribute to a sophisticated ecosystem that includes:
+
+Technology that impacts a million people every day: Our core products are used by over 425,000 carers to support 417,000+ individuals
+The Nourish Partnership Programme (NPP): A sector-leading programme that manages strategic integrations with third-party systems to ensure seamless data syncing and interoperability across the care journey.
+
+
+
+
+Our Culture & Values
+
+We look for people who align with the way we work. If you join us, you are joining a culture defined by:
+
+Making a Difference: We remember who we serve. We are passionate about making a meaningful, positive impact on the lives of carers and those we support
+Agility: We continuously refine and adapt. There is no room for complacency here; we are driven to constantly review and improve our products and processes.
+Collective Effort: We help each other out because we know that when one person wins, we all win. It’s "all hands-on deck" - everyone is in it together.
+Every Person Counts: We treat everyone as a very significant part of our community. We welcome people being their true and authentic selves and value the diverse perspectives they bring.
+Openness to Learning: We believe no question is a silly question and all insights are valuable. Mistakes are part of the improvement process; we dust ourselves off and begin again.
+
+
+
+
+The Team & Role
+
+The Release Manager plays a critical role in ensuring that new features and product releases reach customers in a consistent, high-quality, and well-coordinated way. This is a high impact role and sits at the intersection of the Nourish R&D and GTM teams.
+
+The Release Manager is the connective tissue between internal release readiness and the customer experience of receiving a release. They are responsible for the standards, coordination, and communication that determine how a release lands, and for ensuring that every function with a stake in that outcome is aligned, informed, and prepared.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Release Quality & Customer Readiness
+Define and own release readiness criteria, ensuring all releases meet quality and customer experience standards before reaching customers.
+Establish and enforce controls around feature flagging, customer segmentation, and communications accuracy, preventing incidents such as features being enabled for customers contrary to communicated expectations.
+Partner with Product and Engineering to ensure quality gates are embedded into the release lifecycle, with clear sign-off processes before go-live.
+Champion the customer perspective throughout the release process, ensuring releases are safe, coherent, and well-communicated from the customer’s point of view.
+
+
+
+
+Beta & Early Adopter Program (EAP) Management
+Own end-to-end management of Beta and Early Adopter Programs, including customer selection, onboarding, feedback collection, and synthesis.
+Work closely with Product Managers to translate beta insights into release decisions and ensure learnings are fed back into the product roadmap.
+Act as the primary point of contact for beta customers during the programme, managing expectations and ensuring a high-quality experience.
+Define the criteria for graduating features from beta to general availability, in alignment with Product and Customer Success.
+
+
+
+
+GTM Coordination & Sales Enablement
+Own the release plan and ensure all artifacts sitting closer to R&D, including release notes, internal briefings, rollout plans, and feature documentation are accurate, timely, and accessible to all relevant teams.
+Work in close partnership with Product Marketing, who own sales enablement materials and market-facing communications, to ensure a clear and agreed handoff point between the two teams.
+Establish shared templates and handoff processes with Product Marketing to ensure nothing falls between the two teams without a named owner.
+Ensure GTM teams, including Sales, Customer Success, and Marketing, are fully briefed and equipped ahead of every significant release, with RM and PMM jointly accountable for that readiness.
+
+
+
+
+Cross-Functional Release Coordination
+Own the release coordination process across Product, Engineering, Implementation, Customer Success, Sales and Marketing, ensuring all functions are engaged at the right time.
+Mandate and manage earlier engagement of the Implementation team in the release lifecycle, establishing a defined trigger point for their involvement to prevent late-stage delays.
+Facilitate release planning ceremonies and cross-functional checkpoints, maintaining momentum and resolving blockers across teams.
+Drive a consistent operating model for how Release Managers and Product Managers work together, including shared cadences, templates, and escalation paths, reducing the current inconsistency experienced by GTM teams and customers.
+
+
+
+
+Release Communication & Business Alignment
+Maintain comprehensive, real-time release documentation, including plans, timelines, dependencies, and decisions, accessible to all relevant stakeholders.
+Own the communication of release updates across the business, ensuring outputs from planning forums (including the quarterly Product/Engineering offsite) are translated into clear communications for GTM, CS, and Leadership.
+Provide proactive, audience-appropriate communications throughout the release cycle, ensuring no function is caught off guard by a release.
+
+
+
+
+Release Metrics, Success Criteria & Adoption
+Ensure that measurable success criteria and impact metrics are defined for every significant release, established early in the lifecycle and aligned across Product, Customer Success, and GTM.
+While post-release adoption is owned by Product Managers, the Release Manager plays an active role in ensuring the conditions for adoption success are in place before go-live.
+Track and report on release quality KPIs, including customer impact, feature adoption rates, and incident rates, using data to drive continuous improvement.
+Facilitate retrospectives and post-release reviews, capturing lessons learned and feeding them back into future release planning.
+
+
+
+
+Process Consistency & Continuous Improvement
+Own and continuously improve the standard release management playbook, ensuring all Release Managers are operating to a consistent process regardless of which Product Manager they are paired with.
+Identify and eliminate inefficiencies in the release lifecycle, working with cross-functional teams to streamline workflows and reduce manual intervention.
+Champion tooling and automation opportunities that improve the reliability, speed, and consistency of releases
+
+
+
+
+
+
+
+Requirements
+
+
+
+
+Established experience in a Release Management, Programme Management, or Product Operations role within a SaaS or software environment.
+A strong instinct for the customer experience of a release, with the ability to connect internal process decisions to external customer impact.
+Technical/Functional Alignment:
+Exceptional written and verbal communication skills, with the ability to translate complex release information for a range of audiences.
+Proven ability to align multiple functions around shared release goals, manage competing priorities, and hold teams to agreed processes.
+A systematic approach to building consistency, comfortable defining playbooks, templates, and operating models and getting teams to adopt them.
+Experience running structured customer beta or early adopter programmes is highly desirable.
+Comfortable working within Agile development environments, with an understanding of the SDLC.
+Sector Interest: A genuine interest in the UK social care sector and how technology can improve interoperability.
+Mindset: A pragmatic, collaborative, and warm approach to problem-solving.
+
+
+
+
+Nourish Benefits
+
+
+
+
+Annual Leave: 25 days basic + Public Holidays + an extra day for your Birthday.
+Service-Related Leave: 1 extra day for each completed year of service (up to 5 additional days).
+Health & Wellbeing: Private Medical Insurance (including a personal health fund), Health & Wellbeing platform with 24/7 GP access, and an Employee Assistance Programme (EAP).
+Family & Security: Enhanced Maternity Leave, Group Life Assurance, and Pension Contribution.
+Growth & Connection: Regular career reviews, Referral Bonus schemes, and social events throughout the year.
+
+
+
+
+All positions at Nourish are subject to a satisfactory Enhanced Disclosure and Barring Service (DBS) check, references, and receipt of appropriate Right to Work documents.
+
+Nourish is proud to be an equal opportunities employer and we actively seek and embrace differences in thinking, experience, ethnicity, age, gender, faith, personalities, and styles.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media and Health and Human Services
+  
+
+Referrals increase your chances of interviewing at Nourish Care by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Release Manager
+Release Manager
+Lighthouse Games
+Royal Leamington Spa, England, United Kingdom
+2 weeks ago
+Release and Deployment Manager
+Release and Deployment Manager
+Pixel Toys
+Royal Leamington Spa, England, United Kingdom
+2 weeks ago
+Product - Release Manager
+Product - Release Manager
+Whitbread
+Houghton Regis, England, United Kingdom
+2 weeks ago
+Software Release Manager
+Software Release Manager
+Aspire Personnel Ltd
+Poole, England, United Kingdom
+£55,000 - £60,000
+1 week ago
+Release Manager — AI Models
+Release Manager — AI Models
+Wayve
+London, England, United Kingdom
+2 weeks ago
+Staff / Senior Deployment & Release Manager
+Staff / Senior Deployment & Release Manager
+AeroVect
+London, England, United Kingdom
+1 month ago
+Show more jobs like this 
+People also viewed
+Service Integration Lead
+Service Integration Lead
+
+Yorkshire Building Society
+
+Bradford, England, United Kingdom
+2 weeks ago
+Change Lead
+Change Lead
+
+Compass Group
+
+Birmingham, England, United Kingdom
+1 week ago
+Technical Delivery Manager
+Technical Delivery Manager
+
+Aristocrat Interactive
+
+London, England, United Kingdom
+1 week ago
+Lead Delivery Engineer
+Lead Delivery Engineer
+
+Jagex: The RuneScape Company
+
+Cambridge, England, United Kingdom
+1 week ago
+Product Delivery Manager
+Product Delivery Manager
+
+Wickes
+
+Hertfordshire, England, United Kingdom
+1 week ago
+Software Development Engineer - Release Engineering
+Software Development Engineer - Release Engineering
+
+Sky
+
+London, England, United Kingdom
+6 days ago
+Product Delivery Manager
+Product Delivery Manager
+
+Wickes
+
+Watford, England, United Kingdom
+1 week ago
+Agile Delivery Senior Manager
+Agile Delivery Senior Manager
+
+Boston Consulting Group (BCG)
+
+London, England, United Kingdom
+2 weeks ago
+Test & Release Manager
+Test & Release Manager
+
+Monument Technology
+
+London, England, United Kingdom
+3 days ago
+Platform Manager
+Platform Manager
+
+Map Room
+
+Gloucestershire, England, United Kingdom
+3 days ago
+Similar Searches
+Change And Release Manager jobs
+228 open jobs
+Unix Consultant jobs
+319 open jobs
+Release Engineer jobs
+2,904 open jobs
+Deployment Manager jobs
+11,482 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Configuration Manager jobs
+661 open jobs
+Change Manager jobs
+19,466 open jobs
+Problem Manager jobs
+4,516 open jobs
+Contract Test Engineer jobs
+393 open jobs
+Assistant Professor of Mathematics jobs
+120 open jobs
+Delivery Manager jobs
+32,530 open jobs
+Game Producer jobs
+190 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Nourish Care
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,262 @@
+Title: Software Release Manager CI/CD Automation SaaS
+Company: Client Server
+Location: Reigate, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/software-release-manager-ci-cd-automation-saas-at-client-server-4467702893
+Posted: 2026-09-22
+Deadline: N/A
+Reason: The job as a Software Release Manager in a SaaS environment with CI/CD automation aligns with Priya's extensive experience in release management, CI/CD pipelines, and cross-team coordination at Elektrobit and Topcon, meeting the 'Configuration Management' and 'Release Manager' criteria from her Target Job Criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Release Manager CI/CD Automation SaaS
+Client Server  Reigate, England, United Kingdom
+1 week ago   Be among the first 25 applicants
+  
+
+See who Client Server has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Client Server provided pay range
+
+This range is provided by Client Server. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£110,000.00/yr - £130,000.00/yr
+
+Direct message the job poster from Client Server
+
+Karen Simons
+Karen Simons
+Head of Advertising @ Client Server | Tech Recruitment Marketing | Employer Branding | Candidate Attraction | AI, Tech & Hiring Trends
+
+Software Release Manager (CI/CD Automation SaaS) Reigate / WFH to £130k
+
+Do you have strong release management experience in a SaaS environment?
+
+You could be progressing your career, working on complex and challenging systems at a global InsurTech business and enjoying a range of perks and benefits including flexible working.
+
+As a Software Release Manager you'll take ownership of how software is packaged, released and presented to customers within a growing SaaS environment, combining hands-on release management with the opportunity to shape and modernise release practices across a wider technology estate.
+
+A significant part of your role will involve managing day-to-day releases for an assigned product stack, you'll coordinate risks, dependencies and release readiness across multiple teams, making informed decisions that balance delivery speed, quality, security and business risk.
+
+Alongside this operational responsibility, you'll assess existing release processes and help establish more consistent, coherent and automated approaches across products and engineering teams. You'll reduce manual effort and release toil by improving CI/CD pipelines, infrastructure and release automation, while embedding governance, security and compliance into the delivery process.
+
+You'll also define and improve release readiness criteria, delivery and release metrics, environment promotion models and release health practices. Your experience should cover automated testing, deployment orchestration, blue / green or ring-based deployments, observability and monitoring within modern SaaS environments.
+
+This is a highly visible role involving release management, DevOps, platform tooling, governance, coaching and organisational change. You'll build credibility quickly, assess the current estate, form clear recommendations and lead teams towards improved release maturity. Coaching and influencing engineering teams will be central to the role, helping developers adopt better practices while creating a smoother, more reliable release experience.
+
+WFH Policy:
+
+There's a flexible work from home hybrid model, you'll join colleagues in the Reigate office twice a week for team meet-ups and stakeholder meetings with the other three days' work from home.
+
+About you:
+
+You have strong Release Management experience in a SaaS product environment, managing frequent releases
+You have experience of improving CI/CD processes in complex environments
+You combine strong technical knowledge with confident communication, sound risk based decision making and the ability to influence stakeholders across the organisation
+You have a good technical understanding of Azure DevOps, GitHub, Infrastructure as Code, trunk-based development and GitOps
+
+What's in it for you:
+
+Up to £130k salary plus significant bonus
+Hybrid working (3 days a week work from home)
+Enhanced parental leave
+25 days holiday (plus buy days and your birthday off)
+Pension (up to 10% contribution)
+Health Care and Life Assurance
+Training and career development
+Social events and a range of other perks
+
+Apply now to find out more about this Software Release Manager (CI/CD Automation SaaS) opportunity.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Client Server by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+CI/CD & Release Automation Lead
+CI/CD & Release Automation Lead
+WTW
+Reigate, England, United Kingdom
+1 week ago
+Release Manager — AI Models
+Release Manager — AI Models
+Wayve
+London, England, United Kingdom
+2 weeks ago
+Senior Release Engineer
+Senior Release Engineer
+SoundHound AI
+London, England, United Kingdom
+3 days ago
+Staff / Senior Deployment & Release Manager
+Staff / Senior Deployment & Release Manager
+AeroVect
+London, England, United Kingdom
+1 month ago
+Software Engineering Manager (Test & Devops)
+Software Engineering Manager (Test & Devops)
+CoMind
+London, England, United Kingdom
+£93,681 - £131,482
+1 week ago
+DevOps Engineer
+DevOps Engineer
+E-Solutions
+London Area, United Kingdom
+15 hours ago
+Show more jobs like this 
+People also viewed
+IT Change & Release Manager (12 month FTC)
+IT Change & Release Manager (12 month FTC)
+
+Ocado Retail
+
+Hatfield, England, United Kingdom
+1 week ago
+Delivery Lead, Engineering & Technology, CP R&D IT
+Delivery Lead, Engineering & Technology, CP R&D IT
+
+Syngenta
+
+Bracknell, England, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Pacific Life Re
+
+London, England, United Kingdom
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+London, England, United Kingdom
+£105,000 - £125,000
+1 week ago
+DevOps Engineering Consultant
+DevOps Engineering Consultant
+
+Avanade
+
+London, England, United Kingdom
+1 month ago
+Test Environment Manager
+Test Environment Manager
+
+Euroclear
+
+London, England, United Kingdom
+1 week ago
+Software Ops / Product Implementation Lead
+Software Ops / Product Implementation Lead
+
+Boost inc
+
+London, England, United Kingdom
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Kybera
+
+London Area, United Kingdom
+3 weeks ago
+Senior DevOps Engineer
+
+Hays Plc
+
+London Area, United Kingdom
+1 week ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+JUXT
+
+London Area, United Kingdom
+5 days ago
+Similar Searches
+Change And Release Manager jobs
+228 open jobs
+Release Manager jobs
+5,967 open jobs
+Deployment Manager jobs
+11,482 open jobs
+Principal Design Engineer jobs
+834 open jobs
+Software Integration Engineer jobs
+1,511 open jobs
+Senior Automation Engineer jobs
+4,085 open jobs
+SAP Security Consultant jobs
+189 open jobs
+Release Engineer jobs
+2,904 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Sap Solutions Architect jobs
+557 open jobs
+Software Automation Engineer jobs
+3,592 open jobs
+Design Release Engineer jobs
+1,964 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Client Server
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
