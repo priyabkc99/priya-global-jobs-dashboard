@@ -39,6 +39,12 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
   (public, Pages from `main`), Firebase project `priya-global-jobs` (Firestore `eur3`, Hosting).
 - Firestore placeholder docs `shared_state/job_status` and `shared_state/re_review_request` were
   created on setup (same create-vs-update rules gotcha as priya_jobs).
+- Two machines: the scraper/Scheduled Task runs on Vineeth's PC (`C:\Users\vinee\...`) and pushes
+  to `vinchess1989/...` (the canonical repo). Priya's PC (`C:\Users\priya\priya_global_jobs`, where
+  the resume/apply skills run) has `origin` = her fork `priyabkc99/priya-global-jobs-dashboard`
+  and `upstream` = vinchess1989. So skill commits (e.g. `input.csv`) land on the fork only; the
+  dashboard is unaffected because resume links go straight to Firestore. Don't "fix" the
+  vinchess1989 slug in CLAUDE.md/scripts to priyabkc99 — vinchess1989 is correct.
 - venv uses LM Studio's bundled CPython 3.11 like the siblings, but has Playwright 1.63 (newer
   than the siblings) — it needed its own `playwright install chromium`.
 - Scheduled Task `PriyaGlobalJobsLocalLLMOrchestrator` → `orchestrator.py` → `scraper.py`.
