@@ -1,0 +1,174 @@
+Title: Senior Cloud DevOps Engineer
+Company: Communicate IT
+Location: Johannesburg North, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-Cloud-DevOps-Engineer-Johannesburg-North-Communicate-IT--4278685-inline.html
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The job matches as a Senior Cloud DevOps Engineer role in South Africa, aligning with Priya's CI/CD, infrastructure automation, and release management expertise, while meeting location and experience-level criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+Senior Cloud DevOps Engineer
+Communicate IT
+Johannesburg North
+Permanent
+Full Time
+Published: 4 days ago
+I'm interested
+Save
+Senior Cloud DevOps Engineer
+Communicate IT
+I'm interested
+Reference: CTI007089-LB-1
+
+Are you the kind of engineer who loves automating everything, building cloud platforms that scale effortlessly, and solving infrastructure challenges that most teams shy away from?
+ 
+My client is looking for a Senior Cloud DevOps Engineer to join a high-performing technology team where cloud innovation, automation, and platform reliability are at the heart of everything they do. This opportunity offers exposure to large-scale AWS and Azure environments, modern DevOps practices, and meaningful technical ownership.
+ 
+If you're passionate about Kubernetes, Infrastructure as Code, CI/CD automation, cloud architecture, and platform engineering, this could be the opportunity that takes your IT career to the next level.
+Duties & Responsibilities
+
+Job Description:
+ 
+As a Senior Cloud DevOps Engineer, the successful candidate will help shape the future of cloud infrastructure by designing, building, and optimising enterprise-scale platforms across AWS and Azure environments.
+ 
+
+Key responsibilities include:
+
+Designing and architecting scalable, secure, and highly available cloud platforms
+Building and maintaining Infrastructure as Code solutions using Terraform and CloudFormation
+Developing and optimising CI/CD pipelines for faster, more reliable software delivery
+Driving containerisation and orchestration initiatives using Docker and Kubernetes
+Implementing automation solutions that improve operational efficiency and platform reliability
+Establishing best practices around cloud security, governance, compliance, and cost optimisation
+Defining monitoring, operational processes, service delivery standards, and SLAs
+Supporting cloud transformation initiatives and contributing to long-term platform strategy
+Collaborating with software engineering and technology teams to deliver resilient production environments
+Identifying opportunities to enhance performance, scalability, and cloud cost management
+ 
+Tech Stack & Environment:
+
+AWS
+Microsoft Azure
+Terraform
+AWS CloudFormation
+Docker
+Kubernetes
+GitHub Actions
+Azure DevOps
+Bitbucket Pipelines
+AWS CodePipeline
+Infrastructure as Code (IaC)
+Cloud Security & Governance
+FinOps & Cost Optimisation
+
+Skills & Experience:
+
+Extensive experience within Information Technology, Cloud Engineering, DevOps Engineering, Platform Engineering, or similar IT jobs
+Proven experience designing, implementing, and scaling cloud-native environments
+Strong hands-on expertise across AWS and Azure
+Advanced experience with Infrastructure as Code using Terraform and/or CloudFormation
+Solid experience building and supporting CI/CD pipelines and deployment automation
+Practical experience with Docker and Kubernetes in production environments
+Strong understanding of cloud governance, security, compliance, and cost optimisation
+Demonstrated ability to lead cloud transformation initiatives
+Experience defining operational processes, monitoring frameworks, and service standards
+Excellent troubleshooting, communication, and stakeholder engagement skills
+ 
+Qualification:
+
+Degree in Computer Science, Information Systems, Engineering, Mathematics, or a related field preferred
+Relevant cloud certifications advantageous
+ 
+Connect with us on www.communicate.co.za and Register your CV to create a profile or to view all our Jobs in Information Technology. One of the best Developer Recruitment Agencies in Cape Town.
+ 
+Let us assist you with your IT careers. For Further C# Developer jobs, C++ Developer jobs, Java Developer jobs, .Net Developer careers, Angular Developer and Full stack developer jobs.
+ 
+Package & Remuneration
+R 900 000 - R 1 500 000 - Annually
+I'm interested
+Communicate IT
+64 Jobs
+Our Location
+Communicate IT
+Johannesburg North, South Africa
+Open map
+These jobs were popular with other job seekers
+Senior Cloud Devops Engineer
+Communicate IT
+Johannesburg North
+just now
+DevOps Engineer (Azure)
+Network IT
+Johannesburg North
+just now
+AWS CLOUD ENGINEERS
+Network Contracting Solutions
+Johannesburg North
+just now
+Automation Developer
+Network IT
+Johannesburg North
+just now
+Senior DevOps Engineer | Cloud, Kubernetes & Automation
+Network IT
+Johannesburg North
+just now
+Automation Developer
+Network IT
+Johannesburg North
+just now
+AWS Data Engineer
+Network Contracting Solutions
+Johannesburg North
+just now
+Python Developer
+Network IT
+Johannesburg North
+just now
+C# Developer
+Network IT
+Johannesburg North
+just now
+Mid-Level Backend PHP Developer
+Network IT
+Johannesburg North
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

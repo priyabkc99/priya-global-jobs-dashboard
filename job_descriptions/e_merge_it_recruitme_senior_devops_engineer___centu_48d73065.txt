@@ -1,0 +1,163 @@
+Title: Senior DevOps Engineer - Centurion or Rosebank (Hybrid) - R1.2m PA
+Company: E-Merge IT Recruitment
+Location: Centurion or Rosebank, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-DevOps-Engineer-Centurion-or-Rosebank-Hybrid-R1-2m-PA-Centurion-E-Merge-IT-Recruitment--4227174-inline.html
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in CI/CD pipelines, infrastructure-as-code, and automation as a Senior DevOps Engineer, located in South Africa (a target country) with no visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+Senior DevOps Engineer - Centurion or Rosebank (Hybrid) - R1.2m PA
+E-Merge IT Recruitment
+Centurion
+Temporary
+Full Time
+Published: 2 weeks ago
+Non EE/AA
+I'm interested
+Save
+Senior DevOps Engineer - Centurion or Rosebank (Hybrid) - R1.2m PA
+E-Merge IT Recruitment
+I'm interested
+Introduction
+
+An exciting opportunity has become available for a Senior DevOps Engineer to join a forward-thinking technology team that is passionate about building secure, scalable, and highly available cloud platforms. If you thrive in a collaborative DevOps environment, enjoy automating infrastructure, and have a passion for cloud technologies, this role offers the chance to work with modern tools and best practices while making a real impact on mission-critical systems.
+
+Duties & Responsibilities
+
+Key Responsibilities
+
+Build, operate, and improve cloud infrastructure across environments (production, staging, development) as part of a collaborative DevOps team
+Implement and maintain infrastructure-as-code, CI/CD pipelines, and automation to improve reliability and delivery speed
+Monitor, secure, and optimise cloud platforms, ensuring performance, availability, and recoverability
+Proactively improve monitoring, alerting, and observability, and contribute to incident response and post-incident reviews.
+Support redundancy, failover, backup, and disaster recovery mechanisms in line with business RTOs and RPOs.
+Collaborate closely with our internal security team, and apply DevSecOps practices, including vulnerability management, patching, intrusion detection/prevention, and secure configuration.
+
+Relevant tertiary qualification (advantageous):
+
+7+ years' experience in DevOps, Cloud Infrastructure, or Systems Engineering
+Strong experience with AWS (Azure or GCP exposure is beneficial)
+Solid Linux administration experience in production environments
+
+Proven experience with:
+
+Infrastructure-as-Code (Terraform preferred)
+Containers and orchestration (Docker, Kubernetes, Argo CD) CI/CD pipelines (GitLab CI, GitHub Actions, Jenkins)
+Monitoring & Logging (Prometheus, Grafana, ELK, Loki)
+Experience with configuration management tools (Ansible, Puppet or Chef)
+Proficiency in at least one scripting language (Python, Bash, or Ruby)
+
+Understanding of core infrastructure components:
+
+Web servers (NGINX, Apache)
+Databases (MySQL/Postgres)
+Messaging systems (RabbitMQ, Beanstalkd)
+Networking (DNS, load balancing, firewalls, proxies)
+Experience supporting secure and compliant environments. Exposure to PCI-DSS and/or ISO27001 is advantageous.
+Familiarity with agile delivery practices and DevOps culture
+Experience working in Fintech, Technology, or other high-growth environments
+
+Reference Number for this position is GZ61454 which is a permanent position based in Centurion or Rosebank offering a cost to company salary of R1.2m per annum negotiable on experience and ability. Contact Garth on garthz@e-merge.co.za or call him on 011 463 3633 to discuss this and other opportunities.
+
+Are you ready for a change of scenery? The e-Merge IT Recruitment is a specialist niche recruitment agency. We offer our candidates options so that we can successfully place the right developers with the right companies in the right roles. Check out the e-Merge website www.e-merge.co.za for more great positions.
+
+Do you have a friend who is a developer or technology specialist? We pay cash for successful referrals!
+
+I'm interested
+E-Merge IT Recruitment
+Company Profile
+Our Location
+E-Merge IT Recruitment
+4 On Anslow Office Park, Anslow Lane, 2191 Bryanston, Gauteng, South Africa
+Open map
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+These jobs were popular with other job seekers
+Senior DevOps Engineer
+Network IT
+Centurion
+just now
+Senior Automation & DevOps Engineer
+Network Engineering
+Centurion
+just now
+Automation & DevOps Engineer
+RecruitPro Solutions
+Centurion
+just now
+Senior DevOps & Automation Engineer
+Network Engineering
+Centurion
+just now
+C# (API) Developer - Hybrid (CPT/PTA)
+Recru-IT
+Centurion
+just now
+Technical Architect
+CyberPro Consulting
+Centurion
+just now
+Senior DevOps Engineer - Midrand /Hybrid - R1100k PA
+E-Merge IT Recruitment
+Midrand
+just now
+Senior DevOps CI/CD Engineer - Rosebank - R1.4m PA
+E-Merge IT Recruitment
+Rosebank
+just now
+Software Development Manager
+MIT Recruitment
+Centurion
+just now
+Stelselontwikkelingsbestuurder/ System Development Manager
+Werfnet
+Centurion
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

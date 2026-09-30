@@ -1,0 +1,146 @@
+Title: Azure DevOps Engineer
+Company: Subhujo Technologies
+Location: City of Johannesburg Metropolitan Municipality, South Africa
+URL: https://www.pnet.co.za/jobs--Azure-DevOps-Engineer-City-of-Johannesburg-Metropolitan-Municipality-Subhujo-Technologies--4274715-inline.html
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role aligns with Priya's expertise as a DevOps Engineer (CI/CD pipelines, Azure infrastructure, source control management) and is located in South Africa (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+Azure DevOps Engineer
+Subhujo Technologies
+City of Johannesburg Metropolitan Municipality
+Temporary
+Full Time
+Published: 1 week ago
+EE/AA, Non EE/AA
+I'm interested
+Save
+Azure DevOps Engineer
+Subhujo Technologies
+I'm interested
+Introduction
+
+Looking for a Azure DevOps Engineer
+
+Duties & Responsibilities
+
+•            Design, build, and maintain Azure cloud infrastructure and DevOps solutions.
+•            Develop and manage CI/CD pipelines using Azure DevOps, GitHub Actions, or similar tools.
+•            Automate infrastructure provisioning using Terraform, ARM Templates, or Bicep.
+•            Implement and manage containerized workloads using Docker and Kubernetes (AKS).
+•            Monitor application and infrastructure performance using Azure Monitor, Log Analytics, and Application Insights.
+•            Implement security best practices, vulnerability management, and DevSecOps controls.
+•            Collaborate with development, testing, and operations teams to streamline software delivery.
+•            Manage source control, branching strategies, and release management processes.
+•            Troubleshoot deployment, performance, and infrastructure issues.
+•            Ensure high availability, scalability, and disaster recovery of Azure environments.
+
+Desired Experience & Qualification
+
+•            Strong experience with Microsoft Azure cloud services.
+•            Hands-on experience with Azure DevOps and CI/CD pipeline implementation.
+•            Proficiency in Terraform, ARM Templates, or Bicep.
+•            Experience with Docker, Kubernetes (AKS), and container orchestration.
+•            Strong scripting skills in PowerShell, Bash, or Python.
+•            Experience with Git-based source control systems.
+•            Knowledge of networking, security, identity management, and monitoring in Azure.
+•            Understanding of Agile, DevOps, and Site Reliability Engineering (SRE) practices.
+•            Experience with Infrastructure as Code (IaC) and automation frameworks.
+
+Preferred Qualifications
+•            Microsoft Azure certifications such as: 
+o            Azure Administrator Associate (AZ-104)
+o            Azure DevOps Engineer Expert (AZ-400)
+o            Azure Solutions Architect Expert (AZ-305)
+•            Experience in banking, financial services, or regulated environments.
+•            Exposure to multi-cloud environments (AWS/GCP) is advantageous.
+
+Package & Remuneration
+
+Negotiable
+
+I'm interested
+Subhujo Technologies
+IT & Internet • 1-10 Employees
+Company Profile
+These jobs were popular with other job seekers
+ZEN243 - Azure DevOps Engineer
+Data Monkey (PTY) LTD
+Johannesburg
+just now
+Azure DevOps Engineer
+Samaha Consulting
+Johannesburg
+just now
+Senior Software Developer (Gen AI)
+Subhujo Technologies
+City of Johannesburg Metropolitan Municipality
+just now
+DevOps Engineer - JHB / PTA / CPT
+MSP Staffing Pty Ltd
+Johannesburg / Pretoria / Cape Town
+just now
+DevOps, Cloud & Platform Engineering
+Easyfind (Pty) Ltd
+Johannesburg
+Partially remote
+just now
+Mobile Developer
+Subhujo Technologies
+City of Johannesburg Metropolitan Municipality
+just now
+Senior Front-End Developer
+Labournet
+City of Johannesburg Metropolitan Municipality
+just now
+AI Solution Architect
+IQbusiness
+Johannesburg
+just now
+Power Platform DevOps Engineer
+Samaha Consulting
+Johannesburg
+just now
+Cloud Security Specialist
+Goldenrule
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

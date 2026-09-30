@@ -1,0 +1,161 @@
+Title: DevOps / SRE Cloud Engineer
+Company: Goldman Tech Resourcing (Pty) Ltd
+Location: KwaZulu Natal, Western Cape, Gauteng, South Africa
+URL: https://www.pnet.co.za/jobs--DevOps-SRE-Cloud-Engineer-KwaZulu-Natal-Western-Cape-Gauteng-Goldman-Tech-Resourcing-Pty-Ltd--4279724-inline.html
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The job aligns with Priya's extensive CI/CD, infrastructure-as-code (Terraform), and Kubernetes experience from Elektrobit and Topcon, fits her target location (South Africa), and matches her senior-level role preferences without violating any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+DevOps / SRE Cloud Engineer
+Goldman Tech Resourcing (Pty) Ltd
+KwaZulu Natal, Western Cape, Gauteng
+Permanent
+Full Time
+Published: 1 day ago
+EE/AA, Non EE/AA
+I'm interested
+Save
+DevOps / SRE Cloud Engineer
+Goldman Tech Resourcing (Pty) Ltd
+I'm interested
+
+Our client is seeking a senior DevOps / SRE Cloud Engineer to take ownership of an Azure-based Kubernetes environment, with a focus on resilient infrastructure, secure CI/CD, observability and reliable platform operations. The role is suited to an experienced engineer who can independently manage production environments and partner closely with development teams.
+
+ 
+
+Key Responsibilities
+
+Operate production Kubernetes clusters and Azure infrastructure using Terraform.
+Maintain GitHub Actions CI/CD pipelines with appropriate quality gates.
+Own observability through dashboards, alerting, SLOs and incident response.
+Manage secrets, identity and network security across environments.
+Partner with engineering teams to troubleshoot and improve system reliability.
+Design and maintain modular Infrastructure as Code for clusters, identity, storage and secrets.
+Support Kubernetes deployments, upgrades, capacity planning and operational troubleshooting.
+Maintain secure and reliable containerised environments.
+Develop and maintain operational Bash scripts as tested, maintainable code.
+Apply effective secrets-management practices and prevent sensitive credentials from entering repositories or container images.
+
+ 
+
+Requirements
+
+5+ years’ experience in DevOps, SRE or platform engineering.
+2–3 years’ experience operating Kubernetes workloads in production.
+2+ years’ production Azure experience.
+Strong Azure experience with AKS, ADLS Gen2, Azure Key Vault, Entra ID, workload/managed identities, VNets, private endpoints, firewall rules and Azure Service Bus or an equivalent message broker.
+Strong production Kubernetes experience, including Helm, environment overlays, Kubernetes operators, node-pool design, resource requests/limits, capacity sizing, troubleshooting and upgrades.
+Strong Terraform experience, including modular IaC and state management across environments.
+Strong Docker experience, including multi-architecture image builds, Compose, health checks and memory-limit tuning.
+Hands-on GitHub Actions experience.
+Strong Prometheus and Grafana experience, including dashboards and alert rules.
+Understanding of SLOs, incident response and capacity planning.
+Strong Bash and Linux skills.
+Strong understanding of secrets management.
+Bachelor’s degree in Computer Science, Engineering or equivalent practical experience.
+Cloud or Kubernetes certification such as Azure certification or CKA would be advantageous.
+Strong communication skills and the ability to work independently.
+
+ 
+
+Advantageous Experience
+
+Apache Spark on Kubernetes, Spark Operator and JupyterHub.
+Hive Metastore, Trino, Apache Ranger, Delta Lake and MinIO.
+OpenTelemetry and OpenLineage/Marquez.
+Python and pytest-based infrastructure testing.
+SQL Server and PostgreSQL administration.
+Multi-tenant or regulated-data environments, including security and supply-chain controls.
+
+ 
+
+Should you meet the requirements for this position, please email your CV to it.vacancy@stand-outstaffing.co.za. You can also contact us on 031 350 4019 or alternatively you can visit our website https://stand-outstaffing.co.za
+
+Correspondence will only be conducted with short listed candidates. Should you not hear from us within 4 days, please consider your application unsuccessful.
+
+I'm interested
+Goldman Tech Resourcing (Pty) Ltd
+HR Services, Recruitment & Selection • 1-10 Employees
+Company Profile
+These jobs were popular with other job seekers
+DevOps Engineer - JHB / PTA / CPT
+MSP Staffing Pty Ltd
+Johannesburg / Pretoria / Cape Town
+just now
+DevOps, Cloud & Platform Engineering
+Easyfind (Pty) Ltd
+Johannesburg
+Partially remote
+just now
+Power Platform DevOps Engineer
+Samaha Consulting
+Johannesburg
+just now
+Platform / Cloud Engineer
+MSP Staffing Pty Ltd
+Johannesburg
+just now
+DevOps / SRE Cloud Engineer (Site Reliability Engineer)
+Goldman Tech Resourcing (Pty) Ltd
+KwaZulu Natal, Johannesburg, Western Cape
+just now
+Microsoft Cloud Engineer (Cape Town North)
+Concordia Careers Pty Ltd
+Cape Town North
+just now
+AWS CLOUD ENGINEERS
+Network Contracting Solutions
+Johannesburg North
+just now
+DevOps Engineer
+Network IT
+Cape Winelands: Stellenbosch
+just now
+DevOps / SRE Cloud Engineer (Site Reliability Engineer)
+Recru-IT
+South Africa
+just now
+DevOps Engineer
+Network Recruitment - Finance Corporate
+Cape Town: Northern Suburbs
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement
