@@ -17844,8 +17844,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:32+03:00"
   },
   {
     "title": "Technical Report Writer (Working at Height) / Training Provided",
@@ -17861,8 +17861,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:32+03:00"
   },
   {
     "title": "Technical Writer",
@@ -17878,8 +17878,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:32+03:00"
   },
   {
     "title": "Technical Author",
@@ -17895,8 +17895,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:33+03:00"
   },
   {
     "title": "Staff Information Developer-Technical Writer",
@@ -17912,8 +17912,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:33+03:00"
   },
   {
     "title": "Technical Services Technician",
@@ -17929,8 +17929,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:33+03:00"
   },
   {
     "title": "Technical Assistant",
@@ -17946,8 +17946,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:33+03:00"
   },
   {
     "title": "Technical Advisor",
@@ -17963,8 +17963,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:33+03:00"
   },
   {
     "title": "Technical Specialist",
@@ -17980,8 +17980,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:40:36+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T03:55:33+03:00"
   },
   {
     "title": "Technical Assistant",
@@ -18021,16 +18021,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/technical-author-hybrid/marstep-resourcing-solutions-job107989398",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job title 'Technical Author' aligns with Priya's technical writing experience, but the inaccessible job description prevents verification of location, visa sponsorship availability, or other critical details required for a definitive match.",
     "id": "95c5cd2d",
     "source": "totaljobs_technical_writer",
     "added_at": "2026-09-29T15:35:18+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:45:28+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Technical Author (Hybrid)",
@@ -18038,16 +18037,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/technical-author-hybrid/marstep-resourcing-solutions-job107923270",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job title aligns with Priya's technical writing experience (Technical Author), but the location and company details are missing from the provided text, making it impossible to confirm if it meets her target countries or visa requirements.",
     "id": "96962a52",
     "source": "totaljobs_technical_writer",
     "added_at": "2026-09-29T15:35:18+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-29T21:45:28+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Technical Author",
@@ -22663,8 +22661,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T21:28:53+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-30T04:00:06+03:00"
   },
   {
     "title": "Accounting Specialist",
@@ -22680,8 +22678,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T21:28:54+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-30T04:00:07+03:00"
   },
   {
     "title": "Accounting Specialist",
@@ -22697,8 +22695,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T21:28:55+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-30T04:00:07+03:00"
   },
   {
     "title": "Senior Contracts Specialist - Mining",
@@ -22714,8 +22712,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-29T21:28:55+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-09-30T04:00:07+03:00"
   },
   {
     "title": "Skills Development Specialist",
