@@ -1,0 +1,344 @@
+Title: Build and Release Manager
+Company: Neuron7.ai
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/build-and-release-manager-at-neuron7-ai-4471957036
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The job as a Build and Release Manager in Bengaluru, India matches Priya's expertise in CI/CD, release management, and configuration management, along with her experience in regulated industries and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Build and Release Manager
+Neuron7.ai  Bengaluru, Karnataka, India
+16 hours ago  25 applicants
+  
+
+See who Neuron7.ai has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Neuron7.ai
+
+Rajesh Kumar Singh
+Rajesh Kumar Singh
+Human Resources, Operations, and Talent Acquisition
+
+About Us:
+
+
+
+
+Neuron7.ai is a rapidly growing AI-first SaaS company focused on creating a category-defining service intelligence product. Backed by top venture capitalists in Silicon Valley and a distinguished group of angel advisors/investors, we are recognized as a startup to watch. Our swift traction in the market underscores our mission to empower enterprises to make accurate service decisions at scale. Our AI-driven platform delivers service predictions in seconds by analyzing structured and unstructured data alongside insights from leading experts. In complex service environments—such as high-tech devices, manufacturing, and medical devices—Neuron7.ai helps service leaders excel in critical metrics like first-call resolution, turnaround time, and service margins. Learn more at Neuron7.ai.
+
+
+
+
+Why Join Us:
+
+
+
+
+At Neuron7.ai, you’ll be part of a dynamic and innovative team that is redefining service intelligence. We value creativity, collaboration, and a commitment to pushing boundaries.
+
+
+
+
+Role Overview
+
+We are seeking an experienced Release Manager to drive the end‑to‑end release lifecycle across multiple products and environments. The role requires strong coordination across engineering, QA, DevOps, and product teams, ensuring predictable, high‑quality releases. In addition, the candidate should have worked in driving QA processes and test automation, enabling them to effectively drive release quality and readiness.
+
+Technical Skills
+
+
+
+
+8–12+ years of experience in Release Management / Build & Release Engineering / DevOps
+Strong hands-on experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps)
+Expertise in Git, branching strategies, trunk-based development, and version control
+Experience with Docker, Kubernetes, and microservices-based architecture
+Hands-on experience with cloud platforms (AWS / Azure / GCP)
+Strong scripting skills (Python, Bash, or similar)
+Experience with Infrastructure as Code (Terraform, CloudFormation) – preferred
+Understanding of modern deployment strategies (blue-green, canary, progressive delivery)
+Strong understanding of release governance, artifact management, and multi-environment deployments
+Familiarity with test automation frameworks (Selenium, Cypress) and integration into CI/CD pipelines
+Experience with API testing tools (Postman, RestAssured)
+Exposure to observability and monitoring tools (Datadog, Prometheus, Grafana) – good to have
+Knowledge of QA processes, STLC, and shift-left testing practices
+Experience in managing multiple concurrent releases and high-volume release requests
+Ability to design and implement scalable release processes across teams
+Prior experience in product-based companies handling release deployments
+Strong understanding of Agile / Scrum and DevOps methodologies
+Experience with release governance, change management, and CI/CD best practices
+Ability to define and standardize release processes across multiple products
+Proven experience in managing weekly release cycles and release calendars
+Familiarity with tools like Jira / Azure Boards
+Ability to drive automation-first and continuous delivery culture
+Strong cross-functional collaboration and stakeholder management (internal & external)
+Ability to manage multiple releases in a fast-paced, high-growth environment
+Strong problem-solving and decision-making skills
+High ownership, accountability, and attention to detail
+Strong communication skills to manage release expectations, risks, and timelines
+High-quality, on-time releases with minimal rollback incidents
+Reduced production defects and lower change failure rate
+Improved deployment stability, automation, and release predictability
+Faster release cycles and improved developer productivity
+Strong alignment between engineering, QA, DevOps, product, and stakeholders
+
+
+
+
+Process & Functional Skills
+
+Strong understanding of Agile / Scrum methodologies
+Experience with release governance and change management processes
+Familiarity with tools like Jira / Azure Boards
+
+
+
+
+Leadership & Soft Skills
+
+Strong cross‑functional collaboration and stakeholder management
+Ability to manage multiple releases in a fast‑paced environment
+Strong problem‑solving and decision‑making skills
+High ownership, accountability, and attention to detail
+
+
+
+
+Success Metrics (What Good Looks Like)
+
+
+
+
+High‑quality, on‑time releases with minimal rollback incidents
+Reduced production defects and release risks
+Improved deployment stability and predictability
+Strong alignment between engineering, QA, and product teams
+Bachelor’s/Master’s degree in Computer Science or related field
+
+
+
+
+What We Do and Value:
+
+
+
+
+At Neuron7.ai, we prioritize integrity, innovation, and a customer-centric approach.
+Our mission is to enhance service decision-making through advanced AI technology, and we are dedicated to delivering excellence in all aspects of our work.
+
+
+
+
+Company Perks & Benefits:
+
+Competitive salary, equity, and spot bonuses.
+Paid sick leave.
+Comprehensive health insurance.
+Paid parental leave.
+Work from our vibrant Bengaluru office.
+
+
+
+
+Our Commitment to Diversity and Inclusion:
+
+Neuron7.ai is committed to fostering a diverse and inclusive workplace. We ensure equal employment opportunities without discrimination or harassment based on race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, national origin, marital status, or any other characteristic protected by law.
+
+
+
+
+If you’re excited about building innovative backend solutions and want to be part of a forward-thinking team, we’d love to hear from you!
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Neuron7.ai by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Software Engineering Manager- Build and Release Engineering
+Software Engineering Manager- Build and Release Engineering
+Hewlett Packard Enterprise
+Bengaluru, Karnataka, India
+4 days ago
+Release Manager
+Release Manager
+Thoucentric
+Bengaluru, Karnataka, India
+6 months ago
+Release Manager
+Release Manager
+Rakuten India
+Greater Bengaluru Area
+1 day ago
+IT Support - Release Engineer
+IT Support - Release Engineer
+BNP Paribas
+Bengaluru, Karnataka, India
+2 weeks ago
+Architect II - DevOps
+Architect II - DevOps
+Philips
+Bengaluru, Karnataka, India
+1 day ago
+B&I Engineer
+B&I Engineer
+HARMAN India
+Bengaluru, Karnataka, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Release Qualification Team Lead
+Release Qualification Team Lead
+
+Cerebras
+
+Bengaluru, Karnataka, India
+2 months ago
+Release Management Senior
+Release Management Senior
+
+HP
+
+Bengaluru, Karnataka, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Ascendion
+
+Bengaluru, Karnataka, India
+6 days ago
+Assistant Manager - DevOps/DevSecOps Engineer
+Assistant Manager - DevOps/DevSecOps Engineer
+
+BNP Paribas
+
+Bengaluru, Karnataka, India
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Mphasis
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Manager - DevTools (AI Enabled)
+Manager - DevTools (AI Enabled)
+
+Ping Identity
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Dev Ops Engineer - Empower
+Senior Dev Ops Engineer - Empower
+
+Waters Corporation
+
+Bengaluru, Karnataka, India
+5 months ago
+Senior Engineering Manager - Continuous Deployment
+Senior Engineering Manager - Continuous Deployment
+
+GitLab
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Github Engineer
+Github Engineer
+
+Cyient
+
+Bangalore Urban, Karnataka, India
+1 week ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+5 days ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Neuron7.ai
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

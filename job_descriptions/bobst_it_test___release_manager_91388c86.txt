@@ -1,0 +1,265 @@
+Title: IT Test & Release Manager
+Company: BOBST
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/it-test-release-manager-at-bobst-4464490306
+Posted: 2026-09-09
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in release management, test strategy, and CI/CD automation, and is located in India (a target country) with no US restrictions or visa sponsorship barriers.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+IT Test & Release Manager
+BOBST  Pune Division, Maharashtra, India
+3 weeks ago  174 applicants
+  
+
+See who BOBST has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+The IT Test & Release Manager is responsible for ensuring the quality, stability, and controlled delivery of IT solutions across the organization. The role defines and drives testing and release management practices, including automation, governance, and continuous improvement, to support reliable and efficient software delivery. Working closely with Product Owners, delivery teams, and operations, the position plays a key role in strengthening end-to-end quality across business-critical platforms, including major SAP transformation initiatives.
+
+Main Responsibilities
+
+
+Define and implement the organization’s test strategy, including automation, quality standards, and KPIs to improve effectiveness and efficiency.
+Lead the planning, monitoring, and execution of testing activities to ensure solutions meet functional, integration, performance, and business quality requirements.
+Establish, maintain, and continuously enhance test automation capabilities and enable product teams to adopt scalable automation practices.
+Define, implement and enforce release management processes and governance to ensure controlled, compliant, and reliable deployments across the IT landscape.
+Coordinate end-to-end release activities with Product Owners, IT Product Managers, and technical teams, including major SAP upgrades, support packages, and data refresh cycles.
+Drive risk-based testing, release readiness assessments, and go/no-go recommendations based on quality metrics, dependencies, and business impact.
+Ensure alignment of testing and release practices with change, configuration, deployment, Agile, DevOps, and IT service management standards.
+Build strong relationships with business and IT stakeholders, act as the central point of contact for testing and release topics, and promote a culture of quality, accountability, and continuous improvement.
+
+
+Latitude for action and decision-making
+
+
+Operates with a high level of autonomy in managing testing and release management practices across the IT organization.
+Defines and evolves test strategies, automation frameworks, and quality standards in alignment with the CIO Office and Head of IT Products.
+Establishes and enforces release management processes, governance principles, and quality gates.
+Makes recommendations on tools, methodologies, and process improvements aligned with Agile, DevOps, and IT service management practices.
+Provides release readiness assessments and go/no-go recommendations based on quality metrics, risks, and operational impact.
+Works cross-functionally through influence and collaboration, without direct hierarchical authority over all involved teams.
+Escalates major delivery, quality, or release risks where required and supports decision-making for business-critical releases.
+
+
+Skills (knowledge, Expertise)
+
+
+Strong expertise in SAP landscapes, including SAP ECC and S/4HANA, with a solid understanding of migration and transformation challenges.
+Hands-on knowledge of SAP Solution Manager and SAP Cloud ALM for testing, release, and lifecycle management.
+Solid experience with test management and test automation tools, particularly Tricentis solutions such as Tosca.
+Strong understanding of release, change, and transport management in SAP and complex enterprise environments.
+Good knowledge of Agile, DevOps, CI/CD, and IT service management practices.
+Ability to define, track, and communicate quality metrics, KPIs, and management reporting.
+Strong understanding of end-to-end integration scenarios across SAP and non-SAP enterprise applications.
+Excellent stakeholder management, communication, and facilitation skills across business and IT teams.
+Analytical mindset with strong problem-solving, decision-making, and continuous improvement capabilities.
+Ability to operate effectively in a global, matrix organization and lead cross-functional initiatives through influence.
+
+
+Profile (education/experience)
+
+
+Bachelor’s degree in Information Technology, Computer Science, Engineering, or a related field; equivalent professional experience may also be considered.
+At least 7 years of relevant experience in IT testing, quality assurance, release management, or a closely related discipline.
+Proven experience working in SAP environments, including ECC and S/4HANA-based landscapes.
+Demonstrated experience in defining test strategies and implementing test automation capabilities.
+Practical experience with SAP ALM tools and automation platforms such as Tricentis is highly desirable.
+Experience coordinating complex releases, change management, and transport activities in business-critical environments.
+Exposure to Agile, DevOps, and CI/CD ways of working in enterprise delivery organizations.
+Strong track record of stakeholder management, cross-functional collaboration, and driving continuous improvement initiatives.
+
+
+Join us – and grow with us.
+
+BOBST is an engineering company, pioneering intelligent solutions that shape the future of the packaging world. At BOBST, you make an impact on a global scale – through innovation and advanced technology. You grow by mastering challenges – in a team that strives for excellence. And you enjoy a culture of a family-run enterprise, where values are truly lived. With the combined forces of more than 6400 people and business activities in more than 50 countries, we are positioned as the innovation leader in our industry.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Retail Office Equipment and Machinery Manufacturing
+  
+
+Referrals increase your chances of interviewing at BOBST by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Tech Consultant - Release & Change Manager
+Tech Consultant - Release & Change Manager
+NTT DATA North America
+Pune Division, Maharashtra, India
+1 day ago
+Senior Release and Program Manager
+Senior Release and Program Manager
+PTC
+Pune Division, Maharashtra, India
+2 days ago
+Release and Program Manager
+Release and Program Manager
+PTC
+Pune Division, Maharashtra, India
+2 days ago
+Senior Change and Release Engineer
+Senior Change and Release Engineer
+A.P. Moller - Maersk
+Pune Division, Maharashtra, India
+2 weeks ago
+Senior QA Test Lead
+Senior QA Test Lead
+Persistent Systems
+Pune City, Maharashtra, India
+1 day ago
+Release Manager
+Release Manager
+Emerson
+Pune Division, Maharashtra, India
+5 days ago
+Show more jobs like this 
+People also viewed
+Senior Project Manager / Release Train Engineer (SAFe) - Embedded & Telecom Products
+Senior Project Manager / Release Train Engineer (SAFe) - Embedded & Telecom Products
+
+Giesecke+Devrient
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Release and Project Management, Consultant
+Release and Project Management, Consultant
+
+PTC
+
+Pune City, Maharashtra, India
+1 week ago
+Release Project Management, Consultant
+Release Project Management, Consultant
+
+PTC
+
+Pune Division, Maharashtra, India
+1 week ago
+Technical Delivery Manager
+Technical Delivery Manager
+
+Barclays
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Lead Automation Tester
+Lead Automation Tester
+
+Barclays
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Quality Engineering Lead (Test Lead)
+Quality Engineering Lead (Test Lead)
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+5 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+5 days ago
+Quality Engineering Lead (Test Lead)
+Quality Engineering Lead (Test Lead)
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+5 days ago
+Avaloq Config Manager
+Avaloq Config Manager
+
+Barclays
+
+Pune Division, Maharashtra, India
+4 months ago
+SENIOR TEST AUTOMATION & AI QUALITY ENGINEERING LEAD - VOIS
+SENIOR TEST AUTOMATION & AI QUALITY ENGINEERING LEAD - VOIS
+
+VOIS
+
+Pune Division, Maharashtra, India
+2 months ago
+Similar Searches
+Information Technology Operations Manager jobs
+41 open jobs
+Director of Information Technology jobs
+89 open jobs
+Head of Information Technology jobs
+349 open jobs
+Assistant It Manager jobs
+2,033 open jobs
+Computer System Manager jobs
+729 open jobs
+Senior Windows Administrator jobs
+178 open jobs
+Help Desk Manager jobs
+1,444 open jobs
+Senior Windows System Administrator jobs
+157 open jobs
+Technology Manager jobs
+5,608 open jobs
+System Manager jobs
+4,531 open jobs
+Lead System Administrator jobs
+1,918 open jobs
+Desktop Manager jobs
+709 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at BOBST
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

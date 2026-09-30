@@ -1,0 +1,270 @@
+Title: Software Engineering Manager- Build and Release Engineering
+Company: Hewlett Packard Enterprise
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/software-engineering-manager-build-and-release-engineering-at-hewlett-packard-enterprise-4470311477
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps, CI/CD, release management, and configuration management, as well as her experience leading teams and working in regulated environments. The location (India) is within her target countries, and the role matches her senior-level qualifications.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Engineering Manager- Build and Release Engineering
+Hewlett Packard Enterprise  Bengaluru, Karnataka, India
+4 days ago  110 applicants
+  
+
+See who Hewlett Packard Enterprise has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Hewlett Packard Enterprise
+
+Kajal Dash
+Kajal Dash
+Lead Talent Acquisition Specialist @ Juniper Networks
+
+We are seeking a Software Engineering Manager to lead the team responsible for build, release engineering, source code administration, and sandbox tooling supporting large-scale systems, including the release pipeline for HPE Networking's JUNOS and EVO platforms. This is a working manager role: you will set direction and manage a high-performing team while staying directly engaged in the engineering work. The role combines technical depth with people leadership, requiring the ability to build and mentor high-performing engineers while driving strategic DevSecOps initiatives across the organization.
+
+
+
+
+As a leader, you will define and execute the roadmap for CI/CD infrastructure, source code administration, and developer sandbox environments; partner with cross-functional engineering, release, and product managers; and establish best practices that enable scalable, reliable, high-velocity development workflows, all while remaining close enough to the code and systems to guide technical decisions credibly and unblock your team when needed.
+
+
+
+
+What you will do :
+
+
+
+
+Lead, mentor, and grow a team responsible for build, release engineering, source code administration, and sandbox tooling for large-scale systems, fostering a culture of technical excellence, accountability, and continuous improvement, while staying directly engaged in the codebase and infrastructure.
+Personally contribute to architecture, design reviews, and complex debugging for CI/CD platforms, source control systems, and sandbox infrastructure, not just direct the work from a distance.
+Own the architecture, scalability, and reliability of enterprise-wide CI/CD, source code management, and sandbox platforms, staying technically deep enough to make and defend design decisions.
+Define and drive the CI/CD, source code administration, and automation strategy for JUNOS and EVO platform delivery, aligning with broader engineering and business objectives.
+Oversee the development of robust automation frameworks for build, test, release, source code administration, and infrastructure orchestration, contributing code and scripts directly where it accelerates delivery.
+Establish and enforce best practices for version control, branching strategies, artifact management, and release governance across large, distributed codebases.
+Drive DevSecOps practices across the build and release pipeline, including generation and management of Software Bill of Materials (SBOM) and Vulnerability Exploitability eXchange (VEX).
+Drive adoption of AI/ML-driven automation and observability to improve pipeline efficiency, detect issues early, and reduce cycle time.
+Ensure production CI/CD, SCM, and sandbox systems meet high standards for availability, performance, scalability, and security; act as a technical escalation point during critical incidents.
+Lead incident management, root cause analysis, and continuous improvement efforts across CI/CD, SCM, and sandbox infrastructure, often diagnosing issues directly alongside the team.
+Influence and guide organizational DevSecOps maturity, setting standards and driving consistency across teams.
+
+
+
+
+What you need to bring :
+
+
+
+
+Bachelor's or master's degree in computer science, electrical engineering, or a related field.
+15 -20 years of experience in build/release engineering, source code administration, or infrastructure engineering for large-scale systems, with increasing leadership responsibility and a track record of staying technically engaged.
+5+ years of experience managing or leading high-performing engineering teams while continuing to write code, review designs, or troubleshoot production systems directly.
+Proven experience architecting and operating large-scale CI/CD, source code management( Gerrit, SVN, Gitlab, Github) and sandbox systems in complex, multi-repository environments.
+Deep expertise in CI/CD tools and frameworks (e.g., Jenkins, GitLab CI, GitHub Actions) at enterprise scale.
+Experience generating and managing SBOM and VEX reports, and integrating supply chain security and vulnerability management into build and release pipelines.
+Strong proficiency in programming/scripting (Python, Bash, Go, or similar), with the ability to personally build and debug automation, not just review it.
+Strong Linux systems expertise and operational troubleshooting skills for C/C++/Rust-based build systems.
+Demonstrated ability to lead cross-functional initiatives and influence technical direction, backed by credible, direct engineering experience.
+
+
+
+
+Preferred Qualifications
+
+Experience migrating large-scale build, release, or source code systems across geographies.
+Experience applying AI/ML techniques for intelligent automation, observability, or anomaly detection.
+Expertise in containerization and orchestration (Docker, Kubernetes).
+Strong communication, stakeholder management, and executive-level presentation skills.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Information Services, Engineering Services, and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Hewlett Packard Enterprise by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Engineering Manager, Software Engineering
+Senior Engineering Manager, Software Engineering
+Zillow
+Bengaluru, Karnataka, India
+1 week ago
+Senior Engineering Manager - Continuous Deployment
+Senior Engineering Manager - Continuous Deployment
+GitLab
+Bengaluru, Karnataka, India
+2 weeks ago
+Software Engineering Manager
+Software Engineering Manager
+Emerson
+Bengaluru, Karnataka, India
+4 days ago
+Tech Lead Manager, Developer Productivity
+Tech Lead Manager, Developer Productivity
+Cerebras
+Bengaluru, Karnataka, India
+6 days ago
+Manager, Software Engineering
+Manager, Software Engineering
+New Relic
+Bengaluru, Karnataka, India
+2 weeks ago
+Manager - DevTools (AI Enabled)
+Manager - DevTools (AI Enabled)
+Ping Identity
+Bengaluru, Karnataka, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Manager, Site Reliability Engineer
+Manager, Site Reliability Engineer
+
+Okta
+
+Bengaluru, Karnataka, India
+6 days ago
+Senior Manager, Engineering
+Senior Manager, Engineering
+
+Harvey
+
+Bengaluru, Karnataka, India
+1 week ago
+Engineering Manager (DevOps & Infra)
+Engineering Manager (DevOps & Infra)
+
+Navi
+
+Bangalore Urban, Karnataka, India
+2 weeks ago
+Engineering Manager
+Engineering Manager
+
+Bridgestone Americas
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Manager, Software Engineering
+Manager, Software Engineering
+
+Kobie
+
+Bengaluru, Karnataka, India
+2 days ago
+Senior Manager Software Engineering
+Senior Manager Software Engineering
+
+American Express
+
+Bengaluru, Karnataka, India
+4 days ago
+Sr Project Lead-DevOPs
+Sr Project Lead-DevOPs
+
+Birlasoft
+
+Greater Bengaluru Area
+5 days ago
+Senior Engineering Manager
+Senior Engineering Manager
+
+TELUS Digital
+
+Bengaluru, Karnataka, India
+5 days ago
+Mgr Software Engineering
+Mgr Software Engineering
+
+ACI Worldwide
+
+Bengaluru, Karnataka, India
+1 day ago
+Software Engineering Manager - Core & Resilience Engineering
+Software Engineering Manager - Core & Resilience Engineering
+
+Okta
+
+Bengaluru, Karnataka, India
+6 days ago
+Similar Searches
+Principal Solutions Engineer jobs
+8,601 open jobs
+Senior Software Engineering Manager jobs
+8,100 open jobs
+Principal Engineer jobs
+22,226 open jobs
+Cloud Architect jobs
+5,470 open jobs
+Software Engineering Manager jobs
+8,787 open jobs
+Senior Engineering Manager jobs
+1,754 open jobs
+Senior Software Engineer jobs
+18,207 open jobs
+Engineering Manager jobs
+11,136 open jobs
+Engineer jobs
+71,158 open jobs
+Director of Engineering jobs
+811 open jobs
+Software Architect jobs
+23,965 open jobs
+Director of Software Engineering jobs
+580 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Hewlett Packard Enterprise
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
