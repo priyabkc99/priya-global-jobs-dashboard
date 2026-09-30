@@ -763,5 +763,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Configuration and Data Management Specialist",
+    "company": "KBR, Inc.",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/configuration-and-data-management-specialist-at-kbr-inc-4401074381",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an NV1 Defence Security Clearance, which is a government security clearance and falls under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection criterion.",
+    "id": "b2b587cc",
+    "source": "linkedin_au_configuration_manager",
+    "added_at": "2026-09-30T08:06:42+03:00",
+    "posted_date": "2026-09-16",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Configuration and Data Management Specialist",
+    "company": "KBR, Inc.",
+    "location": "Greater Melbourne Area",
+    "url": "https://au.linkedin.com/jobs/view/configuration-and-data-management-specialist-at-kbr-inc-4399526315",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an NV1 Defence Security Clearance, which Priya cannot obtain as she lacks Australian citizenship or prior residence in Australia, making it a hard rejection under 'No Visa Sponsorship / Existing Right to Work Required'.",
+    "id": "afae0053",
+    "source": "linkedin_au_configuration_manager",
+    "added_at": "2026-09-30T08:06:42+03:00",
+    "posted_date": "2026-09-16",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

@@ -1,0 +1,275 @@
+Title: Configuration Management Lead
+Company: Endeavour Group
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/configuration-management-lead-at-endeavour-group-4469833864
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role of Configuration Management Lead aligns with Priya's expertise in configuration management, release processes, and regulated industries, and is located in Sydney, Australia, which is within her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Configuration Management Lead
+Endeavour Group  Sydney, New South Wales, Australia
+1 week ago   Be among the first 25 applicants
+  
+
+See who Endeavour Group has hired for this role
+
+Apply 
+Save
+About Us
+
+Let’s create a more sociable future together
+
+At Endeavour, we’re totally into what we do. With a portfolio that includes Dan Murphy’s, BWS, ALH Hotels, Pinnacle Drinks and more, we love to bring people together. Together we share our passion for our products and industry; it’s what inspires us to dream big, and continue to create new experiences for our customers and teams across Australia. If you thrive on positive energy, we want to meet you!
+
+About The Role
+
+Configuration Management Lead
+
+As the Configuration Management Lead, you will take full ownership of the governance, accuracy, and integrity of our Configuration Management Database (CMDB) and supporting processes within the ServiceNow platform. Reporting to the Senior Manager – Service Management, you will act as the technical subject matter expert driving the maturity of our ITSM, ITOM and Event Management capabilities, including Discovery and Service Mapping. This vital role bridges technology and business outcomes by ensuring configuration data is reliable, integrated with observability tools like Dynatrace, and optimised to enable seamless decision-making, incident resolution, and automation across our enterprise environment.
+
+
+Love what you do and leave your mark
+Hybrid ways of working - Sydney or Melbourne location
+Strategic Enterprise Influence: Own and elevate the ServiceNow CMDB Event integration and ITOM roadmap within a dynamic, large-scale technology ecosystem.
+Modern Integration Ecosystem: Drive automation and observability by connecting ServiceNow with modern enterprise cloud tools and monitoring platforms.
+
+
+Sounds good? Read on.
+
+Here is a taster of what you can expect in this role:
+
+
+CMDB Governance Leadership: Establish and maintain robust configuration management frameworks, ensuring CMDB data accuracy, CI relationship mapping, and alignment with CSDM and ITIL standards.
+ServiceNow Platform Mastery: Serve as the subject matter expert across ServiceNow ITSM and ITOM modules, managing Service Catalog items, workflows, and platform enhancements.
+Discovery Service Mapping: Oversee ServiceNow Discovery, Service Mapping, credential management, and MID server administration to build a truly service-aware CMDB.
+Observability Event Integration: Configure seamless integrations between ServiceNow and external monitoring tools like Dynatrace, establishing automated event management and incident workflows.
+Cross-Functional Team Collaboration: Partner with enterprise architecture, cyber security, and service delivery teams to drive CMDB adoption, data health reporting, and continuous process improvement.
+
+
+What do we need from you
+
+Now Let’s Talk About You
+
+
+Extensive Platform Experience: 8+ years of hands-on experience administering or managing ServiceNow, with a core focus on ITSM, ITOM, CMDB, and CSDM structures.
+Technical Integration Expertise: Strong background in ServiceNow Discovery, Service Mapping, MID server setup, and API-based integrations (REST/SOAP, JavaScript).
+Certified Industry Qualifications: Relevant ITIL (v3 or ITIL4) certifications alongside formal ServiceNow credentials (e.g., CIS-ITSM, CIS-Discovery, or ITOM Implementation Specialist) highly regarded.
+Data Governance Capability: Proven ability to establish reconciliation controls, build health dashboards, and manage enhancement backlogs effectively.
+Stakeholder Engagement Focus: Excellent communication and relationship management skills with a proven track record of collaborating across complex enterprise environments.
+
+
+The benefits are good too!
+
+
+We offer hybrid ways of working
+An exclusive discount card for our ALH Hotels pubs & accommodation, BWS, Dan Murphy’s and other Endeavour Group brands. Through our partnership with Woolworths, you'll also enjoy discounts at Woolies supermarkets and BIG W
+As a valued member of the team, your health and wellbeing is our top priority. You will have access to a range of free services to help you live well and support your physical, mental and financial wellbeing
+Endeavour Group is full of opportunities - use our dedicated learning and development options to grow an idea, yourself, and your career. This is just the start, so dream big
+Find out more about our range of benefits and discounts here
+
+
+At Endeavour, we value being a workplace where everyone’s welcome - if you meet a number of the requirements (and not all), we encourage you to apply.
+
+What's in it for you?
+
+We are together creators
+
+With a portfolio that includes Dan Murphy’s, BWS, ALH Hotels, Pinnacle Drinks and more, Endeavour Group is big on sociability. Together we create the moments that bring millions of people together. And together we have more fun, create more opportunities, and score a lot more goals. We’re serious about creating a safe, inclusive and fun place to rock up to where equal opportunity is key, and flexibility is part of how we roll.
+
+We’re all about creating a more sociable future - for our customers and each other. If this job excites you - and you’re close-enough on the requirements, reach out, we’d love to hear from you.
+
+You can learn more about working with us on LinkedIn or at endeavourgroupcareers.com.au.
+
+Our Talent Team and Hiring Leaders kindly request no unsolicited resumes or approaches from Recruitment Agencies. Endeavour Group is not responsible for any fees related to unsolicited resumes.
+
+#WeAreTogetherCreators #ComeAsYouAre #DreamBig #FeelTheEnergy #LeaveYourMark #EndeavourGroup
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Retail
+  
+
+Referrals increase your chances of interviewing at Endeavour Group by 2x
+
+See who you know
+
+Get notified about new Configuration Management Lead jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Configuration Manager jobs
+Configuration Management Lead
+Similar jobs
+Configuration Management Specialist
+Configuration Management Specialist
+Lockheed Martin
+Sydney, New South Wales, Australia
+5 hours ago
+Configuration Manager
+Configuration Manager
+Thomas Global Systems
+Sydney, New South Wales, Australia
+5 days ago
+Technical Data Lead
+Technical Data Lead
+Lockheed Martin
+Sydney, New South Wales, Australia
+5 hours ago
+Configuration and Data Management Specialist
+Configuration and Data Management Specialist
+KBR, Inc.
+Sydney, New South Wales, Australia
+2 weeks ago
+CMDB Configuration Analyst
+CMDB Configuration Analyst
+Reserve Bank of Australia
+Sydney, New South Wales, Australia
+2 weeks ago
+Digital Technology Lead
+Digital Technology Lead
+Collins Aerospace
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Principal Consultant - Records Management
+Principal Consultant - Records Management
+
+RecordPoint
+
+Sydney, New South Wales, Australia
+A$170,000 - A$180,000
+1 week ago
+CRM Platform Lead
+CRM Platform Lead
+
+EML Group
+
+Sydney, New South Wales, Australia
+1 week ago
+Digital Advice Manager
+Digital Advice Manager
+
+Aware Super
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Engineering Specialist
+Senior Engineering Specialist
+
+Airservices Australia
+
+Sydney, New South Wales, Australia
+1 day ago
+Enterprise Release Manager
+Enterprise Release Manager
+
+ASX
+
+Sydney, New South Wales, Australia
+2 days ago
+Service Catalogue Manager - 12-month fixed term contract
+Service Catalogue Manager - 12-month fixed term contract
+
+Datacom
+
+Sydney, New South Wales, Australia
+2 days ago
+IT Systems Administrator Lead
+IT Systems Administrator Lead
+
+Australian Taxation Office
+
+Sydney, New South Wales, Australia
+53 minutes ago
+Integration Specialist-EN
+Integration Specialist-EN
+
+CAE
+
+Homebush, New South Wales, Australia
+1 day ago
+Systems Manager - Treasury & Finance
+Systems Manager - Treasury & Finance
+
+Housing Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Microsoft 365 Solutions Lead
+Microsoft 365 Solutions Lead
+
+St Vincent's Health Australia
+
+Greater Sydney Area
+5 days ago
+Similar Searches
+Configuration Manager jobs
+256 open jobs
+Configuration Analyst jobs
+647 open jobs
+Document Control Manager jobs
+138 open jobs
+Network Solutions Architect jobs
+438 open jobs
+Senior Design Engineer jobs
+567 open jobs
+Implementation Engineer jobs
+4,836 open jobs
+Data Modeler jobs
+5,365 open jobs
+Regulatory Manager jobs
+660 open jobs
+Manufacturing Engineer jobs
+572 open jobs
+Data Manager jobs
+2,773 open jobs
+Full Stack Engineer jobs
+763 open jobs
+Principal System Engineer jobs
+186 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Endeavour Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
