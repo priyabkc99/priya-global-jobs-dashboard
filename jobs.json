@@ -22659,8 +22659,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-30T04:00:06+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T10:21:56+03:00"
   },
   {
     "title": "Accounting Specialist",
@@ -22676,8 +22676,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-30T04:00:07+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T10:21:56+03:00"
   },
   {
     "title": "Accounting Specialist",
@@ -22693,25 +22693,24 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-30T04:00:07+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-09-30T10:21:57+03:00"
   },
   {
     "title": "Senior Contracts Specialist - Mining",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "HIRE RESOLVE",
+    "location": "Rustenburg, South Africa",
     "url": "https://www.careerjunction.co.za/senior-contracts-specialist-mining-job-2645585.aspx",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job requires contract management and procurement expertise in mining, which does not align with Priya's background in technical communication, release management, and regulated-industry configuration management.",
     "id": "40245f0c",
     "source": "careerjunction_documentation_specialist",
     "added_at": "2026-09-29T21:15:00+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-29",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-09-30T04:00:07+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Skills Development Specialist",
