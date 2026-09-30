@@ -1,0 +1,252 @@
+Title: Software QA & Release Engineer
+Company: Exacta Solutions Ltd
+Location: Malta
+URL: https://mt.linkedin.com/jobs/view/software-qa-release-engineer-at-exacta-solutions-ltd-4465994499
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in QA, release management, and automation, fits the target location (Malta), and matches her experience as a Technical Communication Specialist and Configuration Manager.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software QA & Release Engineer
+Exacta Solutions Ltd  Malta
+2 weeks ago  69 applicants
+  
+
+See who Exacta Solutions Ltd has hired for this role
+
+Apply
+Save
+
+Our client, an established industrial software company working with manufacturing and industrial automation, are looking for a Software QA Engineer with a strong focus on release management and production deployment. You will own the path from “development is complete” to “the software is running correctly at the customer plant.” This includes testing release candidates, preparing and versioning releases, installing updates remotely, verifying production systems and improving the process through automation.
+
+
+
+
+This is not a standard manual web-testing position. You will work directly with Windows Server, SQL Server, .NET applications, PowerShell, logs, VPN connections and live customer environments.
+
+
+
+
+What you will do
+
+Test new features, release candidates and bug fixes
+Run system-level regression tests using our automated extrusion press simulator
+Prepare, package and version software releases
+Maintain release branches, tags and deployment records in Git
+Connect to customer servers remotely through VPN and RDP
+Deploy .NET Windows services and IIS web applications
+Apply and verify SQL Server schema and data updates
+Take database backups and prepare rollback plans before making changes
+Verify services, logs, database writes, operator screens and PLC communication after deployment
+Maintain records of the software versions and configurations installed at each customer site
+Investigate whether production issues are related to software, configuration, databases or connected equipment
+Automate repeatable testing and deployment tasks using PowerShell
+Help develop our automated build, test and release pipeline
+
+
+
+
+What we are looking for
+
+Practical Windows Server administration experience
+Experience with Windows services, IIS, Event Viewer, permissions and RDP
+Working SQL Server and T-SQL knowledge
+Experience running database scripts and taking or restoring backups
+PowerShell or equivalent scripting experience
+Working knowledge of Git branches, tags and release workflows
+Familiarity with building, testing or publishing .NET applications
+Experience deploying or supporting software in a production environment
+A careful and structured approach to testing, documentation, backups and rollback planning
+Strong troubleshooting skills
+Good written and spoken English
+Availability for occasional installations during customer maintenance windows outside normal office hours
+Currently living in Malta and legally permitted to work in Malta
+
+
+
+
+Useful additional experience
+
+Supporting on-premises software installed at customer sites
+CI/CD systems such as Azure DevOps, GitHub Actions or Jenkins
+Reading and troubleshooting C# code
+Automated testing frameworks such as xUnit
+Industrial automation, MES or SCADA systems
+Siemens or Allen-Bradley PLCs
+OPC UA, OPC DA or Modbus
+Software installer or packaging tools
+
+
+
+
+What makes the role interesting
+
+Take ownership of the complete testing and release process
+Work directly with the lead developer and a small technical team
+Improve and automate how software is tested and delivered
+Work on software connected to real industrial production machinery
+Gain experience with customer plants and extrusion systems around the world
+Build on an existing automated test suite and press simulator
+
+
+
+
+
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Exacta Solutions Ltd by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior QA Engineer (Fully remote)
+Senior QA Engineer (Fully remote)
+Konnekt
+Valletta, Malta
+€50,000 - €60,000
+1 week ago
+Software QA Engineer
+Software QA Engineer
+HAUD
+Mosta, Mosta, Malta
+1 month ago
+QA Engineer
+QA Engineer
+Xprizo™
+Malta
+2 months ago
+Quality Assurance Automation Engineer
+Quality Assurance Automation Engineer
+Hornetsecurity
+San Gwann, Malta
+3 weeks ago
+Test Automation Engineer
+Test Automation Engineer
+Platin Gaming Ltd.
+Malta
+4 months ago
+QA ENGINEER
+QA ENGINEER
+RELIGA.
+San Ġiljan, Saint Julian's, Malta
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Build/CI Engineer
+Senior DevOps Build/CI Engineer
+
+Altenar
+
+San Ġiljan, Saint Julian's, Malta
+6 months ago
+Data Engineer
+Data Engineer
+
+Patrianna
+
+Sliema, Sliema, Malta
+5 days ago
+Engineering Manager
+Engineering Manager
+
+Vista
+
+Luqa, Luqa, Malta
+2 weeks ago
+Tech Generalist (Software Engineer)
+Tech Generalist (Software Engineer)
+
+Capchase
+
+Malta
+2 months ago
+Cloud Engineer
+Cloud Engineer
+
+Pentasia
+
+Sliema, Malta
+2 weeks ago
+Vibe Coder
+Vibe Coder
+
+Square One Resources
+
+Malta
+€40,000 - €55,000
+2 weeks ago
+Senior Security Engineer
+Senior Security Engineer
+
+The Mill Adventure
+
+Malta
+2 weeks ago
+Quality Engineer
+Quality Engineer
+
+Crane Currency
+
+Valletta, Valletta, Malta
+2 weeks ago
+Manual QA Engineer - Sportsbook
+Manual QA Engineer - Sportsbook
+
+Betsson Group
+
+Valletta, Valletta, Malta
+2 weeks ago
+Brand Experience - QA Automation Engineer (Frontend)
+Brand Experience - QA Automation Engineer (Frontend)
+
+Betsson Group
+
+Ta' Xbiex, Malta
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Exacta Solutions Ltd
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
