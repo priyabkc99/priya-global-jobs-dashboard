@@ -1,0 +1,304 @@
+Title: Software Delivery Manager
+Company: FIOR Group
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/software-delivery-manager-at-fior-group-4472773174
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The job aligns with Priya's experience in release management and configuration management, fits her target location (UK), and matches her background as a Technical Communication Specialist.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Delivery Manager
+FIOR Group  London Area, United Kingdom
+1 day ago  147 applicants
+  
+
+See who FIOR Group has hired for this role
+
+Apply
+Save
+
+FIOR.Group Limited builds the trust infrastructure for the AI age. Our flagship product, the FIOR AI Gateway, acts as SSL for AI — giving enterprises certificate-based identity, policy enforcement, and quantum-safe cryptography for autonomous AI agents. The platform pairs a high-performance Rust gateway agent with a multi-tenant control plane and role-specific portals, used by regulated organisations across finance, energy, defence, and aerospace.
+
+
+
+
+Role
+
+ 
+
+FIOR is looking for a Software Delivery Manager to coordinate the day-to-day delivery of software across requirements, development, testing and release.
+
+ 
+
+You will turn business priorities into clear work for engineering, maintain the delivery backlog, coordinate workloads and dependencies, support release planning, and keep stakeholders clear on progress, risks and decisions.
+
+ 
+
+This is a hands-on role in a fast-moving product company, working directly with the CEO, CTO, Field CTO, engineering and operations.
+
+ 
+
+What you will do
+
+ 
+
+- Turn business requirements into clear features, tasks and acceptance criteria.
+
+- Maintain the delivery backlog across product work, defects, support cases and technical improvements.
+
+- Coordinate priorities, developer workload, dependencies and delivery dates.
+
+- Track work through development, testing and release.
+
+- Identify blockers, delivery risks and conflicting priorities early.
+
+- Coordinate testing, business acceptance and release readiness.
+
+- Produce clear release notes and concise delivery updates.
+
+- Keep delivery records, decisions and requirements current.
+
+- Help improve delivery practices where delays, rework or ambiguity appear.
+
+ 
+
+What we need
+
+ 
+
+- Around 2-4 years' experience in software delivery, project delivery, development coordination or a similar role.
+
+- Good understanding of the software development lifecycle.
+
+- Experience turning business requirements into clear development work.
+
+- Experience managing backlogs, priorities, defects and delivery plans.
+
+- Familiarity with Jira, GitHub Projects, Azure DevOps or similar tooling.
+
+- Working knowledge of Agile, Scrum or Kanban.
+
+- Strong written communication, organisation and stakeholder management.
+
+- Enough technical understanding to work confidently with developers on dependencies, estimates and delivery risks.
+
+ 
+
+Experience with SaaS, APIs, cloud, CI/CD, AI or security products would be useful, but is not essential.
+
+ 
+
+What success looks like
+
+ 
+
+Developers have clear, prioritised work. Requirements are understood before development starts. Capacity and dependencies are visible. Blockers are identified early. Stakeholders receive accurate delivery updates. Releases are organised, documented and meet their acceptance criteria.
+
+ 
+
+The role owns delivery coordination and visibility. Business priorities remain with the relevant business or product owner. Technical design and engineering standards remain with engineering leadership.
+
+
+
+
+**Location:** London, UK - Remote / Hybrid 
+
+**Employment type:** Full-time, Permanent 
+
+**Salary:** Up to £60,000
+
+ 
+
+
+
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Management and Manufacturing
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at FIOR Group by 2x
+
+See who you know
+
+Get notified about new Delivery Manager jobs in London Area, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Product Delivery Manager
+Product Delivery Manager
+Wickes
+Watford, England, United Kingdom
+1 week ago
+Delivery Manager
+Delivery Manager
+Trayport
+London, England, United Kingdom
+4 days ago
+Manager Software Engineering
+Manager Software Engineering
+RELX
+London, England, United Kingdom
+2 weeks ago
+Software Engineering Team Manager
+Software Engineering Team Manager
+Pearson
+London, England, United Kingdom
+1 week ago
+Technical Delivery Manager
+Technical Delivery Manager
+ClearRoute
+London, England, United Kingdom
+2 months ago
+Technical Delivery Manager
+Technical Delivery Manager
+Aristocrat Interactive
+London, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Delivery Manager
+Delivery Manager
+
+i3
+
+London Area, United Kingdom
+2 weeks ago
+Software Development Manager
+Software Development Manager
+
+Penguin Random House UK
+
+London Area, United Kingdom
+1 week ago
+Technical Delivery Manager - London, UK
+Technical Delivery Manager - London, UK
+
+Flight Centre Travel Group
+
+London, England, United Kingdom
+1 week ago
+Delivery Lead – Networks, Infrastructure & Service Desk
+Delivery Lead – Networks, Infrastructure & Service Desk
+
+Nando's UK & IRE
+
+London Area, United Kingdom
+1 week ago
+Delivery Manager – Apigee Migration
+Delivery Manager – Apigee Migration
+
+Cognizant
+
+London Area, United Kingdom
+3 weeks ago
+Senior Delivery Manager
+Senior Delivery Manager
+
+Informed Solutions
+
+London, England, United Kingdom
+1 day ago
+Application Development & Support Manager
+Application Development & Support Manager
+
+GIOS Technology
+
+London Area, United Kingdom
+£53 - £55
+21 hours ago
+Senior Agile Delivery Manager
+Senior Agile Delivery Manager
+
+i3
+
+London Area, United Kingdom
+£90,000 - £95,000
+1 week ago
+Technical Delivery Lead
+Technical Delivery Lead
+
+Stanton House
+
+Greater London, England, United Kingdom
+3 weeks ago
+Engineering lead
+Engineering lead
+
+Test Triangle
+
+London, England, United Kingdom
+3 weeks ago
+Similar Searches
+Head of Faculty jobs
+166 open jobs
+Change And Configuration Manager jobs
+386 open jobs
+Agile Coach jobs
+3,225 open jobs
+Delivery Director jobs
+5,011 open jobs
+Global Network Manager jobs
+797 open jobs
+Scrum Master jobs
+15,217 open jobs
+Global Service Delivery Manager jobs
+551 open jobs
+Service Project Manager jobs
+4,000 open jobs
+Release Manager jobs
+5,967 open jobs
+Release Engineer jobs
+2,904 open jobs
+Portfolio Architect jobs
+2,395 open jobs
+Senior Software Project Manager jobs
+2,086 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at FIOR Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

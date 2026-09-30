@@ -1,0 +1,251 @@
+Title: Build And Release Engineer
+Company: E-Solutions
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/build-and-release-engineer-at-e-solutions-4472714171
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in release management, CI/CD, and regulated industries, and is located in the UK, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Build And Release Engineer
+E-Solutions  London Area, United Kingdom
+1 hour ago  47 applicants
+  
+
+See who E-Solutions has hired for this role
+
+Apply
+Save
+
+Role: Release Train Engineer
+
+Location: London, UK
+
+Type: Permanent/ Full-Time
+
+
+
+
+Job Description:
+
+Own and manage the end-to-end Release Management lifecycle, ensuring predictable, high-quality, and timely releases across environments.
+Define, implement, and continuously improve Release Management processes, tools, standards, and best practices.
+Identify opportunities to optimize release processes, including reducing release cycle time, improving release success rates, and minimizing rollbacks.
+Coordinate closely with Development, QA, DevOps, and SRE teams to plan, schedule, and execute releases.
+Ensure effective release readiness, risk assessment, dependency management, and go/no-go decision support.
+Lead and mentor release and deployment engineers, providing guidance on tools, processes, and operational excellence.
+Participate in Agile/Scrum ceremonies and ensure release activities align with sprint, program, and delivery milestones.
+Drive clear and effective stakeholder communication through release status updates, release notes, dashboards, and post-release reviews.
+Identify and proactively address release risks, blockers, and cross-team dependencies.
+Support audit, compliance, governance, and change-management activities related to software releases.
+Promote continuous improvement by analyzing release metrics, identifying process gaps, and implementing corrective actions.
+
+
+
+
+Required Qualifications & Skills
+
+IT experience, with significant experience in Release Management, Environment Management, Change Management, or Release Coordination.
+Strong understanding of Release Management processes, methodologies, tools, and industry best practices.
+Hands-on experience working within Agile/Scrum delivery environments.
+Proven ability to collaborate effectively with Development, QA, DevOps, and SRE teams.
+Experience leading, mentoring, or providing technical guidance to release or deployment engineers.
+Strong understanding of CI/CD, deployment processes, environment management, and release automation.
+Excellent verbal and written communication skills, with the ability to effectively engage technical teams and senior stakeholders.
+Strong organizational, coordination, problem-solving, and risk-management skills.
+Ability to manage multiple releases, priorities, dependencies, and stakeholders in a fast-paced environment.
+Ability to operate effectively at a managerial or solution-architecture level while remaining hands-on when required.
+
+
+
+
+Preferred Skills
+
+Experience with enterprise-scale release and deployment processes.
+Familiarity with release orchestration, CI/CD, DevOps, and cloud-based delivery environments.
+Experience with release metrics, dashboards, and continuous improvement initiatives.
+Familiarity with SAFe or other scaled Agile frameworks.
+Experience supporting audit, compliance, and technology governance requirements.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Information Services, Banking, and Financial Services
+  
+
+Referrals increase your chances of interviewing at E-Solutions by 2x
+
+See who you know
+
+Get notified about new Build And Release Engineer jobs in London Area, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Wayve
+London, England, United Kingdom
+6 days ago
+Release Engineer
+Release Engineer
+Valarian
+London, England, United Kingdom
+2 weeks ago
+Platform Engineer - Build & CI
+Platform Engineer - Build & CI
+Humanoid
+London, England, United Kingdom
+1 month ago
+Software Development Engineer - Release Engineering
+Software Development Engineer - Release Engineering
+Sky
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+All3
+London Area, United Kingdom
+1 day ago
+Release Engineer
+Release Engineer
+HCLTech
+London Area, United Kingdom
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Platform Engineer
+Platform Engineer
+
+Marex
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+BAE Systems Digital Intelligence
+
+London, England, United Kingdom
+1 year ago
+Developer Experience Engineer
+Developer Experience Engineer
+
+DRW
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Bell Integration
+
+London, England, United Kingdom
+2 weeks ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Griffin
+
+London, England, United Kingdom
+2 weeks ago
+Software Engineer - Software Delivery
+Software Engineer - Software Delivery
+
+Neo4j
+
+London Area, United Kingdom
+1 day ago
+Platform Engineer
+Platform Engineer
+
+9fin
+
+London, England, United Kingdom
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Spreadex
+
+St Albans, England, United Kingdom
+2 weeks ago
+CI/CD Engineer
+CI/CD Engineer
+
+DNS Info Ltd
+
+London Area, United Kingdom
+18 hours ago
+Platform Engineer
+Platform Engineer
+
+Charlotte Tilbury Beauty
+
+London, England, United Kingdom
+2 weeks ago
+Similar Searches
+Configuration Management Engineer jobs
+181 open jobs
+Software Configuration Management Engineer jobs
+2,318 open jobs
+Release Engineer jobs
+2,904 open jobs
+Data Management Coordinator jobs
+7,215 open jobs
+Unix Engineer jobs
+1,127 open jobs
+Release Manager jobs
+5,967 open jobs
+Data Network Engineer jobs
+2,112 open jobs
+Software Integration Engineer jobs
+1,511 open jobs
+Software Integrator jobs
+382 open jobs
+Tools Engineer jobs
+24,212 open jobs
+Configuration Analyst jobs
+2,372 open jobs
+Platform Engineer jobs
+7,837 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at E-Solutions
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
