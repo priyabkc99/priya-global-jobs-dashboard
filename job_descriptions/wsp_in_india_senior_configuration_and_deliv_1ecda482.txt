@@ -1,0 +1,360 @@
+Title: Senior Configuration and Delivery Manager
+Company: WSP in India
+Location: Noida, Uttar Pradesh, India
+URL: https://in.linkedin.com/jobs/view/senior-configuration-and-delivery-manager-at-wsp-in-india-4453872437
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in configuration management, release coordination, and DevOps practices, matching her background at Elektrobit and Topcon, and is located in India (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Configuration and Delivery Manager
+WSP in India  Noida, Uttar Pradesh, India
+2 weeks ago  34 applicants
+  
+
+See who WSP in India has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+Configuration and Delivery Manager would be responsible for configuration control, release coordination, deployment governance, and delivery readiness across current and upcoming WSP Digital Products. The role would ensure that product configuration, environment readiness, version control, release packages, deployment approvals, and production releases are managed through controlled, traceable, auditable, and repeatable processes across development, test, staging, and production environments.
+
+Responsibilities
+
+Configuration Management
+
+Define and maintain configuration management standards across applications, environments, release packages, and deployment artefacts.
+
+Maintain traceability for product versions, configuration items, environment variables, dependencies, release baselines, and deployment records.
+
+Coordinate configuration changes across application, integration, data, infrastructure, and environment layers.
+
+Ensure configuration decisions are documented, controlled, and auditable.
+
+Release & Deployment Management
+
+Plan, coordinate, schedule, and govern product releases across current and upcoming digital products.
+
+Maintain release calendars, deployment schedules, release notes, release scope, deployment checklist, and rollback plans.
+
+Coordinate release readiness reviews, QA sign-offs, DevOps readiness, CAB inputs, and production deployment approvals.
+
+Track release risks, deployment issues, defects, rollback outcomes, and post-release validation status.
+
+Environment & Delivery Readiness
+
+Coordinate environment readiness across Dev, QA, UAT, staging, production, and support environments.
+
+Ensure environment consistency, access readiness, dependency readiness, and deployment sequencing before release execution.
+
+Support environment refresh, configuration updates, smoke-test coordination, and deployment troubleshooting.
+
+Work with DevOps and engineering teams to improve repeatability and reliability of deployment practices.
+
+Compliance, Metrics & Continuous Improvement
+
+Maintain release evidence, approval records, deployment logs, release decisions, and audit-ready documentation.
+
+Track release metrics including deployment frequency, failed deployments, rollback frequency, defect leakage, and release predictability.
+
+Identify recurring release and configuration issues and drive preventive improvements with engineering, QA, DevOps, and support teams.
+
+Contribute to release SOPs, configuration playbooks, governance checklists, and operational documentation.
+
+Required Technical Skills
+
+Configuration Management | Advanced — software baselines, version control, configuration item traceability, environment configuration, and audit records
+
+Release Management | Advanced — release planning, deployment coordination, CAB inputs, release readiness, rollback planning, and sign-offs
+
+DevOps / CI-CD Awareness | Proficient — Azure DevOps, GitHub, branching, tagging, pipelines, deployment controls, and release artefacts
+
+Environment Governance | Proficient — Dev, QA, UAT, staging, production readiness, environment refresh, and deployment sequencing
+
+ITIL / Change Governance | Proficient — change, release, configuration, risk-based approvals, governance documentation, and auditability
+
+Stakeholder Coordination | Advanced — coordination across engineering, QA, DevOps, business, support, and leadership teams
+
+Required Experience
+
+Minimum 8 years of professional experience in configuration management, release management, DevOps coordination, IT operations, or software delivery governance.
+
+Experience managing enterprise release cycles across multiple environments and product teams.
+
+Experience with configuration baselines, release packages, deployment records, change controls, and audit-ready documentation.
+
+Working knowledge of Azure DevOps, Git, branching strategies, build/release pipelines, and deployment governance.
+
+Experience coordinating CAB approvals, release readiness, rollback planning, deployment validation, and post-release verification.
+
+Preferred (Not Required)
+
+Experience supporting SaaS, cloud-hosted, or integration-heavy enterprise digital products.
+
+Exposure to ITIL Change, Release, and Configuration Management practices.
+
+Experience with Azure DevOps, GitHub, Jira, ServiceNow, SharePoint, Confluence, or similar tools.
+
+Exposure to product transition, MVP stabilization, or multi-vendor delivery models.
+
+Qualifications
+
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or related field.
+ITIL Foundation, DevOps, Agile, or Release Management certification is preferred but not mandatory.
+
+
+
+BGV
+
+
+Employment with WSP India is subject to the successful completion of a background verification ("BGV") check conducted by a third-party agency appointed by WSP India.
+Candidates are advised to ensure that all information provided during the recruitment process — including documents uploaded — is accurate and complete, both to WSP India and its BGV partner
+
+
+
+About Us
+
+WSP is one of the world's leading professional services consulting firms. We are dedicated to our local communities and propelled by international brainpower. We are technical experts and strategic advisors including engineers, technicians, scientists, architects, planners, surveyors and environmental specialists, as well as other design, program and construction management professionals. We design lasting solutions in the Transportation & Infrastructure, Property & Buildings, Earth & Environment, Power & Energy, Resources and Industry sectors, as well as offering strategic advisory services. Our talented people around the globe engineer projects that will help societies grow for lifetimes to come.
+
+With approximately 4,000 talented people across 3 locations (Noida, Bengaluru & Mumbai offices) in India and more than 73,000 globally, in 550 offices across 40 countries, we engineer projects that will help societies grow for lifetimes to come.
+
+At “WSP” we draw on the diverse skills and capabilities of our employees globally to compete for the most exciting and complex projects across the world and bring the same level of expertise to our local communities. We are proud to be an international collective of innovative thinkers who work on the most complex problems. Uniﬁed under one strong brand, we use our local expertise, international reach and global scale to prepare our cities and environments for the future, connect communities and help societies thrive in built and natural ecosystems. True to our guiding principles, our business is built on four cornerstones: Our People, Our Clients, Our Operational Excellence and Our Expertise.
+
+www.wsp.com
+
+We are
+
+
+Passionate people doing purposeful and sustainable work that helps shape our communities and the future.
+A collaborative team that thrives on challenges and unconventional thinking.
+A network of experts channeling our curiosity into creating solutions for complex issues.
+
+
+
+Inspired by diversity, driven by inclusion, we work with passion and purpose.
+
+Working with Us
+
+At WSP, you can access our global scale, contribute to landmark projects and connect with the brightest minds in your field to do the best work of your life. You can embrace your curiosity in a culture that celebrates new ideas and diverse perspectives. You can experience a world of opportunity and the chance to shape a career as unique as you.
+
+Our Hybrid Working Module
+
+With us, you can operate in a flexible, agile, yet structured work environment and follow a Hybrid Work Model.
+
+
+Maximize collaboration.
+Maintain product quality and cultural integrity.
+Balance community, collaboration, opportunity, productivity, and efficiency.
+
+
+
+Health, Safety and Wellbeing
+
+Our people are our greatest asset, and we prioritize a safe work environment. Health, safety, and wellbeing are integral to our culture, with each of us accountable for fostering a safe workplace through our “Making Health and Safety Personal” initiative. Our Zero Harm Vision drives us to reduce risks through innovative solutions, earning recognition for our global health and safety practices with the prestigious RoSPA Health and Safety Awards for six consecutive years.
+
+Inclusivity and Diversity
+
+WSP India is dedicated to fostering a sustainable and inclusive work environment where our greatest strength - Our People -feel valued, respected, and supported. We ensure an unbiased approach in hiring, promotion, and performance evaluation, regardless of age, gender identity, race, religion, sexual orientation, marital status, physical ability, education, social status, or cultural background.
+
+Imagine a better future for you and a better future for us all.
+
+Join our close-knit community of over 73,300 talented global professionals dedicated to making a positive impact. Together, we can make a difference in communities both near and far.
+
+With us, you can.
+
+Apply today.
+
+NOTICE TO THIRD PARTY AGENCIES:
+
+WSP does not accept unsolicited resumes from recruiters, employment agencies, or other staffing services. Unsolicited resumes include any resume or hiring document sent to WSP in the absence of a signed Service Agreement where WSP has expressly requested recruitment/staffing services specific to the position at hand. Any unsolicited resumes, including those submitted to hiring managers or other business leaders, will become the property of WSP and WSP will have the right to hire that candidate without reservation – no fee or other compensation will be owed or paid to the recruiter, employment agency, or other staffing service.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Project Management and Information Technology
+Industries
+Professional Services
+  
+
+Referrals increase your chances of interviewing at WSP in India by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Configuration and Delivery Manager
+Senior Configuration and Delivery Manager
+WSP in India
+Noida, Uttar Pradesh, India
+2 weeks ago
+Program/Project Management Lead
+Program/Project Management Lead
+Accenture in India
+Gurugram, Haryana, India
+5 days ago
+Delivery Manager
+Delivery Manager
+ValueLabs
+Gurugram, Haryana, India
+1 week ago
+Senior Manager - Delivery
+Senior Manager - Delivery
+AVIZVA
+Gurugram, Haryana, India
+1 month ago
+S&C GN - TS&T – Technology Transformation Delivery - Senior Manager
+S&C GN - TS&T – Technology Transformation Delivery - Senior Manager
+Accenture in India
+Gurugram, Haryana, India
+5 days ago
+Assistant Director
+Assistant Director
+EY
+Gurugram, Haryana, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Service Delivery Manager
+Service Delivery Manager
+
+ETAP Software
+
+Delhi, India
+2 weeks ago
+Sr. Program Manager
+Sr. Program Manager
+
+Clearwater Analytics
+
+Noida, Uttar Pradesh, India
+4 days ago
+Implementation Manager
+Implementation Manager
+
+Sutra.AI
+
+Greater Delhi Area
+1 week ago
+Senior ServiceNow Project Manager
+Senior ServiceNow Project Manager
+
+AHEAD
+
+Gurugram, Haryana, India
+4 months ago
+Product Manager
+Product Manager
+
+India Health Link
+
+Delhi, India
+1 month ago
+Senior Implementation Consultant
+Senior Implementation Consultant
+
+LeadSquared
+
+Noida, Uttar Pradesh, India
+1 week ago
+Senior Manager
+Senior Manager
+
+Bank of America
+
+Gurugram, Haryana, India
+1 week ago
+Service Delivery Manager
+Service Delivery Manager
+
+Iron Systems, Inc
+
+Noida, Uttar Pradesh, India
+3 days ago
+Recurring Services Ops Adoption Leader
+Recurring Services Ops Adoption Leader
+
+Schneider Electric
+
+Delhi, India
+1 day ago
+Project Manager
+Project Manager
+
+SITA
+
+Delhi, India
+6 days ago
+Similar Searches
+Senior Software Project Manager jobs
+845 open jobs
+Data Mining Consultant jobs
+19 open jobs
+Senior Manager Creative Services jobs
+53 open jobs
+Senior Program Manager jobs
+1,726 open jobs
+Freelance Senior Project Manager jobs
+252 open jobs
+Senior Engineering Project Manager jobs
+2,860 open jobs
+Principal Project Manager jobs
+1,522 open jobs
+Senior Consulting Project Manager jobs
+304 open jobs
+Senior Resident Engineer jobs
+434 open jobs
+Project Manager jobs
+18,687 open jobs
+Project Director jobs
+3,461 open jobs
+Director of Construction jobs
+59 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at WSP in India
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
