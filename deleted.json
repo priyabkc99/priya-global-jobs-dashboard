@@ -831,5 +831,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-10-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Technical Product Owner/Delivery Lead",
+    "company": "Nedbank",
+    "location": "Johannesburg, Gauteng, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/technical-product-owner-delivery-lead-at-nedbank-4464794736",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with location and experience level criteria but does not clearly match Priya\u2019s specialized skills in configuration management, release pipelines, or technical documentation ownership, though 'Delivery Lead' may overlap with some of her cross-functional coordination experience.",
+    "id": "4475acb9",
+    "source": "linkedin_za_release_manager",
+    "added_at": "2026-09-30T15:30:08+03:00",
+    "posted_date": "2026-09-16",
+    "deadline": "2026-07-03",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-03) passed by more than 2 days and unreviewed"
   }
 ]
