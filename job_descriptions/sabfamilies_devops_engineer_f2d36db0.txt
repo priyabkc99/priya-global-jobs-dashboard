@@ -1,0 +1,232 @@
+Title: DEVOPS ENGINEER
+Company: SABfamilies
+Location: Greater Chennai Area
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-sabfamilies-4414800593
+Posted: 2026-06-02
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (Kubernetes, Docker, CI/CD pipelines) and is located in Chennai, India â€” a target country she is open to relocating to.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DEVOPS ENGINEER
+SABfamilies  Greater Chennai Area
+4 months ago   Over 200 applicants
+  
+
+See who SABfamilies has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Home
+About Us
+Careers
+CSR
+Testimonials
+Contact Us
+
+
+Devops Engineer
+
+Location: Onsite – Ambattur, Chennai.
+
+We are looking for a DevOps Engineer to join our dynamic team. You will work with the Business Analyst and bridge the gap between requirements and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.
+
+Job Type: Full Time
+
+Responsibilities
+
+
+Experience in Kubernetes, Docker, CI/CD, DevOps, AWS
+3+ years Proven work experience as DevOps Engineer focussed on Kubernetes.
+Administering Kubernetes. Ability to create, maintain, scale, and debug production Kubernetes clusters as a Kubernetes administrator
+Working on at least one Kubernetes cloud offering (EKS/GKE/AKS) or on-prem Kubernetes (native Kubernetes, Gravity, MetalK8s)
+Programming experience in Python, Node or bash. Our services are written in these languages
+Knowledge in Api and Mapping
+Experience in Code Pipeline, Shell Scripting, Perl/Python, Terraform
+Experience working with different databases like MongoDB
+Experience working with Cloud technologies like Kubernetes, Docker, containers, Cloud Concepts.
+Passion for developing relevant security solutions that are agile and perform at scale
+Proficient with Configuration management tools, and in developing CI/CD pipelines
+Ability to use observability tools to look at logs and metrics to diagnose issues within that system. We use Prometheus, and Grafana.
+Experience hardening a production-level Kubernetes environment (memory/CPU limits, node taints, annotations/labels, etc.)
+Experience with Kubernetes cluster networking and Linux host networking
+Experience in scaling infrastructure to support high-throughput data-intensive applications
+Experience working on projects following an Agile or similar process
+Minimum education and experience required: bachelor’s degree or equivalent in Computer Science, Engineering (any), or related field
+
+
+Preferred
+
+
+Strong experience in building end to end Kubernetes Infrastructure
+Maintaining entire Production platform
+Kubernetes Certified
+Strong Understanding of databases and Backup, Cron and Monitoring
+Proficient understanding of code versioning tools, such as Git, with ability to manage multiple code branches
+Experience in Trade Directory domain is good to have.
+Experience in AWS is Mandatory
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Individual and Family Services
+  
+
+Referrals increase your chances of interviewing at SABfamilies by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Greater Chennai Area.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+4 days ago
+Devops Engineer
+Devops Engineer
+Qube Cinema
+Chennai, Tamil Nadu, India
+3 months ago
+DevOps Engineer
+DevOps Engineer
+HCLTech
+Chennai, Tamil Nadu, India
+₹700,000 - ₹1,800,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+IDFC FIRST Bank
+Chennai, Tamil Nadu, India
+1 week ago
+Devops Engineer
+Devops Engineer
+Intuitive Apps Inc.
+Chennai, Tamil Nadu, India
+1 month ago
+Devops Engineer
+Devops Engineer
+SWITS DIGITAL Private Limited
+Chennai, Tamil Nadu, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior DevOps & SRE
+Senior DevOps & SRE
+
+Quvia
+
+Chennai, Tamil Nadu, India
+4 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Automios
+
+Chennai, Tamil Nadu, India
+10 months ago
+DevOps Engineer
+DevOps Engineer
+
+DHL
+
+Chennai, Tamil Nadu, India
+1 month ago
+SRE Cloud DevOps Engineer
+SRE Cloud DevOps Engineer
+
+Neurealm
+
+Chennai, Tamil Nadu, India
+5 days ago
+Azure Devops Engineer - Immediate Joiners
+Azure Devops Engineer - Immediate Joiners
+
+Movate
+
+Chennai, Tamil Nadu, India
+₹900,000 - ₹1,600,000
+3 weeks ago
+Infrastructure DevOps Specialist
+Infrastructure DevOps Specialist
+
+Celestica
+
+Guindy, Tamil Nadu, India
+5 days ago
+DevOps Engineer III
+DevOps Engineer III
+
+PDI Technologies
+
+Chennai, Tamil Nadu, India
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+HID
+
+Chennai, Tamil Nadu, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at SABfamilies
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

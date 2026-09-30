@@ -1,0 +1,287 @@
+Title: DevOps Delivery Engineer
+Company: Payoneer
+Location: Gurugram, Haryana, India
+URL: https://in.linkedin.com/jobs/view/devops-delivery-engineer-at-payoneer-4431199901
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise, is located in India (a target country), and matches her experience in configuration management and release processes.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Delivery Engineer
+Payoneer  Gurugram, Haryana, India
+2 weeks ago   Over 200 applicants
+  
+
+See who Payoneer has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Payoneer
+
+Founded in 2005, Payoneer is the global financial platform that removes friction from doing business across borders, with a mission to connect the world’s underserved businesses to a rising global economy. We’re a community with over 2,500 colleagues all over the world, working to serve customers, and partners in over 190 countries and territories.
+
+By taking the complexity out of the financial workflows–including everything from global payments and compliance to multi-currency and workforce management, to providing working capital and business intelligence–we give businesses the tools they need to work efficiently worldwide and grow with confidence.
+
+About The Role
+
+We’re looking for a team player with excellent interpersonal skills & service oriented. Creative & out of the box thinker. An autodidact, quick, effective and versatile who’s able to change directions in midstream. Independent & Accountable.
+
+What You’ll Be Spending Your Time On
+
+
+Create and maintain CI/CD pipelines for the company's products
+Building and maintaining high-performance, fault tolerant, scalable ALM system, from Version control, Builds and Deployments to Monitoring and configuration management
+Maintain the application layer of our public cloud and private cloud
+Develop and integrate infrastructure tools in support of our production system
+Automate the Provisioning and configuration of Windows/Linux environments
+Work closely with product, QA, developers and IT/operations departments to streamline their working methods
+As a core member of the team, you will participate in 'On-Call' duties on Payoneer production systems, working in non-conventional hours include weekends and holidays (from time to time)
+
+
+Have you done this kind of stuff?
+
+
+BS degree in computer science, computer engineering, relevant technical discipline or equivalent practical experience
+At least 5 years’ experience as DevOps Engineer
+A minimum of 4 years of exposure running production workloads (AWS, Azure or GCP)
+Microservices architecture & container orchestration (Docker and Kubernetes)
+Experience with CI/CD tools and source control management tools (e.g., Git, Azure DevOps, SonarQube, Artifactory etc)
+Experience with GitOps (e.g., ArgoCD or Flux)
+Experience with Configuration Managements tools like Chef, Ansible or Puppet
+Proven Scripting capabilities: PowerShell/Bash/Python
+High level Linux OS expertise
+Programming experience skills (C#, NodeJS - advantage)
+Experience managing application servers and web servers
+Strong troubleshooting skills
+Experience with monitoring and logging solutions (e.g. Prometheus, Grafana and ELK)
+Proactive by nature; internal drive for excellence and improvement
+
+
+Not a must but a great advantage
+
+
+Experience in SQL
+Experience with software development and development frameworks
+Experience with event streaming and messaging platforms such as Kafka, RabbitMQ
+Provisioning and operating NoSQL databases such as MongoDB, Redis, Elasticsearch
+Knowledge and understanding Storage and Networking
+
+
+The Payoneer Ways of Working
+
+Act as our customer’s partner on the inside
+
+Learning what they need and creating what will help them go further.
+
+Do it. Own it.
+
+Being fearlessly accountable in everything we do.
+
+Continuously improve
+
+Always striving for a higher standard than our last.
+
+Build Each Other Up
+
+Helping each other grow, as professionals and people.
+
+If this sounds like a business, a community, and a mission you want to be part of, apply today.
+
+We are committed to providing a diverse and inclusive workplace. Payoneer is an equal opportunity employer, and all qualified applicants will receive consideration for employment no matter your race, color, ancestry, religion, sex, sexual orientation, gender identity, national origin, age, disability status, protected veteran status, or any other characteristic protected by law. If you require reasonable accommodation at any stage of the hiring process, please speak to the recruiter managing the role for any adjustments. Decisions about requests for reasonable accommodation are made on a case-by-case basis.
+
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Payoneer by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Gurugram, Haryana, India.
+
+Sign in to create job alert
+Jobs
+Data Processing Specialist jobs
+DevOps Delivery Engineer
+Similar jobs
+Senior DevOps Delivery Engineer, Delivery
+Senior DevOps Delivery Engineer, Delivery
+Payoneer
+Gurugram, Haryana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Gurugram, Haryana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+AiSensy
+Gurugram, Haryana, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+EazyDiner
+Gurugram, Haryana, India
+4 days ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Gurugram, Haryana, India
+4 days ago
+DevOps Engineer - Remote Work | REF#284446
+DevOps Engineer - Remote Work | REF#284446
+BairesDev
+New Delhi, Delhi, India
+1 year ago
+Show more jobs like this 
+People also viewed
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Taxmann
+
+Delhi, India
+₹500,000 - ₹1,200,000
+2 weeks ago
+DevOps Engineer - Noida
+DevOps Engineer - Noida
+
+NeoXam
+
+Noida, Uttar Pradesh, India
+1 week ago
+Dev Ops Engineer
+Dev Ops Engineer
+
+Orange Business
+
+Gurgaon, Haryana, India
+6 days ago
+DevOps Engineer (3 Years Experience) IRC302539
+DevOps Engineer (3 Years Experience) IRC302539
+
+GlobalLogic
+
+Gurgaon, Haryana, India
+2 weeks ago
+DevOps Engineer IRC299946
+DevOps Engineer IRC299946
+
+GlobalLogic
+
+Gurgaon, Haryana, India
+1 week ago
+Devops Engineer/ Senior Devops Engineer - Linux
+Devops Engineer/ Senior Devops Engineer - Linux
+
+WebEngage
+
+Gurugram, Haryana, India
+6 months ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+McCormick & Company
+
+Gurugram, Haryana, India
+1 week ago
+Lead DevOps Engineer / Senior DevOps Engineer
+Lead DevOps Engineer / Senior DevOps Engineer
+
+Posist
+
+Delhi, India
+4 months ago
+AWS Devops Engineer
+AWS Devops Engineer
+
+Tata Consultancy Services
+
+Greater Delhi Area
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+CodeVyasa
+
+Gurgaon, Haryana, India
+4 months ago
+Similar Searches
+Data Processing Specialist jobs
+4,010 open jobs
+Risk Operations Manager jobs
+472 open jobs
+Budget Coordinator jobs
+2,302 open jobs
+Business Planning Manager jobs
+1,853 open jobs
+Payroll Team Lead jobs
+478 open jobs
+Student Developer jobs
+22 open jobs
+Sales Finance Manager jobs
+1,218 open jobs
+Senior Compliance Specialist jobs
+930 open jobs
+Senior System Administrator jobs
+2,752 open jobs
+Student Software Engineer jobs
+281 open jobs
+Vice President Research And Development jobs
+97 open jobs
+Sound Editor jobs
+156 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Payoneer
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

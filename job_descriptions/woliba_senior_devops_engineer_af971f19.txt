@@ -1,0 +1,261 @@
+Title: Senior Devops Engineer
+Company: Woliba
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-woliba-4432019092
+Posted: 2026-07-02
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in CI/CD pipeline ownership, infrastructure-as-code, and regulated-industry compliance, matching her background in DevOps, Configuration Management, and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Devops Engineer
+Woliba  Pune Division, Maharashtra, India
+3 months ago   Over 200 applicants
+  
+
+See who Woliba has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Woliba
+
+Woliba is an innovative SaaS company redefining People Operations and workplace wellbeing. Our AI-powered platform simplifies HR processes, enhances employee engagement, and promotes holistic wellbeing across organizations. We’re a purpose-driven, fast-growing team dedicated to creating thriving, inclusive workplace cultures — and we’re looking for a highly skilled Senior DevOps Engineer to help us scale our cloud infrastructure globally.
+
+Objectives
+
+The Senior DevOps Engineer will:
+
+
+Architect, build, and maintain Woliba’s AWS infrastructure to ensure security, scalability, and reliability.
+Lead automation initiatives for CI/CD, configuration management, and observability.
+Collaborate with cross-functional teams to improve deployment efficiency, infrastructure performance, and system resilience.
+Take ownership of DevOps best practices, ensuring consistency across development and production environments.
+Act as a subject matter expert for AWS and DevOps practices within the team.
+
+
+Deliverables
+
+Within the first 6–12 months, success in this role will be measured by:
+
+
+Infrastructure Reliability & Performance
+Design and maintain a highly available AWS architecture using EC2, ECS/EKS, RDS (Aurora), and ALB.
+Optimize networking, storage, and DNS configurations for low latency and high uptime.
+Implement infrastructure monitoring, alerts, and auto-scaling.
+Automation & CI/CD
+Build and maintain CI/CD pipelines using GitHub Actions, AWS CodePipeline, or Jenkins.
+Define and manage infrastructure-as-code using Terraform or CloudFormation.
+Automate application deployments, backups, and environment provisioning.
+Security & Compliance
+Apply AWS security best practices, including IAM roles, VPC configurations, and network ACLs.
+Implement secrets management, encryption, and patching protocols.
+Collaborate with the engineering team to ensure compliance with data protection and security standards.
+Observability & Incident Response
+Deploy and manage logging, monitoring, and alerting systems (e.g., CloudWatch, Datadog, or Prometheus).
+Establish clear runbooks and incident management procedures.
+Perform root cause analyses and drive continuous reliability improvements.
+Collaboration & Enablement
+Partner with developers to streamline release processes and improve system reliability.
+Mentor junior engineers and promote DevOps culture and automation mindset across teams.
+Provide ongoing documentation for infrastructure, workflows, and operational procedures.
+
+
+Qualifications
+
+Required:
+
+
+6+ years of hands-on DevOps or Cloud Engineering experience.
+Strong command of AWS services (EC2, ECS/EKS, RDS, VPC, Route 53, CloudFormation, IAM, CloudWatch).
+Proficiency in Linux administration, network troubleshooting, and DNS management.
+Advanced scripting experience with Python, Bash, or similar.
+Proven experience building and maintaining CI/CD pipelines and infrastructure-as-code.
+Experience managing containerized applications using Docker and orchestration tools.
+Strong understanding of system security, load balancing, and fault tolerance.
+
+
+Preferred:
+
+
+Experience in SaaS or multi-tenant cloud environments.
+Familiarity with Datadog, Prometheus, Grafana, or similar monitoring tools.
+Knowledge of Kubernetes, serverless architecture, or AWS cost optimization strategies.
+Experience working with globally distributed teams in a remote setup.
+
+
+Why Join Woliba
+
+
+Work remotely with a global, mission-driven team dedicated to wellbeing and innovation.
+Contribute to building scalable, impactful technology that empowers organizations and people.
+Opportunities for career growth, technical leadership, and continuous learning.
+Collaborative culture focused on trust, flexibility, and performance excellence
+
+
+Powered by JazzHR
+
+1D6cQaj2K6
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Internet Publishing
+  
+
+Referrals increase your chances of interviewing at Woliba by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Hyland
+India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Nuclei
+India
+2 months ago
+Senior DevOps Engineer, Backend
+Senior DevOps Engineer, Backend
+Snapfix
+India
+1 week ago
+Senior SRE
+Senior SRE
+CloudRaft
+India
+1 month ago
+Sr. DevOps Engineer, Data Platform
+Sr. DevOps Engineer, Data Platform
+Netskope
+India
+1 week ago
+Senior Dev Ops Engineer
+Senior Dev Ops Engineer
+Cotiviti
+India
+11 months ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+thinkbridge
+
+Pune Division, Maharashtra, India
+4 days ago
+Senior Site Reliability Engineer (Night Shift)
+Senior Site Reliability Engineer (Night Shift)
+
+Resilinc
+
+India
+2 months ago
+Senior AWS Infrastructure Engineer
+Senior AWS Infrastructure Engineer
+
+Accelirate Inc.
+
+Pune City, Maharashtra, India
+2 weeks ago
+Senior AWS Cloud Engineer (Remote, Full-Time) [AS314]
+Senior AWS Cloud Engineer (Remote, Full-Time) [AS314]
+
+Smart Working
+
+Pune Division, Maharashtra, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+thinkbridge
+
+Pune City, Maharashtra, India
+3 days ago
+Senior Backend & Infrastructure Engineer
+Senior Backend & Infrastructure Engineer
+
+Scispot
+
+India
+$100,000 - $175,000
+3 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Sezzle
+
+India
+2 weeks ago
+Senior Site Reliability Engineer (Remote, India) EST
+Senior Site Reliability Engineer (Remote, India) EST
+
+Level AI
+
+India
+1 week ago
+Site Reliability Engineer(SRE)
+Site Reliability Engineer(SRE)
+
+CloudRaft
+
+India
+2 weeks ago
+Sr. Staff Platform Engineer
+Sr. Staff Platform Engineer
+
+ELLKAY
+
+India
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Woliba
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

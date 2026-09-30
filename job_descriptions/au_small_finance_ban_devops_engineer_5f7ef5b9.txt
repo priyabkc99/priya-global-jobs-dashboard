@@ -1,0 +1,295 @@
+Title: Devops Engineer
+Company: AU SMALL FINANCE BANK
+Location: Jaipur, Rajasthan, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-au-small-finance-bank-4465763328
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The job matches Priya's expertise as a DevOps Engineer with CI/CD pipeline ownership (Jenkins/GitHub Actions), infrastructure automation (IaC tools), and regulated-industry compliance experience, despite lacking direct banking domain exposure (which is listed as an advantage, not mandatory). Location (India) aligns with her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Devops Engineer
+AU SMALL FINANCE BANK  Jaipur, Rajasthan, India
+2 weeks ago   Over 200 applicants
+  
+
+See who AU SMALL FINANCE BANK has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Summary
+
+We are looking for a skilled DevOps Engineer with 4-6 years of experience to support and enhance enterprise applications within a banking environment. The candidate will be responsible for designing, implementing, and managing CI/CD pipelines, cloud infrastructure, automation frameworks, monitoring solutions, and deployment processes while ensuring high availability, security, and compliance of banking applications.
+
+Key Responsibilities
+
+
+Design, implement, and maintain CI/CD pipelines for application deployment and release management.
+Automate infrastructure provisioning and configuration management using Infrastructure as Code (IaC) tools.
+Manage and support containerized applications using Docker and Kubernetes.
+Administer and monitor cloud infrastructure on AWS, Azure, or GCP.
+Ensure application availability, reliability, scalability, and performance.
+Implement DevSecOps practices, security controls, and compliance requirements aligned with banking standards.
+Collaborate closely with Development, QA, Security, Infrastructure, and Business teams.
+Configure and maintain monitoring, alerting, and logging solutions.
+Troubleshoot production incidents and perform root cause analysis.
+Automate repetitive operational tasks to improve efficiency and reduce manual intervention.
+Participate in disaster recovery planning, backup strategies, and business continuity initiatives.
+Support application deployments across Development, UAT, Pre-Production, and Production environments.
+
+
+Required Technical Skills DevOps & Automation
+
+
+Jenkins, GitLab CI/CD, Azure DevOps, GitHub Actions
+Shell Scripting (Bash), Python
+Ansible, Terraform
+
+
+Containerization & Orchestration
+
+
+Docker
+Kubernetes (K8s)
+Helm
+
+
+Cloud Platforms
+
+
+AWS / Azure / Google Cloud Platform
+Cloud networking and security concepts
+
+
+Version Control
+
+
+Git, Bitbucket, GitHub
+
+
+Monitoring & Logging
+
+
+ELK Stack (Elasticsearch, Logstash, Kibana)
+Prometheus, Grafana
+Splunk (preferred)
+
+
+Operating Systems
+
+
+Linux Administration (RHEL, CentOS, Ubuntu)
+Basic Windows Server Administration
+
+
+Security
+
+
+DevSecOps practices
+Vulnerability Management
+Secrets Management (Vault, AWS Secrets Manager, Azure Key Vault)
+
+
+Banking Domain Requirements
+
+
+Experience supporting critical banking or financial applications.
+Understanding of banking security, compliance, and audit requirements.
+Knowledge of high-availability architectures and disaster recovery frameworks.
+Experience in handling production environments with strict SLA adherence.
+Exposure to Core Banking, Digital Banking, Payments, Lending, Treasury, or Middleware platforms will be an advantage.
+
+
+Qualifications
+
+
+Bachelor's degree in Computer Science, Information Technology, Engineering, or related field.
+Relevant certifications such as AWS, Azure, Kubernetes (CKA/CKAD), Terraform, or DevOps certifications are preferred.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at AU SMALL FINANCE BANK by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Jaipur, Rajasthan, India.
+
+Sign in to create job alert
+Jobs
+Sales Business Development Executive jobs
+Devops Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+RoboMQ
+Jaipur, Rajasthan, India
+4 weeks ago
+DevOps Engineer - II
+DevOps Engineer - II
+AU SMALL FINANCE BANK
+Jaipur, Rajasthan, India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Harshwal Consulting Services Pvt. Ltd.
+Jaipur, Rajasthan, India
+6 days ago
+DevOps / Cloud Engineer
+DevOps / Cloud Engineer
+Cynbit Technologies
+Jaipur, Rajasthan, India
+2 months ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+Marktine Technology Solutions Pvt Ltd
+Jaipur, Rajasthan, India
+2 weeks ago
+Site Reliability Engineer I
+Site Reliability Engineer I
+PAR Technology
+Jaipur, Rajasthan, India
+2 days ago
+Show more jobs like this 
+People also viewed
+Technology Support Engineer
+Technology Support Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+4 days ago
+Technology Support Engineer
+Technology Support Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+4 days ago
+Python Developer
+Python Developer
+
+iCapital
+
+Jaipur, Rajasthan, India
+1 week ago
+Packaged/SaaS Application Engineer
+Packaged/SaaS Application Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+4 days ago
+Command Center Specialist
+Command Center Specialist
+
+AU SMALL FINANCE BANK
+
+Jaipur, Rajasthan, India
+3 weeks ago
+Technology Support Engineer
+Technology Support Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+4 days ago
+Application Support Engineer
+Application Support Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+4 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+4 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+4 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+4 days ago
+Similar Searches
+Sales Business Development Executive jobs
+8,488 open jobs
+Institutional Sales Manager jobs
+4,866 open jobs
+Branch Credit Manager jobs
+2,180 open jobs
+Loan Manager jobs
+868 open jobs
+Rating Analyst jobs
+510 open jobs
+Advertising Sales Manager jobs
+2,605 open jobs
+Area Business Manager jobs
+11,448 open jobs
+Debt Manager jobs
+593 open jobs
+Credit Manager jobs
+2,320 open jobs
+Compensation Benefits Analyst jobs
+47 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at AU SMALL FINANCE BANK
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
