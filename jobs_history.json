@@ -20172,5 +20172,16 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-09-30T09:54:56",
+    "total": 1828,
+    "yes": 234,
+    "no": 859,
+    "maybe": 638,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 0
   }
 ]
