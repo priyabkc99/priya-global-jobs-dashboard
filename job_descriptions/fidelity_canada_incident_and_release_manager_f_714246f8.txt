@@ -1,0 +1,366 @@
+Title: Incident and Release Manager FCC
+Company: Fidelity Canada
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/incident-and-release-manager-fcc-at-fidelity-canada-4429486609
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role of Incident and Release Manager at Fidelity Canada matches Priya’s extensive experience in release management, CI/CD pipelines, cross-team coordination, and compliance with quality standards, aligning with her background at Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Incident and Release Manager FCC
+Fidelity Canada  Toronto, Ontario, Canada
+1 week ago   Over 200 applicants
+  
+
+See who Fidelity Canada has hired for this role
+
+Apply 
+Save
+Job Description
+
+Please Note
+
+
+Current work authorization for Canada is required for all openings.
+This is a full-time regular role.
+You will be working on a remote schedule as part of Fidelity’s dynamic working arrangement.
+
+
+Who We Are
+
+Fidelity Clearing Canada (FCC) is the leading independent clearing broker and custodian in the Canadian market. We provide trade execution, clearing, custody and back-office support services to Canadian-based brokerage firms and the Canadian brokerage arms of U.S.-based firms.
+
+For more information about Fidelity Clearing Canada, please visit https//clearing.fidelity.ca/
+
+The Opportunity
+
+The Incident & Release Manager will be experienced in technology and operations incidents management and have an in-depth understanding of the value of holistic incident response planning. As well as experience in rigorous testing of incident response procedures and playbooks, rapid and timely response to critical technology and operations incidents. This role will manage application releases for critical FCC applications that are clients facing inclusive of ensuring the proper change processes are adhered to.
+
+Act as the Incident Manager and establish proper processes within FCC
+
+
+Ensure FIL Major Incident Management processes are followed for any major events in Canada.
+Coordinate the activities of business continuity and disaster recovery analysts for the FCC Technology group.
+For all Incidents affecting FCC, coordinate response and recovery activities with key internal employees, vendors, and other internal and external stakeholders.
+Coordinate post-mortems and root cause analysis after every incident.
+Ensure post-incident response reviews and reports are conducted on a timely basis, capturing lessons learned and improvements made to processes and playbooks.
+Develop and maintain the critical incident response decision making tree for FCC.
+
+
+Develop and maintain incident management playbooks
+
+
+Refine existing incident response playbooks and develop additional playbooks as necessary Conduct periodic scenario analysis tests (tabletops or simulations) of response playbooks and ensure improvements are made based on results.
+
+
+Adhere to the Fidelity Canada Enterprise Resiliency Program for FCC
+
+
+Liaise with our clients’ International Major Incident Managers and represent our client in any major Global events.
+Recommend enhancements to the Major Incident Management framework, where necessary.
+
+
+Develop and facilitate regular training of employees and stakeholders at FCC
+
+
+Develop and structure process for incidents within FCC.
+Conduct periodic training sessions for FCC teams and educate them about their responsibilities within each step defined in the playbook.
+Evaluate and recommend additional incident response resources (people, process, and technology), where necessary.
+
+
+Production Release management
+
+
+Ensures successful deployment of all code delivered by the Vendors or internal teams to the Fidelity Clearing Canada test and production environments by following the Fidelity Change Management policies as they relate to the provision of services.
+Coordinates with appropriate FCC business units and vendor suppliers as applicable for each system change to ensure proper Change Management procedures are recorded and followed; this may include. (a) identify and schedule testing resources, (b) identify environmental set up requirements, (c) ensure successful completion of QA and UAT, (d) obtain sign off from business sponsors for acceptance to production environments, (e) ensure proper integration into production environments including deployment validation and authorization to the Vendor of acceptance, (f) ensure proper front office communication has been provided and (g) ensure back office training considerations are accounted for where required.
+Through the management and application of the Fidelity Change Management policies, meets or exceeds all project quality and audit objectives for QA, UAT and Production implementation phases of the SDLC Cycle
+Keeps management informed on timely basis of any issues which might impact successful delivery of deployment item and escalates as required, to ensure deliverables are kept on schedule and delivered as expected.
+
+
+Technical Support Management
+
+
+Ensures proper change management protocols are in place prior to production deployments.
+Provides required documentation and visuals during audit cycles.
+Organizes and chairs meetings with appropriate FCC and Vendor resources as required to ensure QA and UAT problems are communicated and tracked to resolution.
+Coordinates the planning and scheduling of all upcoming deployments with the vendors and Product Owners within FCC.
+
+
+Effortless experience
+
+
+Establishes working relationships with appropriate FCC business units.
+Recommend and develop new processes and procedures as required to ensure superior service.
+
+
+Skills And Knowledge
+
+
+Experience creating and continuously improving incident management role.
+Experience running complex technology and operational incidents.
+Solid knowledge and working experience in brokerage or banking business environment with focus on mid/back-office applications.
+Analytical thinker Strong interpersonal and communication skills.
+Superior communication skills both written and oral, ability to effectively communicate technical material to non-technical users.
+Strong ability to collaborate, influence and build relationships.
+
+
+Job Related Experience
+
+
+5+ years of incident and release management.
+University degree or equivalent work experience.
+Solid desktop computer skills using MS office.
+
+
+Who We Are
+
+Fidelity Clearing Canada (FCC) is the leading independent clearing broker and custodian in the Canadian market. We provide trade execution, clearing, custody and back-office support services to Canadian-based brokerage firms and the Canadian brokerage arms of U.S.-based firms.
+
+For more information about Fidelity Clearing Canada, please visit https//clearing.fidelity.ca/
+
+Total Rewards That Reflect Your Impact
+
+We believe exceptional work deserves exceptional recognition. That’s why we offer a competitive compensation package designed to support your success today—and your financial well-being tomorrow.
+
+For this role, your total rewards include
+
+
+Base Salary and Discretionary Performance Bonus A competitive annual range of $135,000 to $146,000, based on your experience and qualifications.
+RRSP Contribution After 6 months of employment, we invest in your future with an RRSP contribution—no employee matching required.
+
+
+We’re proud to offer a compensation package that aligns with provincial pay transparency requirements.
+
+This posting represents an existing vacancy within our organization—an opportunity to step into a role where your talents will make a meaningful difference.
+
+We use AI-enabled LinkedIn Hiring Assistant to support parts of our sourcing process. Every hiring decision is reviewed and finalized by our recruiters. If you choose to ask questions of the LinkedIn HR Hiring Assistant, please be mindful that the responses are not official and must be confirmed for accuracy and completeness by Fidelity. If you are selected for an interview, the recruiter who contacts you can best answer your questions.
+
+Fidelity Canada is an equal opportunity employer
+
+Fidelity Canada is committed to fostering a diverse and inclusive workplace. We will consider all qualified applicants for employment regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, family status, protected veterans’ status, Aboriginal/Native American status or any other legally-protected ground.
+
+Accommodation during the application process
+
+Fidelity Canada welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in the selection process. If you require an accommodation, please email us at FidelityCanadaStaffing@fidelity.ca.
+
+No telephone inquiries or agencies please. We thank all applicants for their interest, please be advised that only those selected for an interview will be contacted.
+
+Why Work at Fidelity?
+
+We are proud to be recipients of the following
+
+Awards
+
+
+Canada's Top 100 Employers
+Greater Toronto's Top Employers
+Canada's Top Family-Friendly Employers
+Canada's Top Employers for Young People
+Great Place To Work® Certified
+Best Workplaces for Inclusion
+Best Workplaces for Mental Wellness
+Best Workplaces for Today's Youth
+Best Workplaces for Women
+Best Workplaces in Financial Services & Insurance
+Best Workplaces in Ontario
+Best Workplaces with Most Trusted Executive Teams
+LinkedIn Top Companies in Canada
+Human Resource Director (HRD) - Best Place To Work
+HRD - 5-Star Benefit Program
+HRD - 5-Star Diversity & Inclusion Employer
+
+
+Designations
+
+
+Canadian Compassionate Companies – Certified
+Benefits Canada's Workplace Benefits Award - Future of Work Strategy
+TalentEgg National Recruitment Excellence Award - Special Award for Diversity & Inclusion in Recruiting
+Canadian HR Reporter's Most Innovative HR Team
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Fidelity Canada by 2x
+
+See who you know
+
+Get notified about new Release Manager jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Staff / Senior Deployment & Release Manager
+Staff / Senior Deployment & Release Manager
+AeroVect
+Toronto, Ontario, Canada
+1 month ago
+Release Lead
+Release Lead
+J&M Group
+Toronto, Ontario, Canada
+1 month ago
+Incident Manager
+Incident Manager
+Bell
+Mississauga, Ontario, Canada
+4 days ago
+Manager, Application Support & DevOps
+Manager, Application Support & DevOps
+CAA Club Group
+Vaughan, Ontario, Canada
+1 week ago
+Service Delivery Management, Lead
+Service Delivery Management, Lead
+Interac Corp.
+Toronto, Ontario, Canada
+2 weeks ago
+SPECIALIST - TECHNOLOGY CHANGE MANAGEMENT - HYBRID
+SPECIALIST - TECHNOLOGY CHANGE MANAGEMENT - HYBRID
+GreenShield
+Toronto, Ontario, Canada
+CA$72,521 - CA$109,341
+4 days ago
+Show more jobs like this 
+People also viewed
+Production Support Lead
+Production Support Lead
+
+SWITS DIGITAL Private Limited
+
+Toronto, Ontario, Canada
+4 weeks ago
+Service Delivery Manager
+Service Delivery Manager
+
+Finastra
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Senior Portfolio Release Manager, Customer Growth
+Senior Portfolio Release Manager, Customer Growth
+
+Priceline
+
+Toronto, Ontario, Canada
+1 week ago
+Manager, Network Reliability and Resiliency
+Manager, Network Reliability and Resiliency
+
+ServiceNow
+
+Toronto, Ontario, Canada
+4 days ago
+ITSM Analyst
+ITSM Analyst
+
+CAAT Pension Plan
+
+Toronto, Ontario, Canada
+5 days ago
+Senior Application & Infrastructure Analyst
+Senior Application & Infrastructure Analyst
+
+Scotiabank
+
+Toronto, Ontario, Canada
+1 week ago
+Sr Release Train Engineering Manager (24 months contract)
+Sr Release Train Engineering Manager (24 months contract)
+
+OLG
+
+Toronto, Ontario, Canada
+1 week ago
+Cloud Support Lead
+Cloud Support Lead
+
+Supply Ontario
+
+Greater Toronto Area, Canada
+CA$88,496 - CA$128,625
+4 days ago
+Service Manager, Production Support
+Service Manager, Production Support
+
+Sapiens
+
+Toronto, Ontario, Canada
+1 month ago
+Process Incident & Problem Management
+Process Incident & Problem Management
+
+Scotiabank
+
+Toronto, Ontario, Canada
+2 weeks ago
+Similar Searches
+Change And Release Manager jobs
+167 open jobs
+Release Engineer jobs
+1,158 open jobs
+Deployment Manager jobs
+4,679 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Configuration Manager jobs
+487 open jobs
+Change Manager jobs
+8,343 open jobs
+Problem Manager jobs
+2,369 open jobs
+Assistant Professor of Mathematics jobs
+67 open jobs
+Delivery Manager jobs
+11,325 open jobs
+Game Producer jobs
+87 open jobs
+Incident Manager jobs
+585 open jobs
+SAP Basis Manager jobs
+124 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Fidelity Canada
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

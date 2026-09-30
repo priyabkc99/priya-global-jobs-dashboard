@@ -1,0 +1,399 @@
+Title: DevOps Project Manager
+Company: PeoplePilot
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-project-manager-at-peoplepilot-4466532041
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The DevOps Project Manager role at PeoplePilot aligns with Priya's expertise in release management, CI/CD pipeline ownership, and cross-functional coordination, and is located in Toronto, Canada (a target country) where she can relocate with employer sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Project Manager
+PeoplePilot  Toronto, Ontario, Canada
+2 weeks ago  39 applicants
+  
+
+See who PeoplePilot has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from PeoplePilot
+
+Vamsi Chinda
+Vamsi Chinda
+Founder - PeoplePilot | Recalibrating HR for the AI Age
+
+Roles and Responsibilities
+
+Project Planning & End-to-End Delivery
+
+Lead the end-to-end planning and delivery of complex DevOps initiatives, from mobilization and scope definition through implementation, rollout, stabilization, and handoff.
+Create and maintain an integrated delivery plan covering:
+Squad deliverables
+Cross-team dependencies
+Milestones and timelines
+Environment readiness
+Testing and approvals
+Communications
+Rollout activities
+Operational readiness
+Identify and manage the critical path, ensuring dependencies and deliverables remain aligned with overall project objectives.
+
+Cross-Functional Coordination
+
+Coordinate delivery across one or more DevOps squads and enterprise partner teams, including:
+Infrastructure
+Cloud
+Security
+ServiceNow
+Application teams
+Data teams
+Platform teams
+Quality Engineering
+Production Support
+Work closely with Product Owners, Technical Leads, Architects, Engineers, Quality Engineers, Security teams, and business/technology stakeholders to clarify:
+Business and technical outcomes
+Roles and responsibilities
+Delivery sequencing
+Acceptance criteria
+Dependencies and constraints
+
+Governance & Delivery Management
+
+Establish appropriate governance structures, meeting cadences, decision-making paths, delivery controls, and escalation mechanisms.
+Manage and maintain:
+Scope
+Schedule
+Resources
+Risks
+Issues
+Assumptions
+Dependencies
+Decisions
+Changes
+Ensure ownership, accountability, and target dates remain clearly defined.
+Drive action closure and proactively address delivery gaps, conflicting priorities, resource constraints, access issues, environment blockers, data-quality concerns, and integration dependencies.
+
+Testing, Release & Operational Readiness
+
+Coordinate test planning, user acceptance testing, production-readiness reviews, implementation activities, and post-implementation validation.
+Manage required evidence, approvals, and sign-offs for releases and implementations.
+Coordinate releases across Development, Stage, and Production environments.
+Ensure operational ownership, support processes, documentation, and handoff activities are completed successfully.
+
+Stakeholder Management & Communication
+
+Prepare concise, decision-focused status reports for program and DevOps leadership covering:
+Accomplishments
+Upcoming milestones
+Delivery forecast
+Dependencies
+Risks and issues
+Decisions required
+Recovery actions
+Coordinate stakeholder communications, readiness activities, demonstrations, information sessions, support planning, and adoption activities.
+Translate complex technical delivery details into clear business impacts, risks, and decision points.
+
+Documentation & Continuous Improvement
+
+Ensure deliverables, processes, decisions, and operational ownership are properly documented and transitioned to the appropriate teams.
+Apply lessons learned and continuous-improvement practices to:
+Improve delivery predictability
+Reduce manual effort
+Strengthen delivery processes
+Reduce recurring operational risks
+
+What You Need to Succeed
+
+Project & Delivery Management
+
+Strong project-management experience delivering complex technology initiatives involving multiple squads, platforms, and enterprise partner teams.
+Demonstrated experience working on initiatives involving:
+DevOps
+Software delivery
+Developer platforms
+CI/CD
+Security controls
+Source-code management
+Engineering enablement
+Ability to build integrated plans, identify the true critical path, manage interdependent deliverables, and hold multiple teams accountable for commitments.
+
+DevOps & Software Delivery Knowledge
+
+Practical understanding of the software development and delivery lifecycle.
+Understanding of the relationship between:
+Source-code repositories
+Build pipelines
+Security scanning
+Deployment orchestration
+Environments
+Approvals
+Production support
+Ability to work effectively with both technical specialists and business stakeholders.
+
+Risk, Issue & Dependency Management
+
+Excellent risk, issue, dependency, and change-management skills.
+Sound judgment regarding when to:
+Resolve issues independently
+Escalate risks
+Engage stakeholders
+Seek leadership decisions
+Strong ability to proactively identify blockers and drive them to resolution.
+
+Leadership & Communication
+
+Excellent facilitation, written communication, organization, and follow-through.
+Confidence working with senior leaders, technical specialists, and cross-functional teams.
+Ability to operate effectively in a matrixed environment where delivery depends on teams that may not report directly to the Project Manager.
+Self-directed, pragmatic, and outcome-focused.
+Comfortable bringing structure and clarity to ambiguous or evolving initiatives.
+
+
+
+
+Required Experience
+
+DevOps Tools & Platforms
+
+Experience with standard DevOps tools, practices, and Enterprise Pipeline environments is strongly preferred.
+Working knowledge of tools and platforms such as:
+Bitbucket / GitHub
+Jenkins
+CDD
+Jira
+Confluence
+ServiceNow
+Checkmarx One
+Snyk
+Kosli
+Grafana
+Tableau
+Cloud platforms
+Infrastructure and deployment technologies
+
+Security & Compliance
+
+Experience coordinating security-control implementation and related delivery activities.
+Experience with:
+Vulnerability-management workflows
+Security exceptions
+Compliance evidence
+Release gating
+Production-readiness activities
+Security approvals and controls
+
+Data & Application Management
+
+Experience working with application inventories and application portfolio identifiers.
+Familiarity with:
+Repository metadata
+Data reconciliation
+Database updates
+Dashboards
+ETL processes
+Data-quality remediation
+
+Release & Environment Management
+
+Experience supporting releases across Dev, Stage, and Production environments.
+Experience coordinating:
+Technical testing
+Business validation
+Implementation
+Production deployment
+Post-implementation verification
+Experience managing dependencies and readiness across multiple technical teams.
+
+Project Management & Agile Tools
+
+Experience with Jira and/or Planview AgilePlace.
+Project-management certification or formal Agile delivery training is an asset; however, demonstrated delivery experience is more important than certification alone.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Data Infrastructure and Analytics
+  
+
+Referrals increase your chances of interviewing at PeoplePilot by 2x
+
+See who you know
+
+Get notified about new Project Manager jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps Project Manager
+DevOps Project Manager
+J&M Group
+Toronto, Ontario, Canada
+6 days ago
+DevOps Project Manager – DevOps Delivery, CI/CD & Enterprise Technology
+DevOps Project Manager – DevOps Delivery, CI/CD & Enterprise Technology
+Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!
+Toronto, Ontario, Canada
+2 weeks ago
+Technical Program Manager
+Technical Program Manager
+RBC
+Toronto, Ontario, Canada
+6 days ago
+Senior Technical Program Manager
+Senior Technical Program Manager
+Mastercard
+North York, Ontario, Canada
+5 days ago
+Technical Program Manager
+Technical Program Manager
+Guidewire Software
+Toronto, Ontario, Canada
+1 week ago
+Project Manager (AI-DLC Program)
+Project Manager (AI-DLC Program)
+RBC
+Toronto, Ontario, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+IT Project Manager / Project Leader
+IT Project Manager / Project Leader
+
+isgSearch
+
+Greater Toronto Area, Canada
+3 weeks ago
+Manager, Cloud Services and Site Reliability
+Manager, Cloud Services and Site Reliability
+
+Barracuda
+
+Ottawa, Ontario, Canada
+4 weeks ago
+Technical Program Manager
+Technical Program Manager
+
+Redwood Software
+
+Ontario, Canada
+2 weeks ago
+IT Project Manager
+IT Project Manager
+
+Pan American Silver Corp.
+
+Toronto, Ontario, Canada
+CA$120,000 - CA$130,000
+1 week ago
+Project Manager
+Project Manager
+
+LTM
+
+Mississauga, Ontario, Canada
+1 week ago
+Project Manager
+Project Manager
+
+Mobility Global
+
+London, Ontario, Canada
+2 weeks ago
+IT Infrastructure Project Manager
+IT Infrastructure Project Manager
+
+Amphenol Communications Solutions
+
+Markham, Ontario, Canada
+12 hours ago
+Technical Program Manager
+Technical Program Manager
+
+eBay
+
+Toronto, Ontario, Canada
+1 week ago
+Technical Program Manager- Implementation Lead
+Technical Program Manager- Implementation Lead
+
+Guidewire Software
+
+Toronto, Ontario, Canada
+6 days ago
+Project Manager – Cloud Infrastructure
+Project Manager – Cloud Infrastructure
+
+Affinity
+
+Toronto, Ontario, Canada
+1 week ago
+Similar Searches
+Senior Project Manager jobs
+6,690 open jobs
+Scrum Master jobs
+6,928 open jobs
+Information Technology Project Manager jobs
+1,852 open jobs
+Junior Project Manager jobs
+5,750 open jobs
+Software Project Manager jobs
+2,911 open jobs
+Assistant Project Manager jobs
+2,201 open jobs
+Project Manager Scrum Master jobs
+2,167 open jobs
+Project Management Specialist jobs
+7,589 open jobs
+Delivery Manager jobs
+11,325 open jobs
+Project Director jobs
+5,348 open jobs
+Infrastructure Project Manager jobs
+1,733 open jobs
+Digital Project Manager jobs
+2,638 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at PeoplePilot
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
