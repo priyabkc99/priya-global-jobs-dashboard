@@ -933,5 +933,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Waihi Summer Internship \u2013 Information & Technology",
+    "company": "OceanaGold Corporation",
+    "location": "Waihi, Waikato, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/waihi-summer-internship-%E2%80%93-information-technology-at-oceanagold-corporation-4465608368",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job requires 'Unrestricted New Zealand working rights' (no visa sponsorship available) and is an entry-level internship incompatible with candidate's 15-year senior experience in regulated-industry release/CM/DevOps roles.",
+    "id": "cb916b72",
+    "source": "linkedin_nz_technical_writer",
+    "added_at": "2026-10-01T00:32:35+03:00",
+    "posted_date": "2026-09-17",
+    "deadline": "2026-10-08",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
