@@ -967,5 +967,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Technical Officer - Institute for Health Innovation (IHI)",
+    "company": "The Hong Kong University of Science and Technology",
+    "location": "Sai Kung District, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/senior-technical-officer-institute-for-health-innovation-ihi-at-the-hong-kong-university-of-science-and-technology-4466019752",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with the candidate's specialized experience in configuration management, release engineering, or technical documentation within regulated/safety-critical domains.",
+    "id": "3687e79c",
+    "source": "linkedin_hk_technical_writer",
+    "added_at": "2026-10-01T02:27:56+03:00",
+    "posted_date": "2026-09-17",
+    "deadline": "2026-09-25",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-25) passed by more than 2 days and unreviewed"
   }
 ]
