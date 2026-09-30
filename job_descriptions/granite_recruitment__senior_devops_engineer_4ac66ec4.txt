@@ -1,0 +1,211 @@
+Title: Senior DevOps Engineer
+Company: Granite Recruitment and Consulting Limited
+Location: Bristol, UK
+URL: https://www.reed.co.uk/jobs/senior-devops-engineer/57333548
+Posted: 10 september
+Deadline: N/A
+Reason: The job matches Priya's profile as a Senior DevOps Engineer with CI/CD and cloud experience, located in the UK (a target country), and offers a hybrid work model.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Engineer
+Dev Ops Engineer
+Job details
+FeaturedEasy Apply
+Senior DevOps Engineer
+10 September by Granite Recruitment and Consulting Limited
+£65,000 - £85,000 per annum
+Bristol, Avon
+Permanent, full-time
+Hybrid
+Apply now
+Save
+Full job description
+
+Senior DevOps Engineer (Azure, Kubernetes) – £65,000 - £85,000
+
+Bristol / Remote hybrid (in the office once a week)
+
+Do you want to work with the latest cloud technologies for one of the fastest growing software houses in the UK?
+
+The DevOps Engineer will join a small, Agile team who are responsible for providing and maintaining the services that underpin a range of award-winning SaaS products. There will be a focus on automation and an emphasis on deploying secure and reliable services.
+
+You will get to work in a modern, cloud-based tech environment, and work with technologies such as Azure, Kubernetes, Terraform, Chef, Prometheus and Grafana. The team are passionate about working with cutting edge technology and adopt the latest DevOps / SRE methodologies.
+
+You will need the following experience:
+
+Azure
+Terraform / IaC
+Kubernetes and containers
+CI / CD tools and pipelines
+Azure DevOps or Argo CD
+
+It would be a bonus if you have experience with the following:
+
+Grafana
+Prometheus
+Chef
+Ansible
+Cloud platform security
+
+Benefits will include:
+
+27 days holiday
+Private medical insurance
+Life assurance
+Flexible working
+A commitment to continue your professional development
+Career progression opportunities
+
+The office is in central Bristol, a short walk from Temple Meads train station.
+
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Similar Jobs
+Featured
+Easy Apply
+Senior Systems Engineer/Technical Lead
+17 September by Matchtech
+Salary negotiable
+Patchway, Avon
+Permanent, full-time
+Featured
+Easy Apply
+Architecture Lead (Principal Systems Engineer)
+17 September by Matchtech
+Salary negotiable
+Bristol, Avon
+Contract, full-time
+Easy Apply
+DevOps Engineer
+4 days ago by F5
+£65,000 - £75,000 per annum
+Bristol, Avon
+Permanent, full-time
+DevOps Engineer
+3 September by Signature Recruitment Limited
+£50,000 - £60,000 per annum
+Bristol, Avon
+Permanent, full-time
+Easy Apply
+Platform Engineer
+3 September by Signature Recruitment Limited
+£50,000 - £60,000 per annum
+Bristol, Avon
+Permanent, full-time
+Easy Apply
+Senior Full-Stack Engineer
+14 September by ADLIB
+£60,000 - £67,500 per annum
+Bristol, Avon
+Permanent, full-time
+See more jobs like this
+Recommended courses
+Microsoft Certified Azure Developer Associate
+Online, Self-paced
+£395
+Complete DevOps Gitlab & Kubernetes: Best Practices Bootcamp
+Online, Self-paced
+£15
+Maters in DevOps Engineer IT Program job ready | Bundle 13 Courses | Live Projects
+Online with live classes
+£3,999.99
+View Development courses
+Reference: 57333548
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+Senior DevOps Engineer
+Bristol
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Posted by Granite Recruitment and Consulting Limited
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026
+
+We Value Your Privacy
+We and our 1029 partners use cookies and process your data to personalise content and ads, measure performance and improve our services. You can update or withdraw your consent at any time via Manage Preferences. See our Privacy Policy.
+We and our partners process data to provide:
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+Partner List
+
+Show Purposes
+Reject All I Accept

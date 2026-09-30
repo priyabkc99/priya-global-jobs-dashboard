@@ -746,5 +746,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior DevOps Engineer",
+    "company": "Insolvency Service",
+    "location": "Birmingham, UK",
+    "url": "https://www.reed.co.uk/jobs/senior-devops-engineer/57402863",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an active Security Clearance or commitment to obtain one within six months, which is a mandatory requirement and falls under the 'No Visa Sponsorship...' hard rejection criterion.",
+    "id": "39a8c1a7",
+    "source": "reed_devops_engineer",
+    "added_at": "2026-09-30T05:26:23+03:00",
+    "posted_date": "2026-09-29",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
