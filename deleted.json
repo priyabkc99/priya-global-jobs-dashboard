@@ -797,5 +797,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Delivery Lead",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/delivery-lead-at-qantas-4467914058",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job requires an Agile Delivery Lead with squad coaching responsibilities, which partially overlaps with Priya\u2019s release management and cross-team coordination experience but does not explicitly align with her strong fit in regulated CI/CD/configuration management roles.",
+    "id": "57510a81",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-09-30T13:37:07+03:00",
+    "posted_date": "2026-09-16",
+    "deadline": "2023-10-05",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Platform Manager",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/platform-manager-at-qantas-4467948937",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role of Platform Manager at Qantas does not align with Priya's target job criteria in regulated/safety-critical domains, CI/CD/release management, or technical documentation ownership, and instead focuses on product strategy and platform governance.",
+    "id": "44e8ff66",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-09-30T13:37:07+03:00",
+    "posted_date": "2026-09-16",
+    "deadline": "2023-10-05",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-05) passed by more than 2 days and unreviewed"
   }
 ]
