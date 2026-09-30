@@ -1,0 +1,259 @@
+Title: Systems Engineer – Configuration and Change Management
+Company: Rocket Lab
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/systems-engineer-%E2%80%93-configuration-and-change-management-at-rocket-lab-4471228526
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in configuration management and change control, fits within a target country (New Zealand), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Systems Engineer – Configuration and Change Management
+Rocket Lab  Auckland, Auckland, New Zealand
+1 day ago   Be among the first 25 applicants
+  
+
+See who Rocket Lab has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Rocket Lab
+
+Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity’s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us.
+
+While other companies talk about it, we do it!
+
+NEUTRON
+
+Rocket Lab’s Neutron team is responsible for bringing our new large rocket Neutron and its launch and test sites to life. From designing and testing Neutron’s structures and components in New Zealand, to firing up its new Archimedes engines, to setting up Neutron’s launch pads and test sites across the United States, joining the Neutron team is your opportunity to help launch a new large rocket for the very first time.
+
+SYSTEMS ENGINEER I or II - CONFIGURATION AND CHANGE MANAGEMENT
+
+As a Systems Engineer specializing in Configuration and Change Management, you will be the driving force ensuring our engineering modifications move from concept to flight hardware with speed, precision, and rigorous process discipline. Embedded within the Systems Engineering team, you will bridge the gap between complex vehicle architecture and execution, coordinating cross-functional teams to ensure interfaces are clear, changes are controlled, and configuration data is complete.
+
+We are looking for an ambitious, high-drive individual who operates with autonomy, thrives in a fast-paced environment, and continuously seeks to automate the routine to focus on the highest impact deliverables. You will inherit a complex ecosystem of data validation tasks and will be given the opportunity to architect them out of existence.
+
+This role is based in Auckland, New Zealand.
+
+Join a driven team that’s tackling challenging projects, delivering on exciting missions, and making an impact on the future of space!
+
+What You'll Get To Do
+
+
+Drive the Engineering Change Management (ECM) process by collaborating closely with Systems Engineering, Design, Manufacturing, Quality, and Supply Chain teams to ensure modifications are implemented swiftly and without faults.
+Identify and verify system level impacts of changes, ensuring that the overall integrated launch vehicle will truly be improved through the implementation of proposed changes.
+Execute against the project’s configuration management plan, while actively identifying opportunities to mature our baseline control.
+Roughly 20% of your time will deliver rigorous configuration validation: confirming fit, form, function (f/f/f), ensuring EBOM-to-MBOM integrity, and managing end-of-life obsolescence procedures alongside Supply Chain.
+Continuous improvement and automation of our data integrity checks across our tools to catch missing components, mismatched revision tables, and broken ERP syncs before they impact production.
+Act as a power user of Teamcenter, Jira, and Infor LN, tracking progress and ensuring data smoothly crosses the boundaries between design, manufacturing, and enterprise resource planning.
+Define and uphold high-quality engineering processes
+
+
+
+You'll Bring These Qualifications
+
+
+Bachelor’s or Master’s degree in Engineering or equivalent experience
+1-5 year’s industry experience applied to a relevant technical field (i.e. Mechanical structures, Fluid Systems, Mechanisms, Propulsion, Avionics, Software)
+Drive and Autonomy: A proven track record of operating with some autonomy, taking ownership of outcomes, and delivering to tight deadlines.
+Systems Thinker Mindset: A passion for process efficiency and curiosity to investigate and verify how the system works and that proposed changes meet the stated objectives.
+Strong interpersonal and communication skills with the ability to influence (without line report authority) and coordinate multidisciplinary engineering teams around deadlines.
+Attention to detail with the patience and discipline to manage critical configuration data.
+Experience with PLM/PDM systems (preferably Teamcenter) and workflow management software (Jira)
+
+
+
+These Qualifications Would Be Nice To Have
+
+
+Project Management experience such as tracking schedules, managing manufacturing effectivity, and driving engineering deliverables to completion.
+Familiarity or practical experience applying EIA-649 principles within an aerospace, defense, or high-reliability engineering environment.
+Experience with Infor LN or data visualization tools like Power BI to track configuration metrics and status reporting.
+A baseline capability to write Python scripts or utilize Teamcenter/Jira APIs to automate repetitive data validation tasks.
+
+
+
+If the above sounds like you apply now!
+
+What To Expect
+
+We’re on a mission to unlock the potential of space to improve life on Earth, but that’s not an easy task. It takes hard work, determination, relentless innovation, teamwork, grit, and an unwavering commitment to achieving what others often deem impossible. Our people out-think, out-work, and out-pace. We pride ourselves on having each other’s backs, checking our egos at the door, and rolling up our sleeves on all tasks big and small. We thrive under pressure, work to tight deadlines, and our focus is always on how we can deliver, rather than dwelling on the challenges that stand in the way.
+
+Important Information
+
+FOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR here.
+
+Rocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+
+Applicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Johnson at g.biow@rocketlabusa.com.This dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days.
+
+FOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY:
+
+For security reasons, background checks will be undertaken prior to any employment offers being made to an applicant. These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations.
+
+Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union, or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality. For more information on these Regulations, click here ITAR Regulations.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Spectator Sports, Software Development, and Information Services
+  
+
+Referrals increase your chances of interviewing at Rocket Lab by 2x
+
+See who you know
+
+Get notified about new System Engineer jobs in Auckland, Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Senior Systems Engineer - Configuration and Change Management
+Senior Systems Engineer - Configuration and Change Management
+Rocket Lab
+Auckland, Auckland, New Zealand
+5 days ago
+PLM & Document Control Manager
+PLM & Document Control Manager
+Halter
+Auckland, New Zealand
+1 month ago
+IT Systems Engineer
+IT Systems Engineer
+Rocket Lab
+Auckland, Auckland, New Zealand
+3 days ago
+Systems Engineer - Private Cloud
+Systems Engineer - Private Cloud
+ASB Bank
+Auckland, New Zealand
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+Westpac New Zealand
+Auckland, New Zealand
+2 weeks ago
+MWS Senior System Engineer
+MWS Senior System Engineer
+Tata Consultancy Services
+Auckland, New Zealand
+2 days ago
+Show more jobs like this 
+People also viewed
+Solutions Analyst – Microsoft Core Services – Senior Associate
+Solutions Analyst – Microsoft Core Services – Senior Associate
+
+PwC New Zealand
+
+Auckland, Auckland, New Zealand
+1 week ago
+migration tech lead
+migration tech lead
+
+Randstad Digital New Zealand
+
+Auckland, Auckland, New Zealand
+1 week ago
+ServiceNow Consultant
+ServiceNow Consultant
+
+Deloitte
+
+Auckland, Auckland, New Zealand
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+ZURU
+
+Auckland, New Zealand
+22 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+ZURU
+
+Auckland, Auckland, New Zealand
+1 week ago
+SAP Technical Consultant - SAP Basis
+SAP Technical Consultant - SAP Basis
+
+Capgemini
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Senior M365 Specialist
+Senior M365 Specialist
+
+Datacom
+
+Auckland, Auckland, New Zealand
+6 days ago
+SHS Systems & Support Specialist
+SHS Systems & Support Specialist
+
+Qube
+
+Auckland, Auckland, New Zealand
+3 weeks ago
+Senior Quality System Engineer - Design, Airvo
+Senior Quality System Engineer - Design, Airvo
+
+Fisher & Paykel Healthcare
+
+Auckland, Auckland, New Zealand
+2 days ago
+IT Systems Engineer - Launch (Linux)
+IT Systems Engineer - Launch (Linux)
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Rocket Lab
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
