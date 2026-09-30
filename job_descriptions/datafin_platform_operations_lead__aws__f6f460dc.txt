@@ -1,0 +1,279 @@
+Title: Platform Operations Lead (AWS / Kubernetes / DevOps) (Johannesburg Hybrid)
+Company: Datafin
+Location: Johannesburg, South Africa
+URL: https://www.careerjunction.co.za/platform-operations-lead-aws-kubernetes-devops-johannesburg-hybrid-job-2645563.aspx
+Posted: 2026-09-29
+Deadline: Open until filled
+Reason: The job aligns with Priya's expertise in DevOps/CI-CD, configuration management, and regulated environments, and is located in South Africa (a target country) with a senior-level role.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+PLATFORM OPERATIONS LEAD (AWS / KUBERNETES / DEVOPS) (JOHANNESBURG HYBRID)
+DATAFIN
+R Undisclosed
+Permanent Senior position
+Johannesburg
+Posted 29 Sep 2026 by Datafin
+Expires in 27 days
+Job 2645563 - Ref 2609506
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+ENVIRONMENT:
+
+Our client develops next-generation banking technology that enables financial institutions to launch innovative, compliant digital products faster and more reliably. Their core offering is a white-labelled, cashflow-based business lending platform that enables banks to provide pre-approved, variable-repayment loans to SMEs through digital origination and real-time loan management.  They are seeking a Platform Operations Lead to build, automate and manage the infrastructure and support capabilities underpinning their platform across multiple client environments. This hands-on technical leadership role covers cloud and container platforms, deployment automation, observability, operational reliability, incident response and technical support.
+
+DUTIES:
+
+
+
+Build and maintain secure, repeatable AWS infrastructure across the core platform and independently deployed client environments.
+Manage Kubernetes-based environments, including OpenShift and K3s, together with networking, ingress and supporting platform services.
+Develop and maintain reusable CI/CD pipelines, Helm charts, deployment configurations and Argo CD workflows.
+Establish consistent release practices across development, QA, UAT and production environments.
+Apply software development governance standards to significant infrastructure, deployment and platform changes.
+Review application and platform changes for deployability, observability, security, recovery and support impact.
+Ensure production changes include appropriate validation, rollback and recovery plans.
+Maintain traceable technical evidence for platform changes, including requirements, approvals, test results, rollback considerations and release notes.
+Maintain current architecture, deployment, environment and operational documentation.
+Work with Engineering to ensure applications are deployable, observable and operationally supportable.
+Automate repetitive infrastructure, deployment, environment-management and support activities.
+Implement and maintain production monitoring, logging, health checks, alerting and operational dashboards.
+Lead the investigation and resolution of infrastructure, deployment and platform-related incidents.
+Establish support runbooks, incident procedures, escalation paths and handover practices.
+Ensure incidents are properly triaged before being escalated to Engineering.
+Build and mature the Platform Operations and Technical Support function as the international client base grows.
+Mentor DevOps Support and Application/Production Support Engineers.
+Participate in production support and on-call activities.
+Support secure client deployments and controlled upgrades across independently managed banking environments.
+Support SOC 2 compliance activities through Vanta, including control maintenance, evidence collection, remediation tracking and audit preparation.
+Collaborate with the Head of Technology, Technical Architect and Engineering team to establish common infrastructure, deployment, security and operational standards.
+
+REQUIREMENTS:
+
+
+Relevant degree, diploma or equivalent practical experience.
+Strong hands-on experience operating production workloads on AWS or a comparable public cloud platform.
+Practical experience with Docker and containerised environments.
+Production experience with Kubernetes.
+Exposure to OpenShift and K3s would be advantageous.
+Experience developing and maintaining CI/CD pipelines, deployment automation and GitOps workflows.
+Experience with infrastructure automation and configuration-management practices.
+Strong Linux, networking, DNS, TLS certificate, reverse proxy, ingress and application-connectivity knowledge.
+Experience with monitoring, logging, alerting, troubleshooting and incident response.
+Experience supporting security controls, vulnerability remediation and compliance evidence would be advantageous.
+Experience supporting regulated banking or financial services environments is strongly preferred.
+Experience mentoring or leading Platform Operations, DevOps or Technical Support teams would be beneficial.
+
+ATTRIBUTES:
+
+
+Strong collaborator who works effectively with developers, architects and technical leadership.
+Automation-first and improvement-focused mindset.
+Excellent troubleshooting ability across infrastructure, networking, containers and deployment pipelines.
+Sound technical judgement when balancing reliability, security, operational risk and delivery requirements.
+Able to explain the purpose, impact, risk and recovery approach associated with platform changes.
+Calm, structured and communicative during incidents.
+Comfortable working with ambiguity and evolving requirements.
+Strong mentoring and technical leadership capabilities.
+Accountable for reliability, security, confidentiality and support quality.
+Understands the distinction between platform operations, technical support and application development.
+Uses AI-assisted engineering tools responsibly within approved security and governance controls while remaining accountable for validating and documenting all resulting changes.
+
+Desired Skills:
+
+Platform
+Operations
+Lead
+
+APPLY NOW
+DATAFIN
+
+VIEW AGENCY PROFILE
+
+SEE ALL DATAFIN JOBS
+
+ABOUT THE AGENCY
+
+Datafin Recruitment was established in 1999 and is one of South Africa’s leading Recruitment companies. Owned and managed by two sisters Lindy and Bev Sollinger, we focus on connecting with both our clients and candidates in an authentic conscious meaningful manner. We focus on the Tech, Digital/Online, Data, Finance and HR industries.
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+Business Intelligence Developer
+
+Watershed Consulting
+
+Permanent Intermediate position
+
+Johannesburg
+
+Expires in 32 days
+
+Senior .NET Developer
+
+Watershed Consulting
+
+Contract Senior position
+
+Johannesburg
+
+Expires in 25 days
+
+AEM DEVELOPER / ADOBE EXPERIENCE CLOUD At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Senior EE position
+
+Johannesburg
+
+Expires in 14 days
+
+IBM WebSphere
+
+Watershed Consulting
+
+Contract Senior position
+
+Johannesburg
+
+Expires in 11 days
+
+New
+Senior .NET Full Stack Developer -Sandton - On-Site - 6-12 Month Contract
+
+Datafin
+
+Contract Senior position
+
+Johannesburg
+
+Expires in 27 days
+
+Front End Engineer
+
+Watershed Consulting
+
+Contract Intermediate position
+
+Johannesburg
+
+Expires in 26 days
+
+Email me jobs similar to: PLATFORM OPERATIONS LEAD (AWS / KUBERNETES / DEVOPS) (JOHANNESBURG HYBRID)
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    
