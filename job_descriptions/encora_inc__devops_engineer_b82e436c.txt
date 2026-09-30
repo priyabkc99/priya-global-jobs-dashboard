@@ -1,0 +1,209 @@
+Title: DevOps Engineer
+Company: Encora Inc.
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-encora-inc-4441439075
+Posted: 2026-08-01
+Deadline: N/A
+Reason: The role aligns with Priya’s CI/CD pipeline ownership experience (Jenkins/GitHub Actions), regulated-industry quality gatekeeping background, and DevOps responsibilities at Elektrobit. Singapore is a target country, and the job explicitly matches her configuration management and technical communication expertise.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Encora Inc.  Singapore
+2 months ago  62 applicants
+  
+
+See who Encora Inc. has hired for this role
+
+Apply 
+Save
+
+
+Important Information
+
+Location: Singapore
+
+
+Support multiple Agile Release Trains (ARTs) and product teams in onboarding to our internal DevOps platform and curated Azure services
+Drive the re-platforming/migration of applications to cloud infrastructure while ensuring adherence to enterprise standards, compliance controls, and secure-by-design principles
+Drive the migration of CI/CD pipelines from Bitbucket/Jenkins to GitLab, ensuring alignment with platform standards and compliance requirements
+Collaborate closely with development teams, educating and enabling them on DevOps practices, CI/CD automation, and cloud-native development
+Contribute to improving the developer experience by creating templates, documentation, and training materials that simplify platform adoption
+
+
+Requirement:
+
+
+Software engineer with profound hands-on experience (5+ years) in application development (Java, .NET, Python, or similar)
+Practical experience building and maintaining CI/CD pipelines and migrating between toolchains (Bitbucket/Jenkins → GitLab)
+Strong understanding of DevOps principles, Git workflows, and modern delivery practices
+Hands-on experience with Microsoft Azure services and Infrastructure-as-Code
+Experience with deployment of containerized workloads and orchestration (Nexus, Helm, Docker, Kubernetes)
+Experience working in air-gapped or restricted enterprise environments, where all external dependencies must be consumed from internal registries
+Cloud certifications (e.g., Azure DevOps Engineer Expert) are a strong advantage
+Fluency in English (written/verbal)
+Excellent communication and coaching skills — able to simplify complex topics and guide teams through change
+Proactive, pragmatic, and solution-oriented mindset with strong problem-solving abilities
+Experience working in agile environments (SAFe or similar) and collaborating across multiple teams
+
+
+About Encora
+
+Encora is a global company that offers Software and Digital Engineering solutions. Our practices include Cloud Services, Product Engineering & Application Modernization, Data & Analytics, Digital Experience & Design Services, DevSecOps, Cybersecurity, Quality Engineering, AI & LLM Engineering, among others.
+
+At Encora, we hire professionals based solely on their skills and do not discriminate based on age, disability, religion, gender, sexual orientation, socioeconomic status, or nationality
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering
+Industries
+Spectator Sports, Software Development, and Information Services
+  
+
+Referrals increase your chances of interviewing at Encora Inc. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 week ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+HashWhale
+Singapore
+11 months ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer - P26004
+DevOps Engineer - P26004
+
+Activate Interactive
+
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+4 months ago
+DevOps Consultant - GS26021
+DevOps Consultant - GS26021
+
+Activate Interactive
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+2 months ago
+DevOps / DevSecOps Engineer
+DevOps / DevSecOps Engineer
+
+Argyll Scott
+
+Singapore, Singapore
+4 days ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Capgemini Engineering
+
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+OCBC
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Singapore, Singapore
+4 months ago
+Platform / DevOps Engineer
+Platform / DevOps Engineer
+
+Selby Jennings
+
+Singapore, Singapore
+4 weeks ago
+SRE DevOps Engineer
+SRE DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Encora Inc.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,238 @@
+Title: DevOps Engineer / Senior Associate, Data & AI, Technology Consulting
+Company: EY
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-senior-associate-data-ai-technology-consulting-at-ey-4431929970
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The job matches as a DevOps Engineer role in Singapore (target country), aligning with Priya's CI/CD/release management expertise and regulated-industry experience, though SHIP-HATS/GCC specifics may require further assessment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer / Senior Associate, Data & AI, Technology Consulting
+EY  Singapore, Singapore
+5 days ago  105 applicants
+  
+
+See who EY has hired for this role
+
+Apply 
+Save
+Job Description: DevOps (ShipHats) Engineer, Senior Associate, AI Data, Technology Consulting
+
+At EY, we develop you with future-focused skills and equip you with world-class experiences. We empower you in a flexible environment, and fuel you and your extraordinary talents in a diverse and inclusive culture of globally connected teams.
+
+We work together across our full spectrum of services and skills powered by technology and AI, so that business, people and the planet can thrive together.
+
+We’re all in, are you?
+
+Join EY and shape your future with confidence.
+
+About The Opportunity
+
+EY AI & Data is the data and advanced analytics capability within EY Asia-Pacific, with over 500 specialist employees working across multiple industry sectors. We implement information-driven strategies, data platforms and advanced data analytics solution systems that help grow, optimize and protect client organizations. We go beyond strategy and provide end to end design, build and implementation of real-life data environments and have some of the best architects, project managers, business analysts, data scientists, big data engineers, developers and consultants in the region.
+
+We are seeking a DevOps Engineer (Senior Associate) with proven experience delivering Government Commercial Cloud (GCC) projects for Singapore government agencies and ministries. The ideal candidate will have hands-on expertise in implementing SHIP-HATS frameworks and designing/maintaining robust CI/CD pipelines across multiple projects.
+
+Your key responsibilities:
+
+
+Design, implement, and maintain CI/CD pipelines to support efficient and secure application deployment in GCC environments.
+Lead or contribute to end-to-end DevOps projects for Singapore government agencies or ministries.
+Implement and enhance solutions aligned with SHIP-HATS compliance standards.
+Collaborate with application teams, architects, and security specialists to ensure smooth delivery and operation of cloud-native and container-based applications.
+Perform troubleshooting, monitoring, and performance tuning of DevOps toolchains and infrastructure.
+Document solutions, create deployment guides, and support knowledge transfer to client or internal teams.
+
+
+Skills & attributes for success:
+
+
+3–5 years of experience in DevOps, with senior-level contributions in at least 1–2 GCC projects involving Singapore government agencies.
+Strong experience in implementing and optimizing CI/CD pipelines (e.g., Jenkins, GitLab CI, Azure DevOps).
+Practical experience with SHIP-HATS framework implementation.
+Proficient with tools such as Docker, Kubernetes, Terraform, Ansible (or similar).
+Familiarity with security best practices in government cloud environments.
+Strong communication skills for stakeholder engagement and technical documentation.
+Familiarity with agile delivery frameworks, including Scrum or equivalent.
+Certified in AWS and/or Talend.
+
+
+What We Look For
+
+Highly motivated individuals with excellent problem-solving skills and the ability to prioritize shifting workloads in a rapidly changing industry. An effective communicator, you’ll be a confident team player that collaborates with people from various teams while looking to develop your career in a dynamic organization.
+
+What Working At EY Offers
+
+EY offers a competitive remuneration package where you’ll be rewarded for your individual and team performance. We are committed to being an inclusive employer and are happy to consider flexible working arrangements. Plus, we offer:
+
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+
+Company Description
+
+EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.
+
+Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.
+
+EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.
+
+All in to shape the future with confidence.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Professional Services
+  
+
+Referrals increase your chances of interviewing at EY by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+AI DevOps Engineer
+AI DevOps Engineer
+Millennium
+Singapore, Singapore
+1 week ago
+AI Engineer, Dev Ops
+AI Engineer, Dev Ops
+Nanyang Technological University Singapore
+Singapore, Singapore
+3 months ago
+Senior DevOps / DataOps Engineer (AWS & MLOps)
+Senior DevOps / DataOps Engineer (AWS & MLOps)
+Centience
+Singapore, Singapore
+1 week ago
+Senior Cloud Infrastructure Automation Solutions Architect
+Senior Cloud Infrastructure Automation Solutions Architect
+NVIDIA
+Singapore, Singapore
+1 week ago
+Senior Consultant (Kubernetes & AI)
+Senior Consultant (Kubernetes & AI)
+Nutanix
+Singapore
+5 days ago
+Senior Cloud Engineer - AI platforms
+Senior Cloud Engineer - AI platforms
+Optimum Solutions Pte Ltd
+Singapore, Singapore
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Site Reliability Application Engineers (AI Platform)
+Site Reliability Application Engineers (AI Platform)
+
+Astek
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini
+
+Singapore, Singapore
+1 month ago
+DevOps / Site Reliability Engineer
+DevOps / Site Reliability Engineer
+
+OKX
+
+Singapore, Singapore
+12 hours ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 month ago
+Data Infra Platform Engineer
+Data Infra Platform Engineer
+
+Thales
+
+Singapore, Singapore
+2 weeks ago
+Cloud Site Reliability Engineer (SRE)
+Cloud Site Reliability Engineer (SRE)
+
+Singapore Pools
+
+Singapore, Singapore
+10 hours ago
+Data Engineer (Cloud Data Platform Engineer)
+Data Engineer (Cloud Data Platform Engineer)
+
+NCS Group
+
+Singapore, Singapore
+3 months ago
+Platforms Engineer, MLOps
+Platforms Engineer, MLOps
+
+Nanyang Technological University Singapore
+
+Singapore, Singapore
+6 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Vanguard Software
+
+Singapore, Singapore
+18 hours ago
+Sr. Assoc/Assoc, AI Engineer, Group Infrastructure & Cloud, Group Technology
+Sr. Assoc/Assoc, AI Engineer, Group Infrastructure & Cloud, Group Technology
+
+DBS Bank
+
+Singapore, Singapore
+3 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at EY
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
