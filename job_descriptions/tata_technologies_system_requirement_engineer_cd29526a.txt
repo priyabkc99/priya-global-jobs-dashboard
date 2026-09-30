@@ -1,0 +1,324 @@
+Title: System Requirement Engineer
+Company: Tata Technologies
+Location: Pune District, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/system-requirement-engineer-at-tata-technologies-4464482075
+Posted: 2026-09-09
+Deadline: N/A
+Reason: The role aligns with Priya's experience as a Requirements Engineer (Topcon/Elektrobit) and matches her expertise in requirements traceability, ASPICE compliance, and regulated-industry standards.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+System Requirement Engineer
+Tata Technologies  Pune District, Maharashtra, India
+3 weeks ago   Over 200 applicants
+  
+
+See who Tata Technologies has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Tata Technologies
+
+Radhika T
+Radhika T
+Talent Acquisition Specialist at Tata Technologies Ltd.
+
+Job Summary
+
+Systems Requirements Engineer
+
+5- 10 Yrs Experience
+
+Role Summary
+
+The Systems Requirements Engineer is responsible for eliciting, analyzing, documenting, managing, and maintaining system requirements throughout the product development lifecycle. This role ensures stakeholder needs are translated into clear, complete, verifiable, and traceable system requirements that guide design, implementation, verification, and validation activities. The engineer collaborates across multiple engineering disciplines to deliver high-quality products while maintaining compliance with organizational and industry standards.
+
+
+
+
+Key Responsibilities
+
+Requirements Development
+
+Capture stakeholder, customer, regulatory, and business requirements.
+Develop high-quality system requirements using established requirements engineering best practices.
+Ensure requirements are clear, complete, consistent, feasible, testable, and traceable.
+Define requirement acceptance criteria, verification methods, and operating conditions.
+
+Requirements Analysis & Decomposition
+
+Analyze customer needs and convert them into system features and requirements.
+Perform requirements decomposition and allocation to subsystems and components.
+Support system architecture development and ensure requirement alignment.
+Identify gaps, conflicts, assumptions, and dependencies.
+
+Traceability Management
+
+Establish and maintain bidirectional traceability from:
+Customer Needs / VoC
+Features
+System Requirements
+Architecture Elements
+Verification & Validation Activities
+Manage traceability throughout the development lifecycle.
+
+Verification & Validation Support
+
+Define verification methods (Test, Analysis, Inspection, Demonstration).
+Support development of verification plans and test cases.
+Ensure requirements are measurable and verifiable.
+
+Change Management
+
+Support Change Request (CR) management and impact analysis.
+Assess technical, schedule, cost, and risk impacts.
+Maintain requirements baselines and configuration control.
+
+Process Compliance
+
+Support compliance with ASPICE, Functional Safety, Cybersecurity, and organizational development processes.
+Participate in audits and process assessments.
+Contribute to continuous process improvement initiatives.
+
+
+
+
+Education
+
+Required
+
+Bachelor's degree in:
+Systems Engineering
+Electrical Engineering
+Mechanical Engineering
+Computer Engineering
+Software Engineering
+Related Engineering Discipline
+
+Preferred
+
+Master's Degree in Systems Engineering or related field.
+ASPICE Assessor or Process Training.
+Functional Safety (ISO 26262) knowledge.
+MBSE certification or training.
+
+
+
+
+Qualifications
+
+Technical Qualifications
+
+Strong understanding of Systems Engineering fundamentals.
+Knowledge of requirements engineering lifecycle.
+Experience with requirements decomposition and allocation.
+Ability to write measurable and verifiable requirements.
+Understanding of system architecture and interfaces.
+Familiarity with verification and validation methodologies.
+Knowledge of Configuration Management and Change Management.
+Experience with requirement quality standards and reviews.
+Understanding of risk and impact assessment processes.
+
+Preferred Qualifications
+
+ASPICE SYS.1, SYS.2, SYS.3, SYS.4, SYS 11, SYS12 knowledge.
+Model-Based Systems Engineering (MBSE).
+Functional Safety (ISO 26262).
+Cybersecurity requirements development.
+
+Tool Experience
+
+Experience with one or more:
+
+Polarion
+PTC RV&S
+MATLAB/Simulink
+J1939 Tools – CAN message knowledge
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Other
+Industries
+Engineering Services, Electric Power Transmission, Control, and Distribution, and Engines and Power Transmission Equipment Manufacturing
+  
+
+Referrals increase your chances of interviewing at Tata Technologies by 2x
+
+See who you know
+
+Get notified about new Requirements Engineer jobs in Pune District, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Component Design Engineer jobs
+System Requirement Engineer
+Similar jobs
+SYSTEM ENGINEER - Power Electronics
+SYSTEM ENGINEER - Power Electronics
+FORVIA HELLA
+Pune Division, Maharashtra, India
+4 weeks ago
+SYSTEM ENGINEER: Battery Electronics
+SYSTEM ENGINEER: Battery Electronics
+FORVIA HELLA
+Pune Division, Maharashtra, India
+2 weeks ago
+Principal Systems Engineer
+Principal Systems Engineer
+Visteon Corporation
+Pune Division, Maharashtra, India
+17 hours ago
+System Engineer (Vehicle Integration)
+System Engineer (Vehicle Integration)
+PACCAR
+Pune Division, Maharashtra, India
+1 week ago
+Senior Requirements Engineer
+Senior Requirements Engineer
+Siemens
+Pune Division, Maharashtra, India
+2 weeks ago
+System Engineer-Drives (10-12 Years)
+System Engineer-Drives (10-12 Years)
+Brose Group
+Pune Division, Maharashtra, India
+1 month ago
+Show more jobs like this 
+People also viewed
+System Manager (Projects) - Railway Infrastructure (Mass Transit)
+System Manager (Projects) - Railway Infrastructure (Mass Transit)
+
+Siemens
+
+Pune Division, Maharashtra, India
+4 days ago
+Traction System Engineer
+Traction System Engineer
+
+Siemens
+
+Pune Division, Maharashtra, India
+1 week ago
+Traction System Engineer
+Traction System Engineer
+
+Siemens
+
+Pune Division, Maharashtra, India
+2 days ago
+Traction System Engineer
+Traction System Engineer
+
+Siemens
+
+Pune Division, Maharashtra, India
+10 hours ago
+Traction System Engineer
+Traction System Engineer
+
+Siemens
+
+Pune Division, Maharashtra, India
+1 week ago
+Traction System Engineer
+Traction System Engineer
+
+Siemens
+
+Pune Division, Maharashtra, India
+1 week ago
+System Manager (Projects) - Railway Infrastructure (Mass Transit)
+System Manager (Projects) - Railway Infrastructure (Mass Transit)
+
+Siemens
+
+Pune Division, Maharashtra, India
+4 days ago
+Lead- System Integration Engineer
+Lead- System Integration Engineer
+
+ideaForge
+
+Navi Mumbai, Maharashtra, India
+2 months ago
+System Manager (Projects) - Railway Infrastructure - ETCS
+System Manager (Projects) - Railway Infrastructure - ETCS
+
+Siemens
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Assistant Manager System Engineer
+Assistant Manager System Engineer
+
+Larsen & Toubro
+
+Kurla, Maharashtra, India
+1 week ago
+Similar Searches
+Component Design Engineer jobs
+800 open jobs
+Senior Transportation Engineer jobs
+303 open jobs
+Senior Functional Analyst jobs
+2,972 open jobs
+System Safety Engineer jobs
+1,205 open jobs
+Usability Engineer jobs
+50,658 open jobs
+Lead Technical Analyst jobs
+10,615 open jobs
+Lead System Engineer jobs
+1,842 open jobs
+System Architect jobs
+4,468 open jobs
+System Engineer jobs
+6,122 open jobs
+Patent Engineer jobs
+44 open jobs
+Automotive Engineer jobs
+3,055 open jobs
+Verification Validation Engineer jobs
+1,616 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Tata Technologies
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
