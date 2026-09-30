@@ -1,0 +1,354 @@
+Title: DevOps Engineer
+Company: Communicate Recruitment
+Location: City of Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/devops-engineer-at-communicate-recruitment-4467383512
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in CI/CD pipeline ownership (GitHub Actions, Jenkins), infrastructure automation, and regulated-industry experience, fits South Africa (target country), and matches her mid-senior level role preference.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Communicate Recruitment  City of Johannesburg, Gauteng, South Africa
+1 week ago  100 applicants
+  
+
+See who Communicate Recruitment has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Communicate Recruitment
+
+Stef Pretorius (ISP)
+Stef Pretorius (ISP)
+Actuarial, Quants, Tech and Data: Professional Talent Sourcer during the day ★Youtuber/Streamer at night
+
+Cloud DevOps Engineer (Senior)
+
+Johannesburg | Full-Time | Hybrid after probation
+
+
+
+
+Join a High-Growth Technology Team
+
+We are looking for an experienced and hands-on Cloud DevOps Engineer to help build, optimize, and maintain the cloud infrastructure powering a rapidly growing SaaS platform.
+
+
+
+
+This is an exciting opportunity for someone who enjoys creating reliable, scalable, and secure systems while working closely with software engineers and data teams. You'll play a critical role in automating deployments, improving system performance, and ensuring a seamless development and operational experience.
+
+
+
+
+If you're passionate about cloud technologies, infrastructure automation, and solving complex technical challenges, we'd love to hear from you.
+
+
+
+
+What You'll Do
+
+Infrastructure & Cloud Management
+
+Design, implement, and manage scalable, highly available cloud infrastructure.
+Optimize cloud environments for reliability, performance, and cost efficiency.
+Manage and maintain AWS services including ECS, EC2, RDS, S3, CloudFront, Lambda, and related services.
+
+CI/CD & Automation
+
+Build, maintain, and enhance CI/CD pipelines using GitHub Actions, Jenkins, or similar platforms.
+Automate deployment processes and operational tasks to increase efficiency and reduce manual intervention.
+Champion DevOps best practices across development workflows.
+
+Containerisation & Orchestration
+
+Manage containerized applications using Docker.
+Support orchestration platforms such as Kubernetes.
+Ensure consistency across development, testing, and production environments.
+
+Monitoring & Reliability
+
+Implement and maintain monitoring, alerting, and logging solutions.
+Create dashboards and define key operational metrics.
+Proactively identify and resolve performance bottlenecks and reliability risks.
+
+Security & Governance
+
+Apply cloud security best practices and infrastructure hardening techniques.
+Assist in implementing firewalls, access controls, and intrusion detection solutions.
+Ensure infrastructure complies with security and operational standards.
+
+Database & Disaster Recovery
+
+Support PostgreSQL database environments and contribute to NoSQL initiatives where appropriate.
+Design and maintain backup, recovery, and disaster recovery strategies.
+Ensure critical systems are protected and recoverable.
+
+Collaboration & Documentation
+
+Work closely with development teams to troubleshoot production issues and improve release processes.
+Create and maintain clear technical documentation for infrastructure, systems, and procedures.
+Contribute to a culture of continuous improvement and operational excellence.
+
+
+
+
+What We're Looking For
+
+Qualifications
+
+Degree in Computer Science, Engineering, Information Systems, Mathematics, or a related field preferred.
+AWS certifications advantageous.
+
+
+
+
+Technical Skills
+
+Strong experience with AWS cloud services.
+Solid knowledge of Docker and Kubernetes.
+Experience with CI/CD tools such as GitHub Actions or Jenkins.
+Hands-on experience with Infrastructure as Code tools such as Terraform, CloudFormation, or Ansible.
+Familiarity with monitoring platforms including Prometheus, Grafana, and CloudWatch.
+Experience administering PostgreSQL databases.
+Proficiency with Git and GitHub.
+Strong scripting skills using Python, Bash, Ruby, or similar languages.
+Experience integrating APIs, systems, and workflows to support automation and operational efficiency.
+
+
+
+
+Experience & Competencies
+
+Strong understanding of networking, cloud architecture, and security principles.
+Experience supporting high-availability and scalable production environments.
+Excellent troubleshooting and problem-solving skills.
+Strong attention to detail and operational discipline.
+Effective communication and collaboration skills.
+Ability to thrive in a fast-paced, technology-driven environment.
+
+
+
+
+Nice to Have
+
+Experience contributing to open-source projects or participating in the DevOps community.
+Exposure to hybrid cloud environments.
+Previous experience within a SaaS or startup environment.
+
+
+
+
+Why Join Us?
+
+Work on impactful cloud and infrastructure projects.
+Collaborate with talented engineers in a fast-paced environment.
+Influence architecture, automation, and operational best practices.
+Opportunity to make a significant impact within a growing technology business.
+
+
+
+
+Ready to build reliable, scalable cloud infrastructure and take ownership of DevOps excellence?
+
+
+
+
+Apply today!
+
+
+
+
+Stefan Pretorius
+
+Recruiter
+
+stpretorius@communicate.co.za
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT System Data Services, Data Infrastructure and Analytics, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Communicate Recruitment by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in City of Johannesburg, Gauteng, South Africa.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Zensar Technologies
+Johannesburg Metropolitan Area
+1 week ago
+DevOps Engineer (M-Pesa)
+DevOps Engineer (M-Pesa)
+Paracon
+Midrand, Gauteng, South Africa
+3 weeks ago
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+Johannesburg, Gauteng, South Africa
+8 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+AWS Developer / Engineer
+AWS Developer / Engineer
+Absa Group
+Johannesburg, Gauteng, South Africa
+6 hours ago
+Show more jobs like this 
+People also viewed
+Senior Azure Cloud/Platform Engineer - MF
+Senior Azure Cloud/Platform Engineer - MF
+
+DVT
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Support Engineer I, Operations
+Support Engineer I, Operations
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+Johannesburg, Gauteng, South Africa
+5 days ago
+Platform Engineering Lead
+Platform Engineering Lead
+
+Talent Shore
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Support Engineer I, Safety Systems
+Support Engineer I, Safety Systems
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Principal Security & DevOps Engineer
+Principal Security & DevOps Engineer
+
+Integrity360
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Data Engineer
+Data Engineer
+
+Nedbank
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Infrastructure/Cloud Architecture z/OS
+Infrastructure/Cloud Architecture z/OS
+
+Kyndryl
+
+Sandton, Gauteng, South Africa
+2 months ago
+Azure Senior Cloud Infrastructure Consultant
+Azure Senior Cloud Infrastructure Consultant
+
+Netsurit
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Similar Searches
+Access Developer jobs
+18 open jobs
+Senior Credit Controller jobs
+95 open jobs
+Credit Controller jobs
+823 open jobs
+English Second Language Teacher jobs
+21 open jobs
+Engineer in Training jobs
+721 open jobs
+Sap Materials Management Consultant jobs
+36 open jobs
+Test Architect jobs
+201 open jobs
+Assistant Audit Manager jobs
+797 open jobs
+Financial Accountant jobs
+913 open jobs
+Management Consultant jobs
+834 open jobs
+Underwriter jobs
+118 open jobs
+Financial Advisor jobs
+478 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

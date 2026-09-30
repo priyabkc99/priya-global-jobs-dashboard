@@ -1,0 +1,281 @@
+Title: DevOps Engineer (M-Pesa)
+Company: Paracon
+Location: Midrand, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/devops-engineer-m-pesa-at-paracon-4461886226
+Posted: 2026-09-09
+Deadline: N/A
+Reason: The DevOps Engineer role at Paracon in South Africa matches Priya's expertise in CI/CD, infrastructure as code, and regulated environments, aligning with her background in Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (M-Pesa)
+Paracon  Midrand, Gauteng, South Africa
+3 weeks ago  138 applicants
+  
+
+See who Paracon has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Paracon
+
+Thobelani Mtshali
+Thobelani Mtshali
+IT Recruitment Specialist | Aspiring Data Analyst
+
+DevOps Engineer SAS AML Platform
+
+Location: Midrand, Gauteng
+
+Reporting Line: Manager Platform Engineering
+
+
+
+
+
+
+
+Job Summary
+
+We are seeking a highly skilled DevOps Engineer to support the M-Pesa platform, with a strong focus on the SAS Anti-Money Laundering (AML) solution. The role involves enabling platform reliability, automating deployments, and supporting the application layer to ensure seamless financial crime detection operations. You will work closely with engineering, security, and vendor teams to maintain a secure, scalable, and highly available AML platform.
+
+
+
+
+Key Responsibilities
+
+Design, implement, and manage CI/CD pipelines for SAS AML and supporting application layers
+Support the enablement, configuration, and optimisation of the SAS AML platform within M-Pesa
+Collaborate with internal teams and external partners (e.g., SAS, Binary) to integrate and stabilise application components
+Automate infrastructure provisioning and environment setup using Infrastructure as Code (IaC) tools
+Manage cloud and on-premises hybrid environments hosting AML workloads
+Monitor system health, performance, and availability using enterprise monitoring tools
+Ensure platform compliance with regulatory, security, and financial governance standards
+Troubleshoot production incidents, perform root cause analysis, and implement preventive measures
+Manage releases, patches, and upgrades for the SAS AML platform
+Implement DevSecOps practices, including vulnerability scanning and secure configuration management
+Maintain operational documentation, runbooks, and standard operating procedures
+
+
+
+
+Required Skills & Qualifications
+
+Bachelor’s degree in computer science, Engineering, or equivalent experience
+3–7+ years of experience in DevOps, Site Reliability Engineering, or platform engineering
+Experience working with financial services platforms or regulated environments (preferably mobile money or banking)
+Strong experience with CI/CD tools (Jenkins, GitLab, Azure DevOps)
+Hands-on experience with Linux/Unix system administration
+Knowledge of SAS platform administration (preferably SAS AML or SAS Viya)
+Experience with containerization technologies (Docker, Kubernetes)
+Proficiency in scripting (Bash, Python, PowerShell)
+Experience with Infrastructure as Code tools (Terraform, Ansible, ARM templates)
+Familiarity with monitoring tools (Splunk, Grafana, Prometheus, or similar)
+Understanding of networking, APIs, and enterprise integration patterns
+
+Preferred Skills
+
+Experience with M-Pesa or mobile financial services platforms
+Knowledge of Anti-Money Laundering (AML), fraud detection, or financial crime systems
+Experience supporting SAS solutions in production environments
+Exposure to microservices and event-driven architectures
+Cloud certifications (Azure, AWS, or GCP)
+Experience with database platforms (Oracle, PostgreSQL, or SAS data environments)
+
+Key Competencies
+
+Strong problem-solving and analytical thinking
+Ability to work under pressure in mission-critical environments
+Strong stakeholder management and collaboration skills
+Attention to detail and commitment to system reliability and security
+Continuous improvement mindset and automation-first approach
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Job function
+Information Technology, Strategy/Planning, and Other
+Industries
+Telecommunications, Financial Services, and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Paracon by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Midrand, Gauteng, South Africa.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Zensar Technologies
+Johannesburg Metropolitan Area
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Communicate Recruitment
+City of Johannesburg, Gauteng, South Africa
+1 week ago
+Site Reliability Engineer (SRE)
+Site Reliability Engineer (SRE)
+Impronics Technologies
+Johannesburg, Gauteng, South Africa
+1 year ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+Johannesburg, Gauteng, South Africa
+8 months ago
+Show more jobs like this 
+People also viewed
+Senior Azure Cloud/Platform Engineer - MF
+Senior Azure Cloud/Platform Engineer - MF
+
+DVT
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Linux Engineer
+Linux Engineer
+
+Impronics Technologies
+
+Johannesburg, Gauteng, South Africa
+1 year ago
+IT Infrastructure Engineer/Systems Engineer
+IT Infrastructure Engineer/Systems Engineer
+
+Hello Group
+
+Centurion, Gauteng, South Africa
+10 hours ago
+Technology/Domain Specialist II - Kafka (OVA5789)
+Technology/Domain Specialist II - Kafka (OVA5789)
+
+Ovations Talent Sourcing
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Production Support Engineer
+Production Support Engineer
+
+Network International
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Support Engineer I, Operations
+Support Engineer I, Operations
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior 5G Systems Engineer
+Senior 5G Systems Engineer
+
+Comsol Networks
+
+Pretoria, Gauteng, South Africa
+4 days ago
+Senior Cloud Engineer And Support Technician
+Senior Cloud Engineer And Support Technician
+
+Bumbatech
+
+City of Johannesburg, Gauteng, South Africa
+19 hours ago
+Senior AI Engineer (Agents)
+Senior AI Engineer (Agents)
+
+MoMo from MTN
+
+City of Johannesburg, Gauteng, South Africa
+5 days ago
+Support Engineer I, Safety Systems
+Support Engineer I, Safety Systems
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Similar Searches
+Unix Engineer jobs
+38 open jobs
+Support Coordinator jobs
+353 open jobs
+Social Media Strategist jobs
+20 open jobs
+Linux Engineer jobs
+269 open jobs
+Call Center Manager jobs
+370 open jobs
+Continuous Improvement Manager jobs
+133 open jobs
+Marketing Strategist jobs
+199 open jobs
+Content Strategist jobs
+63 open jobs
+Junior Software Engineer jobs
+3,960 open jobs
+Junior Project Manager jobs
+511 open jobs
+Project Manager Scrum Master jobs
+195 open jobs
+Continuous Improvement Engineer jobs
+257 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
