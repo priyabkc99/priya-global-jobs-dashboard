@@ -1001,5 +1001,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Contracts Administrator & Quality Control",
+    "company": "Gasan Group",
+    "location": "Birkirkara, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/contracts-administrator-quality-control-at-gasan-group-4471296963",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with Priya's target roles (e.g., Quality Engineer, Configuration Manager) or her experience in regulated compliance/CI-CD/release management; it appears to be an administrative/contractual role with limited technical alignment.",
+    "id": "7eadb2ee",
+    "source": "linkedin_mt_documentation_specialist",
+    "added_at": "2026-10-01T04:23:59+03:00",
+    "posted_date": "2026-09-30",
+    "deadline": "2026-09-29",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-29) passed by more than 2 days and unreviewed"
   }
 ]
