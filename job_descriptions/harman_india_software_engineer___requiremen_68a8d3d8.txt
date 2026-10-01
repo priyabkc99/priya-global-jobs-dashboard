@@ -1,0 +1,299 @@
+Title: Software Engineer - Requirements Engineering
+Company: HARMAN India
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/software-engineer-requirements-engineering-at-harman-india-4466910756
+Posted: 2026-09-24
+Deadline: N/A
+Reason: The role aligns with Priya’s experience in requirements traceability (Topcon/Elektrobit) and regulated industries, matches her target location (India), and falls under the Requirements Engineer category explicitly approved by the user.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Engineer - Requirements Engineering
+HARMAN India  Bengaluru, Karnataka, India
+1 week ago  118 applicants
+  
+
+See who HARMAN India has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Introduction: A Career at HARMAN Automotive
+
+We’re a global, multi-disciplinary team that’s putting the innovative power of technology to work and transforming tomorrow. At HARMAN Automotive, we give you the keys to fast-track your career.
+
+
+Engineer audio systems and integrated technology platforms that augment the driving experience
+Combine ingenuity, in-depth research, and a spirit of collaboration with design and engineering excellence
+Advance in-vehicle infotainment, safety, efficiency, and enjoyment
+
+
+What You’ll Be Part Of
+
+As an Requirements Engineer / Product owner, you will play a pivotal role in transforming product strategy and customer needs into clear, high-quality technical requirements for next-generation automotive solutions. Working closely with Product Management and cross-functional engineering teams, you will drive requirements definition, feature prioritization, and end-to-end traceability to support successful product delivery. This role offers the opportunity to contribute across Product Ownership, Systems Engineering, and Requirements Engineering while ensuring alignment with Agile development practices and automotive quality standards.
+
+How You’ll Make An Impact
+
+
+This role is a combination of traditional Product Owner, Requirements Engineer and Systems Engineer.
+Proven experience translating business objectives into clear technical requirements and converting them into actionable Agile user stories, acceptance criteria for Epic/Features, prioritize features for each PI release, and delivery roadmaps
+Partner with Product Management to create product roadmap, convert product vision and market requirements into clear, implementable technical requirements that enable predictable product delivery.
+Coordinate requirements analysis activities with System Architects, Hardware Leads, Mechanical Leads, Product Manager, Project Managers and other stakeholders.
+Execute requirements engineering activities throughout the project lifecycle, ensuring alignment with product-specific processes and ASPICE requirements.
+Own the setup, maintenance, and continuous improvement of IBM ALM DNG infrastructure, including formal modules, link structures, baselines, and traceability models.
+Establish and maintain complete traceability between system, safety, hardware, software, and verification requirements.
+Clarify ambiguous, incomplete, or conflicting requirements with internal teams and external customers to ensure a common understanding and successful implementation.
+Monitor, analyze, and report requirements quality, traceability coverage, review status, and compliance metrics.
+Lead formal reviews of requirements modules and support preparation for ASPICE assessments, customer audits, and certification activities.
+Identify opportunities to improve requirements engineering processes, methodologies, and tool usage, contributing to continuous process improvement initiatives.
+Solve moderately complex requirements challenges with minimal guidance while supporting and mentoring colleagues on best practices and process compliance.
+Experience in Automotive electronics products.
+
+
+What Makes You A Strong Fit
+
+
+5+ years of Product Owner, Systems Engineering, Requirements Engineering, or Product Management experience within automotive or embedded systems.
+Bachelor’s in Computer Engineering, Electrical Engineering, or related Engineering field.
+Experience with requirements management tools such as ALM, CCM, IBM DOORS or IBM Engineering Lifecycle Management (DNG) in production projects.
+Excellent communication and coordination skills into drive technical teams.
+
+
+Bonus Points if You Have
+
+
+Experience developing new test frameworks
+Certified Scrum Product Owner (CSPO), SAFe Product Owner/Product Manager, or equivalent Agile certification.
+Experience with JIRA, Azure DevOps, or similar Agile backlog management tools.
+Experience defining system-level requirements for hardware/software platforms in automotive or embedded electronics.
+
+
+Things To Know
+
+
+Willingness to travel on a need basis (up to 10%).
+Successful completion of background investigation and drug screening.
+
+
+What You Can Expect
+
+
+A hybrid work environment that balances flexibility with in-person collaboration, with most office-based roles onsite three days a week.
+Access to employee discounts on HARMAN and Samsung products (including JBL, Harman / Kardon, AKG, and others)
+Learning and development opportunities through our award-winning HARMAN University programs
+Wellness benefits designed to support your overall well-being
+Tuition reimbursement support
+Access to the HARMAN campus fitness center and cafeteria, where available
+An inclusive and diverse work environment that supports both your professional and personal development
+
+
+
+
+You Belong Here
+
+HARMAN is committed to making every employee feel welcomed, valued, and empowered. No matter what role you play, we encourage you to share your ideas, voice your distinct perspective, and bring your whole self with you – all within a support-minded culture that celebrates what makes each of us unique. We also recognize that learning is a lifelong pursuit and want you to flourish. We proudly offer added opportunities for training, development, and continuing education, further empowering you to live the career you want.
+
+About HARMAN: Where Innovation Unleashes Next-Level Technology
+
+Ever since the 1920s, we’ve been amplifying the sense of sound. Today, that legacy endures, with integrated technology platforms that make the world smarter, safer, and more connected.
+
+Across automotive, lifestyle, and digital transformation solutions, we create innovative technologies that turn ordinary moments into extraordinary experiences. Our renowned automotive and lifestyle solutions can be found everywhere, from the music we play in our cars and homes to venues that feature today’s most sought-after performers, while our digital transformation solutions serve humanity by addressing the world’s ever-evolving needs and demands. Marketing our award-winning portfolio under 16 iconic brands, such as JBL, Mark Levinson, and Revel, we set ourselves apart by exceeding the highest engineering and design standards for our customers, our partners and each other.
+
+If you’re ready to innovate and do work that makes a lasting impact, join our talent community today!
+
+Important Notice: Recruitment Scams
+
+Please be aware that HARMAN recruiters will always communicate with you from an '@harman.com', ‘@careers.harman.com’ or ‘harmanglobal.avature.net’ email address. We will never ask for payments, banking, credit card, personal financial information or access to your LinkedIn/email account during the screening, interview, or recruitment process. If you are asked for such information or receive communication from an email address not ending in one of the above email domains about a job with HARMAN, please cease communication immediately and report the incident to us through: harmancareers@harman.com.
+
+HARMAN is proud to be an Equal Opportunity employer. HARMAN strives to hire the best qualified candidates and is committed to building a workforce representative of the diverse marketplaces and communities of our global colleagues and customers. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. HARMAN attracts, hires, and develops employees based on merit, qualifications and job-related performance.(www.harman.com)
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computers and Electronics Manufacturing
+  
+
+Referrals increase your chances of interviewing at HARMAN India by 2x
+
+See who you know
+
+Get notified about new Software Engineer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Java Software Engineer jobs
+Software Engineer - Requirements Engineering
+Similar jobs
+Custom Software Engineer
+Custom Software Engineer
+Accenture in India
+Bengaluru, Karnataka, India
+6 days ago
+Requirements Engineer
+Requirements Engineer
+Clinisys
+Bengaluru, Karnataka, India
+1 week ago
+Systems Engineer
+Systems Engineer
+Dexcom
+Bengaluru, Karnataka, India
+2 weeks ago
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+Accenture in India
+Bengaluru, Karnataka, India
+6 days ago
+Technical Analyst
+Technical Analyst
+Aarushi Infotech
+Bengaluru, Karnataka, India
+₹1,000,000 - ₹1,250,000
+3 weeks ago
+DEVELOPER L3
+DEVELOPER L3
+Wipro
+Bengaluru, Karnataka, India
+1 day ago
+Show more jobs like this 
+People also viewed
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+6 days ago
+Similar Searches
+Java Software Engineer jobs
+11,988 open jobs
+Software Engineer jobs
+59,663 open jobs
+Software Engineering Specialist jobs
+57,220 open jobs
+Web Development Intern jobs
+1,491 open jobs
+Engineer jobs
+71,158 open jobs
+Developer jobs
+73,513 open jobs
+J2Ee Developer jobs
+5,412 open jobs
+Software Engineer Intern jobs
+111 open jobs
+Computer Software Engineer jobs
+45,799 open jobs
+Web Development Specialist jobs
+52,500 open jobs
+Software Intern jobs
+636 open jobs
+Web Programmer jobs
+3,837 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at HARMAN India
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
