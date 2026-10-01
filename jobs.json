@@ -35915,8 +35915,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:51:33+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-01T05:08:51+03:00"
   },
   {
     "title": "Customer Service Representative",
@@ -35932,8 +35932,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:51:33+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-01T05:08:51+03:00"
   },
   {
     "title": "Regional Account Manager",
@@ -35949,8 +35949,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:51:33+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-01T05:08:51+03:00"
   },
   {
     "title": "Regional Account Manager",
@@ -35966,8 +35966,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:51:33+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-01T05:08:51+03:00"
   },
   {
     "title": "Product Sales Specialist",
@@ -36079,76 +36079,72 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:58:29+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-01T05:08:51+03:00"
   },
   {
     "title": "Product Specialist",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Continental Tyres Australia",
+    "location": "Collingwood VIC, Australia",
     "url": "https://au.jora.com/job/Product-Specialist-285e37ea08914c64a7970d6603bdb5f8",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is a quota-carrying product-management/sales role (portfolio strategy, market analysis, competitor tracking) mislabeled as 'Product Specialist', which triggers the strict hard-rejection rule for such roles.",
     "id": "6338da40",
     "source": "jora_au_product_specialist",
     "added_at": "2026-09-30T22:52:44+03:00",
-    "posted_date": "N/A",
+    "posted_date": "16h ago",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:58:31+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Product Specialist - Biosurgery, Melbourne",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Johnson & Johnson",
+    "location": "Melbourne, Victoria, Australia",
     "url": "https://au.jora.com/job/Product-Specialist-610cfff6de5c2d4096fa192270060db7",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to have existing rights to work in Australia, but does not mention offering visa sponsorship, which Priya needs as she only holds a Finnish residence permit.",
     "id": "ff335de7",
     "source": "jora_au_product_specialist",
     "added_at": "2026-09-30T22:52:44+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-29",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:58:31+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Product Specialist Role",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Pierre Fabre",
+    "location": "Melbourne VIC, Australia",
     "url": "https://au.jora.com/job/Product-Specialist-498a2660b2390415a48896e69ce47fa1",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is a quota-carrying sales role mislabeled as 'Product Specialist,' which falls under the strict hard rejection category for sales roles using that title, and it does not align with Priya's technical/quality-focused Product Specialist experience or her target domains (DevOps, Configuration Management, etc.).",
     "id": "2203391f",
     "source": "jora_au_product_specialist",
     "added_at": "2026-09-30T22:52:44+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-30",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:58:31+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Product Specialist - Data Center Cooling Solutions",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Ecolab",
+    "location": "Melbourne VIC, Australia",
     "url": "https://au.jora.com/job/Product-Specialist-046c063b6dafd0451791905f8b698688",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with the 'Product Specialist' role type (approved by user due to Topcon experience), but lacks explicit focus on configuration management, release processes, or regulated-industry compliance that matches Priya's strongest skills. Location is acceptable (Australia), but responsibilities lean toward technical sales/consulting rather than her release/CM background.",
     "id": "923018cb",
     "source": "jora_au_product_specialist",
     "added_at": "2026-09-30T22:52:44+03:00",
-    "posted_date": "N/A",
+    "posted_date": "20h ago",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-09-30T22:59:31+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Apply on company site",
