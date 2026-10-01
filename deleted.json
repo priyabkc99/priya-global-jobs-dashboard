@@ -1086,5 +1086,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-28) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Business Analyst - Manager",
+    "company": "Avanade",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/business-analyst-manager-at-avanade-4470900076",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires Australian citizenship and security clearance eligibility, which the candidate does not have and cannot obtain without sponsorship, triggering a hard rejection under 'No Visa Sponsorship / Existing Right to Work Required'.",
+    "id": "ebd457e8",
+    "source": "linkedin_au_requirements_manager",
+    "added_at": "2026-10-01T11:58:52+03:00",
+    "posted_date": "2026-09-24",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
