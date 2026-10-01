@@ -1290,5 +1290,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Assurance Manager",
+    "company": "Thales",
+    "location": "Benalla VIC, Australia",
+    "url": "https://au.jora.com/job/Quality-Assurance-Manager-1d8342d129ee31ef672be5258a932c4a",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires Australian citizenship for a Defence security clearance, which Priya does not hold and cannot obtain without employer sponsorship, violating the 'No Visa Sponsorship' hard rejection rule.",
+    "id": "0cd4031e",
+    "source": "jora_au_quality_manager",
+    "added_at": "2026-10-02T01:46:08+03:00",
+    "posted_date": "18h ago",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
