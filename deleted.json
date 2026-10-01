@@ -1069,5 +1069,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Functional & Systems Analyst (UKG)",
+    "company": "City of Toronto",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/senior-functional-systems-analyst-ukg-at-city-of-toronto-4465762609",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job involves system configuration and implementation but does not explicitly align with the candidate's specialized experience in CI/CD, release management, or regulated-industry quality compliance.",
+    "id": "38c9b6dd",
+    "source": "linkedin_ca_requirements_manager",
+    "added_at": "2026-10-01T11:36:26+03:00",
+    "posted_date": "2026-09-17",
+    "deadline": "2026-09-28",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-28) passed by more than 2 days and unreviewed"
   }
 ]
