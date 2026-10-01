@@ -1018,5 +1018,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-29) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "People Specialist (6\u2011Month Contract) Cape Town",
+    "company": "MVG Recruitment Specialists",
+    "location": "Salt River, Cape Town, South Africa",
+    "url": "https://www.pnet.co.za/jobs--People-Specialist-6-Month-Contract-Cape-Town-Cape-Town-MVG-Recruitment-Specialists--4270473-inline.html",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is an HR-focused 'People Specialist' position with no alignment to Priya's technical expertise in DevOps, configuration management, release management, or technical documentation, which are explicitly stated as target job criteria.",
+    "id": "4fb5bc0b",
+    "source": "pnet_documentation_specialist",
+    "added_at": "2026-10-01T05:36:12+03:00",
+    "posted_date": "2026-09-29",
+    "deadline": "2026-09-20",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-20) passed by more than 2 days and unreviewed"
   }
 ]
