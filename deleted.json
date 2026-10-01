@@ -1137,5 +1137,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-21) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Procurement Assurance Manager",
+    "company": "Notting Hill Genesis",
+    "location": "London, UK",
+    "url": "https://www.reed.co.uk/jobs/procurement-assurance-manager/57317447",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role of Procurement Assurance Manager does not align with Priya's expertise in DevOps, release management, configuration management, or technical documentation, which are central to her career background and target job criteria.",
+    "id": "e0639a48",
+    "source": "reed_requirements_manager",
+    "added_at": "2026-10-01T14:44:43+03:00",
+    "posted_date": "7 september",
+    "deadline": "2026-08-17",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-17) passed by more than 2 days and unreviewed"
   }
 ]
