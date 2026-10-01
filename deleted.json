@@ -1035,5 +1035,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Systems Engineer \u2013 Gas Analysis Products",
+    "company": "Servomex",
+    "location": "Crowborough, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/senior-systems-engineer-%E2%80%93-gas-analysis-products-at-servomex-4464531469",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the candidate to have Right to Work in the UK on a permanent basis with no sponsorship available, which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection.",
+    "id": "3bd39a59",
+    "source": "linkedin_uk_requirements_engineer",
+    "added_at": "2026-10-01T05:52:41+03:00",
+    "posted_date": "2026-09-24",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
