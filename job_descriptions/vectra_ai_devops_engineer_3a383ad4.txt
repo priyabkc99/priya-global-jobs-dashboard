@@ -1,0 +1,220 @@
+Title: DevOps Engineer
+Company: Vectra AI
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-vectra-ai-4474516757
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The DevOps Engineer role at Vectra AI in Dublin, Ireland aligns with Priya's CI/CD/release management expertise, regulated industry experience, and target location (Ireland). Visa sponsorship is not explicitly excluded, and the role involves automation/cloud infrastructure matching her skills.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Vectra AI  Dublin, County Dublin, Ireland
+11 hours ago  44 applicants
+  
+
+See who Vectra AI has hired for this role
+
+Apply 
+Save
+Vectra® is the leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises.
+
+The Vectra AI Platform delivers integrated signal across public cloud, SaaS, identity, and data center networks in a single platform. Powered by patented Attack Signal Intelligence, it empowers security teams to rapidly prioritize, investigate and respond to the most advanced cyber-attacks. With 35 patents in AI-driven threat detection and the most vendor references in MITRE D3FEND, organizations worldwide rely on the Vectra AI to move at the speed and scale of hybrid attackers. For more information, visit www.vectra.ai.
+
+Position Overview
+
+DevOps Engineers are critical when it comes to keeping both our customers and engineering team running. As part of the DevOps group you will work on products critical to our operations and software that proactively detects issues with systems in the data center, in the cloud, or at customer sites.
+
+Responsibilities
+
+DevOps Engineers will have a variety of responsibilities which may include things like:
+
+
+Design and implement pipelines and tools to ensure continuous integration, delivery, and deployment for our products
+Define and implement tools that enable other teams to follow DevOps best practices
+Own and deliver a suite of platform services consumed by internal stakeholders across teams and functions
+Work on cloud environments ensuring reliability and availability
+Ensure production deployments are fast, reliable, and safe
+Work with geo-distributed development teams to improve quality and time-to deploy
+Automate, Automate, Automate
+
+
+Qualifications
+
+
+Required
+Relevant Bachelor's degree (Computer Science, Engineering, etc.)
+1-2 years hands-on DevOps/SRE experience
+Belief in DevOps and Agile principles
+Zealous about automation
+Comfort in dealing with Cloud deployments, networking, and security best practices
+CI/CD pipeline experience (GitHub Actions, Jenkins, etc.)
+Hands on experience on Amazon Web Services (AWS)
+Hands on experience with Kubernetes
+Linux system proficiency
+Preferred
+Strong container/serverless experience
+Proficient knowledge of Python language
+Experience on Hashicorp ecosystem - Terraform, Packer, Consul, Vault
+Experience with telemetry tools/pipelines (metrics, logs, and traces)
+Experience with RDS databases
+
+Vectra provides a comprehensive total rewards package that supports the financial, physical, mental and overall health of our employees and their families. Compensation includes competitive base pay, incentive plan eligibility, and participation in the employee equity plan (stock options). Specific benefits offered varies by location, but commonly include health care insurance, income protection / life insurance, access to retirement savings plans, behavioral & emotional wellness services, generous time away from work, and a comprehensive employee recognition program.
+
+Vectra is committed to creating a diverse environment and is proud to be an equal opportunity employer.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at Vectra AI by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+RWS
+Dublin, County Dublin, Ireland
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+15 hours ago
+Devops Engineer - DDT
+Devops Engineer - DDT
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+3 days ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin, County Dublin, Ireland
+3 weeks ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin 4, County Dublin, Ireland
+3 weeks ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Arista Networks
+Dublin, County Dublin, Ireland
+1 month ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+
+Apple
+
+Dublin, County Dublin, Ireland
+4 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Newcode.ai
+
+Dublin, County Dublin, Ireland
+4 months ago
+Staff Engineer, DevOps
+Staff Engineer, DevOps
+
+LearnUpon
+
+Dublin, County Dublin, Ireland
+1 day ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Hays
+
+Dublin, County Dublin, Ireland
+€60,000 - €80,000
+6 days ago
+Kubernetes Engineer
+Kubernetes Engineer
+
+InterSystems
+
+Dublin, County Dublin, Ireland
+1 week ago
+Cloud Operations Engineer
+Cloud Operations Engineer
+
+Laserfiche
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+DevOps Engineer, Charles River Development, Senior Associate
+DevOps Engineer, Charles River Development, Senior Associate
+
+Charles River Development
+
+Dublin, County Dublin, Ireland
+4 weeks ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Fivetran
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+DOCOsoft
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+F5
+
+Dublin, County Dublin, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Vectra AI
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
