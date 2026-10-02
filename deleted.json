@@ -1511,5 +1511,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-10) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Engineering Configuration Manager (Defence/Aerospace)",
+    "company": "2 days ago by Adecco",
+    "location": "Pitstone, Buckinghamshire, UK",
+    "url": "https://www.reed.co.uk/jobs/engineering-configuration-manager-defence-aerospace/57405464",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an SC Security Clearance, which Priya cannot obtain due to lack of UK citizenship or residency history, making it a hard rejection under 'No Visa Sponsorship / Existing Right to Work Required'.",
+    "id": "d3819282",
+    "source": "reed_configuration_manager",
+    "added_at": "2026-10-02T18:18:31+03:00",
+    "posted_date": "2026-09-30",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
