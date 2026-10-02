@@ -1,0 +1,398 @@
+Title: Documentation Executive
+Company: Meril
+Location: Vapi, Gujarat, India
+URL: https://in.linkedin.com/jobs/view/documentation-executive-at-meril-4454758244
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in technical documentation and regulatory compliance for medical devices (ISO 13485/CDSCO), matching her Topcon Healthcare experience and configuration-management background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Documentation Executive
+Meril  Vapi, Gujarat, India
+2 weeks ago   Over 200 applicants
+  
+
+See who Meril has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Meril
+
+Parijat Patel
+Parijat Patel
+Building the People Engine Behind Tomorrow’s Technology | Tech-HR & HCM Leader | MedTech | Surgical Robotics | AI | Humanoids | Drones | AGV |…
+
+Job Title:
+
+Executive / Sr. Executive – Regulatory Documentation (Neonatal Medical Devices)
+
+Department:
+
+R&D / Quality Assurance – Neonatal Division
+
+Location:
+
+Vapi, Gujarat
+
+Reports To:
+
+Manager / Senior Manager – R&D / QA – Neonatal Segment
+
+
+
+
+Job Purpose:
+
+To prepare, maintain, and control structured technical, regulatory, and quality documentation for neonatal electro-mechanical medical devices including incubators, radiant warmers, phototherapy units, Bubble CPAP systems, infant resuscitators, and physiological monitors.
+
+The role ensures compliance with CDSCO Medical Device Rules (MDR 2017), ISO 13485, ISO 14971, IEC 60601 series, and other applicable standards, supporting regulatory approvals, audit readiness, and complete lifecycle traceability from design and development to commercialization.
+
+
+
+
+Key Responsibilities:
+
+1. Regulatory & Technical File Preparation
+
+• Prepare and maintain Technical Files in accordance with CDSCO Medical Device Rules (MDR 2017).
+
+• Compile and manage Device Master Files (DMF), Plant Master Files (PMF), and regulatory submission dossiers.
+
+• Ensure documentation alignment with ISO 13485 Quality Management System requirements.
+
+• Support license applications, renewals, and regulatory submissions.
+
+• Maintain document readiness for CDSCO inspections and external audits.
+
+
+
+
+2. Design History File (DHF) & Design Control
+
+• Develop and maintain complete Design History Files (DHF) including design inputs, outputs, review records, verification, validation, and design transfer documents.
+
+• Establish and maintain traceability matrices linking design inputs to risk controls and V&V evidence.
+
+• Support Engineering Change Requests (ECR) and Engineering Change Orders (ECO).
+
+• Ensure proper documentation of design reviews and approval records.
+
+
+
+
+3. Risk Management Documentation
+
+• Prepare and update Risk Management Files in compliance with ISO 14971.
+
+• Conduct and document hazard analysis, DFMEA/PFMEA, and risk-benefit analysis.
+
+• Ensure mitigation measures are traceable to validation reports and labelling controls.
+
+• Update risk documentation based on field feedback, complaints, and CAPA.
+
+
+
+
+4. System-Level Documentation – Neonatal Electro-Mechanical Devices
+
+• Document thermal regulation systems including servo control logic, heater performance validation, and temperature uniformity testing (Incubators & Warmers).
+
+• Prepare airflow and respiratory system documentation for Bubble CPAP including flow accuracy, pressure stability, and humidity control.
+
+• Document alarm systems including safety classification, alarm logic, and performance validation.
+
+• Maintain sensor integration documentation (temperature probes, SpO₂, pressure sensors, physiological parameters).
+
+• Compile electrical safety and EMC compliance documentation as per IEC 60601 standards.
+
+• Maintain mechanical integration documentation including structural safety, enclosure design, and material compliance.
+
+• Coordinate software documentation (if applicable) aligned with IEC 62304 lifecycle requirements.
+
+
+
+
+5. Verification & Validation (V&V) Documentation
+
+• Prepare V&V protocols and reports covering performance, safety, electrical safety, EMC, environmental, and stress testing.
+
+• Support usability validation and human factor documentation (IEC 62366).
+
+• Coordinate with internal labs and external test agencies for report compilation.
+
+• Ensure validation evidence supports regulatory submissions and audit compliance.
+
+
+
+
+6. Product Specifications & Labelling Control
+
+• Prepare and maintain product specifications, technical datasheets, and revision-controlled engineering documentation.
+
+• Develop and review Instructions for Use (IFU), labelling, packaging details, and safety markings.
+
+• Ensure labelling compliance with CDSCO and applicable international regulatory requirements.
+
+• Maintain BOM documentation and document change control records.
+
+
+
+
+7. Audit & Lifecycle Compliance
+
+• Support ISO 13485 surveillance audits and regulatory inspections.
+
+• Maintain documentation traceability throughout product lifecycle.
+
+• Update technical files based on CAPA, field complaints, design changes, and regulatory updates.
+
+• Ensure structured document control within QMS/ERP/PLM systems.
+
+
+
+
+Qualifications and Experience:
+
+• B.E. / B. Tech in Mechanical, Electronics, or Biomedical Engineering.
+
+• 2–3 years of experience in medical device technical documentation.
+
+• Experience in neonatal, critical care, or life-support medical devices preferred.
+
+• Strong knowledge of ISO 13485, ISO 14971, IEC 60601 series, and CDSCO Medical Device Rules.
+
+• Experience in preparing DHF, DMF, Technical Files, and risk management documentation.
+
+
+
+
+Skills and Competencies:
+
+• Strong technical writing and documentation structuring skills.
+
+• Deep understanding of electro-mechanical medical device integration.
+
+• Knowledge of neonatal device clinical applications and safety requirements.
+
+• High attention to detail and regulatory interpretation capability.
+
+• Strong cross-functional coordination skills (R&D, QA, Regulatory, Production).
+
+• Proficiency in MS Office, document control systems, ERP/PLM tools.
+
+
+
+
+Key Performance Indicators (KPIs):
+
+• Timely completion of Technical Files and DHF documentation
+
+• Zero major documentation non-conformities during audits
+
+• Regulatory submission success rate
+
+• Traceability accuracy across design and risk documentation
+
+• Reduction in audit observations related to documentation
+
+• Contribution to faster product approvals and commercialization readiness
+
+
+
+
+apply or refer to parijat.patel@merai.co
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Medical Equipment Manufacturing and Medical Practices
+  
+
+Referrals increase your chances of interviewing at Meril by 2x
+
+See who you know
+
+Get notified about new Documentation Executive jobs in Vapi, Gujarat, India.
+
+Sign in to create job alert
+Jobs
+Export Executive jobs
+Documentation Executive
+Similar jobs
+Documentation Executive
+Documentation Executive
+Meril
+Vapi, Gujarat, India
+₹300,000 - ₹400,000
+1 week ago
+Executive
+Executive
+Meril
+Pardi, Gujarat, India
+9 months ago
+QMS - Executive
+QMS - Executive
+Alkem Laboratories Ltd.
+Daman, Daman and Diu, India
+1 week ago
+Sr Executive - Production QMS
+Sr Executive - Production QMS
+SUN PHARMA
+Dadra & Nagar Haveli, Daman and Diu, India
+2 weeks ago
+Operations Executive
+Operations Executive
+HDB Financial Services Ltd.
+Silvassa, Daman and Diu, India
+6 months ago
+Senior Quality Executive - CM Ops(HC)
+Senior Quality Executive - CM Ops(HC)
+Unilever
+Silvassa, Daman and Diu, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Analyst-HR Operations and Services
+Analyst-HR Operations and Services
+
+SIG Group
+
+Palghar, Maharashtra, India
+15 hours ago
+Sr. Executive - Accounts
+Sr. Executive - Accounts
+
+IMA India
+
+Dadra & Nagar Haveli, Daman and Diu, India
+2 days ago
+Assistant / Inspector/ Inprocess Inspector - Quality Control
+Assistant / Inspector/ Inprocess Inspector - Quality Control
+
+Sarvottam Polymers Pvt Ltd.
+
+Dadra & Nagar Haveli, Daman and Diu, India
+2 months ago
+SEO Executive
+SEO Executive
+
+Xira Infotech - Digital Marketing & Software Development Agency
+
+Vapi, Gujarat, India
+1 month ago
+Visa Consultant
+Visa Consultant
+
+Kanan.co
+
+Navsari, Gujarat, India
+1 day ago
+Junior Executive
+Junior Executive
+
+Malabar Gold & Diamonds
+
+Vapi, Gujarat, India
+3 years ago
+Quality Assurance Compliance Manager
+Quality Assurance Compliance Manager
+
+Jayant Printery LLP
+
+Palghar, Maharashtra, India
+1 week ago
+Specialist - Operations & Strategy
+Specialist - Operations & Strategy
+
+StayVista
+
+Navsari, Gujarat, India
+1 month ago
+Office Administrator
+Office Administrator
+
+JHANVI Global Solution LTD
+
+Navsari, Gujarat, India
+1 week ago
+IPR Lead
+IPR Lead
+
+STL - Sterlite Technologies Limited
+
+Silvassa, Daman and Diu, India
+2 weeks ago
+Similar Searches
+Export Executive jobs
+3,848 open jobs
+Senior Executive Talent Acquisition jobs
+862 open jobs
+Documentation Coordinator jobs
+1,017 open jobs
+Logistics Executive jobs
+641 open jobs
+Pricing Coordinator jobs
+1,065 open jobs
+Piping Stress Engineer jobs
+135 open jobs
+Operations Executive jobs
+3,296 open jobs
+Assistant Procurement Manager jobs
+492 open jobs
+Documentation Engineer jobs
+2,289 open jobs
+Commercial Sales Representative jobs
+1,690 open jobs
+Documentation Manager jobs
+2,067 open jobs
+Export Sales Executive jobs
+7,585 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Meril
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
