@@ -55338,8 +55338,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T08:04:52+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:08+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55355,8 +55355,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T08:04:53+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:08+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55372,8 +55372,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:11+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:08+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55389,8 +55389,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:11+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:08+03:00"
   },
   {
     "title": "Quality Manager (Data Centre Project)",
@@ -55406,8 +55406,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:11+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:09+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55423,8 +55423,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:11+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:09+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55440,8 +55440,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:12+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:09+03:00"
   },
   {
     "title": "Quality Manager -",
@@ -55457,8 +55457,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:12+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:09+03:00"
   },
   {
     "title": "Quality Manager, D15",
@@ -55474,25 +55474,24 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:12+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-02T14:19:09+03:00"
   },
   {
     "title": "Quality Manager - Kildare",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Kildare, Ireland",
     "url": "https://www.irishjobs.ie/job/quality-manager-kildare/design-build-search-job108063766",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job title 'Quality Manager' aligns with Priyanga's quality gatekeeping and regulatory compliance experience (Topcon/MDR, Elektrobit/ASPICE), but the inaccessible job description prevents verification of regulated-domain specifics or configuration management overlap required by positive constraints.",
     "id": "f31cef16",
     "source": "irishjobs_quality_manager",
     "added_at": "2026-10-02T01:45:25+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:12+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Manager",
@@ -55500,16 +55499,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/quality-manager/vickerstock-job108063511",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, preventing evaluation of location, sponsorship requirements, or role fit.",
     "id": "47045ffd",
     "source": "irishjobs_quality_manager",
     "added_at": "2026-10-02T01:45:25+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-02T07:59:12+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Compliance Quality Manager",
