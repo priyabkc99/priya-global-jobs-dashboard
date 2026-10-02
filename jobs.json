@@ -51511,8 +51511,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:01+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:45+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -51528,8 +51528,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:02+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:45+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -51545,8 +51545,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:02+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:45+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -51562,8 +51562,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:02+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:45+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -51579,8 +51579,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:02+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:45+03:00"
   },
   {
     "title": "NPI Quality Engineer",
@@ -51596,8 +51596,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:02+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:45+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -51613,8 +51613,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:02+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:45+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -51630,8 +51630,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:02+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:46+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -51647,8 +51647,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T20:52:02+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:16:46+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -51720,16 +51720,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/quality-engineer-lead/safran-job108025480",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible (access denied), making it impossible to verify critical criteria such as location, visa sponsorship requirements, or role specifics.",
     "id": "61bb992c",
     "source": "totaljobs_quality_engineer",
     "added_at": "2026-10-01T20:52:00+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T21:01:17+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Engineer Lead",
@@ -51745,8 +51744,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-01T21:01:17+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T03:20:06+03:00"
   },
   {
     "title": "Quality Engineer",
