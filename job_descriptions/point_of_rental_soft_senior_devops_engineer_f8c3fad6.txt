@@ -1,0 +1,253 @@
+Title: Senior DevOps Engineer
+Company: Point of Rental Software
+Location: Luton, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-point-of-rental-software-4411991179
+Posted: 2026-06-04
+Deadline: N/A
+Reason: The job matches Priya's expertise in DevOps/CI-CD (Jenkins, Azure DevOps), infrastructure automation, and regulated-industry experience, located in the UK (target country) with no explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Point of Rental Software  Luton, England, United Kingdom
+4 months ago  58 applicants
+  
+
+See who Point of Rental Software has hired for this role
+
+Apply 
+Save
+About The Role
+
+We're looking for a Senior Platform Engineer to join our UK engineering team and play a key role in modernizing our engineering platform and software delivery processes. As the dedicated Platform Engineer supporting our UK product, you'll work closely with software engineers to build and improve our AWS cloud platform, optimize CI/CD pipelines, automate deployments, and enhance the overall developer experience.
+
+This is more than an operational support role. You'll take ownership of platform improvements, lead automation initiatives, improve release management, and help modernize a legacy application into a scalable, cloud-native AWS environment.
+
+Key Responsibilities
+
+
+Own and continuously improve the engineering platform supporting our UK product.
+Design, build, and maintain secure, scalable AWS infrastructure.
+Develop, maintain, and optimize CI/CD pipelines using Azure DevOps and Jenkins.
+Improve release management processes through automation, reducing deployment time and manual effort.
+Partner closely with software engineers to improve developer workflows and delivery practices.
+Support the modernization of legacy applications into cloud-native AWS services.
+Implement and maintain Infrastructure as Code using Ansible, CloudFormation, or similar tools.
+Monitor platform health, troubleshoot production issues, and implement long-term improvements.
+Champion security, reliability, and operational best practices across the platform.
+Collaborate with UK and US engineering teams to deliver resilient, scalable cloud solutions.
+
+
+Required Skills & Experience
+
+
+5+ years of experience in Platform Engineering, DevOps, Cloud Engineering, or Site Reliability Engineering.
+Strong hands-on experience with AWS cloud services.
+Proven experience building and supporting CI/CD pipelines using Azure DevOps, Jenkins, or similar platforms.
+Experience automating infrastructure and deployments using Python, Bash, or PowerShell.
+Experience with Infrastructure as Code (Ansible, CloudFormation, or similar).
+Strong Linux administration experience with the ability to support Windows-based development environments.
+Experience improving release management and deployment automation.
+Strong troubleshooting and problem-solving skills in cloud environments.
+Excellent communication and collaboration skills, with experience partnering directly with software engineering teams.
+A proactive mindset with the ability to identify opportunities, recommend improvements, and take ownership of solutions.
+
+
+Preferred Qualifications
+
+
+Experience with Docker and containerization technologies.
+Experience with AWS services such as S3, Systems Manager (SSM), and AppStream.
+Familiarity with .NET/C# development environments.
+Experience modernizing legacy applications to cloud-native architectures.
+Experience supporting security, compliance, and vulnerability remediation initiatives.
+
+
+Why Join Us?
+
+This is an opportunity to make a significant impact on a business-critical product. You'll have the autonomy to shape the engineering platform, improve how software is built and released, and work alongside an experienced development team to modernize a long-established application for the future.
+
+We're looking for someone who enjoys taking ownership, driving continuous improvement, and enabling engineering teams to deliver software faster, more reliably, and with greater confidence.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and Strategic Management Services
+  
+
+Referrals increase your chances of interviewing at Point of Rental Software by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Luton, England, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Rebellion
+Oxford, England, United Kingdom
+2 days ago
+Senior DevOps Engineer - Remote UK
+Senior DevOps Engineer - Remote UK
+Partnerize
+Cambridge, England, United Kingdom
+20 hours ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+Xe.com
+Bracknell, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Catapult
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Oxford Dynamics
+Harwell, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Deliveroo
+London, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer - AWS & Terraform
+DevOps Engineer - AWS & Terraform
+
+Global Payments Inc.
+
+London, England, United Kingdom
+1 week ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+
+Tandem Dating
+
+Harrow, England, United Kingdom
+3 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+London, England, United Kingdom
+£105,000 - £125,000
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Metrea
+
+London, England, United Kingdom
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Oxa
+
+Oxford, England, United Kingdom
+4 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Ministry of Housing, Communities and Local Government
+
+London, England, United Kingdom
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+B4B Payments - A Banking Circle Group Company
+
+London, England, United Kingdom
+1 week ago
+Founding Senior DevOps Engineer
+Founding Senior DevOps Engineer
+
+Perceptic
+
+Greater London, England, United Kingdom
+2 weeks ago
+Similar Searches
+Recruiting Team Lead jobs
+1,862 open jobs
+Software Associate jobs
+511 open jobs
+Payroll Supervisor jobs
+2,562 open jobs
+Property Management Specialist jobs
+1,854 open jobs
+Technical Head jobs
+4,747 open jobs
+Director Talent Acquisition jobs
+440 open jobs
+Director of Recruiting jobs
+563 open jobs
+Payroll Analyst jobs
+1,642 open jobs
+Principal Recruiter jobs
+130 open jobs
+Experience Designer jobs
+3,500 open jobs
+Hospitality Manager jobs
+4,507 open jobs
+Executive Recruiter jobs
+479 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
