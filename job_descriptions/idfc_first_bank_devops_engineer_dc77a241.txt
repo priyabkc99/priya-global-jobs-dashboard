@@ -1,0 +1,255 @@
+Title: DevOps Engineer
+Company: IDFC FIRST Bank
+Location: Chennai, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-idfc-first-bank-4459491373
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The DevOps Engineer role at IDFC FIRST Bank in India matches Priya's CI/CD/release automation expertise (Jenkins/GitHub Actions), regulated-industry quality gatekeeping experience, and fits within her target countries and visa sponsorship needs.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+IDFC FIRST Bank  Chennai, Tamil Nadu, India
+1 week ago   Over 200 applicants
+  
+
+See who IDFC FIRST Bank has hired for this role
+
+Apply 
+Save
+Job Requirements
+
+About the Role
+
+We are seeking an exceptional DevOps Engineer to build and drive the future of our next-generation technology. The role involves working in a fast-paced, organized agile team environment alongside world-class technologists. The DevOps Engineer will be a key member of a highly motivated DevOps culture, responsible for developing tools, automated solutions, and resolving production issues. The role also includes building and managing CI/CD pipelines, troubleshooting performance issues, and collaborating with application engineers.
+
+Key Responsibilities
+
+Primary Responsibilities
+
+
+Build and manage end-to-end CI/CD pipelines and code versioning for in-house developed applications and COTS.
+Participate in root cause analysis (RCA) and identify gaps in the existing continuous delivery and deployment framework.
+Develop deployment pipelines and environments in GoCD for bank applications.
+Automate deployments on Kubernetes and AWS cloud environments.
+Enhance continuous monitoring systems.
+Create standard documentation for automation and monitoring tools for support team reference.
+Confidently explain and share technology concepts, articulating complex technical requirements.
+
+
+Secondary Responsibilities
+
+
+Lead release engineering efforts as part of the bank's end-to-end DevOps lifecycle.
+Maintain up-to-date tools and scope documentation.
+Engage with other teams using strong technical, communication, and problem-solving skills.
+
+
+What We Are Looking For
+
+Education
+
+
+Bachelor’s degree in Computer Science, Information Technology, or Masters in related field.
+
+
+Experience
+
+
+Proven experience in DevOps engineering, including CI/CD pipeline development and deployment automation. In Banking, Financial Services and Insurance or IT sector
+Experience with Kubernetes, AWS, and GoCD.
+Background in release engineering and monitoring systems.
+
+
+Skills and Attributes
+
+
+Strong technical skills with a passion for automation and process improvement.
+Excellent communication and problem-solving abilities.
+Ability to articulate complex technical concepts clearly.
+Collaborative mindset and ability to train and support developers.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at IDFC FIRST Bank by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Branch Credit Manager jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+1 week ago
+Devops Engineer
+Devops Engineer
+Qube Cinema
+Chennai, Tamil Nadu, India
+3 months ago
+DevOps Engineer
+DevOps Engineer
+HCLTech
+Chennai, Tamil Nadu, India
+₹700,000 - ₹1,800,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Cartney
+Chennai, Tamil Nadu, India
+1 day ago
+DevOps / Cloud Engineer
+DevOps / Cloud Engineer
+India Health Link
+Chennai, Tamil Nadu, India
+1 month ago
+Devops Engineer
+Devops Engineer
+SWITS DIGITAL Private Limited
+Chennai, Tamil Nadu, India
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior DevOps & SRE
+Senior DevOps & SRE
+
+Quvia
+
+Chennai, Tamil Nadu, India
+4 months ago
+Infrastructure DevOps Specialist
+Infrastructure DevOps Specialist
+
+Celestica
+
+Guindy, Tamil Nadu, India
+1 week ago
+DevOps/Cloud Engineer (AWS Specialist) &#8211; Chennai  3-4 years experience
+DevOps/Cloud Engineer (AWS Specialist) &#8211; Chennai  3-4 years experience
+
+LetzBizz
+
+Chennai, Tamil Nadu, India
+2 months ago
+Azure Devops Engineer - Immediate Joiners
+Azure Devops Engineer - Immediate Joiners
+
+Movate
+
+Chennai, Tamil Nadu, India
+₹900,000 - ₹1,600,000
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Epergne Solutions
+
+Chennai, Tamil Nadu, India
+3 months ago
+Tazapay - Staff DevOps Engineer
+Tazapay - Staff DevOps Engineer
+
+Tazapay
+
+Greater Chennai Area
+1 month ago
+Senior DevOps
+Senior DevOps
+
+TEGNA
+
+Chennai, Tamil Nadu, India
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 week ago
+Similar Searches
+Branch Credit Manager jobs
+2,180 open jobs
+Debt Manager jobs
+593 open jobs
+Regional Training Manager jobs
+131 open jobs
+Virtualization Engineer jobs
+2,053 open jobs
+Area Credit Manager jobs
+449 open jobs
+Test Associate jobs
+3,505 open jobs
+Immigration Officer jobs
+855 open jobs
+Branch Sales Manager jobs
+6,980 open jobs
+Support Services Coordinator jobs
+896 open jobs
+Regional Credit Manager jobs
+178 open jobs
+Financial Services Consultant jobs
+2,819 open jobs
+Credit Manager jobs
+2,320 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,0 +1,265 @@
+Title: Software Engineer - DevOps
+Company: Rockwell Automation
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/software-engineer-devops-at-rockwell-automation-4447550672
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The job as a DevOps Engineer at Rockwell Automation in Pune, India matches Priya's extensive experience with CI/CD pipelines, infrastructure automation, and regulated-industry compliance, along with her eligibility for work in India.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Engineer - DevOps
+Rockwell Automation  Pune Division, Maharashtra, India
+2 weeks ago   Over 200 applicants
+  
+
+See who Rockwell Automation has hired for this role
+
+Apply 
+Save
+Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
+
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!
+
+Job Description
+
+As a DevOps Engineer, you will play a critical role in designing, implementing, and supporting cloud-native infrastructure and DevOps practices across enterprise applications. You will partner closely with software engineering, platform, and operations teams to deliver reliable, secure, and scalable solutions leveraging Azure, GitHub, Kubernetes, and modern CI/CD pipelines.
+
+You will report to the Manager, Software Engineering and work in a hybrid environment based in Pune, India.
+
+Your Responsibilities
+
+
+Build and maintain CI/CD pipelines using Azure DevOps and GitHub Actions.
+Manage cloud infrastructure and services on Microsoft Azure.
+Deploy and support containerized applications using Docker and Kubernetes.
+Automate infrastructure provisioning and operational processes using Terraform and scripting.
+Monitor, troubleshoot, and optimize application performance and platform availability.
+Implement DevOps best practices, security controls, and release automation.
+
+
+The Essentials - You Will Have
+
+
+Bachelor’s degree in Computer Science, Engineering, or related field, or equivalent experience.
+5+ years of experience in DevOps, Cloud Engineering, or Infrastructure Automation.
+Strong experience with Azure, Azure DevOps, GitHub Enterprise, and GitHub Actions.
+Hands-on experience with Docker, Kubernetes, and CI/CD pipeline implementation.
+Proficiency in PowerShell, Bash, or Python scripting.
+Experience with Infrastructure as Code tools such as Terraform or ARM/Bicep.
+Knowledge of Linux and Windows environments.
+
+
+The Preferred - You Might Also Have
+
+
+Experience with GitOps tools (FluxCD/ArgoCD).
+Knowledge of Azure Key Vault, Vault, or certificate management solutions.
+Experience with Artifactory/Nexus and cloud monitoring tools.
+Azure certifications (AZ-104, AZ-400) preferred.
+
+
+What We Offer
+
+Our benefits package includes …
+
+
+Comprehensive mindfulness programs with a premium membership to Calm
+Volunteer Paid Time off available after 6 months of employment for eligible employees.
+Company volunteer and donation matching program – Your volunteer hours or personal cash donations to an eligible charity can be matched with a charitable donation.
+Employee Assistance Program
+Personalized wellbeing programs through our OnTrack program
+On-demand digital course library for professional development
+and other local benefits!
+
+
+At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right person for this or other roles.
+
+,
+
+Rockwell Automation’s hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Automation Machinery Manufacturing
+  
+
+Referrals increase your chances of interviewing at Rockwell Automation by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Graduate Engineering Trainee jobs
+Software Engineer - DevOps
+Similar jobs
+Custom Software Engineer
+Custom Software Engineer
+Accenture in India
+Pune Division, Maharashtra, India
+1 week ago
+Software Engineer II - DevOps
+Software Engineer II - DevOps
+Rapid7
+Pune Division, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Pune Division, Maharashtra, India
+1 week ago
+DevOps SE II
+DevOps SE II
+Helpshift
+Pune District, Maharashtra, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Forescout Technologies Inc.
+Pune Division, Maharashtra, India
+2 weeks ago
+Cloud Engineer - IaC
+Cloud Engineer - IaC
+QAD
+Pune/Pimpri-Chinchwad Area
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+ACI Worldwide
+
+Pune Division, Maharashtra, India
+1 week ago
+SRE - Platform engineer II
+SRE - Platform engineer II
+
+Panzer Technologies Pvt Ltd
+
+Pune City, Maharashtra, India
+2 days ago
+DevOps Engineer II
+DevOps Engineer II
+
+Everseen
+
+Pune Division, Maharashtra, India
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+DeepIntent
+
+Pune Division, Maharashtra, India
+1 week ago
+Application Support Engineer
+Application Support Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 week ago
+DevOps SE II - Developer Productivity
+DevOps SE II - Developer Productivity
+
+Keywords Studios
+
+Pune Division, Maharashtra, India
+1 month ago
+DevOps Architect
+DevOps Architect
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 week ago
+DevOps Architect
+DevOps Architect
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 week ago
+DevOps Architect
+DevOps Architect
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 week ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 week ago
+Similar Searches
+Graduate Engineering Trainee jobs
+96 open jobs
+Graduate Engineer jobs
+1,592 open jobs
+Quantitative Analyst jobs
+2,900 open jobs
+System Integrator jobs
+3,060 open jobs
+Information Technology Engineer jobs
+2,530 open jobs
+Control Engineer jobs
+3,933 open jobs
+Analyst jobs
+55,566 open jobs
+Automation Engineer jobs
+60,451 open jobs
+Software Engineer jobs
+59,663 open jobs
+Project Engineer jobs
+5,872 open jobs
+J2Ee Developer jobs
+5,412 open jobs
+Software Engineer Intern jobs
+111 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
