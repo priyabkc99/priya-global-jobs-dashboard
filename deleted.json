@@ -1579,5 +1579,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-11) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Case Manager | General",
+    "company": "Life Healthcare Group (Pty) Ltd",
+    "location": "Johannesburg, South Africa",
+    "url": "https://www.pnet.co.za/jobs--Case-Manager-General-Johannesburg-Life-Healthcare-Group-Pty-Ltd--4280796-inline.html",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with Priyanga Ramachandran's technical background in DevOps, Configuration Management, or regulated-industry quality/compliance roles; instead, it requires clinical case management and coding skills unrelated to her expertise.",
+    "id": "c11a57b6",
+    "source": "pnet_release_manager",
+    "added_at": "2026-10-02T22:00:09+03:00",
+    "posted_date": "2026-09-29",
+    "deadline": "2026-09-04",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-04) passed by more than 2 days and unreviewed"
   }
 ]
