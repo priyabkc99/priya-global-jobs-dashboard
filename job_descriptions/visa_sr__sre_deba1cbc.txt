@@ -1,0 +1,271 @@
+Title: Sr. SRE
+Company: Visa
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/sr-sre-at-visa-4455273740
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The Sr. SRE role at Visa in Singapore aligns with Priya's expertise in CI/CD pipelines, infrastructure management, and release operations, and matches her target location and senior-level experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. SRE
+Visa  Singapore, Singapore
+2 weeks ago   Over 200 applicants
+  
+
+See who Visa has hired for this role
+
+Apply 
+Save
+About Us
+
+Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.
+
+At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world.
+
+Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you.
+
+Job Description
+
+The Sr. Site Reliability Engineer is responsible for supporting release management, CI-CD pipeline operations, infrastructure stability, and server lifecycle maintenance across development, staging, and production environments. This role focuses on ensuring reliable, secure, and efficient delivery of applications through robust automation, infrastructure management, and operational best practices.
+
+The engineer works closely with development and platform teams to build, maintain, and optimize CI-CD pipelines, enabling automated build, test, and deployment processes. They contribute to release planning, coordination, and execution, ensuring successful and predictable production releases.
+
+This role provides hands-on support for cloud and on-premise infrastructure (AWS, GCP), including server provisioning, patching, upgrades, and ongoing maintenance to ensure high availability, security, and compliance. The engineer applies infrastructure-as-code practices (Terraform, Ansible, CloudFormation) to standardize and scale environment management.
+
+Additionally, the engineer supports containerized services (Docker, Kubernetes), assists in troubleshooting production issues, and ensures operational readiness through system monitoring and performance optimization. While observability tooling is utilized, the focus remains on operational reliability, release execution, and infrastructure health.
+
+All roles require digital fluency, including the ability to leverage emerging technologies such as Generative AI tools (e.g., Claude, ChatGPT, Microsoft Copilot) to improve productivity and streamline workflows.
+
+Key Responsibilities
+
+Release Management & CI-CD:
+
+
+Support end-to-end release management, including planning, coordination, and validation of production deployments.
+Build, maintain, and optimize CI-CD pipelines for automated build, test, and deployment.
+Troubleshoot and resolve pipeline failures, deployment issues, and release blockers.
+Partner with development teams to improve release efficiency and reduce deployment risk.
+
+
+Infrastructure & Server Lifecycle Management
+
+
+Manage and support cloud infrastructure (AWS, GCP) ensuring availability, reliability, and security.
+Perform server patching, upgrades, and maintenance in line with security and compliance requirements.
+Provision and manage infrastructure using infrastructure-as-code tools (Terraform, Ansible, CloudFormation).
+Ensure environment consistency across development, staging, and production.
+
+
+Containerized Service Support
+
+
+Support implementation and operations of containerized services (Docker, Kubernetes).
+Maintain platform stability and optimize performance of hosted applications.
+
+
+Operations & Incident Support
+
+
+Monitor system health and performance, proactively identifying and resolving issues.
+Participate in incident response, troubleshooting, and root cause analysis for production systems.
+Provide first-level support for infrastructure and deployment issues, escalating as needed.
+
+
+Scripting & Automation
+
+
+Develop and maintain automation scripts to streamline infrastructure operations, deployments, and routine maintenance tasks.
+Use scripting languages such as Python, Bash, or PowerShell to improve operational efficiency and reduce manual intervention.
+Automate server patching, environment provisioning, health checks, and deployment workflows.
+Integrate scripts into CI-CD pipelines to support end-to-end automation.
+Collaborate with teams to identify automation opportunities and standardize reusable scripts and tooling.
+
+
+Automation & Continuous Improvement
+
+
+Identify opportunities to automate repetitive operational tasks and improve workflows.
+Drive improvements in deployment processes, infrastructure reliability, and operational efficiency.
+
+
+Documentation & Standards
+
+
+Create and maintain documentation for release processes, infrastructure configurations, and operational procedures.
+Ensure adherence to operational and security best practices.
+
+
+Visa requires at least 3 days in office, expectations of these days will be confirmed by your Hiring Manager.
+
+Qualifications
+
+Education & Experience:
+
+
+Bachelor's degree in a relevant field plus 8+ years of relevant work experience, OR
+Advanced degree (Master's, MBA, etc.) plus 5+ years of relevant work experience, OR
+PhD plus 2+ years of relevant work experience, OR
+11+ years of relevant work experience without the degree path specified
+A strong candidate would typically have 8+ years of platform-infrastructure experience, proven ownership of CI-CD and cloud operations, and hands-on expertise with Kubernetes, Terraform, scripting, and production incident management
+
+
+Visa is an EEO Employer
+
+Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Visa by 2x
+
+See who you know
+
+Get notified about new Senior Site Reliability Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+Reap
+Singapore, Singapore
+4 days ago
+Senior Site Reliability Engineer - Apple Information Security
+Senior Site Reliability Engineer - Apple Information Security
+Apple
+Singapore, Singapore
+4 months ago
+Sr. SRE & Automation Engineer (Customer facing)
+Sr. SRE & Automation Engineer (Customer facing)
+Bitdeer (NASDAQ: BTDR)
+Singapore, Singapore
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Apple
+Singapore, Singapore
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Momcozy
+Singapore, Singapore
+3 weeks ago
+Senior Cloud Site Reliability Engineer
+Senior Cloud Site Reliability Engineer
+Solace
+Singapore, Singapore
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Production Engineer
+Senior Production Engineer
+
+CoreWeave
+
+Singapore
+4 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+4 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Momcozy
+
+Singapore, Singapore
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+RemotePeople
+
+Singapore, Singapore
+2 weeks ago
+Senior Big Data Platform SRE Engineer
+Senior Big Data Platform SRE Engineer
+
+Tencent
+
+Singapore, Singapore
+1 month ago
+Senior Officer, Site Reliability Engineer
+Senior Officer, Site Reliability Engineer
+
+UOB
+
+Singapore, Singapore
+36 minutes ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+F5
+
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer - AI Application
+Site Reliability Engineer - AI Application
+
+ByteDance
+
+Singapore, Singapore
+3 weeks ago
+Senior Software Engineer, Infrastructure
+Senior Software Engineer, Infrastructure
+
+HUD
+
+Singapore, Singapore
+$140,000 - $250,000
+1 week ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+
+SPH Media
+
+Singapore, Singapore
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
