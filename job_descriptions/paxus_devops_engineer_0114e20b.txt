@@ -1,0 +1,118 @@
+Title: DevOps Engineer
+Company: Paxus
+Location: Newstead QLD, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-39f559f067748374ee6de4e0aeed6a1a
+Posted: 11h ago
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Brisbane, Australia aligns with Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated-industry experience, while meeting location and visa sponsorship criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+Paxus
+–
+Newstead QLD
+Full time
+11h ago, from seek.com.au
+Apply on company site
+DevOps Engineer | Permanent | Brisbane
+
+
+Build, automate and optimise modern cloud platforms in a role where your DevOps expertise will make a real impact.
+
+We're looking for an experienced DevOps Engineer to join a growing technology team within a complex and technology-driven organisation.
+
+This is a full-time permanent opportunity for someone who enjoys solving complex technical problems, automating processes and helping development teams deliver software faster, more reliably and securely.
+
+What You'll Be Doing
+
+
+You'll play a key role in the ongoing evolution of the organisation's cloud and DevOps capability, working across development, infrastructure and delivery teams.
+
+Your responsibilities will include:
+
+Designing, building and maintaining CI/CD pipelines and automated deployment processes.
+Developing and managing Infrastructure as Code (IaC) using technologies such as Terraform, Bicep or similar.
+Supporting and optimising Microsoft Azure environments.
+Automating infrastructure provisioning, configuration and operational processes.
+Working closely with developers and technical teams to improve engineering and deployment practices.
+Implementing monitoring, logging and performance improvements across cloud environments.
+Troubleshooting complex infrastructure, deployment and environment issues.
+Contributing to DevOps standards, governance, security and continuous improvement.
+Helping drive the adoption of modern DevOps and cloud engineering practices across the organisation.
+What We're Looking For
+
+
+We're looking for a hands-on DevOps professional who enjoys automation, cloud technology and continuous improvement.
+
+You'll ideally have experience across:
+
+Microsoft Azure / Azure DevOps
+CI/CD pipelines and YAML
+Terraform, Bicep or other Infrastructure as Code tools
+Git / GitHub
+Docker and/or Kubernetes
+Cloud infrastructure and automation
+PowerShell or scripting
+Monitoring, logging and observability
+Agile delivery environments
+
+Experience working within a large, complex or highly regulated environment will be highly regarded.
+
+Why Join?
+
+
+This is more than just a DevOps role - it's an opportunity to have genuine ownership and influence over how technology is delivered.
+
+You'll have the opportunity to:
+
+Join a permanent team and build long-term career opportunities.
+Work with modern cloud, automation and DevOps technologies.
+Contribute to meaningful technology and digital initiatives.
+Help shape and improve DevOps practices and ways of working.
+Work alongside experienced technology professionals in a collaborative environment.
+Continue developing your technical capability across Azure, automation, IaC and CI/CD.
+Enjoy the stability of a permanent position with a flexible Brisbane-based working environment.
+
+If you're a DevOps Engineer who enjoys automation, cloud technology and making things work better, we'd love to hear from you.
+
+To be considered for the role click the 'apply' button or for more information about this and other opportunities please contact Anna Reyes on + 617 3709 7456 or email ******@paxus.com.au and quote the above job reference number.
+
+Paxus values diversity and welcomes applications from Indigenous Australians, people from diverse cultural and linguistic backgrounds and people living with a disability. If you require an adjustment to the recruitment process, including the application form in an alternate format, please contact me on the above contact details.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
