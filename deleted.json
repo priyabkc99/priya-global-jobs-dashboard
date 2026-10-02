@@ -1528,5 +1528,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Manager, Core Platforms",
+    "company": "Angle Auto Finance",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/manager-core-platforms-at-angle-auto-finance-4463081342",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job's focus on application support, incident management, and ITIL frameworks only partially aligns with the candidate's core expertise in release/configuration management and regulated-industry compliance, though the location (Australia) and some technical skills (Azure, C#) are compatible.",
+    "id": "f0ac767f",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-10-02T19:43:33+03:00",
+    "posted_date": "2026-09-11",
+    "deadline": "2026-09-15",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-15) passed by more than 2 days and unreviewed"
   }
 ]
