@@ -1,0 +1,237 @@
+Title: Senior DevOps Engineer
+Company: INTEC SELECT LIMITED
+Location: London, UK
+URL: https://www.reed.co.uk/jobs/senior-devops-engineer/57370698
+Posted: 21 september
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps engineering, CI/CD pipeline ownership, and cloud infrastructure, matching her background at Elektrobit and Topcon, while being located in the UK (a target country) and offering a senior-level role.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Engineer
+Dev Ops Engineer
+Job details
+Easy Apply
+Senior DevOps Engineer
+21 September by INTEC SELECT LIMITED
+£90,000 - £100,000 per annum
+London
+Permanent, full-time
+Skills: 
+Kubernetes, Continuous Integration
+ + 8 more
+Apply now
+Save
+Full job description
+Senior DevOps Engineer | Up to £100,000 per annum | Permanent | London (Hybrid) | Insurance
+
+Are you a Senior DevOps Engineer looking to take ownership of cloud infrastructure, drive automation, and shape DevOps best practices across a technology-driven organisation?
+
+We are seeking an experienced Senior DevOps Engineer to join a growing Platform Engineering team in London. This is an exciting opportunity to influence engineering standards, improve cloud platforms, and drive the adoption of automation and CI/CD practices across a complex IT environment.
+
+Working closely with infrastructure, software engineering and architecture teams, you will play a key role in designing, delivering and supporting scalable, secure and resilient cloud solutions.
+
+The Role
+
+As Senior DevOps Engineer, you will take technical ownership of key initiatives, champion automation, and help engineering teams adopt modern DevOps principles. You'll combine hands-on technical delivery with mentoring, stakeholder engagement and continuous improvement.
+
+Key Responsibilities
+
+Drive the adoption of DevOps principles, automation and CI/CD practices across the organisation.
+Design, develop and maintain reusable Azure DevOps YAML pipeline templates and standardised processes.
+Provide technical leadership, guidance and mentoring to engineers across IT.
+Take ownership of technical projects, ensuring solutions are delivered to agreed standards.
+Collaborate with engineering teams and Enterprise Architects to design and implement robust cloud solutions.
+Review CI/CD pipeline changes, ensuring quality, consistency and adherence to best practices.
+Develop self-service capabilities, empowering engineering teams while maintaining governance and security standards.
+Identify opportunities to improve existing processes, infrastructure and automation.
+Advise stakeholders on technical approaches, risks, trade-offs and potential business impacts.
+Support cloud infrastructure, networking, security, monitoring and high-availability solutions.
+Maintain clear documentation and change records, keeping stakeholders informed of significant changes.
+Participate in an out-of-hours support rota for critical incidents.
+About You
+
+You'll be a hands-on, proactive Senior DevOps Engineer with strong Azure expertise, a passion for automation and the ability to influence engineering practices across teams.
+
+You will bring:
+
+Excellent working knowledge of Azure DevOps, including Boards and Classic and YAML Pipelines.
+Strong experience authoring shared, reusable YAML pipeline templates.
+Hands-on experience with Microsoft Azure PaaS and SaaS services.
+Strong working knowledge of Terraform, Ansible and PowerShell.
+Experience with Azure Kubernetes Service (AKS), Docker and container orchestration.
+A solid understanding of Azure networking, including VNets and load balancers.
+Experience implementing Azure policies, RBAC and cloud security best practices.
+Knowledge of security solutions such as WAF, bot protection and DDoS mitigation, including platforms such as Cloudflare.
+Practical experience implementing and improving monitoring and alerting solutions.
+Excellent knowledge of Azure Landing Zone architecture and Azure networking.
+Experience designing, delivering and supporting highly available cloud environments and disaster recovery solutions.
+Experience with Active Directory and VMware.
+Strong communication, analytical and problem-solving skills, with excellent attention to detail.
+The ability to mentor and coach colleagues, collaborate effectively and make independent technical decisions.
+Why Apply?
+
+Salary of up to £100,000 per annum.
+Hybrid working in London.
+Permanent opportunity with the chance to make a meaningful impact on cloud and platform engineering.
+A technically varied role combining hands-on engineering, architecture, automation and technical leadership.
+The opportunity to mentor engineers, influence DevOps standards and drive continuous improvement.
+Interested?
+
+If you're an experienced Senior DevOps Engineer with a strong Azure background and a passion for building secure, scalable and automated cloud platforms, we'd love to hear from you.
+
+Apply today to find out more about this opportunity.
+
+Senior DevOps Engineer | Up to £100,000 per annum | Permanent | London (Hybrid) | Insurance
+Skills
+Amazon Web Services (AWS)Automation & Control SystemsCloud Services & InfrastructureContinuous IntegrationDevOps Engineering (Java)Docker ContainerizationInfrastructure ManagementKubernetesPython Programming (Beginner)Terraform (Infrastructure as Code) (Kubernetes)
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Similar Jobs
+Easy Apply
+Principal DevOps Engineer- SC Cleared
+2 days ago by Searchability NS&D
+£95,000 - £110,000 per annum, negotiable
+London
+Permanent, full-time
+Easy Apply
+Senior AWS DevOps Lead (Architect)
+2 days ago by Vbeyond
+Salary negotiable
+London
+Contract, full-time
+Easy Apply
+Principal Platform Engineer
+3 September by Sanderson
+£100,000 - £150,000 per annum, inc benefits
+London
+Permanent, full-time
+Ending Soon
+Senior Application Security Engineer / DevSecOps Engineer
+21 August by Additional Resources Ltd
+£70,000 - £80,000 per annum, negotiable
+City of London, London
+Permanent, full-time
+Easy Apply
+DevOps Platform Engineer
+15 September by Context Recruitment Limited
+£90,000 - £100,000 per annum, inc benefits
+London
+Permanent, full-time
+Easy Apply
+DevOps Engineer
+10 September by Harnham - Data & Analytics Recruitment
+£100,000 - £120,000 per annum
+London
+Permanent, full-time
+See more jobs like this
+Not what you are looking for?Cloud Engineer jobsDevops jobsDevops Engineer jobsMarketing Head, jobsOutside Ir35 jobs
+Reference: 57370698
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+Senior DevOps Engineer
+London
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Recommended courses
+Microsoft Certified Azure Developer Associate
+Online, Self-paced
+£495
+Complete DevOps Gitlab & Kubernetes: Best Practices Bootcamp
+Online, Self-paced
+£15
+Maters in DevOps Engineer IT Program job ready | Bundle 13 Courses | Live Projects
+Online with live classes
+£3,999.99
+View Development courses
+Posted by INTEC SELECT LIMITED
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026
+
+We Value Your Privacy
+We and our 1029 partners use cookies and process your data to personalise content and ads, measure performance and improve our services. You can update or withdraw your consent at any time via Manage Preferences. See our Privacy Policy.
+We and our partners process data to provide:
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+Partner List
+
+Show Purposes
+Reject All I Accept
