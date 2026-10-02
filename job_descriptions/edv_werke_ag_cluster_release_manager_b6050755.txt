@@ -1,0 +1,313 @@
+Title: Cluster Release Manager
+Company: EDV Werke AG
+Location: Chennai, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/cluster-release-manager-at-edv-werke-ag-4473203015
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The Cluster Release Manager role at EDV Werke AG in Chennai, India matches Priya’s extensive experience in release management, configuration strategies, cross-team coordination, and regulated environments (MDR/ISO 13485 and ASPICE/TUV experience), aligning with her background at Topcon and Elektrobit.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cluster Release Manager
+EDV Werke AG  Chennai, Tamil Nadu, India
+3 days ago  63 applicants
+  
+
+See who EDV Werke AG has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+EDV IS HIRING!
+
+As a dynamic multinational tech company operating in 50 countries, we drive innovation and create projects that shape the future and greatly enhance the quality of life. You will find our solutions supporting advanced AI initiatives, financial analytics, and enterprise-scale digital transformation across global organisations.
+
+
+
+
+About the role
+
+We are looking for experienced Cluster Release Managers to join a leading Private Bank and support the coordination and delivery of complex technology releases across multiple applications, teams, and business areas.
+
+Based in Zurich or Chennai, you will play a key role in ensuring that releases are planned, coordinated, governed, and delivered smoothly across the relevant technology landscape. You will work closely with technology teams, business stakeholders, application owners, and other release management functions to drive successful and predictable delivery.
+
+
+
+
+
+
+
+Requirements
+
+Worked in a similar role before
+
+Experience in adjusting processes to programmes need
+
+Minimum of 8 years’ experience in IT project delivery within complex banking or financial services organisations with 500 – 1000 applications over several booking centres.
+
+Proven track record as a Release Manager in small- mid-sized transformation projects
+
+Direct experience managing multi-project release trains across SIT and UAT cycles in regulated environments.
+
+Familiarity with system landscape architectures commonly found in wealth management or private banking infrastructures.
+
+Banking experience and a profound understanding of Private banking products
+
+Technical Understanding
+
+Strong grasp of SDLC methodologies (Waterfall, Agile, SAFe, hybrid models).
+
+Understanding of release management tools and technologies (e.g., JIRA)
+
+
+
+
+Soft Skills & Personal Attributes
+
+· Pragmatic & solution driven mindset
+
+· Good stakeholder engagement abilities across technical and non-technical audiences on different levels
+
+· High emotional intelligence and diplomacy when navigating conflicting priorities in a matrix organisation.
+
+· Results-oriented mindset with attention to detail and structured problem-solving capability.
+
+· Ability to operate autonomously under pressure, meeting tight deadlines without compromising quality.
+
+· Excellent written and verbal communication skills in English; German or other languages beneficial.
+
+· High willingness to contribute to the programmes success and to work on weekends
+
+
+
+
+Education & Certifications
+
+University degree in Computer Science, Information Systems, Business Administration, or related field.
+
+
+
+
+Responsibilities
+
+· Responsible for the Release Management discipline for up to 5 projects in parallel (together with Release Coordinator)
+
+· Develop and maintain a comprehensive release plan aligned with delivery timelines, dependencies, risk profiles, and environment availability.
+
+· Coordinate all aspects of release management execution across multiple projects and suppliers, ensuring alignment with enterprise change management principles
+
+· Chair regular release coordination meetings with stakeholders to track progress, resolve blockers, and manage risks.
+
+· Ensure full traceability from requirements → design → development → test cases → defects → deployments, leveraging tools such as JIRA, Confluence, or similar ALM platforms.
+
+· Oversee the dependencies and risks related to releases in scope being deployed to the environments
+
+· Oversee staging and promotion of code and configuration changes into environments collaborating closely with Environment Management.
+
+· Monitor release health via KPIs such as defect leakage, regression pass rate, rollback frequency, and deployment success rates.
+
+· Prepare reporting on release status, risks, and key milestones for Release Management Leadership
+
+· Support readiness assessments prior to each test cycle and contribute to lessons learned after each release.
+
+
+
+
+
+
+
+Contact: malwina.zochowska@seargin.com
+
+Discover the Power of IT Excellence. Apply!
+
+To learn more about Seargin, please visit our web page: www.edvwerke.ch
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at EDV Werke AG by 2x
+
+See who you know
+
+Get notified about new Release Manager jobs in Chennai, Tamil Nadu, India.
+
+Sign in to create job alert
+Similar jobs
+Release Management Senior
+Release Management Senior
+HP
+Chennai, Tamil Nadu, India
+1 month ago
+Automated Release Management
+Automated Release Management
+Tata Consultancy Services
+Chennai, Tamil Nadu, India
+3 weeks ago
+Sr. Program Manager
+Sr. Program Manager
+HighLevel
+India
+3 days ago
+Project Mgr I, DPS
+Project Mgr I, DPS
+Deltek
+India
+1 day ago
+Technical Platform Operations Lead — Sales AI Applications
+Technical Platform Operations Lead — Sales AI Applications
+NVIDIA
+India
+2 weeks ago
+Technical Business Analyst
+Technical Business Analyst
+American Express Global Business Travel
+India
+1 week ago
+Show more jobs like this 
+People also viewed
+Implementation Manager
+Implementation Manager
+
+CareMonitor
+
+India
+₹2,200,000 - ₹3,000,000
+6 days ago
+Quality Assurance Engineering Manager
+Quality Assurance Engineering Manager
+
+Pearson
+
+India
+4 hours ago
+Technology Product Manager
+Technology Product Manager
+
+Halo Media
+
+India
+1 month ago
+Senior Manager – DevOps Engineering
+Senior Manager – DevOps Engineering
+
+AstraZeneca
+
+Chennai, Tamil Nadu, India
+1 day ago
+Senior Delivery Manager
+Senior Delivery Manager
+
+Ciklum India
+
+Chennai, Tamil Nadu, India
+2 days ago
+Software Eng Manager
+Software Eng Manager
+
+Honeywell Aerospace
+
+India
+2 days ago
+Application Lead
+Application Lead
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 week ago
+Senior Manager, Technical Program Management
+Senior Manager, Technical Program Management
+
+GitLab
+
+India
+3 days ago
+Product Manager
+Product Manager
+
+Elife Transfer
+
+India
+2 weeks ago
+Salesforce DevOps Engineer
+Salesforce DevOps Engineer
+
+American Express Global Business Travel
+
+India
+5 hours ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at EDV Werke AG
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
