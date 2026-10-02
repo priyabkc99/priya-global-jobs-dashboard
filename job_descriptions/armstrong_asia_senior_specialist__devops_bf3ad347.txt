@@ -1,0 +1,301 @@
+Title: Senior Specialist, DevOps
+Company: Armstrong Asia
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-specialist-devops-at-armstrong-asia-4470074866
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The Senior Specialist, DevOps role at Armstrong Asia in Singapore matches Priyanga Ramachandran's expertise in CI/CD pipelines, configuration management, and release automation, aligning with her background in regulated industries and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Specialist, DevOps
+Armstrong Asia  Singapore, Singapore
+1 week ago  83 applicants
+  
+
+See who Armstrong Asia has hired for this role
+
+Apply
+Save
+
+Position Summary
+
+The Snr Specialist, DevOps leads the Group DevOps function and provides technical leadership to DevOps Engineers supporting the development, deployment, and operation of in-house solutions across diverse technology stacks.
+
+Reporting to the Group Snr Manager, Enterprise Systems, the role owns the Group's software delivery platform — source control, CI/CD pipelines, build and release automation, environment and infrastructure provisioning, and platform observability — and establishes the DevOps practices and engineering standards that in-house development teams adopt consistently. The role partners with the Cybersecurity Specialist on platform security across the delivery lifecycle, covering secrets management, dependency and vulnerability management, access control, and secure-by-default deployment patterns. As a further responsibility, the role leads the responsible adoption of AI-assisted coding and automation tools within the development community, defining usage guardrails, review requirements, and evaluation criteria. The role provides direction, coaching, and technical guidance to the DevOps Engineers, partners application, infrastructure, and information-security teams across the Group, and manages tooling and platform vendors at the operational level.
+
+
+
+
+Responsibilities
+
+DevOps Practice and Technical Leadership
+
+Provide technical leadership and influence to DevOps Engineers, guiding technical direction, coordinating effort across concurrent development initiatives, and coaching on engineering practice.
+Define and maintain Group DevOps standards, reference pipelines, environment conventions, and engineering documentation, and drive consistent adoption across in-house development teams.
+Establish a working rhythm with development, infrastructure, and information-security teams covering intake, prioritisation, and delivery commitments, influencing outcomes through technical credibility rather than reporting lines.
+Report platform health, delivery throughput, and improvement progress to the Group Snr Manager, Enterprise Systems and IDT leadership.
+Manage DevOps tooling and cloud platform vendors at the operational level, including license utilization, service quality, and cost.
+
+
+
+
+CI/CD and Build Automation
+
+Own the Group's CI/CD pipelines end to end, covering source control, branching strategy, automated build, test integration, artefact management, and release promotion.
+Strengthen deployment reliability through repeatable, automated releases with versioning, rollback, and change traceability across development, test, and production environments.
+Automate environment and infrastructure provisioning using infrastructure-as-code and configuration-management practices to reduce manual effort and environment drift.
+Support diverse technology stacks — web, application, database, integration, and containerised workloads — with pipeline patterns that development teams can reuse.
+Reduce lead time from commit to production while maintaining change quality, working with development teams on test automation and quality gates.
+
+
+
+
+Reliability and Observability
+
+Establish platform observability — logging, metrics, tracing, dashboards, and alerting — so that service health and application behaviour are visible to development and support teams.
+Agree availability and performance targets for in-house solutions with their owners, and monitor and report performance against them.
+Own incident response for platform and deployment issues, including support coverage, escalation, root-cause analysis, and preventive action.
+Ensure backup, recovery, and business-continuity routines are in place and tested for platform components and deployment tooling.
+Manage capacity, cost, and lifecycle of the underlying cloud and on-premise platform resources.
+
+
+
+
+Platform and Pipeline Security
+
+Embed security into the delivery lifecycle, including secrets management, dependency and container scanning, static and dynamic application security testing, and remediation tracking.
+Implement and maintain access control, least-privilege, and segregation-of-duties arrangements across repositories, pipelines, and environments.
+Ensure platform configuration, patching, and hardening comply with Group IT security policy and applicable regulatory and audit requirements.
+Work with information security on vulnerability management, penetration-test findings, and security incidents affecting the delivery platform.
+
+
+
+
+AI-Assisted Development Enablement
+
+Lead responsible adoption of AI-assisted coding and automation tools across development teams, defining approved tooling, usage guardrails, and data-handling rules.
+Establish review and quality requirements for AI-generated code, including human review, testing, licensing, and intellectual-property considerations.
+Evaluate and pilot AI-assisted engineering and automation tools, measuring productivity and quality outcomes before wider rollout.
+Build capability through enablement sessions, documentation, and internal guidance so that teams use these tools consistently and safely.
+
+
+
+
+Experience
+
+Minimum 8 years of experience in software engineering, infrastructure, or platform engineering, including at least 3 years in a DevOps or platform role supporting in-house application development.
+Proven experience providing technical leadership to engineers in an influence-based capacity, covering technical review, mentoring, and capability development.
+Hands-on experience building and operating CI/CD pipelines end to end (e.g. Azure DevOps, GitLab CI, GitHub Actions, Jenkins), including automated build, test integration, artefact management, and release automation.
+Experience supporting applications across diverse technology stacks and environments, spanning cloud (Azure, AWS, or GCP) and on-premise deployments.
+Demonstrable experience implementing platform security controls within the delivery lifecycle — secrets management, dependency and vulnerability scanning, access control, and hardening.
+Experience implementing observability and monitoring tooling (e.g. Azure Monitor, Grafana, Prometheus, ELK) and operating incident and problem management for platform services.
+Experience with infrastructure-as-code and configuration management (e.g. Terraform, Bicep/ARM, Ansible), and with containerisation and orchestration (e.g. Docker, Kubernetes) is an advantage.
+Experience introducing AI-assisted coding or automation tools (e.g. GitHub Copilot or equivalent) into a development environment, including guardrails and adoption support, is an advantage.
+Experience working with a regional or global headquarters IT function within a multinational group is an advantage.
+Experience in a manufacturing or industrial group environment, including integration with ERP or operational systems, is an advantage.
+
+
+
+
+Qualifications
+
+Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related discipline.
+Cloud platform certification is an advantage, e.g. Microsoft Certified: Azure DevOps Engineer Expert, Azure Administrator or Solutions Architect, or AWS Certified DevOps Engineer.
+Container platform certification (e.g. CKA or CKAD) is an advantage.
+Security-related certification (e.g. CompTIA Security+, Microsoft SC-series, CSSLP) is an advantage.
+ITIL Foundation or an equivalent service-management certification is an advantage.
+Fluency in written and spoken English; additional Mandarin ability is an advantage given Group operations in China.
+
+
+
+
+Competencies
+
+Technical
+
+Strong grounding in CI/CD, release engineering, and build automation across multiple technology stacks.
+Proficient with infrastructure-as-code, configuration management, containerisation, and orchestration.
+Working knowledge of cloud and on-premise platform architecture, networking, and identity and access management as they affect application deployment.
+Practical understanding of secure software delivery — secrets management, vulnerability and dependency management, code scanning, and hardening.
+Competent with observability tooling and with scripting and automation (e.g. PowerShell, Bash, Python).
+Informed view of AI-assisted coding and automation tools, their appropriate use, and their limitations and risks.
+
+
+
+
+Leadership and Enablement
+
+Provides technical leadership to DevOps Engineers without formal people management accountability, setting clear standards for engineering quality and consistency.
+Able to build credibility with development teams and influence adoption of shared standards and practices.
+Coordinates infrastructure, information-security, and vendor parties to deliver consistent platform outcomes.
+
+
+
+
+Non-Technical
+
+Strong analytical, troubleshooting, problem-solving, and decision-making skills.
+Effective communication and stakeholder-management skills, able to explain technical trade-offs to non-technical stakeholders.
+Ability to manage competing priorities and deliver under production pressure.
+Continuous-improvement mindset, with a bias for automation and documentation over manual effort.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Manufacturing
+  
+
+Referrals increase your chances of interviewing at Armstrong Asia by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer - Singapore
+Senior DevOps Engineer - Singapore
+NinjaOne
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Dropsuite
+Singapore, Singapore
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Vanguard Software
+Singapore, Singapore
+3 days ago
+DevOps Engineer, Infra
+DevOps Engineer, Infra
+Binance
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Singtel
+Singapore, Singapore
+4 days ago
+DevOps Engineer, Cloud Infra
+DevOps Engineer, Cloud Infra
+Binance
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Sygnum Singapore
+
+Singapore, Singapore
+3 weeks ago
+Senior Cloud Infrastructure Automation Solutions Architect
+Senior Cloud Infrastructure Automation Solutions Architect
+
+NVIDIA
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Nicoll Curtin
+
+Singapore, Singapore
+11 hours ago
+Lead DevOps Engineer - Singapore
+Lead DevOps Engineer - Singapore
+
+NinjaOne
+
+Singapore, Singapore
+2 weeks ago
+AI DevOps Engineer
+AI DevOps Engineer
+
+Millennium
+
+Singapore, Singapore
+2 weeks ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+Dropsuite
+
+Singapore, Singapore
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+OCBC
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Astek
+
+Singapore, Singapore
+SGD 9,000 - SGD 11,500
+1 week ago
+Cloud Site Reliability Engineer (SRE)
+Cloud Site Reliability Engineer (SRE)
+
+Singapore Pools
+
+Singapore, Singapore
+3 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+SHIELD
+
+Singapore, Singapore
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Armstrong Asia
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
