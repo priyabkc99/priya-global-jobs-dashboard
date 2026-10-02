@@ -55372,8 +55372,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:27+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:11+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55389,8 +55389,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:27+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:11+03:00"
   },
   {
     "title": "Quality Manager (Data Centre Project)",
@@ -55406,8 +55406,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:27+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:11+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55423,8 +55423,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:27+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:11+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55440,8 +55440,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:27+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:12+03:00"
   },
   {
     "title": "Quality Manager -",
@@ -55457,8 +55457,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:27+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:12+03:00"
   },
   {
     "title": "Quality Manager, D15",
@@ -55474,8 +55474,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:27+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:12+03:00"
   },
   {
     "title": "Quality Manager - Kildare",
@@ -55491,8 +55491,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:27+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:12+03:00"
   },
   {
     "title": "Quality Manager",
@@ -55508,25 +55508,24 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:28+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T07:59:12+03:00"
   },
   {
     "title": "Compliance Quality Manager",
-    "company": "Extract from page",
+    "company": "Camphill Communities of Ireland",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/compliance-quality-manager/camphill-communities-of-ireland-job108017503",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "Location information is unavailable due to access restrictions, making it uncertain whether this role aligns with the target countries or regulated-industry requirements.",
     "id": "fbe1acef",
     "source": "irishjobs_quality_manager",
     "added_at": "2026-10-02T01:45:25+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:28+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Assistant Quality Manager",
@@ -55534,16 +55533,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/assistant-quality-manager/vickerstock-job107951402",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting's location cannot be determined from the provided text, and the company name is incomplete/placeholder ('Extract from page'), making it impossible to verify if it aligns with target countries or visa sponsorship requirements.",
     "id": "eebbb9b9",
     "source": "irishjobs_quality_manager",
     "added_at": "2026-10-02T01:45:25+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:28+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Assistant Quality Manager",
@@ -55551,16 +55549,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/assistant-quality-manager/osborne-recruitment-job108023329",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible (access denied error), preventing evaluation of critical details such as location, role responsibilities, and visa sponsorship availability.",
     "id": "1a4401a8",
     "source": "irishjobs_quality_manager",
     "added_at": "2026-10-02T01:45:25+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:28+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Assistant Quality Manager",
@@ -55568,16 +55565,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/assistant-quality-manager/vickerstock-job107947284",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job location is unclear due to inaccessible details, making it uncertain whether it aligns with Priya's target countries or visa sponsorship requirements.",
     "id": "039d6f77",
     "source": "irishjobs_quality_manager",
     "added_at": "2026-10-02T01:45:25+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:28+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Manager - Construction - Client Side",
@@ -55585,33 +55581,31 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/quality-manager-construction-client-side/tier5group-job108026356",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job posting is inaccessible (access denied), so location, sponsorship terms, and domain-specific details cannot be verified against Priyanga's requirements.",
     "id": "33386157",
     "source": "irishjobs_quality_manager",
     "added_at": "2026-10-02T01:45:25+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:28+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Manager, Quality Assurance",
-    "company": "Extract from page",
+    "company": "Stryker Ireland",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/manager-of-quality-assurance/stryker-ireland-job108050052",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "Location is unclear as the job description text does not explicitly state the city or country for this Stryker Ireland role, making it uncertain whether it aligns with the target countries list.",
     "id": "3cdd1914",
     "source": "irishjobs_quality_manager",
     "added_at": "2026-10-02T01:45:25+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T01:45:28+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "director of quality assurance engineering",
