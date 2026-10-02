@@ -62507,8 +62507,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Quality Engineering Lead",
@@ -62524,8 +62524,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Quality Technician  - Product Transfer",
@@ -62541,8 +62541,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Senior Microbiologist - 12 Month FTC",
@@ -62558,8 +62558,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Senior Quality Assurance Design Transfer Engineer I",
@@ -62575,8 +62575,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Manufacturing/Process Engineering Manager",
@@ -62592,8 +62592,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Quality Engineer - County Longford",
@@ -62609,8 +62609,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Quality Engineering Manager",
@@ -62626,8 +62626,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Senior Staff Specialist, Change Management",
@@ -62643,42 +62643,40 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-02T16:46:03+03:00"
   },
   {
     "title": "Manufacturing Engineer",
-    "company": "Extract from page",
+    "company": "Novintix Technologies Limited",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/manufacturing-engineer/novintix-technologies-limited-job108050852",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, preventing evaluation of role fit, location, or other criteria.",
     "id": "18cf79c7",
     "source": "irishjobs_iso_13485",
     "added_at": "2026-10-02T10:31:07+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Field Service & Validation Engineer",
-    "company": "Extract from page",
+    "company": "Manepa Ltd",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/field-service-validation-engineer/manepa-ltd-job108062169",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting could not be accessed, making it impossible to verify critical details such as location, visa sponsorship requirements, or role-specific responsibilities against the candidate's criteria.",
     "id": "ed6ec72c",
     "source": "irishjobs_iso_13485",
     "added_at": "2026-10-02T10:31:07+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Senior Project Manager",
@@ -62686,16 +62684,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/senior-project-manager/bd-job108042500",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job posting is inaccessible (access denied), so location and role specifics cannot be confirmed; however, the company name is not explicitly stated, and the URL suggests it may be based in Ireland (a target country).",
     "id": "ce9af4c4",
     "source": "irishjobs_iso_13485",
     "added_at": "2026-10-02T10:31:07+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-02T10:31:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Software Quality Engineer II",
