@@ -1,0 +1,296 @@
+Title: Product Readiness & Change Risk, Lead
+Company: Interac Corp.
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/product-readiness-change-risk-lead-at-interac-corp-4458656675
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The role aligns with Priya’s expertise in release management, configuration management, and compliance in regulated environments, despite not explicitly mentioning MDR/ISO 13485; Interac’s financial services context is a regulated domain matching her background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Product Readiness & Change Risk, Lead
+Interac Corp.  Toronto, Ontario, Canada
+2 weeks ago  49 applicants
+  
+
+See who Interac Corp. has hired for this role
+
+Apply 
+Save
+Who We Are:
+
+Every transaction matters. Every Canadian matters. At Interac, we protect both — driving trust, security, and inclusion, so our digital economy thrives.
+
+Founded in 1984, Interac connects Canadians through secure digital payments, advanced identity verification and industry-leading fraud protection. Connecting banks, businesses, and individuals, Interac enables millions to send, receive, and manage money safely and effortlessly every day — across both digital and physical environments.
+
+As the backbone of Canada’s financial ecosystem, Interac facilitates over 20 million transactions daily, supported by trusted partnerships with government and financial institutions. Consistently ranked as Canada’s most reputable financial technology brand, Interac is deeply embedded in the daily lives of Canadians.
+
+Who You Will Work With:
+
+The vacant Product Readiness & Change Risk, Lead role will report to the Leader, Quality & Certification CoE. This role is responsible for ensuring that all product and technology changes meet enterprise standards for delivery readiness, risk management, and operational acceptance within the Enterprise Delivery Framework (EDF). This role plays a critical leadership function in embedding consistent, risk-based governance and gating discipline across the delivery lifecycle, ensuring that changes are fit-for-purpose, traceable, and production-ready before release. The role directly supports Interac’s objective to strengthen delivery quality and reduce production risk by shifting from judgement-based, late-stage controls to structured, evidence-driven readiness and risk management practices.
+
+What You Will Do:
+
+
+Own and operationalize readiness gating across EDF, with particular focus on:
+Build readiness
+SIT / performance readiness
+Production approval
+Operational acceptance
+
+
+Ensure clear exit criteria and evidence are defined, measurable, and consistently executed across teams
+Drive standardization of readiness artefacts, checklists, and evidence models to support auditability and traceability
+Establish and lead a proactive, lifecycle-based approach to change risk management, ensuring:
+Risks are identified at intake and throughout the lifecycle (not just at release stage)
+Consistent risk evaluation across products and initiatives
+
+
+Implement and mature initiative evaluation and risk scoring approaches to determine appropriate governance rigor and gates
+Partner with Risk, Security, and Product teams to align operational, regulatory, and technology risks
+Partner with Technology Operations and Product teams to
+Ensure consistent application of readiness standards
+Clarify accountability between Product, Engineering, and Operations
+Embed readiness requirements early in the delivery lifecycle (not just pre-release), addressing current late-stage validation gaps
+Provide guidance, frameworks, and tooling direction to enable operational teams
+Define and standardize enterprise operational readiness expectations across all products and delivery teams,
+Establish repeatable, enterprise-wide readiness practices that shift the organization from decentralized, inconsistent readiness approaches to standardized, evidence-based operational assurance
+Define delivery KPIs (e.g., predictability, cycle time, milestone achievement).
+Drive data-informed improvements across delivery practices.
+Act as a change leader for EDF adoption. Drive awareness, training, and coaching across squads and product teams
+
+
+What You Bring:
+
+
+Bachelor’s Degree in Software Engineering, Computer Science, or related discipline.
+PMP, PMI-ACP, SAFe Agilist certifications are considered an asset.
+7+ years of experience in software delivery lifecycle governance, release management, or operational readiness
+Proven track record operating in complex, regulated environments (e.g., financial services, payments)
+Experience implementing or supporting enterprise delivery frameworks, gating models, or quality control practices
+Demonstrated ability to work across Product, Engineering, and Operations within a matrixed organization
+Strong understanding of end-to-end SDLC, including requirements, build, testing, release, and operational acceptance
+Expertise in change risk management, including early risk identification, classification, and mitigation
+Experience defining and applying operational readiness standards (e.g., monitoring, resiliency, incident readiness)
+Ability to design and implement evidence-based controls, gating criteria, and traceability practices
+Skilled in establishing enterprise standards and improving consistency across diverse delivery models
+
+
+What We’re Offering:
+
+The hiring range for this position is $125,000.00 - $145,000.00, and you will also be eligible for our short-term incentive plan. The exact amount will depend on factors such as skills, experience, and job-related knowledge, but Interac’s commitment goes beyond compensation. Our Total Rewards package is designed to support your well-being and future, and includes:
+
+
+Generous vacation and wellness days to help you recharge
+Comprehensive employer-paid benefits coverage for peace of mind
+Market-leading employer-funded RRSP program to invest in your future
+Flexible hybrid work model for better work-life balance
+Access to a free and confidential 24/7 employee & family assistance program to offer support for you and your immediate family
+Pregnancy and parental leave top-up to support growing families
+Charitable donation matching with United Way to amplify your impact
+
+
+Why Join Us?
+
+At Interac, the impact we make, and the people who drive it, is profound. When you become part of our team, you’re joining a purpose-driven organization that’s shaping the future of digital finance in Canada. Here’s what you can expect:
+
+
+Investing in the Future – Help us unlock digital prosperity for all Canadians.
+Innovative Thinking – Collaborate on products, practices, and platforms that redefine what’s possible.
+Inclusive Culture – Be empowered to bring your whole self to work and realize your full potential.
+Inspiring Community – Work in an ecosystem where we lift each other up and rise together.
+Intentional Support – Enjoy flexible, supportive offerings that prioritize your total wellness.
+
+
+Additional Pre-Employment Requirements:
+
+To ensure the integrity of our organization, successful candidates will be required to complete background checks, which may include, Canadian Criminal Credit Check, Canadian ID Cross-Check, Public Safety Verification, 5-year Employment Verification, Education Verification, Credit Check, and Social Media Check.
+
+Equal Opportunity Employer
+
+Interac is also an equal opportunity employer committed to fostering a diverse and inclusive workplace. We believe that innovation thrives when people from different backgrounds, experiences, and perspectives come together. That’s why we are committed to providing fair and equitable employment opportunities for all individuals, without discrimination based on race, color, ancestry, ethnic origin, place of origin, citizenship, creed, sex, sexual orientation, gender identity or expression, age, marital or family status, disability, or any other characteristic protected by applicable law.
+
+If you require accommodation during any stage of the application or recruitment process, please contact us at humanresources@interac.ca. We will work with you to meet your needs.
+
+Please be aware that certain individuals are misusing Interac Corp.’s name and logo to promote fictitious employment opportunities. Interac Corp. never requests, solicits, or accepts any form of payment in exchange for employment. Any such offers are fraudulent and should be disregarded. Interac Corp. assumes no liability for any claims, losses, damages, expenses, or inconveniences arising from or related to these fraudulent activities. Such communications do not constitute an offer or representation by Interac Corp. or its subsidiaries and affiliates.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Interac Corp. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Technical Change Risk Manager
+Technical Change Risk Manager
+Fidelity Canada
+Toronto, Ontario, Canada
+1 week ago
+Senior Advisory Consultant Operational Readiness
+Senior Advisory Consultant Operational Readiness
+Mott MacDonald
+Toronto, Ontario, Canada
+1 week ago
+Senior Manager, Strategic Transformation & Enterprise Risk Governance
+Senior Manager, Strategic Transformation & Enterprise Risk Governance
+RBC
+Toronto, Ontario, Canada
+6 days ago
+Advisory Consultant Operational Readiness
+Advisory Consultant Operational Readiness
+Mott MacDonald
+Toronto, Ontario, Canada
+6 days ago
+Senior Project Manager
+Senior Project Manager
+J&M Group
+Toronto, Ontario, Canada
+3 weeks ago
+Value Enablement Leader
+Value Enablement Leader
+Scotiabank
+Toronto, Ontario, Canada
+6 days ago
+Show more jobs like this 
+People also viewed
+Senior Manager, Service Transition & Operational Resiliency (ITSM, ITIL)
+Senior Manager, Service Transition & Operational Resiliency (ITSM, ITIL)
+
+BMO
+
+Toronto, Ontario, Canada
+1 month ago
+Business Transformation Consultant
+Business Transformation Consultant
+
+ALTEN Canada
+
+Milton, Ontario, Canada
+1 week ago
+Staff / Senior Deployment & Release Manager
+Staff / Senior Deployment & Release Manager
+
+AeroVect
+
+Toronto, Ontario, Canada
+1 month ago
+Operations Enablement Lead
+Operations Enablement Lead
+
+Affirm
+
+Oshawa, Ontario, Canada
+2 weeks ago
+Sr Mgr, Process Improvement & Transformation
+Sr Mgr, Process Improvement & Transformation
+
+telMAX Inc.
+
+Markham, Ontario, Canada
+CA$90,000 - CA$130,000
+2 weeks ago
+Operational Excellence Senior Analyst
+Operational Excellence Senior Analyst
+
+Medtronic
+
+Brampton, Ontario, Canada
+1 month ago
+Project Management Centre of Excellence Lead
+Project Management Centre of Excellence Lead
+
+SE Health
+
+Markham, Ontario, Canada
+3 days ago
+Specialist, Engineering Program Management
+Specialist, Engineering Program Management
+
+Bombardier
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Program Manager, AV Operational Excellence
+Program Manager, AV Operational Excellence
+
+Lyft
+
+Toronto, Ontario, Canada
+1 week ago
+Program Manager, Transformation
+Program Manager, Transformation
+
+Acosta
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Similar Searches
+Patent Consultant jobs
+24 open jobs
+Clinical Application Specialist jobs
+983 open jobs
+Direct Sales Representative jobs
+4,762 open jobs
+Vice President Real Estate Development jobs
+61 open jobs
+Equity Portfolio Manager jobs
+154 open jobs
+Biomedical Engineer jobs
+328 open jobs
+Specialty Sales Manager jobs
+333 open jobs
+Product Sales Specialist jobs
+962 open jobs
+Medical Supervisor jobs
+292 open jobs
+Clinical Operations Specialist jobs
+365 open jobs
+Clinical Engineer jobs
+191 open jobs
+Medical Advisor jobs
+417 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Interac Corp.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

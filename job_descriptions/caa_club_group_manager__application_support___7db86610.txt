@@ -1,0 +1,272 @@
+Title: Manager, Application Support & DevOps
+Company: CAA Club Group
+Location: Vaughan, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/manager-application-support-devops-at-caa-club-group-4458040990
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The role aligns with Priya’s expertise in DevOps, CI/CD pipelines, release management, and configuration management, as seen in her experience at Elektrobit and Topcon, and matches target criteria for regulated/safety-critical domains.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Manager, Application Support & DevOps
+CAA Club Group  Vaughan, Ontario, Canada
+2 weeks ago  66 applicants
+  
+
+See who CAA Club Group has hired for this role
+
+Apply 
+Save
+About Us
+
+At CAA Club Group, we are passionate about keeping our Members safe - whether they are on the road, at home, or travelling abroad. As a trusted Member-based organization, we provide products and services that are essential to Members’ safety and peace of mind. With over 2.6 million Members across Ontario and Manitoba, we advocate on issues such road safety and infrastructure, the environment, seniors’ mobility, and consumer protection. Associates share in each other’s successes, drive change and support each other while cultivating a great working environment to deliver on what is best for our Members. CAA SCO Systems & Services Inc. is a member of the CAA Club Group of Companies.
+
+Who We Are
+
+Are you ready to join an award-winning, purpose-driven culture? Welcome to the CAA Club Group of Companies (CCG), where purpose leads to passion!
+
+
+At CCG, we are committed to delivering an exceptional Associate experience. We offer:
+Work-life harmony with access to an award-winning holistic wellness program,
+Continuous learning through our robust corporate curriculum and education reimbursement program,
+Incredible rewards, travel incentives, and product and service discounts,
+Pay-for-performance and best-in-class recognition programs, and
+Competitive benefits that include a defined contribution plan, personal spending account, and so much more.
+
+
+Join our growing team where everyone belongs!
+
+Position Details
+
+CAA Club Group (CCG) is seeking an experienced Manager, Application Support & DevOps to lead the production support, operational stability, and continuous improvement of Club Digital Applications, Travel Systems, MuleSoft integrations, and ERS platforms. This role will manage a team of Application Support Analysts and DevOps resources, ensuring high system availability, operational excellence, and exceptional service delivery while partnering with business stakeholders, vendors, and technology teams.
+
+What You Will Do
+
+
+Lead and develop a team of Application Support Analysts and DevOps resources
+Manage day-to-day support operations, incident management, problem management, and production stability
+Own application availability, service levels, operational KPIs, and major incident response
+Oversee release management, deployment processes, CI/CD pipelines, and environment management
+Drive automation, monitoring, and continuous improvement initiatives to improve reliability and efficiency
+Manage vendor relationships, support contracts, escalations, upgrades, and patches
+Ensure production readiness, disaster recovery planning, and operational compliance with security standards
+Partner with development, infrastructure, cybersecurity, and business teams to deliver stable and scalable solutions
+
+
+Please note, salary range is not inclusive of total compensation. The expected salary range for this position will be impacted by factors such as the successful candidate’s skills, experience and working location, as well as the specific position’s business line, scope and level. Candidates with salary expectations outside of the range are encouraged to apply.
+
+Who You Are
+
+
+10+ years of experience in Application Support, IT Operations, or DevOps
+5+ years of people leadership experience
+Experience supporting customer-facing digital applications and enterprise systems
+Strong knowledge of ITIL processes including Incident, Problem, Change, and Release Management
+Experience with DevOps practices, CI/CD pipelines, monitoring, and operational automation
+Hands-on experience with cloud platforms, Linux/Windows environments, APIs, and enterprise integrations
+Experience supporting MuleSoft, web applications, and database technologies (SQL Server, Oracle, PostgreSQL)
+Strong vendor management, stakeholder management, and communication skills
+
+
+Preferred Technologies
+
+
+Azure, AWS, OpenShift/Kubernetes
+MuleSoft
+Java/J2EE Applications
+Dynatrace, Splunk, Datadog, Grafana
+Git, Jenkins, Azure DevOps, Bitbucket
+PostgreSQL, Oracle, SQL Server
+
+
+Please note that internal applicants are asked to formally express their interest by applying online no later than 10 business days of the position being posted.
+
+Please note that we may use AI tools to help us through the recruitment process.
+
+Our Commitment
+
+We are an equal opportunity employer and are committed to providing employment accommodation in accordance with all applicable Provincial Human Rights and Accessibility Legislation. CCG will provide accommodations to job applicants with disabilities throughout the recruitment process. If you require an accommodation, please notify us and we will work with you to meet your needs.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at CAA Club Group by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Manager, DevOps & App Support
+Manager, DevOps & App Support
+Michael Page
+Markham, Ontario, Canada
+CA$105,000 - CA$115,000
+3 hours ago
+Manager, Site Reliability Engineering
+Manager, Site Reliability Engineering
+Mastercard
+North York, Ontario, Canada
+1 week ago
+DevOps Manager
+DevOps Manager
+Rightsline
+Toronto, Ontario, Canada
+CA$85,000 - CA$95,000
+3 days ago
+Senior Manager, Site Reliability Engineering
+Senior Manager, Site Reliability Engineering
+Finastra
+Mississauga, Ontario, Canada
+3 weeks ago
+Manager, Site Reliability Engineering and DevOps
+Manager, Site Reliability Engineering and DevOps
+Moneris
+Toronto, Ontario, Canada
+3 months ago
+IT Manager Platform Engineering & AI Enablement
+IT Manager Platform Engineering & AI Enablement
+Canlan Sports
+North York, Ontario, Canada
+3 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Manager
+DevOps Manager
+
+NLB Services
+
+Brampton, Ontario, Canada
+4 days ago
+Lead Infrastructure Engineer
+Lead Infrastructure Engineer
+
+Lakeview Loan Servicing, LLC.
+
+North York, Ontario, Canada
+4 months ago
+AppOps, Senior Specialist
+AppOps, Senior Specialist
+
+Interac Corp.
+
+Toronto, Ontario, Canada
+1 day ago
+Incident and Release Manager FCC
+Incident and Release Manager FCC
+
+Fidelity Canada
+
+Toronto, Ontario, Canada
+2 weeks ago
+Lead Infrastructure Engineer
+Lead Infrastructure Engineer
+
+Bayview Asset Management, LLC
+
+Toronto, Ontario, Canada
+4 months ago
+Manager, Data Operations
+Manager, Data Operations
+
+CI Financial
+
+Toronto, Ontario, Canada
+4 weeks ago
+Sr. Manager Cloud and Automation
+Sr. Manager Cloud and Automation
+
+Celestica
+
+Toronto, Ontario, Canada
+2 days ago
+Technical Delivery Lead
+Technical Delivery Lead
+
+Canada Life
+
+Toronto, Ontario, Canada
+2 days ago
+Senior Technology Manager
+Senior Technology Manager
+
+BMO
+
+Toronto, Ontario, Canada
+2 weeks ago
+Manager, IT
+Manager, IT
+
+7shifts
+
+Toronto, Ontario, Canada
+6 days ago
+Similar Searches
+Production Support Manager jobs
+464 open jobs
+Computer System Administrator jobs
+879 open jobs
+Senior Technical Analyst jobs
+2,886 open jobs
+Head of Corporate Communications jobs
+204 open jobs
+Information System Manager jobs
+883 open jobs
+Help Desk Manager jobs
+971 open jobs
+Network Operations Manager jobs
+496 open jobs
+Senior Software Specialist jobs
+3,584 open jobs
+Electronic Data Interchange Manager jobs
+10 open jobs
+Software Quality Assurance Manager jobs
+51 open jobs
+Incident Manager jobs
+585 open jobs
+Problem Manager jobs
+2,369 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at CAA Club Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
