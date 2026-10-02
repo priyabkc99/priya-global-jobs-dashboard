@@ -1545,5 +1545,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-15) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Technical Product Owner -Hybrid Cloud platforms",
+    "company": "Auckland Council",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/technical-product-owner-hybrid-cloud-platforms-at-auckland-council-4469433143",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role as a Technical Product Owner in cloud platforms does not directly align with Priya's experience in release/CM/DevOps or technical communication, but it is located in New Zealand (a target country) and fits mid-to-senior level expectations.",
+    "id": "5e70c0c8",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-10-02T19:58:44+03:00",
+    "posted_date": "2026-09-25",
+    "deadline": "2023-10-11",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-11) passed by more than 2 days and unreviewed"
   }
 ]
