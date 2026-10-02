@@ -1,0 +1,237 @@
+Title: DevOps Engineer
+Company: Viable Solutions Pty Ltd
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-viable-solutions-pty-ltd-4472121657
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The DevOps Engineer role at Viable Solutions Pty Ltd in Melbourne, Australia matches Priya’s extensive CI/CD, configuration management, and release management experience, with alignment to regulated/safety-critical domains and target location/country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Viable Solutions Pty Ltd  Melbourne, Victoria, Australia
+2 days ago   Be among the first 25 applicants
+  
+
+See who Viable Solutions Pty Ltd has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Viable Solutions Pty Ltd provided pay range
+
+This range is provided by Viable Solutions Pty Ltd. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+A$80,000.00/yr - A$120,000.00/yr
+
+As a Senior DevOps Engineer, you will bring a cross-disciplinary skill set that spans the cloud, development, operations, continuous delivery, data, and security.
+
+
+
+
+For this role, you’ll need a deep understanding and experience in continuous integration and continuous delivery (CICCD) theory, concepts and real-world application. You need to be experienced with CI/CD tools and systems, and understand their setup, so you can integrate them to create fully functioning, cohesive delivery pipelines and commit, merge, build, test, package, and deploy code.
+
+Work within agile software delivery teams on customer sites
+Help our clients maintain and run reliable applications and systems
+Promote sound software engineering and DevOps practices
+Apply best practices to security in everything you do
+Keep your skills up to date and always be looking for continuous improvement
+Exploration and innovation - understand client workflows, including strengths and weaknesses, to identify new tech/solutions/improvements to make processes more efficient
+Develop documentation as good as the solutions you create
+Use automation and testing to make systems not only fast butalso reliable and repeatable
+
+Qualifications and Education Requirements
+
+A minimum of 10 years of Cloud and DevOps Experience with AWS, GCP or Azure
+
+
+
+
+Hands-on experience in (expert level)
+
+
+
+
+Docker, Kubernetes & Rancher
+API Gateways
+Security Groups
+Jenkins
+Core AWS (CloudFormation, EC2, S3, Fargate, etc.)
+Terraform, Bitbucket, GCP, AWS, Azure, CICD process, Github Actions, Python scripting, Docker and Kubernetes
+CI/CD
+Bash Scripting
+Python
+Good shell scripting experience
+Experience managing messaging applications and configuring them, e.g. IBM MQ, Kafka
+Good understanding of networking concepts
+Excellent verbal and written communication skills
+Strong time management skills with the ability to prioritise workloads under pressure and meet deadlines
+A self-starter who is hands-on and knows how to find answers and work with ambiguity
+
+Values-driven and practical in your approach
+
+
+
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Viable Solutions Pty Ltd by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Cloud & DevOps Engineer
+Cloud & DevOps Engineer
+Accenture Australia
+Melbourne, Victoria, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Verra Mobility
+South Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Verra Mobility
+Melbourne, Victoria, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Precisely
+Melbourne, Victoria, Australia
+2 weeks ago
+Software Engineer, DevOps
+Software Engineer, DevOps
+H2O.ai
+Melbourne, Victoria, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+Slalom
+Melbourne, Victoria, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+Liberty
+
+Melbourne, Victoria, Australia
+3 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Transurban
+
+Melbourne, Victoria, Australia
+3 weeks ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Future Secure AI
+
+Melbourne, Victoria, Australia
+1 day ago
+Platform Engineer - Core Data Platforms
+Platform Engineer - Core Data Platforms
+
+Suncorp Group
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+IAG
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Engineer (Remote in AU)
+Cloud Engineer (Remote in AU)
+
+Budgetly
+
+Melbourne, Victoria, Australia
+1 week ago
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Melbourne, Victoria, Australia
+20 hours ago
+Senior Cloud / DevOps Engineer
+Senior Cloud / DevOps Engineer
+
+Eightcap
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Macquarie Group
+
+Melbourne, Victoria, Australia
+1 week ago
+DevOps Engineer – AI & Data Science
+DevOps Engineer – AI & Data Science
+
+DFP Recruitment
+
+Melbourne, Victoria, Australia
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

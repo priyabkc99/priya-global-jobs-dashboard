@@ -1,0 +1,253 @@
+Title: Senior DevOps Engineer
+Company: Shift
+Location: North Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-shift-4451203433
+Posted: 2026-09-27
+Deadline: N/A
+Reason: The role of Senior DevOps Engineer at Shift in Australia aligns with the candidate's CI/CD pipeline ownership, infrastructure management, and security expertise, despite not being in a medical/device-regulated domain.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Shift  North Sydney, New South Wales, Australia
+5 days ago  69 applicants
+  
+
+See who Shift has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Who is Shift?
+
+At Shift, we’re business specialists dedicated to helping Australian SMEs take control of their cashflow, streamline trade terms and choose the right financial products.
+
+We believe Australian businesses are the driving force behind our economy and are core to our communities. That’s why our business expertise, focus on relationships, and market-leading technology is at the core of everything we do. We’ve helped solve the credit and payment pain points for more than 30,000 businesses, providing over $6 billion in aggregate funding.
+
+Our unique approach to product innovation combined with our collaborative culture means you can build your career in a supportive environment. You’ll be joining a diverse team of over 300 people who are always looking to deliver better outcomes for Australian businesses.
+
+About the role:
+
+At Shift, DevOps isn't a ticket queue. You won't be handed a change request and told to execute it, you'll be one of the people deciding how our cloud infrastructure gets built, secured and kept running. Our engineers carry real decision-making power, not just delivery responsibility, and the problems you'll be solving are ours alone to solve, because our data and decisioning capability is what makes Shift Shift. This is a hands-on role for someone who wants to own complex infrastructure and security work end to end.
+
+What you'll do:
+
+
+Lead complex DevOps and security initiatives across Shift's cloud environments, from design through to delivery.
+Build, maintain and continuously improve our automated deployment pipelines using DevOps best practice.
+Drive security testing, vulnerability scanning and remediation across production, data and operational infrastructure.
+Set the standard for security best practice - policies, risk assessments, controls and processes and guide the wider infrastructure team in applying it.
+Keep a live watch on emerging security threats and industry trends, and get ahead of risk before it becomes an incident.
+Partner closely with our engineering teams to embed security into applications and tooling from the start.
+Identify infrastructure and security uplift work that's been queued for too long, and lead it end to end - we'd rather fix things properly once than patch them repeatedly.
+
+
+What you'll bring:
+
+
+5+ years in a cloud infrastructure or security-focused technology role.
+Strong hands-on experience with Azure or AWS (IaaS and PaaS) - we run on Azure, but strong AWS experience that translates across is welcome.
+Proficiency in at least one scripting or programming language (Python, PowerShell, Bash or C#).
+Hands-on experience with Docker and Kubernetes, with working knowledge of Helm.
+A solid grasp of security fundamentals (IAM, WAF, vulnerability management) backed by real implementation experience.
+Experience with CSPM/KSPM tooling, network security controls (NSGs, application gateways, firewalls, private links), and secrets management (Azure Key Vault).
+Proven experience building and managing CI/CD pipelines (GitHub Enterprise, GitOps via Flux CD or Argo CD, Octopus Deploy).
+Azure Entra ID experience is preferred; exposure to Azure SQL or APM tooling like Dynatrace is a bonus.
+Comfort with ambiguity and a bias for figuring things out rather than waiting for a playbook - the tempo here is fast and the team is lean.
+
+
+Key benefits:
+
+
+Collaborative teams – a flat structure means everyone can learn from colleagues and senior leaders around the business.
+Be involved – come together with all of your colleagues every 100 days to share the product and technology roadmap and business strategy.
+Flexible working environment – we’re headquartered in North Sydney with state-based workplaces and offer a flexible work policy.
+Family support – industry leading 26 weeks paid parental leave.
+Purpose built spaces within our office – designed for collaboration, brainstorming, socialising, and focused work.
+Range of benefits supporting your physical, psychological and financial wellbeing. From a day off on your birthday to excellent end of trip facilities.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Shift by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Mainframe Developer jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Settify
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CORTO
+Millers Point, New South Wales, Australia
+2 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+3 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software Australia
+Sydney, New South Wales, Australia
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+XPT Software
+
+Sydney, New South Wales, Australia
+1 day ago
+Senior AI DevOps Engineer
+Senior AI DevOps Engineer
+
+Allianz Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pet Circle
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+1 week ago
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Nityo Infotech
+
+Sydney, New South Wales, Australia
+2 days ago
+Similar Searches
+Mainframe Developer jobs
+1,279 open jobs
+Junior Scientist jobs
+90 open jobs
+Head of Product jobs
+682 open jobs
+PHP Developer jobs
+282 open jobs
+Crime Analyst jobs
+109 open jobs
+Junior Engineer jobs
+1,935 open jobs
+National Training Manager jobs
+122 open jobs
+Senior Data Engineer jobs
+1,798 open jobs
+Tax Accountant jobs
+1,198 open jobs
+Event Consultant jobs
+575 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

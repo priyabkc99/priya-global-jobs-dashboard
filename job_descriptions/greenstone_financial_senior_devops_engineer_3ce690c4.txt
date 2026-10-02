@@ -1,0 +1,264 @@
+Title: Senior DevOps Engineer
+Company: Greenstone Financial Services
+Location: Bella Vista, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-greenstone-financial-services-4460209560
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The role of Senior DevOps Engineer at Greenstone Financial Services in Australia aligns with Priya's expertise in CI/CD pipelines, infrastructure as code, and regulated industry experience, while meeting all location, visa, and language requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Greenstone Financial Services  Bella Vista, New South Wales, Australia
+1 week ago  33 applicants
+  
+
+See who Greenstone Financial Services has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Be part of something transformational during an exciting period of growth within a dynamic team. The Platform Engineering team is a recently established function at Greenstone designed to drive our transformation toward Agile methodologies, modern AI-supported engineering practices, and technology modernization. As a Senior DevOps Engineer, you will enable stream-aligned teams by defining patterns and standards ("golden paths"), building automated infrastructure, and championing an exceptional developer experience.
+
+This Will Be Achieved Through
+
+
+AWS Landing Zone: Implement and validate enterprise landing zone capabilities using AWS Landing Zone Accelerator and AWS Control Tower patterns
+Infrastructure as Code: Translate AWS 3.0 architecture decisions into deployable IaC modules, pipelines, configurations, and operational runbooks
+Policy as Code: Implement and validate pre- and post-deployment assurance controls, exception handling, and compliance evidence
+Design Governance: Constructively challenge weak designs, unclear requirements, and manual "click-ops" operating models using evidence-based reasoning
+Team Enablement: Lead solution designs with support from Staff/Principal Engineers, and mentor team members through collaborative pairing and hands-on leadership by example
+
+
+What are we looking for?
+
+
+Strong communication and influencing skills
+A practical, delivery-focused approach
+Proven experience in a transformation as a Senior DevOps or Platform Engineer turning complex architecture, security, and networking requirements into working AWS patterns
+Deep technical expertise in AWS enterprise landing zones, IaC module development, and automated pipelines
+Experience establishing compliant, automated platforms fit for regulated workloads
+
+
+Our Promise to Our People
+
+Benefits
+
+We are passionate about our core values of Customer First, We Care, One Team, and Results Driven, which define how we approach our work. We recognise that our colleagues are the key to our success. That's why you can expect to be rewarded for the hard work you put in through job satisfaction, career development and the fantastic range of benefits we offer:
+
+Fantastic employee benefits including flexi days, flexible working, annual $1200 travel/parking allowance & more.
+
+
+State of the art building facilities including a dedicated & subsidised on-site company café (weekly free lunch) & on-site gym
+Health & well-being initiatives and programs
+Opportunity to take part in in-house leadership & emotional intelligence workshops
+Quarterly award functions and a grand annual conference to recognise our people
+Retail discounts e.g. movie tickets, Zoo passes, live shows + more
+Morsl market (a fully automated self-serve, food and drink marketplace with a wide variety of meals, snacks and drinks)
+
+
+Who We Are
+
+Greenstone distributes insurance products under trusted brands in Australia, New Zealand and Canada. Some of our brands are Buddy, Australian Seniors, New Zealand Seniors, OneChoice, Real Insurance, SPCA Pet Insurance, North Cover, FiftyUp and Guardian.
+
+We are the leading distributor of direct Insurance products in the Australian insurance market. Since launching into the Financial Services sector in 2007, Greenstone has experienced a commanding volume of growth being recognised for our credible brands, customer focused values and people-driven work culture.
+
+We are passionate about our core values, which contribute towards the positive culture that supports our employees, our customers and our community.
+
+Location
+
+Great central location in Norwest Business Park, Norwest, only a short walk from Norwest Metro station and also direct bus access from Parramatta and Blacktown.
+
+Apply Now
+
+If this role interests you, we would love to hear from you!
+
+Website: www.greenstone.com.au
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at Greenstone Financial Services by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Operational Risk Manager jobs
+Senior DevOps Engineer
+Similar jobs
+Staff Engineer, Back End
+Staff Engineer, Back End
+Greenstone Financial Services
+Bella Vista, New South Wales, Australia
+3 days ago
+Senior Full Stack Engineer
+Senior Full Stack Engineer
+Greenstone Financial Services
+Bella Vista, New South Wales, Australia
+3 days ago
+Commissioning and Integration Specialist
+Commissioning and Integration Specialist
+ACCIONA
+Mudgee, New South Wales, Australia
+4 days ago
+Head of Sales - Europe
+Head of Sales - Europe
+Sound
+Canadian Lead, New South Wales, Australia
+2 months ago
+Head Chef
+Head Chef
+Cubitt House
+Belgravia, New South Wales, Australia
+2 minutes ago
+Site Engineer
+Site Engineer
+Core Talent
+Dubbo, New South Wales, Australia
+3 days ago
+Show more jobs like this 
+People also viewed
+PART TIME Sandwich Artist
+PART TIME Sandwich Artist
+
+Subway® Australia
+
+Dubbo, New South Wales, Australia
+1 month ago
+Redpath Australia - Northparkes E22 Project
+Redpath Australia - Northparkes E22 Project
+
+REDPATH MINING
+
+Dubbo, New South Wales, Australia
+2 months ago
+Storeperson
+Storeperson
+
+Bapcor Limited
+
+Dubbo, New South Wales, Australia
+3 months ago
+Senior Town Planner
+Senior Town Planner
+
+Amey Australia
+
+Dubbo, New South Wales, Australia
+1 day ago
+Surveillance Officer
+Surveillance Officer
+
+Transport for NSW
+
+Dubbo, New South Wales, Australia
+2 days ago
+Front Desk Coordinator - TWPZ
+Front Desk Coordinator - TWPZ
+
+Taronga Conservation Society Australia
+
+Dubbo, New South Wales, Australia
+1 day ago
+Housekeeper - Dubbo
+Housekeeper - Dubbo
+
+Discovery Parks
+
+Dubbo, New South Wales, Australia
+2 months ago
+Valuer - Agribusiness
+Valuer - Agribusiness
+
+Bendigo Bank
+
+Dubbo, New South Wales, Australia
+3 weeks ago
+Cafe Operations Coordinator - TWPZ
+Cafe Operations Coordinator - TWPZ
+
+Taronga Conservation Society Australia
+
+Dubbo, New South Wales, Australia
+1 week ago
+Assistant Manager - Dubbo
+Assistant Manager - Dubbo
+
+Discovery Parks
+
+Dubbo, New South Wales, Australia
+2 months ago
+Similar Searches
+Operational Risk Manager jobs
+233 open jobs
+Vaccine Specialist jobs
+388 open jobs
+Life Insurance Specialist jobs
+59 open jobs
+Crisis Counselor jobs
+182 open jobs
+Head of Risk jobs
+372 open jobs
+Urban Designer jobs
+1,779 open jobs
+Clinical Fellow jobs
+156 open jobs
+Sponsorship Manager jobs
+1,189 open jobs
+Marketing Campaign Manager jobs
+1,010 open jobs
+Director of Software jobs
+156 open jobs
+Information Security Manager jobs
+168 open jobs
+Director Talent Acquisition jobs
+80 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

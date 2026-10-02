@@ -1,0 +1,442 @@
+Title: DevOps Engineer
+Company: CMSN Group Pty Ltd
+Location: Greater Sydney Area
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-cmsn-group-pty-ltd-4443147833
+Posted: 2026-08-03
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (GitHub Actions, Jenkins, Terraform), and matches her configuration-management/release-owner background. Location is Sydney, Australia (target country). No US restrictions or visa barriers.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+CMSN Group Pty Ltd  Greater Sydney Area
+2 months ago  34 applicants
+  
+
+See who CMSN Group Pty Ltd has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+← All open positions
+
+EngineeringHybrid
+
+DevOps Engineer
+
+Sydney, NSW
+
+AWS
+
+
+Kubernetes
+Terraform
+
+
+At CMSN Group Pty Ltd, we build innovative software products and digital platforms across AI, enterprise software, cloud infrastructure, robotics, e-commerce, managed IT services, renewable energy, and digital transformation. Since 2013, we've been helping businesses modernize their technology through scalable software and cloud solutions.
+
+We're looking for a skilled DevOps Engineer to help design, automate, and manage the cloud infrastructure that powers our growing portfolio of products, including AI platforms, ERP systems, eCommerce solutions, robotics applications, and SaaS products.
+
+About The Role
+
+As a DevOps Engineer, you will bridge development and operations by building secure, scalable, and highly available cloud infrastructure. You'll automate deployments, improve system reliability, implement Infrastructure as Code (IaC), and enhance our CI/CD pipelines to enable rapid software delivery.
+
+Key Responsibilities
+
+
+Design, build, and maintain cloud infrastructure on AWS, Azure, or Google Cloud.
+Develop and manage CI/CD pipelines using GitHub Actions, GitLab CI, Azure DevOps, or Jenkins.
+Implement Infrastructure as Code using Terraform, CloudFormation, or Ansible.
+Deploy and manage containerized applications using Docker and Kubernetes.
+Monitor application performance, availability, and security.
+Configure automated backups, disaster recovery, and high-availability solutions.
+Implement DevSecOps best practices and security automation.
+Manage Linux servers, networking, DNS, SSL certificates, and load balancers.
+Support development teams by improving deployment automation and operational efficiency.
+Troubleshoot infrastructure, networking, and deployment issues.
+Maintain documentation and operational procedures.
+Continuously improve cloud performance, scalability, and cost optimization.
+
+
+Required Skills
+
+
+Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field.
+3+ years of experience in DevOps, Cloud Engineering, or Site Reliability Engineering.
+Strong experience with Linux system administration.
+Experience with one or more cloud platforms:
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform (GCP)
+Strong knowledge of:
+Docker
+Kubernetes
+Git
+CI/CD pipelines
+Infrastructure as Code (Terraform or Ansible)
+Experience with scripting using:
+Bash
+Python
+PowerShell
+Knowledge of networking fundamentals:
+DNS
+TCP/IP
+VPN
+Firewalls
+Reverse Proxy
+SSL/TLS
+Experience with monitoring tools such as Prometheus, Grafana, ELK Stack, or Datadog.
+
+Nice to Have
+
+
+AWS, Azure, or Google Cloud certifications.
+Experience with GitHub Actions, Jenkins, or Azure DevOps.
+Knowledge of Helm and Kubernetes Operators.
+Experience managing PostgreSQL, MySQL, Redis, or MongoDB.
+Familiarity with Kafka, RabbitMQ, or MQTT.
+Experience supporting AI/ML infrastructure and GPU workloads.
+Knowledge of security compliance, vulnerability management, and DevSecOps.
+Experience with microservices architecture and API gateways.
+
+
+Technologies You'll Work With
+
+
+AWS
+Microsoft Azure
+Google Cloud Platform
+Docker
+Kubernetes
+Terraform
+Ansible
+Jenkins
+GitHub Actions
+GitLab CI/CD
+NGINX
+Linux
+Python
+Bash
+Prometheus
+Grafana
+ELK Stack
+PostgreSQL
+MySQL
+Redis
+Git
+
+
+What We Offer
+
+
+Work on innovative AI, robotics, enterprise software, and cloud platforms.
+Flexible hybrid and remote work options.
+Modern cloud-native technology stack.
+Training and certification support.
+Opportunities to work on large-scale, high-impact projects.
+Career growth in cloud engineering, DevOps, and platform architecture.
+Competitive salary based on experience.
+Collaborative and innovative engineering culture.
+
+
+Ideal Candidate
+
+You enjoy automating complex systems, solving infrastructure challenges, and building reliable cloud platforms. You're passionate about continuous improvement, modern DevOps practices, and enabling development teams to deliver software quickly, securely, and at scale.
+
+Apply Now
+
+Please Submit Your:
+
+
+Resume
+Cover Letter
+GitHub or Portfolio (if available)
+LinkedIn Profile
+Cloud Certifications (optional)
+
+
+Join CMSN Group and help build the cloud infrastructure powering the next generation of AI, enterprise software, and intelligent digital solutions.
+
+Apply for this roleBack to careers
+
+At CMSN Group Pty Ltd, we build innovative software products and digital platforms across AI, enterprise software, cloud infrastructure, robotics, e-commerce, managed IT services, renewable energy, and digital transformation. Since 2013, we've been helping businesses modernize their technology through scalable software and cloud solutions.
+
+We're looking for a skilled DevOps Engineer to help design, automate, and manage the cloud infrastructure that powers our growing portfolio of products, including AI platforms, ERP systems, eCommerce solutions, robotics applications, and SaaS products.
+
+About The Role
+
+As a DevOps Engineer, you will bridge development and operations by building secure, scalable, and highly available cloud infrastructure. You'll automate deployments, improve system reliability, implement Infrastructure as Code (IaC), and enhance our CI/CD pipelines to enable rapid software delivery.
+
+Key Responsibilities
+
+
+Design, build, and maintain cloud infrastructure on AWS, Azure, or Google Cloud.
+Develop and manage CI/CD pipelines using GitHub Actions, GitLab CI, Azure DevOps, or Jenkins.
+Implement Infrastructure as Code using Terraform, CloudFormation, or Ansible.
+Deploy and manage containerized applications using Docker and Kubernetes.
+Monitor application performance, availability, and security.
+Configure automated backups, disaster recovery, and high-availability solutions.
+Implement DevSecOps best practices and security automation.
+Manage Linux servers, networking, DNS, SSL certificates, and load balancers.
+Support development teams by improving deployment automation and operational efficiency.
+Troubleshoot infrastructure, networking, and deployment issues.
+Maintain documentation and operational procedures.
+Continuously improve cloud performance, scalability, and cost optimization.
+
+
+Required Skills
+
+
+Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field.
+3+ years of experience in DevOps, Cloud Engineering, or Site Reliability Engineering.
+Strong experience with Linux system administration.
+Experience with one or more cloud platforms:
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform (GCP)
+Strong knowledge of:
+Docker
+Kubernetes
+Git
+CI/CD pipelines
+Infrastructure as Code (Terraform or Ansible)
+Experience with scripting using:
+Bash
+Python
+PowerShell
+Knowledge of networking fundamentals:
+DNS
+TCP/IP
+VPN
+Firewalls
+Reverse Proxy
+SSL/TLS
+Experience with monitoring tools such as Prometheus, Grafana, ELK Stack, or Datadog.
+
+Nice to Have
+
+
+AWS, Azure, or Google Cloud certifications.
+Experience with GitHub Actions, Jenkins, or Azure DevOps.
+Knowledge of Helm and Kubernetes Operators.
+Experience managing PostgreSQL, MySQL, Redis, or MongoDB.
+Familiarity with Kafka, RabbitMQ, or MQTT.
+Experience supporting AI/ML infrastructure and GPU workloads.
+Knowledge of security compliance, vulnerability management, and DevSecOps.
+Experience with microservices architecture and API gateways.
+
+
+Technologies You'll Work With
+
+
+AWS
+Microsoft Azure
+Google Cloud Platform
+Docker
+Kubernetes
+Terraform
+Ansible
+Jenkins
+GitHub Actions
+GitLab CI/CD
+NGINX
+Linux
+Python
+Bash
+Prometheus
+Grafana
+ELK Stack
+PostgreSQL
+MySQL
+Redis
+Git
+
+
+What We Offer
+
+
+Work on innovative AI, robotics, enterprise software, and cloud platforms.
+Flexible hybrid and remote work options.
+Modern cloud-native technology stack.
+Training and certification support.
+Opportunities to work on large-scale, high-impact projects.
+Career growth in cloud engineering, DevOps, and platform architecture.
+Competitive salary based on experience.
+Collaborative and innovative engineering culture.
+
+
+Ideal Candidate
+
+You enjoy automating complex systems, solving infrastructure challenges, and building reliable cloud platforms. You're passionate about continuous improvement, modern DevOps practices, and enabling development teams to deliver software quickly, securely, and at scale.
+
+Apply Now
+
+Please Submit Your:
+
+
+Resume
+Cover Letter
+GitHub or Portfolio (if available)
+LinkedIn Profile
+Cloud Certifications (optional)
+
+
+Join CMSN Group and help build the cloud infrastructure powering the next generation of AI, enterprise software, and intelligent digital solutions.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at CMSN Group Pty Ltd by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+1 day ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Colonial First State
+Sydney, New South Wales, Australia
+3 weeks ago
+Devops Engineer
+Devops Engineer
+ASX
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Nityo Infotech
+Sydney, New South Wales, Australia
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Future Secure AI
+Sydney, New South Wales, Australia
+2 days ago
+Show more jobs like this 
+People also viewed
+Associate DevOps Engineer
+Associate DevOps Engineer
+
+Shift
+
+North Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Settify
+
+Sydney, New South Wales, Australia
+1 week ago
+Cloud Site Reliability Engineer
+Cloud Site Reliability Engineer
+
+Intrinzic
+
+Sydney, New South Wales, Australia
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer - Liquidity Platform
+Site Reliability Engineer - Liquidity Platform
+
+Macquarie Group
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+1 week ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+CORTO
+
+Millers Point, New South Wales, Australia
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Silicon Quantum Computing
+
+Sydney, New South Wales, Australia
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
