@@ -1,0 +1,265 @@
+Title: Senior DevOps Engineer
+Company: Jobgether
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/senior-devops-engineer-at-jobgether-4472892379
+Posted: 2026-10-02
+Deadline: Open until filled
+Reason: The Senior DevOps Engineer role at Jobgether in South Africa aligns with Priyanga's extensive CI/CD, infrastructure automation, and release management expertise (Elektrobit, Topcon), meets her relocation flexibility to South Africa, and offers visa sponsorship support for non-EU professionals.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Senior DevOps Engineer
+Jobgether  South Africa
+12 minutes ago   Be among the first 25 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior DevOps Engineer based in South Africa.
+
+Join an international banking project where you will help shape how cloud platforms are consumed through a modern self-service approach. You will design and implement a reusable “golden path” that enables development and platform teams to provision and manage cloud infrastructure efficiently. The role combines AWS, Terraform, Infrastructure as Code, automation, security, networking, and governance. You will influence both the technical architecture and the developer experience surrounding the platform. Working across teams and projects, you’ll have the autonomy to establish scalable engineering practices and delivery standards. This is a fully remote opportunity within a collaborative international environment, with immediate or near-term availability preferred.
+
+Accountabilities
+
+
+Design and implement a self-service cloud “golden path” using Terraform and automation.
+Develop reusable Infrastructure-as-Code components supporting account onboarding, workload deployment, and connectivity.
+Integrate security, networking, governance, compliance, and operational controls into the platform experience.
+Define and improve the developer and platform team experience for consuming the golden path.
+Establish controlled processes for building, testing, releasing, and promoting platform code across environments.
+Create clear documentation covering the usage, maintenance, and support model for reusable Terraform components.
+Validate the golden path through a selected pilot application and use the findings to improve the solution.
+Collaborate with technical teams and consultants working across multiple projects and timelines.
+
+
+Requirements
+
+
+5+ years of professional experience in DevOps or Cloud Engineering.
+At least 1 year of hands-on experience with AWS Cloud.
+Strong practical experience with Terraform and Infrastructure as Code.
+Experience with automation and CI/CD practices and tooling.
+Solid understanding of Git and modern software development workflows.
+Experience with Platform Engineering is a strong advantage.
+Knowledge of cloud security, particularly AWS IAM, is highly valued.
+Understanding of AWS networking concepts, including VPCs, routing, and connectivity.
+Familiarity with governance and compliance requirements in cloud environments.
+Strong technical documentation and communication skills.
+Fluent English, with at least B2 proficiency in speaking, writing, and listening.
+French language skills are considered an advantage.
+Strong communication, autonomy, organizational, and prioritization skills.
+Comfortable managing responsibilities across multiple projects and collaborating with consultants working on different timelines.
+Availability to start immediately or within approximately two weeks is preferred.
+
+
+Benefits
+
+
+100% remote working opportunity, providing flexibility to work from the location where you are most comfortable and productive.
+Opportunity to contribute to an international banking-sector project.
+Collaborative, dynamic, and professional working environment.
+International career exposure, with opportunities to work with teams and projects across Europe and other global markets.
+Professional growth opportunities within a technology-focused environment.
+Tech Visa support for eligible professionals based outside the European Union.
+Health and life insurance.
+Opportunity to collaborate with international teams across multiple countries and projects.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in South Africa.
+
+Sign in to create job alert
+Similar jobs
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+Johannesburg, Gauteng, South Africa
+8 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+South Africa
+3 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+RELX
+South Africa
+1 month ago
+Senior Platform Reliability Engineer
+Senior Platform Reliability Engineer
+IgniteTech
+South Africa
+$100,000 - $100,000
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+Morningstar
+South Africa
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+LexisNexis
+South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Amaris Consulting | Part of Mantu
+
+Cape Town, Western Cape, South Africa
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+EQPLUS TECHNOLOGIES PTY LTD
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Senior Hybrid Cloud / Infrastructure Engineer 💻 100% Remote Contract | 💰 R800 per hour
+Senior Hybrid Cloud / Infrastructure Engineer 💻 100% Remote Contract | 💰 R800 per hour
+
+e-Merge IT Recruitment
+
+South Africa
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Andela
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DigiOutsource
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Software Engineer, Engineering Operations
+Senior Software Engineer, Engineering Operations
+
+Camunda
+
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+impact.com
+
+Cape Town, Western Cape, South Africa
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Zensar Technologies
+
+Johannesburg Metropolitan Area
+2 weeks ago
+Principal DevOps Engineer (all genders)
+Principal DevOps Engineer (all genders)
+
+Expleo Group
+
+Hamburg, Eastern Cape, South Africa
+2 weeks ago
+Similar Searches
+Investment Administrator jobs
+177 open jobs
+Recruiting Team Lead jobs
+42 open jobs
+Broker Assistant jobs
+162 open jobs
+Implementation Engineer jobs
+3,703 open jobs
+System Integration Engineer jobs
+3,606 open jobs
+Sourcing Analyst jobs
+92 open jobs
+Wordpress Developer jobs
+1,093 open jobs
+Senior Technical Recruiter jobs
+41 open jobs
+Service Architect jobs
+154 open jobs
+Affiliate Manager jobs
+431 open jobs
+Information Technology Recruiter jobs
+52 open jobs
+Business Intelligence Consultant jobs
+365 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Jobgether
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
