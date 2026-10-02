@@ -23406,5 +23406,16 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-10-02T09:36:10",
+    "total": 3818,
+    "yes": 362,
+    "no": 2026,
+    "maybe": 1231,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 0
   }
 ]
