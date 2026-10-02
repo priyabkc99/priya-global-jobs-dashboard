@@ -1,0 +1,233 @@
+Title: Core Network DevOps Engineer
+Company: One New Zealand
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/core-network-devops-engineer-at-one-new-zealand-4474572643
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The job aligns with Priya's DevOps expertise, is located in New Zealand (a target country), and matches her experience with CI/CD pipelines and infrastructure tooling.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Core Network DevOps Engineer
+One New Zealand  Auckland, Auckland, New Zealand
+7 hours ago   Be among the first 25 applicants
+  
+
+See who One New Zealand has hired for this role
+
+Apply 
+Save
+He aha ai tātou – Why us?
+
+At One NZ we’re not just imagining the future, we’re building it. Our purpose? A better-connected Aotearoa New Zealand. Kia renarena te taukaea i Aotearoa New Zealand.
+
+Our ambition? To become the most AI-enabled telco on the planet. This isn’t just about our technology, It’s about you. We’re investing in our people like never before.... empowering them to grow, lead, and shape what’s next.
+
+Through our AI School, access to world-class learning platforms, or career pathways that evolve with you, we create an environment where your curiosity thrives, and your skills accelerate.
+
+Join us and be part of something extraordinary: connect with purpose and help redefine what’s possible.
+
+Uia mai koe te pātai, he aha te mea nui o tēnei ao? Māku koe e ki atu he tangata, he tangata, he tangata.
+
+“If you asked me, what is the greatest thing in this world, I would say it is people, it is people, it is people.”
+
+Ko tō tūranga – your role
+
+As the Core Network DevOps Engineer your role is to design, implement and support the 24x7 operation of One NZ’s Core Mobile and Fixed Data Network DevOps domains. You’ll be an active part of the DevOps function, delivering improvements in network capability and performance while supporting continuous improvement in customer experience.
+
+Ko Tō Mahi – What You’ll Do
+
+
+Deliver accurate, cost-effective network designs across medium to high complexity environments, considering end-to-end impacts.
+Identify key capacity and performance metrics and develop effective platform and domain management processes and reporting.
+Contribute to platform and domain roadmaps and network plans, and own implementation and acceptance plans.
+Peer review low-level and high-level network designs.
+Ensure implementation activities align with appropriate network change processes and quality standards.
+Deliver network changes on time and within budget while maintaining network integrity.
+Ensure all changes complete the required acceptance testing before live implementation.
+Resolve incidents within operational SLA targets and participate in 24x7 on-call rosters.
+Develop and implement processes, procedures, automation and AI workflows to improve operational performance.
+Maintain network integrity through an effective maintenance programme.
+
+
+Na Tōu Rourou - What You’ll Bring
+
+
+Extensive knowledge of Core Data DevOps platforms and technologies, including Mobile Data Core, Fixed Data Core and Mobile Signalling.
+Understanding of adjacent domains including mobile registers, IMS, fixed voice, messaging, virtual and container infrastructure, IP transport, security and enterprise technologies.
+Good knowledge of 3GPP and ETSI specifications.
+Experience with automation frameworks and scripting languages.
+Experience with virtualised and containerised environments such as VMware, Red Hat OpenShift, Red Hat OpenStack, Docker or Kubernetes.
+Experience using CI/CD pipelines to automate deployments, such as Azure DevOps.
+Understanding of ITIL methodologies and Agile ways of working.
+Excellent written and verbal communication skills, with the ability to build stakeholder relationships and make decisions under pressure.
+Ability to work effectively in a high-performing team and share platform and Core Domain knowledge.
+
+
+Nā Mātou Te Rourou – What You’ll Get
+
+
+One New Zealand is leading the way by ensuring you can have a truly balanced life. Most roles allow flexibility to work from home and flex your hours to enjoy work & whānau commitments.
+A fully subsidised Southern Cross health insurance cover for you and your family.
+Lifestyle leave, giving you the option to purchase an extra week or two of annual leave.
+Discounts on One New Zealand products, services and much more!
+
+
+We are proudly Rainbow Tick certified and champion diversity of thought, perspective and background. Joining our whānau is more than starting a new job - it’s the beginning of a journey that will challenge and inspire you to play a role in something bigger.
+
+Tū hikitia rā, tū hāpainga. Tū hāpainga, tū hikitia rā.
+
+We stand to uplift, to support and to elevate others.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at One New Zealand by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Unix OpenShift Dev Ops Specialist
+Unix OpenShift Dev Ops Specialist
+One New Zealand
+Auckland, Auckland, New Zealand
+2 weeks ago
+Cloud Engineer - AWS
+Cloud Engineer - AWS
+Datacom
+Auckland, Auckland, New Zealand
+3 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+Level
+Auckland, Auckland, New Zealand
+2 weeks ago
+Infrastructure Systems Specialist
+Infrastructure Systems Specialist
+ASB Bank
+Auckland, New Zealand
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+ZURU
+Auckland, New Zealand
+3 days ago
+Systems Reliability Engineer
+Systems Reliability Engineer
+Propellerhead
+Auckland, New Zealand
+6 days ago
+Show more jobs like this 
+People also viewed
+NIA Solution Engineer
+NIA Solution Engineer
+
+One New Zealand
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Senior Software Engineer - Platform
+Senior Software Engineer - Platform
+
+Halter
+
+Auckland, New Zealand
+1 month ago
+Lead Software Engineer - Platform
+Lead Software Engineer - Platform
+
+Halter
+
+Auckland, New Zealand
+1 month ago
+solution architect (cloud, devops & security)
+solution architect (cloud, devops & security)
+
+Randstad Digital New Zealand
+
+Auckland, Auckland, New Zealand
+3 months ago
+Platforms Lead
+Platforms Lead
+
+Tribe Group
+
+Auckland, Auckland, New Zealand
+3 days ago
+Principal Engineer, Platform & Security
+Principal Engineer, Platform & Security
+
+Stuff
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Linux Infrastructure Engineer
+Linux Infrastructure Engineer
+
+Westpac New Zealand
+
+Auckland, New Zealand
+1 week ago
+Senior Developer Experience Engineer
+Senior Developer Experience Engineer
+
+IDEXX
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Director, Cloud Platform & Reliability Engineering
+Senior Director, Cloud Platform & Reliability Engineering
+
+Visa
+
+Auckland, Auckland, New Zealand
+3 weeks ago
+Environment & Delivery Enablement Lead
+Environment & Delivery Enablement Lead
+
+Bluecurrent Australia & New Zealand
+
+Auckland, Auckland, New Zealand
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
