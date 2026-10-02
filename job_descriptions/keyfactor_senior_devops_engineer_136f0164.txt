@@ -1,0 +1,321 @@
+Title: Senior DevOps Engineer
+Company: Keyfactor
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-keyfactor-4463879696
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The job matches Priya's criteria: located in Canada (target country), role type aligns with DevOps Engineer (CI/CD pipeline ownership and infrastructure automation), senior-level experience required, and no mandatory non-English language requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Keyfactor  Toronto, Ontario, Canada
+23 hours ago  71 applicants
+  
+
+See who Keyfactor has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+About Keyfactor 
+
+Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care deeply about the work and each other. We move fast, think big, and show up for one another every day. If you're looking for work that matters and a team that brings out your best, we hope you'll trust your future with Keyfactor!
+
+Title: Senior DevOps Engineer
+
+Location: USA or Canada (Eastern timezone)
+
+Experience: Senior (IC4)
+
+Job Function: Engineering
+
+Employment Type: Full-Time
+
+Industry: Computer & Network Security 
+
+ 
+
+Job Summary
+
+The Senior DevOps Engineer uses expertise in modern development tools and practices to streamline developer operations and support software releases. By encouraging innovation and collaboration, this role supports business objectives through automation, efficient infrastructure architecture, and a focus on reliability, availability and security, helping to ensure integration and delivery of software products. 
+
+Responsible for building and maintaining the tools, processes, and environments that enable efficient software delivery. This role emphasizes automating workflows, containerizing applications, virtualization and hypervisors, implementing CI/CD pipelines, and Infrastructure as Code. 
+
+This role has a dual responsibility of building and maintaining on-premise as well as cloud-based infrastructure. A successful candidate should ideally have a deep knowledge of both, but we can also consider a candidate who is deep in one area and curious about and willing to learn the other. 
+
+Some of the technologies we work on include: Azure, AKS, Kubernetes, OpenShift, GitLab, ArgoCD, Artifactory, Ansible
+
+Job Responsibilities 
+
+Lead the design and implementation of infrastructure automation and deployment processes.
+Architect and manage scalable containerization and orchestration solutions for applications.
+Drive continuous integration and continuous delivery (CI/CD) improvements to optimize workflows.
+Monitor and enhance system performance, availability, and security through proactive measures.
+Collaborate closely with cross-functional teams to improve automation and deployment strategies.
+Implement and maintain Infrastructure as Code (IaC) for consistent and reproducible environments.
+Mentor junior engineers, providing technical guidance and fostering skill development.
+
+Minimum Qualifications, Education, and Skills
+
+Degree in Computer Science, Engineering, or another technical field (or equivalent experience).
+4 years or more of relevant work experience in DevOps, Platform Engineering, or IT infrastructure. 
+Extensive knowledge of DevOps and Platform Engineering industry trends. 
+Deep understanding of scripting, version control, and infrastructure best practices. 
+Comprehensive knowledge of system performance, security, and reliability. 
+Strategic thinking, exceptional problem-solving abilities, high-level proficiency in relevant tools and technologies. 
+Advanced skills in infrastructure automation and deployment. 
+Expertise in containerization and orchestration, in particular Kubernetes. 
+Experience with optimizing and scaling CI/CD pipelines. 
+Ability to lead complex projects, drive strategic initiatives, and influence decision-making. 
+Strong problem-solving and troubleshooting skills. 
+Ability to mentor junior team members and lead initiatives.
+
+Compensation
+
+Salary will be commensurate with experience.  
+
+Culture, Career Opportunities and Benefits 
+
+We build teams that continually strive to get better than the day before. You will be challenged daily and given opportunities to grow personally and professionally. We balance autonomy and structure to create an entrepreneurial environment to spur creativity and new ideas.  
+
+Here are just some of the initiatives that make our culture special:   
+
+Second Fridays (a company-wide day off on the second Friday of every month minus November and December due to the Holiday schedule). Please note that this benefit is subject to change.
+Comprehensive benefit coverage globally.
+Paid Parental Leave is available to new parents. Structure varies based on regional/government requirements. In regions where government-paid leave doesn’t exist, like in the U.S., the company offers generous paid parental leave, along with comprehensive adoption and fertility support.
+Competitive time off globally.
+Dedicated employee-focused ambassadors via Key Contributors & Culture Committees. 
+DIVERSE Commitment, a call to action for a more inclusive and diverse future in business, society, and technology. 
+The Keyfactor Alliance Program to support DEIB efforts. 
+Wellbeing resources, wellness allowance, mindfulness app free membership, Wellness Wednesdays. 
+Global Volunteer Day, company non-profit matching, and 3 volunteer days off.
+Monthly Talent development and Cross Functional meetings to support professional development. 
+Regular All Hands meetings – followed by group gatherings. 
+
+Our Core Values 
+
+Our core values are extremely important to how we run our business and what we look for in every team member:  
+
+Trust is paramount.   
+
+We deliver security software and solutions where trust and openness are of the highest importance for our customers. We are honest and a trusted partner in every aspect of business.   
+
+Customers are core.   
+
+We strategize, operate, and execute through a customer-centric view. We prioritize the security interests of our customers, and we act as if their data were our own.   
+
+Innovation never stops, it only accelerates.   
+
+The speed of change is accelerating. We are committed, through investment and focus, to stay ahead of the innovation curve.   
+
+We deliver with agility.    
+
+We thrive in high-paced and continually changing environments. We navigate through newly added variables, adjust accordingly, while driving towards our strategic goals.   
+
+United by respect.    
+
+Respect for all is what unites us. We promote diversity, inclusivity, equity, and acting with empathy and openness, both in our business and in our communities.   
+
+Teams make “it” happen.   
+
+Vision and goals are not individually achievable – they require teamwork. We pride ourselves in operating as a cohesive team, creating promoters and partners, and winning as one.   
+
+Keyfactor is a proud equal opportunity employer including but not limited to veterans and individuals with disabilities.  
+
+REASONABLE ACCOMMODATION: Applicants with disabilities may contact a member of Keyfactor’s People team via people@keyfactor.com and/or telephone at 1.216.785.2990 to request and arrange for accommodations at any time. 
+
+Keyfactor Privacy Notice
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at Keyfactor by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Ayla Networks
+Ontario, Canada
+2 weeks ago
+Senior DevOps Engineer (Kubernetes team)
+Senior DevOps Engineer (Kubernetes team)
+StackAdapt
+Canada
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CARET
+Toronto, Ontario, Canada
+$140,000 - $170,000
+3 days ago
+Senior Platform Engineer I
+Senior Platform Engineer I
+Wrapbook
+Canada
+CA$156,500 - CA$215,000
+1 week ago
+Senior, DevOps Engineer - 1 Year Contract
+Senior, DevOps Engineer - 1 Year Contract
+Teladoc Health Canada
+Canada
+1 week ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+ComPsych
+Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead Devops Engineer
+Lead Devops Engineer
+
+Quantiphi
+
+Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Modaxo
+
+Canada
+7 months ago
+DevOps CI/CD Engineer / Kentico - Remote Canada Position
+DevOps CI/CD Engineer / Kentico - Remote Canada Position
+
+NTT DATA North America
+
+Toronto, Ontario, Canada
+1 day ago
+Senior Site Reliability Engineer, Security
+Senior Site Reliability Engineer, Security
+
+AuthZed
+
+Canada
+1 week ago
+Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)
+Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)
+
+GitLab
+
+Canada
+1 week ago
+DevOps & Security Engineer
+DevOps & Security Engineer
+
+Reflow
+
+Toronto, Ontario, Canada
+3 months ago
+DevOps Engineer II
+DevOps Engineer II
+
+commonsku
+
+Toronto, Ontario, Canada
+CA$110,000 - CA$130,000
+2 days ago
+Senior Azure Devops Engineer - Banking Domain
+Senior Azure Devops Engineer - Banking Domain
+
+Enterprise Solutions Inc.
+
+Canada
+18 hours ago
+Senior Professional Services DevOps Engineer
+Senior Professional Services DevOps Engineer
+
+JFrog
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Backend & Infrastructure Engineer
+Senior Backend & Infrastructure Engineer
+
+Scispot
+
+Canada
+$100,000 - $175,000
+3 months ago
+Similar Searches
+Senior Dotnet Developer jobs
+3,276 open jobs
+Linux Specialist jobs
+207 open jobs
+Director of Web Development jobs
+194 open jobs
+Physicist jobs
+37 open jobs
+Retention Marketing Manager jobs
+154 open jobs
+Field Director jobs
+383 open jobs
+Linux Engineer jobs
+1,104 open jobs
+Director Sales Engineering jobs
+349 open jobs
+Infrastructure Engineer jobs
+3,272 open jobs
+Commercial Account Executive jobs
+1,890 open jobs
+Linux System Administrator jobs
+345 open jobs
+Senior Director of Operations jobs
+506 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Keyfactor
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
