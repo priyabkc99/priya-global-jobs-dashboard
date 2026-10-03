@@ -1,0 +1,345 @@
+Title: Senior DevOps Engineer
+Company: Murex
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-murex-4456050283
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at Murex matches Priya’s expertise in CI/CD pipeline ownership, automation, and infrastructure management, aligning with her experience in regulated industries and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Murex  Toronto, Ontario, Canada
+2 weeks ago   Over 200 applicants
+  
+
+See who Murex has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Murex is a global fintech leader in trading, risk management and processing solutions for capital markets.
+
+Operating from our 19 offices, 3 400 Murexians from over 65 different nationalities ensure the development, implementation and support of our platform which is used by banks, asset managers, corporations and utilities, across the world.
+
+Join Murex and work on the challenges of an industry at the forefront of innovation and thrive in a people-centric environment. You’ll be part of one global team where you can learn fast and stay true to yourself.
+
+What You’ll Do
+
+As a DevOps Engineer, you will be responsible for designing, building, and operating automated platforms that enable reliable, secure, and scalable delivery of the MX platform across SaaS, cloud, and on-premise environments.
+
+You will play a key role in CI/CD implementation, infrastructure automation, environment management, and production reliability, working closely with development, QA, and client-facing teams.
+
+
+CI/CD & Release Engineering
+Design, implement, and maintain CI/CD pipelines to support continuous integration, testing, and deployment across multiple environments
+Ensure pipeline stability, performance, and reliability, minimizing build failures and delays
+Implement automated build, packaging, and deployment processes
+Enforce version control best practices (branching strategies, tagging, artifact management)
+Support release cycles, including validation, smoke testing, and rollback strategies
+Automation
+Plan & Code Templates stored in Git repositories alongside application code, allowing template updates to be version-controlled, code-reviewed, and tracked
+Automate environment provisioning, configuration, and upgrades
+Build reusable automation components to improve scalability and consistency
+Reduce manual operations through process automation and scripting
+Environment & Platform Management
+Deploy and manage MX environments across development, testing, and production stages
+Handle environment lifecycle:
+Provisioning
+Configuration
+Upgrades & patching
+Decommissioning
+Ensure environments are standardized, reproducible, and compliant
+Support multi-client and multi-environment setups in SaaS or hybrid models
+Monitoring, Observability & Reliability (SRE mindset)
+Implement and maintain:
+Monitoring
+Logging
+Alerting
+Ensure end-to-end observability of platforms and pipelines
+Perform root cause analysis (RCA) on incidents
+Contribute to improving system reliability, SLAs, and operational KPIs
+Data & Environment Operations
+Manage environment data lifecycle:
+Data provisioning
+Data masking for non-prod environments
+Data sampling and reduction
+Support database operations:
+Migration
+Sanitization
+Reconciliation
+Ensure compliance with security and data governance requirements
+Incident & Support Management
+Act as a technical escalation point for environment and platform incidents
+Troubleshoot complex issues across infrastructure, pipelines, and environments
+Coordinate with support and product teams for resolution
+Ensure proper documentation and knowledge sharing
+Collaboration & Delivery Enablement
+Collaborate with:
+Development teams (integration into CI/CD pipelines)
+QA teams (test automation and environment consistency)
+Product teams (release readiness and constraints)
+Client teams (technical coordination and delivery)
+Contribute to smooth delivery across project lifecycle
+Continuous Improvement & Best Practices
+Promote DevOps principles:
+Automation-first
+Continuous integration & delivery
+Shift-left testing
+Identify inefficiencies and propose improvements
+Contribute to:
+Internal tooling
+Documentation
+Standardization efforts
+
+Share knowledge and support onboarding of new team members
+
+Who You Are
+
+If you enjoy solving complex problems, critical thinking and have the following knowledge:
+
+
+Education: Degree in Bachelor in Engineering, Computer Engineering, Computer Science, or Equivalent
+Over 7 years of IT experience with 2-4 years of experience in DevOps, CI/CD
+
+
+Technical Skills
+
+
+CI/CD tools: Jenkins, GitLab CI, Azure DevOps
+Version control systems: Git (advanced usage)
+Proficiency in template engines, specifically FreeMarker (FTL)
+Scripting: Shell, Python, Groovy
+Operating systems: Linux/Unix
+Cloud platforms: AWS (preferred), Azure/GCP is a plus
+Databases: RDBMS (Oracle, PostgreSQL, or similar)
+
+
+DevOps & Platform Expertise
+
+
+Experience building and operating CI/CD pipelines in complex environments
+Knowledge of monitoring and observability tools
+Exposure to SaaS / distributed architectures
+
+
+Soft Skills
+
+
+Strong analytical and troubleshooting skills
+Ability to work under pressure in production environments
+Clear communication with both technical and non-technical stakeholders
+Team-oriented with strong collaboration mindset
+Proactive and continuous improvement mindset
+Fluent written & oral English is necessary
+
+
+Why Should You Join Us
+
+
+Join a global market leader with a strong people-first focus
+Excellent Medical, dental, and short & long-term disability programs
+Paid 20 days holiday and 5 days sick leaves
+Be part of a diverse and inclusive team
+Work in an agile environment where you can collaborate with global teams from various expertise
+Opportunity to travel the world!
+
+
+Compensation for roles at Murex varies depending on a wide array of factors, including but not limited to the specific office location, role, skill set, and level of experience. Murex provides a reasonable range of compensation for roles that may be hired as set forth below and information on benefits offered.
+
+Salary Range: CAD 110,000- 140,000
+
+At Murex, we believe in providing equal opportunities for all employees and job applicants. Discrimination or harassment based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws is strictly prohibited.
+
+This policy applies to all aspects of employment, including recruitment, hiring, placement, promotion, termination, layoff, recall, transfer, leave of absence, compensation, and training. Our commitment to fairness and inclusivity lies at the heart of everything we do.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Murex by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Haventree Bank
+Toronto, Ontario, Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CARET
+Toronto, Ontario, Canada
+$140,000 - $170,000
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Keyfactor
+Toronto, Ontario, Canada
+23 hours ago
+Senior DevOps Engineer, Agentic Automation & Live Games
+Senior DevOps Engineer, Agentic Automation & Live Games
+Big Viking Games
+Toronto, Ontario, Canada
+CA$140,000 - CA$180,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Scotiabank
+Toronto, Ontario, Canada
+1 week ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+Borrowell
+Toronto, Ontario, Canada
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Scotiabank
+
+Toronto, Ontario, Canada
+5 days ago
+ModiFace - DevOps Developer
+ModiFace - DevOps Developer
+
+L'Oréal
+
+Toronto, Ontario, Canada
+2 weeks ago
+Platform Engineer, Cloud Dev/Ops - Depop
+Platform Engineer, Cloud Dev/Ops - Depop
+
+eBay
+
+Toronto, Ontario, Canada
+2 weeks ago
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+
+Mendable
+
+Toronto, Ontario, Canada
+$240,000 - $275,000
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Proofpoint
+
+Toronto, Ontario, Canada
+1 week ago
+AI-First DevOps Engineer
+AI-First DevOps Engineer
+
+Computrition, Inc.
+
+Greater Toronto Area, Canada
+1 month ago
+Senior Software Engineer, Cloud Engineering
+Senior Software Engineer, Cloud Engineering
+
+Mozilla
+
+Toronto, Ontario, Canada
+2 months ago
+Senior DevOps Engineer, for AI-based Systems
+Senior DevOps Engineer, for AI-based Systems
+
+Oncoustics
+
+Toronto, Ontario, Canada
+2 months ago
+DevOps Engineer II
+DevOps Engineer II
+
+commonsku
+
+Toronto, Ontario, Canada
+CA$110,000 - CA$130,000
+2 days ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Signal 1
+
+Toronto, Ontario, Canada
+5 days ago
+Similar Searches
+Survey Programmer jobs
+14,886 open jobs
+Postdoctoral Associate jobs
+129 open jobs
+Network Associate jobs
+778 open jobs
+Senior Quantitative Analyst jobs
+849 open jobs
+Assistant Risk Manager jobs
+1,700 open jobs
+Account Technology Strategist jobs
+1,157 open jobs
+Senior Structural Engineer jobs
+553 open jobs
+Quantitative Analyst jobs
+971 open jobs
+Junior Financial Controller jobs
+1,459 open jobs
+Head of Solutions jobs
+666 open jobs
+Stage Technician jobs
+161 open jobs
+Help Desk Manager jobs
+971 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Murex
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

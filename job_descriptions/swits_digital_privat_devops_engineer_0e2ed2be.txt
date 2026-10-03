@@ -1,0 +1,242 @@
+Title: Devops Engineer
+Company: SWITS DIGITAL Private Limited
+Location: Chennai, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-swits-digital-private-limited-4465015841
+Posted: 2026-09-11
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in CI/CD pipelines and configuration management (GitOps-based workflows, Helm charts), matches her target location (India), and fits her mid-to-senior experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Devops Engineer
+SWITS DIGITAL Private Limited  Chennai, Tamil Nadu, India
+3 weeks ago   Be among the first 25 applicants
+  
+
+See who SWITS DIGITAL Private Limited has hired for this role
+
+Apply
+Save
+Role:Devops Engineer
+
+Location: Chennai
+
+Experience: 6-12
+
+Domain: HealthCare
+
+Responsibilities
+
+
+Deploy, automate, maintain, and manage systems ensuring high availability, performance, and scalability across a large-scale multi-account AWS environment
+Design and implement GitOps-based CI/CD pipelines for continuous delivery across Dev, QA, UAT, and Production environments
+Author and maintain Helm charts for Kubernetes application deployments on AWS
+Provision and manage cloud infrastructure as code across multiple AWS accounts and regions
+Manage secrets and configuration securely integrated with application workloads
+Deploy and maintain applications on on-premises Linux servers alongside cloud-based container workloads
+Implement and enhance observability pipelines for logging, monitoring, and alerting
+Troubleshoot full-stack issues spanning containers, AWS networking, Oracle DB, MongoDB, and application layers
+Collaborate with senior engineers and architects on enterprise-level infrastructure initiatives
+Proactively review, recommend, and implement infrastructure changes with proper validation across all environments
+
+
+Qualifications
+
+
+5+ years of experience in DevOps, SRE, or platform engineering
+Strong hands-on experience with AWS container services (EKS or ECS), ECR, S3, CloudFront, IAM, VPC, and Parameter Store
+Experience with Kubernetes or container orchestration platforms deployments, services, ingress, RBAC, autoscaling, and secrets management; EKS experience preferred
+Experience with GitOps-based CI/CD pipelines using tools such as GitLab CI, Jenkins, or GitHub Actions; ArgoCD or Flux experience is a plus
+Experience authoring and maintaining Helm charts for multi-environment deployments
+Hands-on experience with Terraform for infrastructure provisioning; Terragrunt experience is a plus
+Experience with Docker building, optimizing, and debugging container images
+Familiarity with on-premises Linux server administration (RHEL/Ubuntu, systemd, Ansible)
+Experience with observability tooling Splunk, OpenTelemetry, Prometheus, Grafana, or similar
+Familiarity with JIRA, Confluence, and collaborative engineering workflows
+Experience in HIPAA-regulated or compliance-sensitive environments is a plus
+Self-motivated, technically curious, and comfortable working independently
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at SWITS DIGITAL Private Limited by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Firmware Design Engineer jobs
+Devops Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Cartney
+Chennai, Tamil Nadu, India
+1 day ago
+DevOps Engineer
+DevOps Engineer
+HCLTech
+Chennai, Tamil Nadu, India
+₹700,000 - ₹1,800,000
+1 week ago
+DevOps / Cloud Engineer
+DevOps / Cloud Engineer
+India Health Link
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+IDFC FIRST Bank
+Chennai, Tamil Nadu, India
+1 week ago
+DEVOPS ENGINEER
+DEVOPS ENGINEER
+SABfamilies
+Greater Chennai Area
+4 months ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Automios
+
+Chennai, Tamil Nadu, India
+1 year ago
+Azure Devops Engineer - Immediate Joiners
+Azure Devops Engineer - Immediate Joiners
+
+Movate
+
+Chennai, Tamil Nadu, India
+₹900,000 - ₹1,600,000
+4 weeks ago
+Senior DevOps
+Senior DevOps
+
+TEGNA
+
+Chennai, Tamil Nadu, India
+1 day ago
+Tazapay - Staff DevOps Engineer
+Tazapay - Staff DevOps Engineer
+
+Tazapay
+
+Greater Chennai Area
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Epergne Solutions
+
+Chennai, Tamil Nadu, India
+3 months ago
+Kubernetes Developer
+Kubernetes Developer
+
+HTC Global Services
+
+Chennai, Tamil Nadu, India
+6 days ago
+Infrastructure DevOps Specialist
+Infrastructure DevOps Specialist
+
+Celestica
+
+Guindy, Tamil Nadu, India
+1 week ago
+SRE Cloud DevOps Engineer
+SRE Cloud DevOps Engineer
+
+Neurealm
+
+Chennai, Tamil Nadu, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 week ago
+Similar Searches
+Firmware Design Engineer jobs
+637 open jobs
+Infrastructure Program Manager jobs
+79 open jobs
+SQL Database Administrator jobs
+49,938 open jobs
+Infrastructure Engineer jobs
+6,499 open jobs
+Embedded Software Engineer jobs
+1,138 open jobs
+Embedded Engineer jobs
+20,696 open jobs
+Product Design Intern jobs
+557 open jobs
+Java Software Engineer jobs
+11,988 open jobs
+Project Lead Developer jobs
+13,194 open jobs
+User Interface Specialist jobs
+51,698 open jobs
+Firmware Engineer jobs
+19,781 open jobs
+Senior Software Engineer jobs
+18,207 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

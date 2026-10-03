@@ -1,0 +1,261 @@
+Title: Software Release Manager
+Company: Spectrum IT Recruitment
+Location: Poole, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/software-release-manager-at-spectrum-it-recruitment-4473725984
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The Software Release Manager role at Spectrum IT Recruitment aligns with Priya's extensive experience in end-to-end release ownership, CI/CD pipeline management, and cross-team coordination across regulated industries, and is located in Poole, England (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Release Manager
+Spectrum IT Recruitment  Poole, England, United Kingdom
+2 days ago   Be among the first 25 applicants
+  
+
+See who Spectrum IT Recruitment has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Spectrum IT Recruitment provided pay range
+
+This range is provided by Spectrum IT Recruitment. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£55,000.00/yr - £60,000.00/yr
+
+Direct message the job poster from Spectrum IT Recruitment
+
+Oliver Wilson
+Oliver Wilson
+Client Manager | Scaling Software & Data teams across the UK market!
+
+Excellent opportunity for an experienced Software Release Manager to join an excellent clients established team in Poole, Dorset. The Software Release Manager will own and coordinate the end-to-end software release lifecycle across multiple applications and environments. The role is responsible for ensuring releases are planned, governed, and deployed safely and efficiently, with minimal disruption to the business.
+Working across Engineering, Product, QA, Infrastructure, and Support, this person will manage release readiness, deployment coordination, risk, communication, and continuous improvement.
+
+Key Responsibilities
+
+Own and manage the software release calendar and deployment schedule.
+Coordinate releases across production, staging, UAT, and other environments.
+Manage release readiness reviews, approvals, quality gates, and Go-Live activities.
+Identify and manage release risks, dependencies, blockers, rollback plans, and recovery activities.
+Maintain release documentation, change approvals, deployment records, and audit trails.
+Coordinate technical teams during complex or high-risk deployments.
+Work with Engineering and DevOps teams to improve CI/CD, deployment automation, and release reliability.
+Communicate release schedules, risks, impacts, and outcomes to technical and business stakeholders.
+Monitor release performance and drive continuous improvement across release processes and tooling.
+
+
+Skills & Experience
+
+Proven experience in Software Release Management, Deployment Management, or a similar software delivery role.
+Experience managing releases across multiple applications, teams, and environments.
+Strong understanding of the SDLC, CI/CD, DevOps, release governance, and change management.
+Experience with production deployments, hotfixes, rollback plans, and release risk management.
+Strong understanding of build and deployment pipelines and release automation.
+Excellent planning, organisation, stakeholder management, and communication skills.
+Ability to coordinate multiple teams and remain effective during high-pressure deployments.
+Strong focus on quality, operational stability, automation, and continuous improvement.
+
+
+Desirable
+
+Experience with modern CI/CD and deployment tooling.
+Exposure to cloud, infrastructure, or containerised environments.
+Experience working within Agile engineering teams.
+Knowledge of release KPIs such as deployment frequency, lead time, success rates, and release-related incidents.
+
+
+Spectrum IT Recruitment (South) Limited is acting as an Employment Agency in relation to this vacancy.
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Spectrum IT Recruitment by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Change And Release Manager jobs
+Software Release Manager
+Similar jobs
+Software Release Manager
+Software Release Manager
+Aspire Personnel Ltd
+Poole, England, United Kingdom
+£55,000 - £60,000
+1 week ago
+Release Manager
+Release Manager
+Nourish Care
+Bournemouth, England, United Kingdom
+1 week ago
+Release Train Engineer
+Release Train Engineer
+Leidos
+Ham, England, United Kingdom
+3 days ago
+Service Transition Manager
+Service Transition Manager
+Wiltshire Police
+Devizes, England, United Kingdom
+1 day ago
+Senior Manager, Head of Engineering Standards & DevOps
+Senior Manager, Head of Engineering Standards & DevOps
+Carnival UK (P&O Cruises & Cunard)
+Southampton, England, United Kingdom
+3 days ago
+Incident Manager
+Incident Manager
+LA International
+Wiltshire, England, United Kingdom
+3 days ago
+Show more jobs like this 
+People also viewed
+Engineering Delivery Coordinator
+Engineering Delivery Coordinator
+
+Lead Forensics
+
+Portsmouth, England, United Kingdom
+1 week ago
+Senior Delivery Manager - Digital Products
+Senior Delivery Manager - Digital Products
+
+Etch
+
+Southampton, England, United Kingdom
+2 weeks ago
+Digital Service Specialist - 36195
+Digital Service Specialist - 36195
+
+Environment Agency
+
+Salisbury, England, United Kingdom
+3 days ago
+Project Manager
+Project Manager
+
+Sirius Digital Services
+
+Portsmouth, England, United Kingdom
+1 day ago
+Digital Service Specialist - 36195
+Digital Service Specialist - 36195
+
+Environment Agency
+
+Dorchester, England, United Kingdom
+3 days ago
+Engineering Manager
+Engineering Manager
+
+Benifex
+
+Southampton, England, United Kingdom
+1 week ago
+Configuration Manager
+Configuration Manager
+
+Office for National Statistics
+
+Titchfield, England, United Kingdom
+1 day ago
+Sr. Site Reliability Engineer/ SWE
+Sr. Site Reliability Engineer/ SWE
+
+Visa
+
+Ham, England, United Kingdom
+3 days ago
+Engineering manager
+Engineering manager
+
+Seccl
+
+Bath, England, United Kingdom
+£95,000 - £110,000
+2 weeks ago
+Senior Project Manager
+Senior Project Manager
+
+Servaada - a Wipro Company
+
+Bath, England, United Kingdom
+3 weeks ago
+Similar Searches
+Change And Release Manager jobs
+228 open jobs
+Release Manager jobs
+5,967 open jobs
+Deployment Manager jobs
+11,482 open jobs
+Principal Design Engineer jobs
+834 open jobs
+Software Integration Engineer jobs
+1,511 open jobs
+Senior Automation Engineer jobs
+4,085 open jobs
+SAP Security Consultant jobs
+189 open jobs
+Release Engineer jobs
+2,904 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Sap Solutions Architect jobs
+557 open jobs
+Software Automation Engineer jobs
+3,592 open jobs
+Design Release Engineer jobs
+1,964 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Spectrum IT Recruitment
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

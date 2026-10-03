@@ -1,0 +1,243 @@
+Title: Senior DevOps Engineer
+Company: Jobgether
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-devops-engineer-at-jobgether-4472548218
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at Jobgether in Ireland aligns with Priyanga's expertise in CI/CD pipelines, infrastructure automation, and regulated-industry experience, meeting all target criteria including location, role type, and experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Jobgether  Ireland
+21 hours ago  28 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior DevOps Engineer based in Ireland.
+
+This role focuses on building and operating reliable, scalable cloud infrastructure for a fast-growing AdTech and e-commerce platform. You’ll take ownership of production infrastructure, containerized applications, deployment workflows, monitoring, and operational reliability. Working primarily with AWS and Kubernetes, you’ll help optimize systems for performance, scalability, availability, and cost efficiency. You’ll partner closely with development teams to improve CI/CD processes and make deployments smoother and more reliable. The role also offers opportunities to strengthen infrastructure automation, observability, and Infrastructure-as-Code practices. You’ll work in a flexible, remote environment where proactive problem-solving and strong ownership are highly valued.
+
+Accountabilities
+
+
+Manage, deploy, and maintain containerized applications using Kubernetes in production environments.
+Manage AWS infrastructure across services including EC2, VPC, S3, IAM, RDS, and OpenSearch, ensuring scalability, reliability, security, and cost efficiency.
+Monitor infrastructure and application performance, maintaining and improving alerting and observability systems to support high availability.
+Collaborate closely with development teams to streamline CI/CD pipelines and optimize deployment workflows.
+Troubleshoot infrastructure and application issues, investigate root causes, and drive timely incident resolution.
+Continuously improve infrastructure automation, operational processes, and DevOps best practices.
+Support performance tuning and cost optimization of EC2 instances and other cloud resources.
+Contribute to GitOps and Infrastructure-as-Code practices where appropriate.
+Build and maintain dashboards and monitoring solutions using tools such as Prometheus, Grafana, and AWS CloudWatch.
+
+
+Requirements
+
+
+5+ years of experience in DevOps or Site Reliability Engineering roles.
+Proven experience supporting production systems with high availability and reliability requirements.
+Strong hands-on experience with Kubernetes for container orchestration and production deployments.
+Solid understanding of AWS services, particularly EC2, VPC, S3, and IAM.
+Practical experience managing EC2 instances, including performance tuning and cloud cost optimization.
+Experience with monitoring and observability tools such as Prometheus, Grafana, and AWS CloudWatch.
+Strong scripting skills with Python and/or Bash for automation and operational tasks.
+Strong troubleshooting and problem-solving abilities, with a proactive approach to infrastructure reliability.
+Ability to take ownership of infrastructure initiatives while working effectively both independently and within a development team.
+Familiarity with GitOps practices for continuous delivery and infrastructure automation is a plus.
+Experience with Terraform or other Infrastructure-as-Code tools is advantageous.
+Advanced Grafana experience, including custom dashboards and visualizations, is beneficial.
+Experience managing AWS RDS instances is a plus.
+Familiarity with the Elastic Stack, including Elasticsearch, Kibana, and Elastic Cloud, is advantageous.
+Experience with AWS OpenSearch for search and analytics use cases is a plus.
+
+
+Benefits
+
+
+Competitive monthly compensation.
+Fully remote working environment.
+Flexible working schedule.
+18 paid vacation working days.
+Paid sick leave, including 5 undocumented sick days per year.
+Health support through medical insurance or sports programs.
+English lessons and sports activities.
+Opportunities to participate in charity events.
+Professional development support and opportunities to obtain certifications.
+Support for attending conferences and industry events.
+Mac equipment for work.
+Full support with Private Entrepreneur reporting services (ФОП).
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer, EMEA
+Senior DevOps Engineer, EMEA
+Keeper Security, Inc.
+Ireland
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Payslip
+County Mayo, Ireland
+5 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Payslip
+Dublin, County Dublin, Ireland
+5 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+Ireland
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Ireland
+3 months ago
+Staff/Lead Platform/DevOps Engineer
+Staff/Lead Platform/DevOps Engineer
+Mimica
+Ireland
+1 day ago
+Show more jobs like this 
+People also viewed
+Principal DevOps Engineer
+Principal DevOps Engineer
+
+Reperio Human Capital
+
+Galway, County Galway, Ireland
+€80,000 - €100,000
+1 week ago
+Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+
+MongoDB
+
+Cork, County Cork, Ireland
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+GemPool Recruitment
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Senior Platform Engineer - Infra & Cloud Delivery (f/m/d) , L5
+Senior Platform Engineer - Infra & Cloud Delivery (f/m/d) , L5
+
+Personio
+
+Dublin, County Dublin, Ireland
+1 day ago
+Sr. Staff Platform Operations Engineer (with OpenStack)
+Sr. Staff Platform Operations Engineer (with OpenStack)
+
+Cloudera
+
+Greater Dublin
+1 week ago
+Staff Software Engineer, Platform Infrastructure
+Staff Software Engineer, Platform Infrastructure
+
+Pantheon
+
+Dublin, County Dublin, Ireland
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Zinkworks
+
+Athlone, Ireland
+1 day ago
+Senior Site Reliability Engineer - GIPHY
+Senior Site Reliability Engineer - GIPHY
+
+TurboSquid by Shutterstock
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Production Engineer
+Senior Production Engineer
+
+Whatnot
+
+Dublin, County Dublin, Ireland
+€131,000 - €145,000
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Realtime Recruitment
+
+Dublin, County Dublin, Ireland
+€60,000 - €70,000
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Jobgether
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

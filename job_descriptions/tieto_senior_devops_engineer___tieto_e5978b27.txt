@@ -1,0 +1,251 @@
+Title: Senior DevOps Engineer - Tieto Caretech (m/f/d)
+Company: Tieto
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-tieto-caretech-m-f-d-at-tieto-4448836156
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps engineering, CI/CD pipelines, and infrastructure as code (Kubernetes/Terraform), matches her target location (India), and fits her mid-senior experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer - Tieto Caretech (m/f/d)
+Tieto  Pune Division, Maharashtra, India
+2 weeks ago   Over 200 applicants
+  
+
+See who Tieto has hired for this role
+
+Apply 
+Save
+Job Description
+
+At Tieto Caretech you’ll get a chance to provide patients and end users with product offerings that help them in their life, reinventing the world for good. If that sounds interesting, please keep on reading.
+
+About Us
+
+Tieto Caretech is modernizing the Nordic health and social care sector with modular, open, and interoperable software. We develop and deliver high-quality software solutions and services that enable healthcare and welfare professionals to do their work even better and with higher efficiency - have more time to care.
+
+We are a global team of professionals working on providing products and services to different sectors from intensive care to laboratory and social care. In addition to working closely with our customers, we also have our own products that we build and develop for various fields in society. From enabling healthcare professionals to spend more valuable time with their patients to providing data for professional athletes to achieve even better results, we make all that possible. With us you can build technology for the good of society and make your mark on the health and wellbeing of people in need.
+
+About The Role
+
+As a product development company with a multi-year history of building robust platform and products, we are shaping the future of European healthcare using healthcare open standards. To support this vision, we are engineering a strictly cloud-agnostic web application and require a hands-on Senior DevOps Engineer having 5-8 years of hands-on experience in the field of DevOps to execute our infrastructure, deployment, and automation initiatives.
+
+Our engineering culture emphasizes high autonomy, flat team alignment, and pragmatic problem-solving over micromanagement. You will play a crucial role during our ongoing migration from Azure DevOps (ADO) to GitHub, helping to pioneer an AI-native development environment. You will actively extend our existing ADO pipelines, build new GitHub workflows, and heavily utilize Kubernetes and Terraform to manage our containerized deployments across cloud and self-hosted environments.
+
+The Technology Stack
+
+
+Infrastructure & Provisioning: Kubernetes (K8s), Terraform
+CI/CD & Source Control: Azure DevOps (ADO), GitHub (Transitioning), GitHub Actions
+AI Tooling: GitHub Copilot, Claude (for AI-native/agentic development workflows)
+Application Development Technologies: Fundamental knowledge of .NET 10, C#, Angular, and TypeScript is nice to have.
+
+
+Responsibilities
+
+
+Pipeline Extension: Maintain, optimize, and extend existing Azure DevOps CI/CD pipelines while aggressively building out new GitHub Actions to support our repository migration.
+IaC Implementation: Write, test, and maintain highly modular Terraform scripts and manage Kubernetes clusters to support both cloud and on premises/self-hosted operational modes.
+Release Execution & Gating: Implement and manage advanced deployment pipelines (blue/green, canary) and feature toggles. Enforce strict pipeline gating and workflow state management—such as configuring automated rules for when features can transition to "Active" states—to support decoupled, on-demand releases.
+DevSecOps Execution: Configure and maintain automated security pipelines (container vulnerability and dependency scanning) and manage infrastructure secrets securely (e.g., HashiCorp Vault, Azure Key Vault).
+Observability & Alerting: Deploy, configure, and maintain the monitoring stack (e.g., Prometheus, Grafana, ELK) and wire up critical alert routing for the clinical product.
+AI Integration: Integrate AI agents (GitHub Copilot, Claude) directly into developer workflows and CI/CD pipelines to automate code quality checks, configuration management, and deployment gating.
+Operational Excellence: Troubleshoot complex deployment and configuration issues across the .NET 10 / Angular stack, ensuring high availability and seamless delivery.
+
+
+Core Technical Qualifications:
+
+
+Hands-on Containerization & IaC: Proven experience deploying and maintaining production workloads using Kubernetes and Terraform.
+Release Management Tooling: Hands-on experience configuring deployment gates, routing rules, and feature flags within CI/CD pipelines to enable continuous deployment without exposing unready features to clinical users.
+CI/CD Execution: Strong practical experience managing Azure DevOps pipelines with a demonstrated ability to build or transition workflows into GitHub / GitHub Actions.
+Security & Monitoring Tooling: Hands-on experience hardening containers, configuring secrets management, and writing custom alert rules for application performance monitoring.
+Ecosystem Familiarity: While you won't be writing the application code, you must know exactly how .NET (C#) and Angular/TypeScript applications compile, build, and deploy.
+AI-Forward Mindset: A strong willingness and technical aptitude to implement AI-assisted development tools (Copilot, Claude) into daily CI/CD operations.
+
+
+Professional Attributes:
+
+
+Pragmatic & Fact-Driven: You solve engineering problems based on objective data and system logic rather than chasing trends.
+Self-Starter: You require minimal supervision and thrive in a high-autonomy environment where you are trusted to execute your deliverables.
+Agile Collaborator: Comfortable operating within a fast-paced SAFe/Agile Scrum model, actively collaborating with developers and QA to streamline releases.
+
+
+What’s in it for you?
+
+In addition, as a company we offer you professional growth, open and friendly culture. We believe that our organizational culture is an important part of enabling you to be successful. We provide a flexible hybrid work model as part of our culture and way of working.
+
+Finally, we also believe in curiosity and learning as a lifestyle. We want to encourage you to keep up that curiosity and deepen your knowledge on topics you’re interested in.
+
+Could you be our new colleague?
+
+We look forward to hearing from you! We will fill the position as soon as we find the right person, so we encourage you to apply today.
+
+Additional Information
+
+At Tieto, we believe in the power of diversity, equity, and inclusion. We encourage applicants of all backgrounds, genders (m/f/d), and walks of life to join our team, as we believe that this fosters an inspiring workplace and fuels innovation. Our commitment to openness, trust, and diversity is at the heart of our mission to create digital futures that benefit businesses, societies, and humanity.
+
+Diversity, equity and inclusion | Sustainability | Tieto
+
+Stay alert to recruitment scams:
+
+
+Tieto only communicates via @tieto.com email addresses.
+We never ask candidates to pay fees or share financial details during recruitment.
+If you receive a suspicious message claiming to be from Tieto, don't respond — verify it via our official careers site.
+For more information visit Important Advisory Regarding Recruitment Fraud | Tieto Blog
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Tieto by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Devops Engineer
+Senior Devops Engineer
+Woliba
+Pune Division, Maharashtra, India
+3 months ago
+Senior DevOps Engineer, CX
+Senior DevOps Engineer, CX
+NiCE
+Pune City, Maharashtra, India
+2 days ago
+Senior Devops Engineer
+Senior Devops Engineer
+FNZ
+Pune/Pimpri-Chinchwad Area
+1 week ago
+Sr Software Engineer - DevOps & Automation Tools Engineer
+Sr Software Engineer - DevOps & Automation Tools Engineer
+MiniMed
+Pune Division, Maharashtra, India
+2 weeks ago
+Senior Staff DevOps Engineer
+Senior Staff DevOps Engineer
+SailPoint
+Pune Division, Maharashtra, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Assent
+Pune/Pimpri-Chinchwad Area
+2 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Comviva
+
+Pune Division, Maharashtra, India
+1 day ago
+Senior Cloud Platform Engineer - DevOps & Scripting
+Senior Cloud Platform Engineer - DevOps & Scripting
+
+PTC
+
+Pune Division, Maharashtra, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+thinkbridge
+
+Pune Division, Maharashtra, India
+6 days ago
+Senior Engineer - DevOps
+Senior Engineer - DevOps
+
+KSB Company
+
+Pune Division, Maharashtra, India
+4 months ago
+Sr DevOps Engineer - India
+Sr DevOps Engineer - India
+
+BMC Software
+
+Pune/Pimpri-Chinchwad Area
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+VicTree Solutions
+
+Pune City, Maharashtra, India
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+thinkbridge
+
+Pune City, Maharashtra, India
+5 days ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+HMH
+
+Pune Division, Maharashtra, India
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+EXL
+
+Pune Division, Maharashtra, India
+3 weeks ago
+DevOps Engineer - II
+DevOps Engineer - II
+
+Keywords Studios
+
+Pune Division, Maharashtra, India
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

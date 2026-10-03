@@ -1,0 +1,300 @@
+Title: DevOps Engineer
+Company: IFG - International Financial Group
+Location: Greater Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-ifg-international-financial-group-4472794572
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps Engineer experience (CI/CD pipelines, Azure DevOps), is located in Canada (target country), and does not require US-based work or visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+IFG - International Financial Group  Greater Vancouver, British Columbia, Canada
+3 days ago  78 applicants
+  
+
+See who IFG - International Financial Group has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+IFG - International Financial Group provided pay range
+
+This range is provided by IFG - International Financial Group. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+CA$109.00/yr - CA$113.00/yr
+
+Direct message the job poster from IFG - International Financial Group
+
+Vatsal Mori
+Vatsal Mori
+Talent Acquisition Specialist @IFG | Hiring for - Gaming, Tech, Digital, Legal and Construction talent across US and Canada. Let's Connect for future…
+
+Title: Azure DevOps Engineer – Azure DevOps, Go (Programming Language)
+
+Location: Vancouver, BC
+
+
+
+
+Job Description
+
+We are looking for an experienced Sr DevOps Engineer with strong expertise in Azure DevOps (ADO), CI/CD pipelines, YAML, automated workflows, and developer tooling. The ideal candidate will have experience building and optimizing engineering workflows in large-scale environments and a strong understanding of how AI agents and agentic AI can automate software development and DevOps activities.
+
+
+
+
+This role will focus on designing, implementing, and improving workflows that support the software development lifecycle—from documentation and coding through testing, building, deployment, and release—with an emphasis on automation and AI-driven engineering workflows.
+
+
+
+
+Key Responsibilities
+
+Minimum 5+ years of experience needed
+Design, develop, maintain, and optimize CI/CD pipelines using Azure DevOps and YAML.
+Go (Golang) is good to have
+Build and manage automated workflows across the software development lifecycle, including code development, testing, build, deployment, and release processes.
+Develop and maintain Azure DevOps tooling, pipeline infrastructure, templates, and reusable automation components.
+Identify opportunities to replace manual engineering processes with automated and agent-driven workflows.
+Design workflows that leverage AI agents / Agentic AI to assist with activities such as:
+Technical documentation generation and maintenance.
+Code generation and code modification.
+Automated code review and analysis.
+Test creation and execution.
+Build validation and troubleshooting.
+Deployment preparation and release activities.
+Evaluate how many existing engineering workflows can be driven or augmented by AI agents and identify opportunities to increase automation.
+Integrate AI-enabled capabilities into existing DevOps pipelines and engineering tooling.
+Develop workflows where multiple specialized agents can support different stages of the development lifecycle, such as documentation, coding, testing, and deployment.
+Partner with software engineers, platform engineers, and other technical teams to understand day-to-day development workflows and identify areas for agentic automation.
+Troubleshoot and resolve issues involving Azure DevOps pipelines, builds, releases, deployments, and automation workflows.
+Create reusable pipeline templates and automation patterns that can be adopted across engineering teams.
+Monitor pipeline performance, reliability, and execution and continuously improve the developer experience.
+Establish best practices for CI/CD, workflow automation, DevOps tooling, and AI-assisted engineering.
+Document pipeline architecture, automation processes, tooling, and operational procedures.
+Collaborate with distributed engineering teams across Canada and the US.
+
+
+
+
+Required Qualifications
+
+Strong hands-on experience with Azure DevOps (ADO).
+Strong experience designing and maintaining CI/CD pipelines using YAML.
+Experience defining, configuring, and maintaining automated engineering workflows.
+Experience with DevOps tooling across multiple stages of the software development lifecycle.
+Practical understanding of how AI agents or Agentic AI can be applied to software engineering and DevOps workflows.
+Experience identifying manual engineering activities that can be automated through AI-driven or intelligent workflows.
+Experience with build, test, deployment, and release automation.
+Strong troubleshooting and problem-solving skills across CI/CD environments.
+Experience working with distributed technical teams across Canada and the US.
+Excellent communication, collaboration, and technical documentation skills.
+
+
+
+
+Preferred Qualifications
+
+Experience working with AI agents, Agentic AI, generative AI, or AI-assisted developer tools.
+Experience integrating AI capabilities into CI/CD pipelines or developer tooling.
+Experience creating multi-step or multi-agent workflows for software engineering processes.
+Experience with Azure engineering environments and proprietary developer tools.
+Familiarity with Golang or other programming languages for extending DevOps tooling and automation.
+Experience developing reusable automation frameworks, pipeline templates, or internal developer platforms.
+Experience measuring workflow automation, including the percentage of engineering workflows that are automated or agent-driven
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at IFG - International Financial Group by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Greater Vancouver, British Columbia, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Corpay
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+StackAdapt
+Vancouver, British Columbia, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Varonis
+Vancouver, British Columbia, Canada
+1 week ago
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+EA SPORTS
+Vancouver, British Columbia, Canada
+1 week ago
+SRE Specialist/DevOps Developer
+SRE Specialist/DevOps Developer
+Fortinet
+Burnaby, British Columbia, Canada
+4 months ago
+DevOps Engineer
+DevOps Engineer
+Broadridge
+Greater Vancouver Metropolitan Area
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead Software Engineer(DevOps)
+Lead Software Engineer(DevOps)
+
+Mastercard
+
+Vancouver, British Columbia, Canada
+6 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+2K
+
+Burnaby, British Columbia, Canada
+4 days ago
+Site Reliability Consultant
+Site Reliability Consultant
+
+Pythian
+
+Greater Vancouver Metropolitan Area
+2 weeks ago
+Azure DevOps engineer
+Azure DevOps engineer
+
+IFG - International Financial Group
+
+Greater Vancouver, British Columbia, Canada
+CA$109 - CA$113
+6 days ago
+Software Engineer - Infrastructure
+Software Engineer - Infrastructure
+
+Gumloop
+
+Vancouver, British Columbia, Canada
+$185,000 - $285,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Boeing
+
+Richmond, British Columbia, Canada
+5 days ago
+Staff Platform Engineer
+Staff Platform Engineer
+
+Rivian
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior Cloud Platform Engineer, DevOps
+Senior Cloud Platform Engineer, DevOps
+
+ProCogia
+
+Vancouver, British Columbia, Canada
+CA$100,000 - CA$115,000
+1 week ago
+Senior Cloud Platform Engineer, DevOps
+Senior Cloud Platform Engineer, DevOps
+
+ProCogia
+
+Greater Vancouver Metropolitan Area
+1 week ago
+Platform Development Engineer-II
+Platform Development Engineer-II
+
+Best Buy Canada
+
+Vancouver, British Columbia, Canada
+1 week ago
+Similar Searches
+Layout Artist jobs
+624 open jobs
+Technology Risk Consultant jobs
+86 open jobs
+Technical Animator jobs
+219 open jobs
+Enterprise Project Manager jobs
+2,129 open jobs
+Head of Treasury jobs
+32 open jobs
+Labor Relations Manager jobs
+947 open jobs
+Senior Character Animator jobs
+57 open jobs
+Insurance Advisor jobs
+3,203 open jobs
+Mutual Fund Representative jobs
+454 open jobs
+Associate Finance Manager jobs
+89 open jobs
+Reimbursement Specialist jobs
+2,784 open jobs
+Character Animator jobs
+448 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at IFG - International Financial Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

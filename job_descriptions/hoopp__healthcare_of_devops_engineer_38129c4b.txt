@@ -1,0 +1,287 @@
+Title: DevOps Engineer
+Company: HOOPP (Healthcare of Ontario Pension Plan)
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-hoopp-healthcare-of-ontario-pension-plan-4434793882
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The role of DevOps Engineer at HOOPP in Toronto, Canada matches Priya's expertise in CI/CD pipelines, release management, and regulated environments, aligning with her background in Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+HOOPP (Healthcare of Ontario Pension Plan)  Toronto, Ontario, Canada
+1 week ago   Over 200 applicants
+  
+
+See who HOOPP (Healthcare of Ontario Pension Plan) has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Why You’ll Love Working Here
+
+
+high-performance, people-focused culture
+our commitment that equity, diversity, and inclusion are fundamental to our work environment and business success, which helps employees feel valued and empowered to be their authentic selves
+learning and development initiatives, including workshops, Speaker Series events and access to LinkedIn Learning, that support employees’ career growth
+membership in HOOPP’s world class defined benefit pension plan, which can serve as an important part of your retirement security
+competitive, 100% company-paid extended health and dental benefits for permanent employees, including coverage supporting our team's diversity and mental health (e.g., gender affirmation, fertility and drug treatment, psychological support benefits of $2,500 per year, parental leave top-up, and a health spending account).
+optional post-retirement health and dental benefits subsidized at 50%
+yoga classes, meditation workshops, nutritional consultations, and wellness seminars
+the opportunity to make a difference and help take care of those who care for us, by providing a financially secure retirement for Ontario healthcare workers
+
+
+Job Summary
+
+The Pension Technology group at HOOPP (Healthcare of Ontario Pension Plan) is seeking a DevOps Engineer to join the Pension Core / Release and Configuration Management (RCM) team. In this role, you will own the reliability, automation, and continuous delivery of the Insight Pension Platform across 10+ environments, from development through production.
+
+You will drive and streamline release pipelines, maintain environment health, and partner with other teams and vendors to deliver high-quality, compliant deployments. The group values challenging the status quo, innovative solutions, team collaboration, and practicality.
+
+What You Will Do
+
+
+Design, build, and maintain CI/CD pipelines using Azure DevOps to enable reliable, repeatable software delivery across all environments.
+Maintain 10+ environments, including stability, data refreshes, and deployment readiness validation.
+Manage platform security posture — implementation and operation of gMSA service accounts, TDE encryption, SSL/TLS for IIS, Azure Key Vault and CyberArk integration, SOD pipeline enforcement, and audit and compliance remediation.
+Respond to and resolve production incidents as part of the on-call rotation.
+Champion automation and process improvement — identify manual bottlenecks and build pipeline-driven solutions to reduce manual operations work and improve delivery speed.
+Collaborate with internal teams and external vendors on release coordination, deployment instructions, and joint infrastructure initiatives.
+Maintain proper documentation like environment matrices, incident playbooks, configuration steps, and deployment runbooks.
+Actively participate in Agile Scrum practices, including daily standups, backlog refinement, planning, and sprint retrospectives.
+Quickly learn, evaluate, and apply new concepts and technologies.
+
+
+Who You Are
+
+
+3+ years of experience in DevOps, SRE, or operations role.
+Degree in Computer Science, Engineering, or a related field — or equivalent practical experience in IT operations/infrastructure.
+Strong interpersonal and communication skills, with a demonstrated ability to take end-to-end ownership of deliverables.
+Demonstrated ability to automate repetitive processes and reduce manual operational work.
+Comfortable working in on-call rotations and responding to production incidents.
+Skilled in modern development tools and practices, such as git, CI/CD, and unit testing.
+Pension, financial services, or regulated environment experience is preferred.
+
+
+Demonstrated hands-on experience in one or more of the following areas:
+
+
+Azure DevOps
+PowerShell, YAML, Python
+IIS Administration
+Azure Monitor or similar APM tools
+Terraform
+Windows Server administration (Active Directory, Group Policy, DNS)
+Certificate management (SSL/TLS, Key Vault)
+Networking fundamentals (routing, firewalls, load balancers)
+MS Dynamics CRM
+SQL
+
+
+Nice-to-Have
+
+
+SQL Server Administration
+ServiceNow workflow knowledge
+Power BI
+MS SharePoint server
+Node.js
+Playwright, JMeter, Artillery or similar
+
+
+The expected annual base salary range for this role is: $71,000 - $109,000 CAD
+
+The actual base salary offered to the successful candidate may vary based on multiple factors including, but not limited to, individual's expertise and level of experience applicable to the role they are being offered.
+
+This role is eligible to participate in discretionary incentive plan(s), subject to the terms and conditions of the applicable incentive plan text.
+
+This job is for an existing vacancy.
+
+HOOPP may use artificial intelligence tools to assist in screening, assessing and selecting applicants for this position. These tools support our recruitment process but do not replace human judgment and decision-making.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at HOOPP (Healthcare of Ontario Pension Plan) by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Leap Tools
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer II
+DevOps Engineer II
+commonsku
+Toronto, Ontario, Canada
+CA$110,000 - CA$130,000
+2 days ago
+DevOps Engineer
+DevOps Engineer
+TitanFile Inc.
+Toronto, Ontario, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+StackAdapt
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+J&M Group
+Toronto, Ontario, Canada
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Caseware
+Toronto, Ontario, Canada
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+
+Mendable
+
+Toronto, Ontario, Canada
+$240,000 - $275,000
+1 month ago
+DevOps Engineer (Permanent)
+DevOps Engineer (Permanent)
+
+CoreFactor
+
+Greater Toronto Area, Canada
+4 days ago
+Platform Engineer
+Platform Engineer
+
+Viva Tech Solutions
+
+Toronto, Ontario, Canada
+19 hours ago
+ARE Automation
+ARE Automation
+
+J&M Group
+
+Toronto, Ontario, Canada
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Sage Recruiting Inc.
+
+Toronto, Ontario, Canada
+CA$130,000 - CA$150,000
+3 weeks ago
+DevOps Specialist
+DevOps Specialist
+
+Manulife
+
+Toronto, Ontario, Canada
+3 days ago
+Platform Engineer
+Platform Engineer
+
+Skip
+
+Oakville, Ontario, Canada
+2 days ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture
+
+Ottawa, Ontario, Canada
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+KPMG Canada
+
+Kitchener, Ontario, Canada
+2 weeks ago
+Founding DevOps/SRE Engineer
+Founding DevOps/SRE Engineer
+
+Requesty
+
+London, Ontario, Canada
+2 months ago
+Similar Searches
+Money Market Trader jobs
+27 open jobs
+Pension Manager jobs
+1,507 open jobs
+Senior Actuarial Associate jobs
+79 open jobs
+Financial Analyst Contract jobs
+2,099 open jobs
+Property Officer jobs
+2,874 open jobs
+Communications Advisor jobs
+714 open jobs
+Director Capital Market jobs
+383 open jobs
+Enterprise Program Manager jobs
+362 open jobs
+Associate Investment Advisor jobs
+1,833 open jobs
+Director Credit Risk jobs
+52 open jobs
+Pension Analyst jobs
+1,305 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at HOOPP (Healthcare of Ontario Pension Plan)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

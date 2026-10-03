@@ -1,0 +1,267 @@
+Title: Engineer, DevOps
+Company: Recurrent Energy
+Location: Kitchener, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/engineer-devops-at-recurrent-energy-4472510813
+Posted: 2026-10-01
+Deadline: N/A
+Reason: The DevOps Engineer role at Recurrent Energy in Kitchener, Ontario, Canada aligns with Priya's CI/CD pipeline expertise (Jenkins/GitHub Actions), infrastructure-as-code experience (Terraform/Ansible), and technical documentation ownership (release notes/SOPs), while meeting all location, visa sponsorship, and regulated-industry compatibility criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Engineer, DevOps
+Recurrent Energy  Kitchener, Ontario, Canada
+1 day ago  84 applicants
+  
+
+See who Recurrent Energy has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+At Canadian Solar, our vision is to make lives better by bringing electricity powered by the sun to millions of people worldwide. As a leading manufacturer of solar panels, inverters, and energy storage solutions, we've been an industry front-runner since our founding in 2001. Our commitment to sustainability is reflected in all parts of our organization as we navigate the complexities of a booming industry.
+
+Throughout Canadian Solar's subsidiaries, e-Storage, Recurrent Energy, MSS and CSI Solar Co., we invest in our employees' growth. Our training programs and promotional opportunities ensure we all can continue to learn. We understand the importance of work-life balance and provide various flexible work options to support our employees' well-being. Join our team to "Make the Difference" by creating a lasting positive impact on the world and the communities where we operate.
+
+Job Description
+
+Position Title: DevOps Engineer
+
+Department: Information Technology
+
+Reports To: Information Systems and Integration Manager, Corporate IT
+
+Location: Kitchener, ON (Hybrid)
+
+Description
+
+The DevOps Engineer is responsible for automating and integrating the processes needed to deploy and manage software applications and systems. This role involves collaboration with development and operations teams to improve scalability, efficiency, and reliability of the development and deployment processes.
+
+
+Design, implement, and maintain CI/CD pipelines to automate the build, test, and deployment processes.
+Collaborate with product development, engineering, QA, execution, and operations teams to define and implement best practices for software development and deployment.
+Manage and maintain build servers, repositories, and related infrastructure.
+Monitor, debug and troubleshoot build and deployment issues, ensuring timely resolution and minimizing downtime.
+Implement and manage software release channels and mechanisms for on-site and remote software image deployment – both for cloud-based systems and real-time embedded devices and industrial PCs.
+Implement security and data protection measures.
+Automate repetitive tasks and improve the efficiency of the development and deployment processes.
+Ensure security and compliance of the build and deployment pipelines.
+Maintain and enhance infrastructure as code (IaC) using tools such as Terraform, Ansible, or CloudFormation.
+Monitor system performance and ensure high availability of infrastructure and applications.
+Stay up-to-date with industry trends and emerging technologies to continuously improve the DevOps processes.
+Ensure the performance, quality, and responsiveness of applications.
+Collaborate with embedded software engineer, front/back -end developers to integrate software components.
+Optimize (incl upgrade) build and release applications for maximum speed and scalability.
+Develop and maintain technical documentation (e.g. release notes), including design specifications and user manuals.
+Support cultivating a culture of accountability, transparency, and continuous learning
+Take ownership of their work and contribute to the overall success of the organization.
+Conduct other duties as required
+
+
+Required Qualifications And Skills
+
+
+Bachelor's or master's degree in engineering, Computer Science, information technology, power automation, or related field. Advanced degree or equivalent experience preferred.
+5+ years proven experience as a DevOps Engineer or in a similar role.
+Strong knowledge of CI/CD tools (e.g., Jenkins, GitLab CI, Atlassian Pipeline).
+Experience with version control systems (e.g., Git).
+Proficiency in scripting languages (e.g., Python, Bash, Java, Ruby, PHP, PowerShell).
+Hands-on experience with containerization technologies (e.g., Docker, Kubernetes).
+Knowledge of infrastructure as code (IaC) tools (e.g., Terraform, Ansible, CloudFormation).
+Experience with monitoring and logging tools (e.g., Prometheus, Grafana, ELK Stack) is a plus.
+Knowledge of security best practices in DevOps is required.
+Familiar with power SCADA/EMS system software architecture is a plus.
+Knowledge of embedded software, front/back -end development environment; familiar with basic data structures; familiar with multi-thread programming is a plus
+Experience with database systems such as MySQL, PostgreSQL, Snowflake.
+Understanding RESTful APIs and web services is a plus.
+Experience with cloud services and infrastructure, such as AWS and/or Azure.
+Able to work independently on assigned tasks and escalate to surface roadblocks and risk mitigation.
+Passion for technology innovation and building systems from scratch.
+Have domain experience with software systems for utility scale battery energy storage systems is a big plus
+Excellent problem-solving skills and attention to detail.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Renewable Energy Power Generation
+  
+
+Referrals increase your chances of interviewing at Recurrent Energy by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Kitchener, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Infosys
+Mississauga, Ontario, Canada
+1 week ago
+DevOps Engineer (Permanent)
+DevOps Engineer (Permanent)
+CoreFactor
+Greater Toronto Area, Canada
+4 days ago
+Systems Engineer
+Systems Engineer
+MCAP
+Waterloo, Ontario, Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Canadian Solar Inc.
+Kitchener, Ontario, Canada
+1 day ago
+Platform Engineer
+Platform Engineer
+Skip
+Oakville, Ontario, Canada
+2 days ago
+Site Reliability Engineer / Release Management & Automation Specialist
+Site Reliability Engineer / Release Management & Automation Specialist
+Sun Life
+Waterloo, Ontario, Canada
+6 days ago
+Show more jobs like this 
+People also viewed
+Sr. DevSecOps Engineer
+Sr. DevSecOps Engineer
+
+Rogers Communications
+
+Brampton, Ontario, Canada
+2 weeks ago
+Lead Software Developer (DevOps)
+Lead Software Developer (DevOps)
+
+OpenText
+
+Waterloo, Ontario, Canada
+17 hours ago
+Technology Lead - DevOps
+Technology Lead - DevOps
+
+Infosys
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Senior DevOps Lead - Vice President
+Senior DevOps Lead - Vice President
+
+Citi
+
+Mississauga, Ontario, Canada
+6 days ago
+Administrateur(trice) cloud/DevOps
+Administrateur(trice) cloud/DevOps
+
+CGI
+
+Greater Toronto Area, Canada
+6 days ago
+Senior Infrastructure / Platform Engineer
+Senior Infrastructure / Platform Engineer
+
+HCLTech
+
+Brampton, Ontario, Canada
+3 weeks ago
+Sr. DevSecOps Analyst
+Sr. DevSecOps Analyst
+
+EllisDon
+
+Mississauga, Ontario, Canada
+1 month ago
+Lead Software Developer (DevOps)
+Lead Software Developer (DevOps)
+
+OpenText
+
+Mississauga, Ontario, Canada
+18 hours ago
+DevOps Manager
+DevOps Manager
+
+NLB Services
+
+Brampton, Ontario, Canada
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+FDM Group
+
+Greater Toronto Area, Canada
+2 months ago
+Similar Searches
+Director of Preconstruction jobs
+134 open jobs
+Talent Management Consultant jobs
+52 open jobs
+Director Energy jobs
+170 open jobs
+Energy Auditor jobs
+182 open jobs
+Transmission Planning Engineer jobs
+136 open jobs
+Proposal Engineer jobs
+1,202 open jobs
+Project Developer jobs
+5,253 open jobs
+Commercial Estimator jobs
+376 open jobs
+Textile Engineer jobs
+1,290 open jobs
+Director of Financial Planning and Analysis jobs
+292 open jobs
+Senior Environmental Specialist jobs
+426 open jobs
+Energy Analyst jobs
+582 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Recurrent Energy
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

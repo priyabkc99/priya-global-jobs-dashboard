@@ -1,0 +1,109 @@
+Title: DevOps Engineer
+Company: XPT Software Australia PTY Ltd
+Location: Melbourne VIC, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-59db1b07176f264299643ed0f426eb1a
+Posted: 20h ago
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Melbourne, Australia aligns with Priya's CI/CD/release management expertise, regulated-industry experience (though not explicitly EU MDR/ISO 13485), and target location/country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+XPT Software
+–
+Melbourne VIC
+Contract
+20h ago, from XPT Software
+Apply on company site
+
+About XPT
+
+
+XPT Software Australia PTY Ltd, incorporated in 2016, is a Software Services company
+
+XPT works with top clients across Australia in Banking, Insurance, Telecom, Retail, Energy, Mining and Manufacturing domains.
+
+We have 120+ technocrats in Australia working at our client locations. 
+
+XPT Software Australia is part of group companies which has global presence across India & Europe.
+
+We have served 100+ clients globally, fulfilling their onsite-offshore needs.
+
+
+Position: DevOps Engineer
+
+
+• Provide L3 operational support for Mesh-hosted APIs, applications and shared platform services across production and non-production environments.
+
+
+• Lead structured diagnosis and root cause analysis for outages, degraded services, failed deployments, routing faults, certificate issues, connectivity problems and platform alerts.
+
+
+• Operate and troubleshoot Azure Kubernetes Service workloads, including deployments, pods, services, ingress, daemonsets, jobs, configuration, secrets, probes, resource constraints and cluster events.
+
+
+• Support Kong Gateway and Consul Connect, including ingress, service discovery, service routing, service resolvers, service routers and service-to-service connectivity.
+
+
+• Use logs, metrics and traces from Splunk, Elastic/Kibana, OpenTelemetry and application monitoring tools to isolate issues and validate recovery.
+
+
+• Build read-only diagnostics, health checks and operational automation using Bash, Python, Ansible, kubectl and jq.
+
+
+• Support platform releases, blue/green migrations, restoration activities, environment validation, change implementation and post-change verification.
+
+
+• Troubleshoot CI/CD and deployment workflows involving Bamboo, Bitbucket, Git, Helm, Maven and enterprise artifact repositories.
+
+
+• Support integrations with Kafka/Confluent Cloud, Redis, Cassandra/Datastax Astra, Vault, certificates and external API-management or service-management systems.
+
+
+• Work with application, cloud, network, security and service-management teams to restore service, communicate impact and drive preventive actions.
+
+
+• Maintain runbooks and knowledge articles, improve support tooling, and reduce repetitive manual effort through practical automation.
+
+
+• Participate in rostered on-call support and planned after-hours or weekend changes when required.
+
+
+Work Experience: 8-12 years
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

@@ -1,0 +1,264 @@
+Title: DevOps Engineer
+Company: Keppel Data Centres
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-keppel-data-centres-4472676903
+Posted: 2026-10-01
+Deadline: N/A
+Reason: The DevOps Engineer role at Keppel Data Centres in Singapore matches Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated-industry compliance, aligning with her background in Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Keppel Data Centres  Singapore, Singapore
+1 day ago  42 applicants
+  
+
+See who Keppel Data Centres has hired for this role
+
+Apply 
+Save
+Job Description
+
+Key Accountabilities
+
+
+Design, implement and maintain CI/CD pipelines to support efficient application build, testing, release and deployment activities.
+Automate infrastructure provisioning, configuration and deployment using Infrastructure as Code tools such as Terraform, Ansible or equivalent.
+Support cloud infrastructure operations across AWS, Azure or hybrid cloud environments.
+Manage containerised application deployment using Docker, Kubernetes or related orchestration platforms.
+Monitor infrastructure and application health, identify performance issues and implement proactive improvements.
+Collaborate with development teams to improve deployment quality, system scalability, reliability and resilience.
+Support incident resolution, root cause analysis, documentation and continuous improvement of operational processes.
+Ensure DevOps practices are aligned with security, governance, compliance and operational standards.
+
+
+Core Responsibilities
+
+
+CI/CD Pipeline Management
+Design, build, maintain and optimise CI/CD pipelines for application deployment.
+Automate build, test, release and deployment processes to improve delivery speed and consistency.
+Integrate source code repositories with deployment tools and quality checks.
+Support pipeline troubleshooting, deployment issue resolution and release coordination.
+Ensure deployment processes are repeatable, auditable and aligned with release management standards.
+Cloud Infrastructure & Platform Operations
+Provision, configure and maintain cloud infrastructure across AWS, Azure or equivalent platforms.
+Support migration from on-premises environments to cloud or hybrid cloud platforms.
+Manage compute, storage, networking, security groups, load balancing and related cloud services.
+Monitor cloud resource usage and support cost optimisation activities.
+Maintain cloud infrastructure reliability, availability, performance and scalability.
+Infrastructure as Code & Automation
+Implement Infrastructure as Code using tools such as Terraform, Ansible, CloudFormation or equivalent.
+Automate system build-outs, environment provisioning and configuration management.
+Develop automation scripts to reduce manual effort and improve operational consistency.
+Maintain reusable infrastructure modules, templates and deployment scripts.
+Ensure automation practices follow security, governance and documentation standards.
+Containerisation & Orchestration
+Build, manage and support containerised application environments using Docker.
+Deploy and manage workloads on Kubernetes or equivalent orchestration platforms.
+Support container image management, registry usage and deployment automation.
+Monitor container platform health, resource utilisation and application performance.
+Work with development teams to improve container readiness, scalability and resilience.
+Monitoring, Incident Support & Reliability
+Implement monitoring, alerting and logging solutions for infrastructure and applications.
+Track system health indicators, performance trends and anomaly detection.
+Respond to incidents, perform troubleshooting and support root cause analysis.
+Document technical resolutions, operational procedures and lessons learned.
+Recommend improvements to enhance system stability, availability and recoverability.
+Security, Governance & Compliance
+Apply security best practices across cloud infrastructure, pipelines and deployment workflows.
+Support access control, secrets management, patching and vulnerability remediation activities.
+Ensure DevOps processes comply with internal governance, audit and security requirements.
+Maintain documentation for configurations, access controls, deployment processes and operational support.
+Collaborate with security and infrastructure teams to improve DevSecOps practices.
+Collaboration & Continuous Improvement
+Work closely with developers, infrastructure engineers, security teams and business stakeholders.
+Provide technical input during solution design, deployment planning and production readiness reviews.
+Recommend improvements to DevOps processes, automation frameworks and platform reliability.
+Support Agile delivery practices and contribute to continuous improvement initiatives.
+Share knowledge, document best practices and contribute to team capability building.
+
+
+Qualifications, Experience & Knowledge
+
+
+Diploma or degree in Computer Science, Information Technology, Engineering or a related discipline.
+Minimum 3 to 5 years of relevant experience in DevOps, cloud engineering, system administration, infrastructure engineering or application deployment support.
+Hands-on experience with CI/CD tools such as Jenkins, Azure DevOps, GitLab CI/CD or equivalent.
+Experience with cloud platforms such as AWS, Azure or equivalent.
+Strong knowledge of Infrastructure as Code tools such as Terraform, Ansible or CloudFormation.
+Experience with Docker, Kubernetes or container orchestration platforms.
+Good understanding of Linux / Windows server administration, networking, security and cloud infrastructure concepts.
+Experience with source code version control tools such as Git.
+Familiarity with monitoring and logging tools such as CloudWatch, Dynatrace, New Relic, Prometheus, Grafana or equivalent.
+Strong troubleshooting, analytical and problem-solving skills.
+Ability to work with cross-functional teams in a fast-paced technology environment.
+Good written and verbal communication skills, with the ability to document technical solutions clearly.
+
+
+Job Requirements
+
+'
+
+BUSINESS SEGMENT
+
+Connectivity
+
+PLATFORM
+
+Operating Division
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Keppel Data Centres by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+2 weeks ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+HashWhale
+Singapore
+11 months ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+S64
+
+Singapore, Singapore
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+
+ByteDance
+
+Singapore, Singapore
+16 hours ago
+CRM DevOps Engineer
+CRM DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+4 months ago
+DevOps Consultant - GS26021
+DevOps Consultant - GS26021
+
+Activate Interactive
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer - A26318
+DevOps Engineer - A26318
+
+Activate Interactive
+
+Singapore, Singapore
+1 day ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+2 months ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Capgemini
+
+Singapore, Singapore
+2 days ago
+DevOps / DevSecOps Engineer
+DevOps / DevSecOps Engineer
+
+Argyll Scott
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

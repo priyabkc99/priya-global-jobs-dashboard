@@ -1,0 +1,219 @@
+Title: Lead, Service Asset & Configuration Management
+Company: Maybank Singapore
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/lead-service-asset-configuration-management-at-maybank-singapore-4463826331
+Posted: 2026-09-11
+Deadline: N/A
+Reason: The role aligns with Priya's configuration management expertise (SACM strategy, CMDB, asset lifecycle governance) and is located in Singapore, a target country; she meets the mid-senior experience level and English-language requirement.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead, Service Asset & Configuration Management
+Maybank Singapore  Singapore, Singapore
+3 weeks ago  80 applicants
+  
+
+See who Maybank Singapore has hired for this role
+
+Apply
+Save
+
+Join Maybank Singapore and play a pivotal role in strengthening the Bank's technology governance, enterprise assets visibility and regulatory posture. Lead the enterprise Service Asset and Configuration Management (SACM) function owing the strategy, standards and operating model for a single, accurate and trusted source of truth for Technology Service assets and configuration items.
+
+
+
+
+You will establish and continuously maintain the authoritative asset register and CMDB across the full asset lifecycle and across all asset classes — hardware, software, cloud, cryptographic, open-source and third-party components — and drive the people, process and tooling that keep it current. The role is accountable for asset data quality, reconciliation and governance, enabling effective service management, risk management, cost optimisation and informed decision-making. Beyond building the capability, you will run and sustain it as an ongoing service.
+
+
+
+
+Responsibilities:-
+
+Lead the Bank's Service Asset & Configuration Management (SACM) strategy and roadmap
+Establish and maintain a single authoritative inventory of Service assets across hardware, software, cryptographic, open-source and third-party components
+Drive asset discovery, data reconciliation and remediation to improve asset visibility and data quality
+Oversee asset lifecycle governance, including onboarding, maintenance and decommissioning processes
+Lead automation initiatives and support the implementation and optimisation of ServiceNow CMDB / ITAM capabilities
+Establish governance metrics, KRIs and reporting to support audit and regulatory requirements
+Partner with Technology, Information Security, Enterprise Architecture and business stakeholders to strengthen asset management practices across the Bank.
+
+
+
+
+Requirements:-
+
+Degree in Computer Science, Information Technology, Engineering or a related discipline
+At least 8 years of experience in Service Asset Management, Configuration Management, CMDB or related disciplines
+Strong knowledge of ITIL SACM, asset lifecycle management, data reconciliation and governance frameworks
+Hands-on experience with ServiceNow ITAM, CMDB and Discovery; experience with Device42 or ManageEngine is advantageous
+Familiarity with Power Platform tools such as Power Automate, Dataverse and Power BI
+Good understanding of technology risk, audit and regulatory requirements within a financial services environment
+Strong stakeholder management, communication and leadership skills, with the ability to drive cross-functional initiatives.
+
+
+
+
+
+
+
+Only shortlisted candidate will be notified.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking, Financial Services, and Information Services
+  
+
+Referrals increase your chances of interviewing at Maybank Singapore by 2x
+
+See who you know
+
+Get notified about new Service Specialist jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Lead, Service Asset & Configuration Management
+Lead, Service Asset & Configuration Management
+Maybank
+Singapore
+1 week ago
+Senior CMDB / ITOM Engineer
+Senior CMDB / ITOM Engineer
+Maybank
+Singapore, Singapore
+2 days ago
+Asset & CSI Management Analyst
+Asset & CSI Management Analyst
+NETS
+Toa Payoh, Central Singapore Community Development Council, Singapore
+1 week ago
+Senior Technical Consultant
+Senior Technical Consultant
+Cognizant
+Singapore, Singapore
+2 weeks ago
+Servicenow Lead
+Servicenow Lead
+Base Camp Digital
+Singapore, Singapore
+4 weeks ago
+ServiceNow Technical Lead (Senior Associate/Manager), Consulting
+ServiceNow Technical Lead (Senior Associate/Manager), Consulting
+EY
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Central License Admin, Corporate IT
+Senior Central License Admin, Corporate IT
+
+Sea
+
+Singapore, Singapore
+1 week ago
+AVP, Platform Engineer (Enterprise Service Management), Technology Group
+AVP, Platform Engineer (Enterprise Service Management), Technology Group
+
+GIC
+
+Singapore, Singapore
+1 day ago
+Director, IT Service Management Lead
+Director, IT Service Management Lead
+
+MUFG
+
+Singapore, Singapore
+1 month ago
+ServiceNow Techno-functional Analyst (Senior Associate), Technology Consulting
+ServiceNow Techno-functional Analyst (Senior Associate), Technology Consulting
+
+EY
+
+Singapore, Singapore
+5 days ago
+Data & Digital Systems Manager
+Data & Digital Systems Manager
+
+A*STAR - Agency for Science, Technology and Research
+
+Singapore, Singapore
+3 days ago
+AVP, Head of ITSM & EUC
+AVP, Head of ITSM & EUC
+
+StarHub
+
+Singapore, Singapore
+2 days ago
+Senior Specialist, End-user Computing
+Senior Specialist, End-user Computing
+
+Grab
+
+Singapore, Singapore
+1 week ago
+[50000426-A8] Senior Assistant Director, Application/ICT Infrastructure - Infrastructure Engineer
+[50000426-A8] Senior Assistant Director, Application/ICT Infrastructure - Infrastructure Engineer
+
+A*STAR - Agency for Science, Technology and Research
+
+Singapore, Singapore
+3 days ago
+Technology Support Lead - DFX and Accounting
+Technology Support Lead - DFX and Accounting
+
+JPMorganChase
+
+Singapore, Singapore
+2 weeks ago
+Operational Data Manager
+Operational Data Manager
+
+BW Offshore
+
+Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Maybank Singapore
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

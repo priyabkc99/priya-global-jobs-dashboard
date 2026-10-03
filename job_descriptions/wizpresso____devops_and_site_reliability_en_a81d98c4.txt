@@ -1,0 +1,244 @@
+Title: DevOps and Site Reliability Engineer
+Company: Wizpresso 濃說
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/devops-and-site-reliability-engineer-at-wizpresso-%E6%BF%83%E8%AA%AA-4473120488
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps/CI-CD (GitHub Actions, Terraform, Docker/Kubernetes) and regulated compliance (ISO/SOC2/GDPR), matching her background at Elektrobit and Topcon, while being located in Hong Kong (target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps and Site Reliability Engineer
+Wizpresso 濃說  Hong Kong, Hong Kong SAR
+3 hours ago   Be among the first 25 applicants
+  
+
+See who Wizpresso 濃說 has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Wizpresso is an enterprise AI software company transforming regulatory compliance, due diligence, and business workflows through secure, intelligent automation. Our products help organisations manage complex information, generate evidence-based insights, and operate with greater speed, governance, and confidence.
+
+We are looking for a hands-on DevOps and Site Reliability Engineer with at least 3-5 years of experience to build, operate, secure, and continuously improve the cloud infrastructure behind our enterprise SaaS and AI products. You will work closely with software engineers, AI teams, product managers, and implementation teams to deliver reliable, scalable, and secure services for enterprise customers.
+
+Responsibilities
+
+
+Design, deploy, and maintain scalable, resilient, and secure cloud infrastructure for Wizpresso's applications and AI-enabled services.
+Build and improve CI/CD pipelines to support reliable, automated software releases across development, testing, staging, and production environments.
+Manage containerised workloads using Docker and Kubernetes or equivalent orchestration platforms.
+Implement Infrastructure as Code using tools such as Terraform, CloudFormation, Ansible, or similar technologies.
+Monitor application performance, infrastructure health, availability, and security using observability tools such as Prometheus, Grafana, ELK, Datadog, CloudWatch, or equivalent.
+Lead incident investigation, root-cause analysis, and remediation activities; improve system reliability through preventive engineering.
+Establish backup, disaster recovery, business continuity, and high-availability practices appropriate for enterprise customers.
+Partner with engineering teams to improve deployment architecture, system performance, security controls, and operational readiness.
+Maintain cloud security standards, including identity and access management, secrets management, network security, vulnerability management, encryption, and audit logging.
+Support security, privacy, and compliance requirements relevant to enterprise software deployments, including customer due diligence and security questionnaires.
+Optimise infrastructure performance and cloud expenditure while maintaining reliability and service quality.
+Develop and maintain technical documentation, operational runbooks, architecture diagrams, and deployment procedures.
+Provide technical support for customer deployments, including private cloud, virtual private cloud, or on-premise environments where required.
+
+
+Requirements
+
+
+At least 3-5 years of experience in DevOps, Site Reliability Engineering, cloud infrastructure, platform engineering, or a related role.
+Strong production experience with one or more major cloud platforms, preferably AWS; experience with Azure or Google Cloud Platform is also welcome.
+Solid hands-on experience with CI/CD tools such as GitHub Actions, GitLab CI/CD, Jenkins, CircleCI, Azure DevOps, or equivalent.
+Proficiency in containerisation and orchestration technologies, including Docker and Kubernetes.
+Experience with Infrastructure as Code tools, preferably Terraform; knowledge of Ansible, Helm, or CloudFormation is an advantage.
+Strong Linux administration, networking, troubleshooting, and scripting skills using Bash, Python, or similar languages.
+Experience implementing monitoring, logging, alerting, and observability solutions for production systems.
+Good understanding of cloud security, access control, network segmentation, secrets management, data protection, and vulnerability remediation.
+Experience supporting highly available, customer-facing SaaS platforms and managing production incidents.
+Ability to communicate clearly with technical and non-technical stakeholders in a fast-moving environment.
+Strong ownership, attention to detail, and a practical approach to resolving complex operational issues.
+Proficiency in written and spoken English.
+
+
+Preferred Qualifications
+
+
+Experience supporting AI, machine learning, LLM, data-processing, or document-intelligence platforms.
+Experience operating PostgreSQL, Elasticsearch/OpenSearch, Redis, message queues, and object storage in production environments.
+Familiarity with enterprise security and compliance standards such as ISO 27001, SOC 2, GDPR, or Hong Kong data privacy requirements.
+Experience with multi-tenant SaaS architecture, enterprise integrations, or deployment into regulated industries such as financial services, legal, insurance, or government.
+Relevant cloud, Kubernetes, or security certifications.
+
+
+What We Offer
+
+
+The opportunity to build infrastructure for meaningful enterprise AI products used in regulatory, legal, and business-critical workflows.
+A high-impact role with direct ownership over platform reliability, security, and engineering efficiency.
+Exposure to modern AI, workflow automation, cloud-native architecture, and enterprise software challenges.
+A collaborative, entrepreneurial environment with opportunities to influence technical strategy and product direction.
+Competitive compensation and benefits, commensurate with experience.
+
+
+About Wizpresso
+
+Wizpresso develops enterprise AI solutions that help organisations automate complex workflows involving regulatory monitoring, due diligence, application vetting, document intelligence, governance, and compliance. We combine advanced AI capabilities with enterprise-grade security, traceability, and workflow controls to help customers make faster, better-informed decisions.
+
+To apply, please submit your CV and a brief description of your relevant cloud infrastructure and DevOps experience.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Wizpresso 濃說 by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer, Cloud Infra
+DevOps Engineer, Cloud Infra
+Binance
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Site Reliability Engineer - APAC
+Site Reliability Engineer - APAC
+Tyk
+Hong Kong, Hong Kong SAR
+1 month ago
+DevOps Engineer, Infra
+DevOps Engineer, Infra
+Binance
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Platform / Site Reliability Engineer
+Platform / Site Reliability Engineer
+Millennium
+Hong Kong, Hong Kong SAR
+2 days ago
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Hong Kong, Hong Kong SAR
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Itarle
+Hong Kong, Hong Kong SAR
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+PIONEER SERVICES PTE. LTD.
+
+Hong Kong SAR
+3 weeks ago
+Reliability Engineer
+Reliability Engineer
+
+Flow Traders
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Options Technology
+
+Hong Kong SAR
+1 month ago
+Senior DevOps Engineer / DevOps Engineer
+Senior DevOps Engineer / DevOps Engineer
+
+EX.IO
+
+Hong Kong SAR
+1 year ago
+Platform Engineer
+Platform Engineer
+
+Options Technology
+
+Central, Hong Kong SAR
+1 week ago
+Site Reliability Engineer - Global Financial Institution - Hong Kong
+Site Reliability Engineer - Global Financial Institution - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Data and Al Infra Engineer
+Data and Al Infra Engineer
+
+Oxus Metals AI
+
+Hong Kong SAR
+1 month ago
+Sr. DevOps Engineer (Blockchain Infra)
+Sr. DevOps Engineer (Blockchain Infra)
+
+BNB Chain
+
+Hong Kong, Hong Kong SAR
+2 months ago
+DevSecOps AI - Hong Kong
+DevSecOps AI - Hong Kong
+
+Intact
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Production Support Engineer - LLM Platform
+Production Support Engineer - LLM Platform
+
+Qube Research & Technologies
+
+Hong Kong, Hong Kong SAR
+4 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Wizpresso 濃說
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

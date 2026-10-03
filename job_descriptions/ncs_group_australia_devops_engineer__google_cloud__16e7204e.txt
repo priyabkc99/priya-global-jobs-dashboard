@@ -1,0 +1,363 @@
+Title: DevOps Engineer (Google Cloud)
+Company: NCS Group Australia
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-google-cloud-at-ncs-group-australia-4447261287
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The job aligns with the candidate's experience as a DevOps Engineer (CI/CD pipelines, GitLab integration, infrastructure automation) and meets location requirements (Sydney, Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (Google Cloud)
+NCS Group Australia  Sydney, New South Wales, Australia
+3 days ago   Be among the first 25 applicants
+  
+
+See who NCS Group Australia has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+At NCS Australia, we believe in doing technology services better. Our commitment to quality, focus on people, and willingness to challenge traditional thinking set us apart. Our team brings this belief to life by partnering with our clients and communities to make tomorrow together.
+
+
+
+We are committed to creating an environment that prioritises innovation, collaboration, and purposeful work. Our diverse team is empowered to make a meaningful impact with curiosity, creativity and resilience to shape better outcomes. Join us and accept the challenge of creating a better tomorrow.
+
+
+
+
+
+Job Description
+
+
+
+We are seeking an ambitious, hands-on DevOps Engineer (Google / GCP) to join our cloud platform team. In this role, you will be instrumental in modernizing, automating, and maintaining highly available Google Cloud environments and hybrid continuous delivery pipelines.
+
+
+
+A primary focus for this position will be configuring, deploying, and integrating GitLab across both GCP and on-premises environments—ensuring seamless, secure code delivery and orchestration across hybrid infrastructure. Sitting at the intersection of development and operations, you will empower software squads to ship code faster, safer, and more reliably.
+
+
+
+What You’ll Be Doing
+
+
+
+Hybrid GitLab Integration: Configure, administer, and integrate GitLab across GCP and on-premises environments, creating seamless CI/CD pipelines, runner groups, and automated deployment patterns across hybrid infrastructure.
+
+
+
+GCP Infrastructure Automation: Design, build, and maintain scalable cloud infrastructure using Terraform and Google Cloud native tools.
+
+
+
+Pipeline Engineering: Build, optimize, and manage robust continuous integration and deployment pipelines for microservices, legacy systems, and cloud workloads.
+
+
+
+Container Orchestration: Manage and fine-tune Google Kubernetes Engine (GKE) clusters, helm charts, and container registries to ensure reliable execution of workloads.
+
+
+
+Observability & Reliability: Implement comprehensive monitoring, logging, and alerting systems using Google Cloud Operations (Stackdriver), Prometheus, Grafana, or Datadog to maintain peak platform reliability.
+
+
+
+DevSecOps Integration: Embed automated security scanning, policy enforcement (IAM, Organization Policies), and vulnerability management directly into GitLab CI/CD pipelines.
+
+
+
+Operational Excellence & Mentorship: Troubleshoot complex build and platform issues, participate in incident management, and share DevOps best practices across engineering squads.
+
+
+
+
+
+Qualifications
+
+
+
+Core Requirements:
+
+
+
+GitLab & Hybrid Experience: Proven experience configuring, managing, and integrating GitLab (SaaS or Self-Managed) across hybrid environments (GCP and on-premises infrastructure).
+
+
+
+GCP Expertise: Strong hands-on experience engineering and administering core Google Cloud Platform services (GKE, VPCs, IAM, Cloud Run, Cloud Functions, Pub/Sub, Cloud Storage).
+
+
+
+Infrastructure as Code (IaC): Deep proficiency with Terraform for provisioned and version-controlled GCP and hybrid infrastructure.
+
+
+
+Containers & Orchestration: Proven track record working with Docker and Kubernetes (specifically GKE).
+
+
+
+Scripting & Automation: High proficiency in scripting languages such as Bash, Python, or Go.
+
+
+
+Hybrid Networking & Security: Solid understanding of hybrid cloud networking (hybrid connectivity, VPNs, subnets, firewalls, load balancers, Cloud DNS) and IAM security fundamentals.
+
+
+
+Highly Regarded:
+
+
+
+Official certifications: GitLab Certified Associate/Professional or Google Cloud Certifications (Professional Cloud DevOps Engineer / Professional Cloud Architect).
+
+
+
+Experience with GitOps methodologies (e.g., ArgoCD, Flux) and Helm.
+
+
+
+Familiarity with service mesh architectures (Istio / Anthos Service Mesh).
+
+
+
+
+
+Additional Information
+
+
+
+Why join us:
+
+
+
+NCS Australia is where you can feel at home, nurturing your talents and skills as we make tomorrow together, one day at a time. Our benefits include paid parental leave, initiatives focused on your well-being and discounted health insurance. You will also enjoy discounts on various products and services and be regularly recognised and rewarded for high performance. We are committed to your career development through our Capability Fingerprint, industry and partner training programs, special interest groups, and an AI-driven learning platform. No matter where you are in your career, we offer meaningful work and opportunities for growth.
+
+
+
+
+
+
+
+NCS Australia is an equal-opportunity employer, and we take pride in our commitment to valuing and supporting our people and the communities we serve.We are dedicated to attracting, retaining and developing our people regardless of gender identity, ethnicity, sexual orientation, disability and age. Applications are encouraged from all sectors of the community and we strongly encourage applications from the Veterans, Aboriginal and/or Torres Strait Islander community.
+
+
+
+At NCS Australia, we are committed to supporting adjustments throughout the recruitment and selection process, as well as during employment. We actively support and encourage people with disability to apply.
+
+
+
+
+
+
+
+Agencies:
+
+
+
+We’ve got this. We request that you do not contact NCS employees outside of the Talent Acquisition team. NCS exclusively accepts resumes from agencies on our preferred supplier panel through the NCS Agency Portal. Agencies that submit resumes must have a valid fee agreement and be assigned to the particular requisition by the Talent Acquisition team. Any resumes that are submitted outside of this process will become the sole property of NCS. If a candidate is hired outside of this process, no fee or payment will be given.
+
+
+
+
+
+
+
+Work rights and background checks:
+
+
+
+To be eligible for a position with us, applicants will need to have valid work rights for Australia and be willing to undergo a comprehensive background checking process, including probity and police checks
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at NCS Group Australia by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Head of Software Engineering jobs
+DevOps Engineer (Google Cloud)
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+CMSN Group Pty Ltd
+Greater Sydney Area
+2 months ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Cloud Infrastructure Engineer
+DevOps Cloud Infrastructure Engineer
+1QLabs
+Greater Sydney Area
+1 month ago
+Platform Engineer
+Platform Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+1 day ago
+Google Platform Engineer - GCP
+Google Platform Engineer - GCP
+NCS Group Australia
+Sydney, New South Wales, Australia
+3 days ago
+*AWS Cloud Engineer*
+*AWS Cloud Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Sydney, New South Wales, Australia
+22 hours ago
+Site Reliability Engineer, Security Engineering
+Site Reliability Engineer, Security Engineering
+
+TikTok
+
+Sydney, New South Wales, Australia
+4 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Precisely
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+GCP Data Engineer (Google Cloud)
+GCP Data Engineer (Google Cloud)
+
+NCS Group Australia
+
+Sydney, New South Wales, Australia
+1 day ago
+Platform Engineer
+Platform Engineer
+
+Lumi
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Associate DevOps Engineer
+Associate DevOps Engineer
+
+Shift
+
+North Sydney, New South Wales, Australia
+2 weeks ago
+Outcome Customer Engineer, AI, Google Cloud
+Outcome Customer Engineer, AI, Google Cloud
+
+Google
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Nityo Infotech
+
+Sydney, New South Wales, Australia
+2 days ago
+AI Platform Engineer
+AI Platform Engineer
+
+Umbrella Club
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Similar Searches
+Head of Software Engineering jobs
+202 open jobs
+Director of User Experience jobs
+57 open jobs
+Peoplesoft Consultant jobs
+13 open jobs
+SAP Functional Consultant jobs
+88 open jobs
+Peoplesoft Developer jobs
+118 open jobs
+Director of Fundraising jobs
+19 open jobs
+Payroll Consultant jobs
+270 open jobs
+Senior Test Engineer jobs
+312 open jobs
+Mobile Application Developer jobs
+316 open jobs
+Process Associate jobs
+840 open jobs
+Sales Recruiter jobs
+189 open jobs
+SAP Architect jobs
+161 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

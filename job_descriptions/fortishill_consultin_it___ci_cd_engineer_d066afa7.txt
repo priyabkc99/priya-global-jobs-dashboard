@@ -1,0 +1,247 @@
+Title: IT - CI/CD Engineer
+Company: FortisHill Consulting
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/it-ci-cd-engineer-at-fortishill-consulting-4472858901
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The role aligns with the candidate's CI/CD expertise (Jenkins, Bitbucket, Red Hat OpenShift) and falls under the 'DevOps Engineer' category in a regulated environment, matching her experience at Elektrobit and Topcon. Location is Hong Kong (target country), and visa sponsorship is not explicitly excluded.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+IT - CI/CD Engineer
+FortisHill Consulting  Hong Kong, Hong Kong SAR
+6 hours ago   Be among the first 25 applicants
+  
+
+See who FortisHill Consulting has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Our client is supporting a large-scale regulated technology programme in Hong Kong and is looking for an experienced CI/CD Engineer to build, enhance, and maintain enterprise CI/CD pipelines within a private on-premises cloud environment. This role is suitable for a hands-on engineer with strong experience in software deployment automation, container platform integration, and secure release processes for enterprise applications.
+
+
+
+
+Key Responsibilities
+
+CI/CD Framework Development
+
+Design, implement, and maintain CI/CD pipelines using tools such as Bitbucket, Jenkins, or similar platforms.
+Support deployment pipelines for web applications, Android applications, and iOS applications.
+Integrate CI/CD pipelines with application platforms such as Red Hat OpenShift and database environments such as Oracle DB.
+Ensure effective version control, automated testing, and controlled software delivery processes.
+
+Application Deployment & Operations
+
+Manage the software deployment lifecycle for both custom-built applications and commercial off-the-shelf solutions.
+Deploy, configure, and support applications across platforms such as Nginx, MuleSoft API Gateway, Red Hat Directory Server, Red Hat Single Sign-On (RHSSO), Solace, and OpenShift / Kubernetes.
+Support environment setup, release activities, and deployment coordination across application, testing, and operations teams.
+
+Private Cloud & Infrastructure Tool Integration
+
+Support integration with private cloud infrastructure and platform tooling.
+Work with infrastructure tools and platforms including MuleSoft, CyberArk, HashiCorp, and EFK Logging.
+Use Red Hat OpenShift and Kubernetes to support containerised application deployment and operations.
+
+Security & Compliance in DevOps
+
+Embed security controls throughout the CI/CD and deployment lifecycle.
+Integrate security and credential management tools such as CyberArk, HashiCorp Vault, and Splunk to protect sensitive credentials and operational data.
+Support secure deployment practices in a regulated enterprise environment.
+
+Monitoring, Troubleshooting & Continuous Improvement
+
+Monitor CI/CD pipeline performance and deployment outcomes to identify bottlenecks, failures, and improvement opportunities.
+Troubleshoot issues during build, testing, deployment, and post-deployment phases.
+Improve deployment stability, release efficiency, and automation maturity across delivery teams.
+
+Cross-team Collaboration
+
+Work closely with application teams, testing teams, platform teams, and deployment teams to support smooth delivery.
+Provide guidance on version control, environment setup, deployment readiness, and operational handover.
+
+
+
+
+Requirements
+
+Bachelor’s degree in Computer Science, Information Technology, or a related discipline.
+Minimum 3 years’ experience in DevOps, CI/CD, platform engineering, or related technical roles.
+At least 2 years’ hands-on experience establishing and managing CI/CD frameworks in an enterprise environment.
+Proven experience deploying applications in cloud or private cloud environments.
+Strong hands-on experience with:
+Bitbucket for version control
+Jenkins or similar CI/CD tools
+SonarQube for source code analysis
+Red Hat OpenShift / Kubernetes
+Oracle Database application deployment environments
+Familiarity with infrastructure and middleware platforms such as Nginx, MuleSoft, Solace, Red Hat Directory Server, and RHSSO.
+Strong troubleshooting and problem-solving skills.
+Good communication skills, with the ability to work with both technical and non-technical stakeholders.
+
+
+
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Government Administration
+  
+
+Referrals increase your chances of interviewing at FortisHill Consulting by 2x
+
+See who you know
+
+Get notified about new Information Technology Specialist jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Itarle
+Hong Kong, Hong Kong SAR
+1 week ago
+DevOps Engineer, Infra
+DevOps Engineer, Infra
+Binance
+Hong Kong, Hong Kong SAR
+2 weeks ago
+DevOps Engineer, Cloud Infra
+DevOps Engineer, Cloud Infra
+Binance
+Hong Kong, Hong Kong SAR
+2 weeks ago
+DevOps Engineer (Servers & VMs)
+DevOps Engineer (Servers & VMs)
+OOCL
+Hong Kong, Hong Kong SAR
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Hong Kong, Hong Kong SAR
+3 weeks ago
+DevOps / Operations Development Engineer
+DevOps / Operations Development Engineer
+国泰君安国际 Guotai Junan International
+Sheung Wan, Hong Kong SAR
+3 days ago
+Show more jobs like this 
+People also viewed
+System Engineer
+System Engineer
+
+CW Talent Solutions
+
+Hong Kong, Hong Kong SAR
+1 month ago
+Site Reliable Engineer (SRE) for Equity Trading Platform
+Site Reliable Engineer (SRE) for Equity Trading Platform
+
+Jefferies
+
+Hong Kong SAR
+2 weeks ago
+Systems Engineer
+Systems Engineer
+
+Tower Research Capital
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Site Reliability Engineer - J13203
+Site Reliability Engineer - J13203
+
+Pinpoint Asia
+
+Hong Kong, Hong Kong SAR
+HK$50,000 - HK$70,000
+1 week ago
+Site Reliability Engineer - HFT
+Site Reliability Engineer - HFT
+
+Selby Jennings
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+DevOps / SRE Lead
+DevOps / SRE Lead
+
+RedotPay
+
+Hong Kong, Hong Kong SAR
+1 month ago
+Site Reliability Engineer, Data & Observability Platform
+Site Reliability Engineer, Data & Observability Platform
+
+Pulsar
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Platform Engineer
+Platform Engineer
+
+E-Frontiers
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Options Technology
+
+Central, Hong Kong SAR
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at FortisHill Consulting
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

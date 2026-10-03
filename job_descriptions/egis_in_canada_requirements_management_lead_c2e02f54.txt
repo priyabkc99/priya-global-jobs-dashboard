@@ -1,0 +1,299 @@
+Title: Requirements Management Lead
+Company: Egis in Canada
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/requirements-management-lead-at-egis-in-canada-4469211197
+Posted: 2026-09-25
+Deadline: N/A
+Reason: The job aligns with the Requirements Engineer/Requirements Manager category, matches the target location (Toronto, Canada), and fits the mid-senior experience level. The role’s focus on requirements traceability, configuration control, and compliance with systems engineering standards (EN 50126/50128/50129) aligns with Priya’s background in regulated industries (MDR/ISO 13485, ASPICE/TUV) and her experience owning requirements traceability records at Topcon and Elektrobit.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Requirements Management Lead
+Egis in Canada  Toronto, Ontario, Canada
+6 days ago   Be among the first 25 applicants
+  
+
+See who Egis in Canada has hired for this role
+
+Apply
+Save
+Egis in Canada provided pay range
+
+This range is provided by Egis in Canada. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+CA$150,000.00/yr - CA$180,000.00/yr
+
+Are you ambitious and looking to make the right move in your career? Now is the perfect time to join Egis. We are now over 21,000 engineers, architects, scientists and planners across the world and experiencing substantial growth in North America. This strategic move underscores our commitment to investing in North America, propelling our expansion to new heights.
+
+
+
+
+
+Job Description
+
+
+
+The Requirements Management Lead is responsible for establishing and maintaining the complete requirements framework for the LRT program, ensuring traceability from concept design through testing, commissioning, and operations. This role ensures that all project requirements—technical, functional, operational, safety, and regulatory—are captured, verified, and validated in alignment with systems engineering principles and client objectives. The Requirements Management Lead acts as the single point of accountability for requirements configuration control, change management, and compliance demonstration across all project disciplines.
+
+
+
+Develop and implement the Requirements Management Plan (RMP) defining processes, tools, roles, and interfaces for managing requirements throughout the project lifecycle.
+Establish and maintain the Requirements Traceability Matrix (RTM) linking high-level project objectives to design outputs, verification evidence, and acceptance criteria.
+Ensure all requirements are structured, measurable, and verifiable, aligned with EN 50126/50128/50129 systems assurance standards.
+Coordinate with Systems Lead, Interface Manager, and Integration Manager to ensure consistent requirement flow down to subsystems (Rolling Stock, Signaling/TSP, OCS/TPSS, Telecom/SCADA, Fare System, OMSF).
+Facilitate requirements capture workshops with stakeholders to translate operational needs into technical and functional specifications.
+Govern configuration control and change management for requirements baselines in coordination with the Configuration Manager.
+Monitor contractor compliance with requirements and verification plans; track status and deviations.
+Review and approve requirements management deliverables from design consultants and contractors.
+Ensure verification and validation (V&V) activities are linked to requirements and that all evidence is properly documented and auditable.
+Support the Safety and RAMS teams in tracing safety and performance requirements through the Safety Case and certification process.
+Develop dashboards and reporting mechanisms to track requirement completion, V&V status, and compliance performance.
+Provide training and mentorship to PMC and client teams on requirements management processes and tool usage.
+Lead readiness reviews, audits, and regulatory submissions to demonstrate compliance and system assurance.
+Coordinate with Integration and Testing teams to ensure validation test cases fully satisfy operational requirements.
+Maintain a controlled database of all project requirements and verification evidence.
+
+
+
+Qualifications
+
+
+
+Required
+
+
+
+Bachelor's degree in Systems Engineering, Electrical Engineering, Mechanical Engineering, or a related engineering discipline.
+12-18 years of experience in requirements management and systems engineering within major rail or transit infrastructure programs.
+Demonstrated expertise in requirements lifecycle management across design, testing, commissioning, and operational phases.
+Strong knowledge of systems engineering processes and the V-model lifecycle in accordance with EN 50126.
+Experience applying EN 50126, EN 50128, and EN 50129 standards within complex infrastructure environments.
+Expertise with requirements management platforms including IBM DOORS, Jama Connect, or Polarion.
+Proven capability establishing and maintaining end-to-end requirements traceability across multidisciplinary engineering teams.
+Extensive experience with Verification and Validation (V&V) methodologies, compliance assessments, and audit activities.
+Knowledge of safety assurance and RAMS frameworks and their integration with project requirements.
+Strong configuration management, baseline control, analytical, and technical documentation skills.
+Ability to interpret complex engineering documentation and develop structured, traceable requirements.
+Excellent stakeholder coordination, communication, and technical leadership capabilities.
+
+
+
+Assets
+
+
+
+Master's degree in Engineering or a related technical discipline.
+Professional Engineer (P.Eng.) designation.
+INCOSE ASEP or INCOSE CSEP certification.
+Experience supporting rail system certification and regulatory approval processes.
+Prior leadership responsibility for mentoring systems engineering or requirements management teams.
+Experience delivering requirements governance within large-scale multidisciplinary program management environments.
+
+
+
+Additional Information
+
+
+
+We welcome and encourage applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection process.
+
+
+
+This role is eligible for a referral bonus in line with the Referral Program. If you have been referred, please provide the name of the employee who has referred you at the time of your application.
+
+
+
+At Egis, we embrace innovation to tackle challenges and utilize AI in our recruitment process under stringent ethics and compliance policies and in alignment with our values of being a Responsible Company, a People First Company and a Creative Company. Committed to diversity, growth and collaboration, we may leverage AI to support the recruitment process.
+
+
+
+Egis Canada is an equal opportunities employer offering a competitive salary and benefits to those with the skills suited to the needs of our clients. The salary range advertised may exceed the range based on several factors, including relevant education, qualifications, certifications, experience, skills, geographic location, performance, and business or organizational needs.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Truck Transportation
+  
+
+Referrals increase your chances of interviewing at Egis in Canada by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Social Worker jobs
+Requirements Management Lead
+Similar jobs
+Requirements Manager, Kiewit Infrastructure Engineers
+Requirements Manager, Kiewit Infrastructure Engineers
+Kiewit
+Oakville, Ontario, Canada
+2 weeks ago
+System Engineer
+System Engineer
+Matchtech North America
+Greater Toronto Area, Canada
+1 week ago
+Product Readiness & Change Risk, Lead
+Product Readiness & Change Risk, Lead
+Interac Corp.
+Toronto, Ontario, Canada
+1 week ago
+Requirements Manager, Kiewit Infrastructure Engineers
+Requirements Manager, Kiewit Infrastructure Engineers
+Kiewit
+Toronto, Ontario, Canada
+2 weeks ago
+Technology Product Owner Principal
+Technology Product Owner Principal
+Roche
+Mississauga, Ontario, Canada
+1 week ago
+Senior Systems Engineering
+Senior Systems Engineering
+General Motors
+Markham, Ontario, Canada
+5 days ago
+Show more jobs like this 
+People also viewed
+Manager, Business Analysis / Technology Consulting
+Manager, Business Analysis / Technology Consulting
+
+BDO Canada
+
+Oakville, Ontario, Canada
+6 days ago
+Technology Implementation Lead
+Technology Implementation Lead
+
+Bechtel Corporation
+
+Toronto, Ontario, Canada
+2 weeks ago
+Manager, Business Analysis / Technology Consulting
+Manager, Business Analysis / Technology Consulting
+
+BDO Canada
+
+Mississauga, Ontario, Canada
+6 days ago
+Product Owner II (1 Year Contract)
+Product Owner II (1 Year Contract)
+
+City of Markham
+
+Markham, Ontario, Canada
+CA$96,257 - CA$129,223
+2 days ago
+Enterprise Content Management (ECM) Business Systems Analyst
+Enterprise Content Management (ECM) Business Systems Analyst
+
+McKesson
+
+Mississauga, Ontario, Canada
+15 hours ago
+Senior Technical Business Systems Analyst
+Senior Technical Business Systems Analyst
+
+J&M Group
+
+Toronto, Ontario, Canada
+1 week ago
+Quality Programs Manager - Nuclear
+Quality Programs Manager - Nuclear
+
+BWXT
+
+Cambridge, Ontario, Canada
+1 month ago
+Manager, Solutions
+Manager, Solutions
+
+CanDeal
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Project Manager
+Senior Project Manager
+
+J&M Group
+
+Toronto, Ontario, Canada
+3 weeks ago
+Senior Manager, Enterprise Data Quality Management
+Senior Manager, Enterprise Data Quality Management
+
+TD
+
+Toronto, Ontario, Canada
+10 hours ago
+Similar Searches
+Senior Social Worker jobs
+910 open jobs
+Manager Talent Management jobs
+1,263 open jobs
+Senior Clinical Trial Manager jobs
+59 open jobs
+Treasury Supervisor jobs
+174 open jobs
+Desktop Manager jobs
+666 open jobs
+Director Internal Control jobs
+130 open jobs
+Senior Reservoir Engineer jobs
+17 open jobs
+Senior Purchasing Manager jobs
+232 open jobs
+Talent Management Specialist jobs
+848 open jobs
+Head of Human Resources jobs
+405 open jobs
+Head of Project Management Office jobs
+41 open jobs
+Head of Purchasing jobs
+247 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Egis in Canada
+Continue with Google
+Sign in with Email
+
+or
+
+Continue with Google
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,295 @@
+Title: DevOps Engineer
+Company: Paxus
+Location: Newstead, Queensland, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-paxus-4472986674
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The job as a DevOps Engineer at Paxus in Australia aligns with Priya's CI/CD, infrastructure automation, and regulated-industry experience, meeting all target criteria including location, role type, and experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Paxus  Newstead, Queensland, Australia
+8 hours ago   Be among the first 25 applicants
+  
+
+See who Paxus has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Paxus
+
+Anna Montaniel-Reyes
+Anna Montaniel-Reyes
+Senior IT Recruitment Consultant
+DevOps Engineer | Permanent | Brisbane
+
+
+
+Build, automate and optimise modern cloud platforms in a role where your DevOps expertise will make a real impact.
+
+We're looking for an experienced DevOps Engineer to join a growing technology team within a complex and technology-driven organisation.
+
+This is a full-time permanent opportunity for someone who enjoys solving complex technical problems, automating processes and helping development teams deliver software faster, more reliably and securely.
+
+
+
+What You'll Be Doing
+
+
+
+You'll play a key role in the ongoing evolution of the organisation's cloud and DevOps capability, working across development, infrastructure and delivery teams.
+
+Your responsibilities will include:
+
+Designing, building and maintaining CI/CD pipelines and automated deployment processes.
+Developing and managing Infrastructure as Code (IaC) using technologies such as Terraform, Bicep or similar.
+Supporting and optimising Microsoft Azure environments.
+Automating infrastructure provisioning, configuration and operational processes.
+Working closely with developers and technical teams to improve engineering and deployment practices.
+Implementing monitoring, logging and performance improvements across cloud environments.
+Troubleshooting complex infrastructure, deployment and environment issues.
+Contributing to DevOps standards, governance, security and continuous improvement.
+Helping drive the adoption of modern DevOps and cloud engineering practices across the organisation.
+
+
+What We're Looking For
+
+
+
+We're looking for a hands-on DevOps professional who enjoys automation, cloud technology and continuous improvement.
+
+You'll ideally have experience across:
+
+Microsoft Azure / Azure DevOps
+CI/CD pipelines and YAML
+Terraform, Bicep or other Infrastructure as Code tools
+Git / GitHub
+Docker and/or Kubernetes
+Cloud infrastructure and automation
+PowerShell or scripting
+Monitoring, logging and observability
+Agile delivery environments
+
+Experience working within a large, complex or highly regulated environment will be highly regarded.
+
+
+
+Why Join?
+
+
+
+This is more than just a DevOps role - it's an opportunity to have genuine ownership and influence over how technology is delivered.
+
+You'll have the opportunity to:
+
+Join a permanent team and build long-term career opportunities.
+Work with modern cloud, automation and DevOps technologies.
+Contribute to meaningful technology and digital initiatives.
+Help shape and improve DevOps practices and ways of working.
+Work alongside experienced technology professionals in a collaborative environment.
+Continue developing your technical capability across Azure, automation, IaC and CI/CD.
+Enjoy the stability of a permanent position with a flexible Brisbane-based working environment.
+
+If you're a DevOps Engineer who enjoys automation, cloud technology and making things work better, we'd love to hear from you.
+
+
+To be considered for the role click the 'apply' button or for more information about this and other opportunities please contact Anna Reyes on + 617 3709 7456 or email areyes@paxus.com.au and quote the above job reference number.
+
+
+
+
+Paxus values diversity and welcomes applications from Indigenous Australians, people from diverse cultural and linguistic backgrounds and people living with a disability. If you require an adjustment to the recruitment process, including the application form in an alternate format, please contact me on the above contact details.
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Professional Services
+  
+
+Referrals increase your chances of interviewing at Paxus by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Business Test Analyst jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Future Secure AI
+Brisbane, Queensland, Australia
+1 day ago
+DevOps Software Engineer
+DevOps Software Engineer
+Gameloft Brisbane
+Brisbane, Queensland, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Great Southern Bank
+Brisbane, Queensland, Australia
+2 weeks ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+Future Secure AI
+Brisbane, Queensland, Australia
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Australian Broadcasting Corporation (ABC)
+Brisbane, Queensland, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+RPMGlobal
+Brisbane, Queensland, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Principle Platform Engineer
+Principle Platform Engineer
+
+Australian Energy Market Operator (AEMO)
+
+Brisbane, Queensland, Australia
+1 week ago
+AI Cloud Engineer
+AI Cloud Engineer
+
+Talent
+
+Brisbane, Queensland, Australia
+9 hours ago
+Systems and Cloud Engineer
+Systems and Cloud Engineer
+
+Anglicare Southern Queensland
+
+Fortitude Valley, Queensland, Australia
+2 days ago
+IT Systems Administrator
+IT Systems Administrator
+
+Australian Taxation Office
+
+Brisbane, Queensland, Australia
+2 days ago
+Engineering | Multiple Opportunities Available
+Engineering | Multiple Opportunities Available
+
+Deloitte
+
+Brisbane, Queensland, Australia
+15 hours ago
+Software Developer
+Software Developer
+
+RWS Global
+
+Brisbane, Queensland, Australia
+1 month ago
+Deployment Engineer
+Deployment Engineer
+
+Megaport
+
+Brisbane, Queensland, Australia
+1 week ago
+Referrals for Google Cloud Practitioners (EoI)
+Referrals for Google Cloud Practitioners (EoI)
+
+Accenture Australia
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Principal Production Engineer
+Principal Production Engineer
+
+Canva
+
+Brisbane, Queensland, Australia
+3 days ago
+Implementation Engineer
+Implementation Engineer
+
+EngFlow
+
+Brisbane, Queensland, Australia
+$80,000 - $120,000
+7 months ago
+Similar Searches
+Business Test Analyst jobs
+738 open jobs
+Senior Account Director jobs
+1,591 open jobs
+Change Communications Manager jobs
+169 open jobs
+Fund Accounting Manager jobs
+69 open jobs
+Graduate Architect jobs
+54 open jobs
+Technology Architect jobs
+1,344 open jobs
+Health Inspector jobs
+158 open jobs
+Ecommerce Coordinator jobs
+505 open jobs
+Performance Director jobs
+548 open jobs
+Capital Project Manager jobs
+579 open jobs
+Integration Architect jobs
+841 open jobs
+Digital Account Manager jobs
+379 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

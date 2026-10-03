@@ -1,0 +1,262 @@
+Title: Lead Software Developer (DevOps)
+Company: OpenText
+Location: Richmond Hill, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/lead-software-developer-devops-at-opentext-4466294855
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The job matches as a DevOps Engineer role with CI/CD and infrastructure management focus, located in Canada (target country), and aligns with the candidate's configuration management/release management expertise and experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead Software Developer (DevOps)
+OpenText  Richmond Hill, Ontario, Canada
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who OpenText has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Opentext - The Information Company
+
+OpenText is a global leader in information management, where innovation, creativity, and collaboration are the key components of our corporate culture. As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation.
+
+AI-First. Future-Driven. Human-Centered.
+
+At OpenText, AI is at the heart of everything we do—powering innovation, transforming work, and empowering digital knowledge workers. We are hiring talent AI can't replace to help us shape the future of information management. Join us.
+
+Req# 53332 - Lead Software Developer (DevOps) Cloud/SaaS
+
+Full time On-Site opportunity Locations: in Mississauga, Richmond Hill or Waterloo, Ontario
+
+You are part of an Engineering organization building and operating a highly scalable, globally available Public Cloud Service (SaaS) in the Enterprise Information Management domain. Working closely with Software Engineering and IT Operations, you will play a key role in ensuring the reliability, scalability, security, and continuous evolution of our fast-growing cloud platform. In an agile environment, you will drive automation, streamline operations, and help deliver new capabilities to customers around the world.
+
+This is a highly technical, hands-on DevOps role focused on cloud infrastructure, Kubernetes, automation, CI/CD, and production reliability, where your primary objective will be to build, maintain, and optimize scalable and secure deployment platforms that enable efficient software delivery.
+
+What The Role Offers
+
+
+Lead DevOps and automation initiatives across development and operations teams.
+Design and maintain cloud infrastructure, CI/CD pipelines, and deployment processes.
+Drive Infrastructure as Code and automation using tools such as Terraform and Ansible.
+Ensure platform reliability through monitoring, incident management, and root cause analysis.
+Improve performance, security, observability, and operational excellence across the SaaS platform.
+Evaluate and adopt AI-powered tools to enhance productivity and operational efficiency.
+
+
+What You Need To Succeed
+
+
+7+ years of experience in software development, DevOps, or cloud-based enterprise environments.
+Strong expertise with cloud platforms (Azure, AWS, or GCP), CI/CD, and Infrastructure as Code.
+Proficiency in Ansible, Python and Bash scripting for automation and operational tasks.
+Solid Linux administration, troubleshooting, and production support experience.
+Strong analytical, problem-solving, and continuous improvement mindset.
+Bachelor's degree in Computer Science (or equivalent experience) with excellent communication skill in English.
+
+
+One Last Thing
+
+OpenText is more than just a corporation, it's a global community where trust is foundational, the bar is raised, and outcomes are owned.
+
+Join us on our mission to drive positive change through privacy, technology, and collaboration. At OpenText, we don't just have a culture; we have character. Choose us because you want to be part of a company that embraces innovation and empowers its employees to make a difference.
+
+OpenText's commitment to diversity and inclusion surpasses legal requirements, evident in our Equal Employment Opportunity Statement of Policy which promotes a respectful and empowering environment for employees of all backgrounds, culture, national origin, race, color, gender, gender identification, sexual orientation, family status, age, veteran status, disability, religion, or other basis protected by applicable laws.
+
+If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please submit a ticket at Ask HR. Our proactive approach fosters collaboration, innovation, and personal growth, enriching OpenText's vibrant workplace.
+
+Compensation: At OpenText, we offer a thoughtfully designed benefits package that supports your physical, emotional, and financial wellbeing. As you move through the hiring process, we’re happy to provide more details about our compensation programs, including variable and commission compensation opportunities for eligible roles, vacation entitlement, and paid time off.
+
+Salary Range: $118,000.00 - $168,000.00; Depending on the candidate’s education, experience, skills, geographical location, and alignment with internal equity and external market, actual salary may vary and be higher or lower than the range posted.
+
+AI Usage Disclosure: As part of our commitment to transparency, we use artificial intelligence (AI) tools to assist in various stages of our recruitment process, including resume screening, candidate matching, interview scheduling, and communications. These tools are designed to improve efficiency, reduce bias, and enhance candidate experience. All decisions regarding hiring are made by qualified human professionals, and we continuously monitor our AI systems to ensure fairness and compliance with applicable regulations.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at OpenText by 2x
+
+See who you know
+
+Get notified about new Lead Software Engineer jobs in Richmond Hill, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Lead DevOps Engineer
+Lead DevOps Engineer
+RBC
+Toronto, Ontario, Canada
+5 days ago
+Lead Software Developer (DevOps)
+Lead Software Developer (DevOps)
+OpenText
+Mississauga, Ontario, Canada
+18 hours ago
+Staff Software Engineer (Cloud CICD Platforms)
+Staff Software Engineer (Cloud CICD Platforms)
+Scotiabank
+Toronto, Ontario, Canada
+4 days ago
+DevSecOps, Lead
+DevSecOps, Lead
+Interac Corp.
+Toronto, Ontario, Canada
+14 hours ago
+Lead Platform Engineer
+Lead Platform Engineer
+RBC
+Toronto, Ontario, Canada
+4 days ago
+Lead Software Developer
+Lead Software Developer
+OpenText
+Richmond Hill, Ontario, Canada
+CA$118,000 - CA$168,000
+4 weeks ago
+Show more jobs like this 
+People also viewed
+ModiFace - DevOps Developer
+ModiFace - DevOps Developer
+
+L'Oréal
+
+Toronto, Ontario, Canada
+2 weeks ago
+Lead Infrastructure Engineer
+Lead Infrastructure Engineer
+
+Bayview Asset Management, LLC
+
+Toronto, Ontario, Canada
+4 months ago
+Principal Cloud Platform Engineer
+Principal Cloud Platform Engineer
+
+BMO
+
+Toronto, Ontario, Canada
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+StackAdapt
+
+Toronto, Ontario, Canada
+1 week ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Baseten
+
+Toronto, Ontario, Canada
+$165,000 - $330,000
+6 months ago
+Senior DevOps Engineer - Digital Platforms
+Senior DevOps Engineer - Digital Platforms
+
+Four Seasons
+
+Toronto, Ontario, Canada
+2 days ago
+DevOps Engineer (Openshift)
+DevOps Engineer (Openshift)
+
+Kumaran Systems
+
+Toronto, Ontario, Canada
+1 month ago
+Staff Software Engineer, Infrastructure (Cloud)
+Staff Software Engineer, Infrastructure (Cloud)
+
+AeroVect
+
+Toronto, Ontario, Canada
+1 month ago
+Cloud Platform & DevOps Engineer
+Cloud Platform & DevOps Engineer
+
+360 Cloud Platforms
+
+Regional Municipality of York, Ontario, Canada
+2 months ago
+Senior Principal Engineer
+Senior Principal Engineer
+
+Autodesk
+
+Toronto, Ontario, Canada
+1 week ago
+Similar Searches
+Lead Software Engineer jobs
+4,225 open jobs
+Senior Software Engineer jobs
+5,247 open jobs
+Architect jobs
+6,526 open jobs
+Director of Engineering jobs
+1,182 open jobs
+Engineering Manager jobs
+7,405 open jobs
+Principal Software Engineer jobs
+4,028 open jobs
+Embedded Software Engineer jobs
+464 open jobs
+Engineer jobs
+24,068 open jobs
+Software Engineer jobs
+18,695 open jobs
+Senior Lead Software Engineer jobs
+2,993 open jobs
+Staff Software Engineer jobs
+3,606 open jobs
+Software Lead jobs
+9,521 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at OpenText
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

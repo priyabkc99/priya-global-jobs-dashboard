@@ -1,0 +1,254 @@
+Title: Platform Lead
+Company: M&T Resources
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/platform-lead-at-m-t-resources-4464849741
+Posted: 2026-09-11
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in CI/CD pipelines, release management, and platform architecture, matches her target location (Australia), and fits her mid-to-senior-level experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Lead
+M&T Resources  Melbourne, Victoria, Australia
+3 weeks ago  66 applicants
+  
+
+See who M&T Resources has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from M&T Resources
+
+Wendy Lee
+Wendy Lee
+Senior Talent Attraction |Recruitment Consultant | Recruitment Coordinator|
+
+Platform Lead - Perm - $160k + super
+
+
+
+
+The Platform Lead is responsible for leading the design, implementation and continuous improvement of the delivery platform across on-premises and cloud environments.
+
+The role balances technical leadership with people leadership, spending approximately 50% of time designing, building and improving deployment pipelines and automation, while leading the Platform team to deliver secure, reliable and scalable platform services.
+
+The Platform Lead is responsible for establishing platform standards, prioritizing work, managing operational triage and enabling engineering teams through reusable platform capabilities, ensuring delivery aligns with business priorities, operational requirements and regulatory obligations.
+
+
+
+
+Responsibilities:
+
+Platform Engineering & Architecture
+
+Design, build and continuously improve CI/CD pipelines across cloud and on-premises environments with AWS and on-prem Linux infrastructure.
+Own platform architecture for deployment automation, release management, environment promotion, secrets management and operational runbooks.
+Develop reusable deployment patterns, templates and platform standards.
+Improve developer self-service through automation, documentation and standardized delivery approaches.
+Drive continuous improvement through deployment metrics and platform performance analysis.
+
+
+
+
+To be successful you will have:
+
+Demonstrated experience leading, coaching and developing Platform Engineering or DevOps teams.
+Strong experience designing CI/CD pipelines from the ground up.
+Strong knowledge of deployment automation.
+Experience with hybrid cloud and on-premises environments.
+Strong knowledge of AWS and Linux.
+Strong understanding of Infrastructure as Code.
+Experience with release governance and deployment controls.
+Strong scripting and automation capability.
+Experience with cloud platforms and container technologies.
+Excellent stakeholder engagement and communication skills.
+
+
+
+
+
+
+
+Please email your resume to wendy.lee@mtr.com.au
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at M&T Resources by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Engineering Lead - Developer Platform
+Engineering Lead - Developer Platform
+Heidi
+Melbourne, Victoria, Australia
+1 week ago
+Technical Lead (Core)
+Technical Lead (Core)
+Betashares
+Melbourne, Victoria, Australia
+1 week ago
+Technical Lead
+Technical Lead
+Insignia Financial
+Docklands, Victoria, Australia
+1 week ago
+Principal Engineer
+Principal Engineer
+REA Group
+Richmond, Victoria, Australia
+1 week ago
+Technology Solutions Lead
+Technology Solutions Lead
+Intellihub Group
+Melbourne, Victoria, Australia
+2 days ago
+Tech Lead
+Tech Lead
+Squiz
+Melbourne, Victoria, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Lead Engineer
+Lead Engineer
+
+FrankieOne
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Cloud Tech Lead
+Cloud Tech Lead
+
+Medibank
+
+Melbourne, Victoria, Australia
+12 hours ago
+Systems Development Manager, Region Services
+Systems Development Manager, Region Services
+
+Amazon Web Services (AWS)
+
+Melbourne, Victoria, Australia
+21 hours ago
+Chief Engineer
+Chief Engineer
+
+Commonwealth Bank
+
+Greater Melbourne Area
+2 days ago
+Technical & Integration Lead
+Technical & Integration Lead
+
+The Royal Women's Hospital
+
+Melbourne, Victoria, Australia
+1 week ago
+Lead Engineer - Integration
+Lead Engineer - Integration
+
+Insignia Financial
+
+Docklands, Victoria, Australia
+1 week ago
+Technical & Integration Lead
+Technical & Integration Lead
+
+The Royal Women's Hospital
+
+Parkville, Victoria, Australia
+1 week ago
+Staff Software Engineer (AWS and AI)
+Staff Software Engineer (AWS and AI)
+
+Commonwealth Bank
+
+Melbourne, Victoria, Australia
+2 days ago
+Principal Engineer
+Principal Engineer
+
+LMG
+
+Melbourne, Victoria, Australia
+1 week ago
+Data Platform Engineer
+Data Platform Engineer
+
+Accenture Australia
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Similar Searches
+Lotus Domino Administrator jobs
+14 open jobs
+Sharepoint Developer jobs
+60 open jobs
+Junior Application Developer jobs
+41 open jobs
+Mechanical Engineering Manager jobs
+377 open jobs
+Adoption Specialist jobs
+1,160 open jobs
+Sharepoint Specialist jobs
+4,154 open jobs
+Teaching Associate jobs
+3,820 open jobs
+Microsoft Specialist jobs
+4,701 open jobs
+Global Business Manager jobs
+746 open jobs
+Dynamics Developer jobs
+395 open jobs
+Platform Architect jobs
+1,605 open jobs
+Sharepoint Architect jobs
+63 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at M&T Resources
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

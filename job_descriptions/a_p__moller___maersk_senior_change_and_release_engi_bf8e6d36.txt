@@ -1,0 +1,256 @@
+Title: Senior Change and Release Engineer
+Company: A.P. Moller - Maersk
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/senior-change-and-release-engineer-at-a-p-moller-maersk-4466065640
+Posted: 2026-09-11
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in release engineering, CI/CD pipelines, and configuration management, matches her target location (India), and falls within her experience level as a senior professional.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Change and Release Engineer
+A.P. Moller - Maersk  Pune Division, Maharashtra, India
+3 weeks ago   Over 200 applicants
+  
+
+See who A.P. Moller - Maersk has hired for this role
+
+Apply 
+Save
+Title: Senior Change and Release Engineer
+
+Job Level: 4
+
+Location: Pune
+
+Summary: We are looking for an experienced Senior Change and Release Engineer to improve the safety, speed, and visibility of technology changes across Maersk. This role combines change engineering, operational governance, data analysis, and automation to reduce change-related incidents while enabling teams to deploy confidently and frequently. The successful candidate will work across CI/CD and traditional change environments, establish scalable risk controls, improve change and deployment visibility, and build automation and AI-assisted workflows that modernise change and release operations.
+
+Key Responsibilities:
+
+Change Engineering and Automation:
+
+
+Champion the shift from manual, human-dependent deployments to automated, staged deployments
+Establish scalable, risk-based governance and engineering controls that improve deployment safety without creating unnecessary delivery friction
+Enable full visibility of every production change – including vendor-led and CI/CD deployments to support incident correlation, faster root-cause identification and audit readiness
+Own AI-enabled operational initiatives for change and release – pioneer, build and experiment with AI-driven workflows, and continuously explore how to advance the agentic way of doing change and release engineering
+
+
+Governance and Operational Performance:
+
+
+Own the change and release KPIs end to end, driving sustained reduction of change-caused P1/P2 major incidents; analyse change failures and root-cause patterns and convert them into targeted preventive actions
+Surface compliance, trends and exceptions to leadership, keeping enforcement fair, transparent and non-punitive
+Enforce mandatory UAT/test evidence and validated, tested rollback plans for all major and critical changes before approval, with complete blast-radius and impact capture so the right level of scrutiny is applied to each change
+Run effective, right-sized Change Advisory Board (CAB) meetings that balance governance with speed of delivery
+
+
+Leadership and Continuous Improvement:
+
+
+Lead and coach a small team of Change Managers, building a culture of ownership, accountability and delivery discipline
+Provide end-to-end, process-level ownership – maintaining process documentation, SOPs and quick-reference guidance, and periodically reviewing, upgrading and evolving the process wherever needed to keep it fit for purpose
+Produce crisp, outcome-driven reporting for senior leadership on change KPIs, adoption progress and governance health
+
+
+Qualifications:
+
+
+Bachelor's degree in Computer Science, Information Technology, or related field with relevant industry certifications
+10+ years of IT experience with proven expertise in IT change and release operations in a high-volume, high-impact production environment
+Hands-on experience governing changes across CI/CD pipelines (GitHub Actions), traditional releases and vendor-led changes
+Prior experience participating in or facilitating CAB forums, with exposure to channel-based and post-incident change restriction models
+Familiarity with DORA metrics (lead time, deployment frequency, change failure rate) and their application in assessing software delivery performance
+Strong analytical skills with the ability to interpret complex change and incident data sets and derive actionable insights
+Practical exposure to enterprise ITSM platforms, modern automation approaches and AI-assisted change tooling
+Evidence of an automation mindset, using engineering-led approaches to streamline processes and improve operational efficiency
+Excellent communication, collaboration, and stakeholder management skills up to Tech Leadership level.
+Exposure to programming/scripting languages such as Python, Bash, or PowerShell for automation and data manipulation is desirable
+Prior experience in cloud environments (e.g. AWS, Azure, Google Cloud) and containerisation technologies (e.g. Docker, Kubernetes) is highly desirable
+
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Transportation, Logistics, Supply Chain and Storage
+  
+
+Referrals increase your chances of interviewing at A.P. Moller - Maersk by 2x
+
+See who you know
+
+Get notified about new Senior Release Engineer jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Similar jobs
+Support Engineer Change & Release Management
+Support Engineer Change & Release Management
+Luxoft
+Pune District, Maharashtra, India
+3 weeks ago
+Tech Consultant - Release & Change Manager
+Tech Consultant - Release & Change Manager
+NTT DATA North America
+Pune Division, Maharashtra, India
+3 days ago
+SAP Release Engineer
+SAP Release Engineer
+Cencora
+Pune Division, Maharashtra, India
+1 month ago
+Release Engineer
+Release Engineer
+New Balance
+Pune/Pimpri-Chinchwad Area
+3 days ago
+IT Operations Authority & Readiness_Pune
+IT Operations Authority & Readiness_Pune
+VOIS
+Pune Division, Maharashtra, India
+3 weeks ago
+Senior Service Management Engineer
+Senior Service Management Engineer
+Mastercard
+Pune Division, Maharashtra, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer - MQ
+Site Reliability Engineer - MQ
+
+UBS
+
+Pune Division, Maharashtra, India
+1 week ago
+Senior Lead Analyst - Managed Service Change(Intellimatch,SQL)
+Senior Lead Analyst - Managed Service Change(Intellimatch,SQL)
+
+FIS
+
+Pune/Pimpri-Chinchwad Area
+1 day ago
+QA Release Engineer II
+QA Release Engineer II
+
+Spotnana
+
+Pune Division, Maharashtra, India
+1 day ago
+Planisware Architect
+Planisware Architect
+
+SLB
+
+Pune Division, Maharashtra, India
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Mizuho
+
+Pune City, Maharashtra, India
+4 weeks ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+ISA
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Site Reliability Engineer – Windows
+Site Reliability Engineer – Windows
+
+UBS
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+Emerson
+
+Pune Division, Maharashtra, India
+4 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+ISA
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Test Environment Analyst - AVP
+Test Environment Analyst - AVP
+
+Deutsche Bank
+
+Pune Division, Maharashtra, India
+1 week ago
+Similar Searches
+Build And Release Engineer jobs
+3,712 open jobs
+Release Engineer jobs
+3,467 open jobs
+Configuration Management Engineer jobs
+325 open jobs
+Performance Test Lead jobs
+624 open jobs
+Change And Release Manager jobs
+184 open jobs
+Software Release Engineer jobs
+346 open jobs
+Design Release Engineer jobs
+1,379 open jobs
+Senior Firmware Engineer jobs
+914 open jobs
+Release Manager jobs
+5,638 open jobs
+Performance Test Engineer jobs
+555 open jobs
+Portfolio Assistant jobs
+2,392 open jobs
+Automation Test Analyst jobs
+975 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at A.P. Moller - Maersk
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

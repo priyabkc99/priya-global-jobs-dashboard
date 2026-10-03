@@ -1,0 +1,180 @@
+Title: Senior DevOps Engineer
+Company: Psybergate (Pty) Ltd
+Location: JHB - Northern Suburbs, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-DevOps-Engineer-JHB-Northern-Suburbs-Psybergate-Pty-Ltd--4281861-inline.html
+Posted: 2026-10-01
+Deadline: N/A
+Reason: The job matches as a Senior DevOps Engineer role in South Africa (target country), aligning with Priya's CI/CD/release management experience and regulated industry background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+For recruiters
+My jobs
+Sign in
+Find Jobs
+Senior DevOps Engineer
+Psybergate (Pty) Ltd
+JHB - Northern Suburbs
+Fixed Term
+Full Time
+Published: 1 day ago
+I'm interested
+Save
+Senior DevOps Engineer
+Psybergate (Pty) Ltd
+I'm interested
+Reference: PR000914-RN-1
+
+Psybergate is an IT company that builds bespoke software solutions and provides highly skilled resources to its clients.
+We are looking for an experienced Senior DevOps Engineer to join a Finance Technology team based in Sandton on a 12-months contract role. 
+
+This is a senior technical role focused on CI/CD, deployment automation, release management, environment management and DevOps engineering across a complex enterprise technology landscape.
+The successful candidate will work closely with software developers, integration engineers, platform teams, testers, infrastructure teams and implementation partners to ensure applications and technology changes can be deployed consistently, securely and with full traceability.
+Duties & Responsibilities
+What you will be doing:
+Design, implement and maintain enterprise CI/CD pipelines using Azure DevOps.
+Establish consistent deployment patterns across .NET applications, Azure services, integrations, databases and enterprise platforms.
+Automate build, testing, packaging, deployment and release processes.
+Establish and maintain effective Git, branching, pull request and code review practices.
+Ensure application and configuration versions are traceable across development, testing and production environments.
+Support deployment and release management for .NET/C# applications and services.
+Build deployment automation for Azure services and supporting infrastructure.
+Implement Infrastructure as Code using technologies such as Terraform, Bicep or ARM templates.
+Support Azure configuration, secrets, certificates and service connections using secure practices.
+Work with Azure platform teams on networking, identity, security, monitoring and environment provisioning.
+Develop controlled deployment approaches for enterprise ERP platforms and their associated integrations.
+Support deployment automation and release management across Oracle Fusion Cloud and Oracle Integration Cloud (OIC) where applicable.
+Manage deployment dependencies between ERP configuration, integrations, .NET applications, database changes and downstream systems.
+Coordinate releases across DEV, SIT, UAT, Pre-Production and Production environments.
+Manage release dependencies across multiple applications, platforms and technology teams.
+Establish release readiness checks and deployment runbooks.
+Ensure appropriate rollback, roll-forward and recovery procedures are in place.
+Support major programme releases, cutovers and go-live activities.
+Ensure deployments comply with SDLC, cybersecurity, change management and segregation-of-duties requirements.
+Maintain end-to-end traceability from source code through build, testing, approval and production deployment.
+Implement automated quality and security gates within CI/CD pipelines.
+Reduce manual deployment activity and configuration drift between environments.
+Maintain deployment logs and evidence required for audit and regulatory purposes.
+Integrate deployment processes with monitoring, logging and alerting capabilities.
+Support application teams with Azure monitoring and observability.
+Troubleshoot deployment and environment-related production incidents.
+Drive root-cause analysis for recurring deployment failures.
+Continuously improve deployment reliability, automation and recovery capability.
+Provide DevOps engineering guidance and standards to development teams.
+Work with system integrators and third parties to ensure solutions comply with internal DevOps and deployment standards.
+Support knowledge transfer from programme implementation teams into internal engineering and support teams.
+What we are looking for:
+Bachelor's degree or equivalent practical experience in Computer Science, Software Engineering, Information Systems or a related technical discipline.
+7+ years' relevant technology experience, with significant experience in DevOps, release engineering or software engineering.
+Strong hands-on experience with Azure DevOps, including Pipelines, Repos and Artifacts.
+Strong experience with CI/CD and release processes.
+Strong experience deploying .NET/C# applications.
+Strong knowledge of Git and modern source-control practices.
+Practical experience with Microsoft Azure.
+Experience designing and implementing CI/CD pipelines.
+Practical experience with Infrastructure as Code, preferably Terraform or Bicep.
+Experience managing deployments across multiple enterprise environments.
+Strong understanding of application configuration, secrets and certificate management.
+Experience with SQL/database deployment and versioning.
+Experience supporting complex enterprise application or ERP deployments.
+Strong understanding of SDLC, change management, release management and production controls.
+Experience troubleshooting complex deployment and environment issues.
+Experience with PowerShell or other scripting technologies.
+Beneficial:
+Oracle Fusion Cloud experience.
+Oracle Integration Cloud (OIC) deployment experience.
+Experience implementing CI/CD and source control for Oracle Cloud artefacts.
+Understanding of Oracle Fusion APIs, integrations and BI Publisher.
+Experience working across hybrid Oracle and Microsoft/Azure architectures.
+Experience with automated testing integrated into deployment pipelines.
+Experience with Azure Monitor and Application Insights or equivalent observability tools.
+Experience working in banking, financial services or another regulated environment.
+Experience supporting major ERP transformation programmes and production cutovers.
+Experience with Octopus or Jenkins in addition to Azure DevOps.
+Experience with REST/SOAP APIs and enterprise integration environments.
+Please note that if you do not hear from us within 3 weeks, consider your application unsuccessful.
+
+Please note that most of our positions are remote; however, candidates should reside within travelling distance of the client site, as the working arrangements may change depending on business requirements.
+
+Follow for the Latest Vacancies
+Join Psybergate Careers Channel here: Psybergate Careers
+Package & Remuneration
+Monthly
+I'm interested
+Psybergate (Pty) Ltd
+16 Jobs
+Company Profile
+These jobs were popular with other job seekers
+Platform Engineer- DevOps / Kafka
+Psybergate (Pty) Ltd
+JHB - Northern Suburbs
+just now
+Senior SAP Analytics Cloud Lead
+Psybergate (Pty) Ltd
+JHB - Northern Suburbs
+just now
+Senior Software Implementation Engineer
+Manpower SA
+JHB - Northern Suburbs
+just now
+Senior iOS Developer
+Psybergate (Pty) Ltd
+JHB - Northern Suburbs
+just now
+Digital Project Manager
+Salix Recruitment
+JHB - Northern Suburbs
+just now
+Investor Relations and Fund Raise Associate
+Recruitd (Pty) Ltd
+just now
+Digital Sales Manager
+Salix Recruitment
+JHB - Northern Suburbs
+just now
+Dealer/Channel Sales : Asset Finance
+The Recruitment Pig
+JHB - Northern Suburbs
+just now
+File Transfer Specialist
+Psybergate (Pty) Ltd
+JHB - Northern Suburbs
+just now
+Data Architect (databricks / data modelling essential)
+Be Different Recruitment
+JHB - Northern Suburbs
+just now
+Pnet
+About us
+Jobseeker
+Blog
+Career advice
+Recruiter
+Post a job
+Products and Services
+Let's connect
+Apps
+Privacy policy
+Disclaimer
+Contact us
+Terms and conditions
+PAIA
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

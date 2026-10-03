@@ -1,0 +1,245 @@
+Title: Senior Advance Quality Engineer
+Company: Stryker
+Location: Gurugram, Haryana, India
+URL: https://in.linkedin.com/jobs/view/senior-advance-quality-engineer-at-stryker-4472591152
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The job aligns with Priya's experience in regulated quality engineering (ISO 13485, FDA regulations) and her background in medical device compliance, matching the 'Quality Engineer' role type and positive constraints from her Topcon Healthcare experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Advance Quality Engineer
+Stryker  Gurugram, Haryana, India
+13 hours ago   Be among the first 25 applicants
+  
+
+See who Stryker has hired for this role
+
+Apply 
+Save
+What You Will Do-
+
+
+Serve as the Quality representative on New Product Development (NPD) and sustenance engineering projects.
+Defining the quality and compliance requirements for development of SaMD and ensuring the requirements are communicated to the stakeholders and met.
+Development of process and procedures for development, testing and deployment of SaMD or Non Med SW and ensure software development activities comply with established SDLC processes.
+Participate in requirements, architecture, design, code, verification, and validation reviews and drive risk management activities including software hazard analysis and FMEA reviews.
+Review and Approve quality deliverables required throughout the development lifecycle; requirements for traceability, completeness, and testability and E2E test coverage and compliance.
+Develop and execute software quality strategies, test plans, and validation approaches.
+Ensure appropriate verification and validation activities are performed and documented.
+Ensure compliance with industry standards and regulations (e.g., ISO 13485, FDA regulations, IEC 62304, cybersecurity requirements, company quality procedures).
+Support internal and external audits and ensure the SW bugs (pro-prod and prod) and properly addressed and review CAPAs, non-conformances, deviations, and change controls related to software products.
+Validation of SW tools used in development, testing and deployment.
+Ensuring the deployment compliance per customer requirements in collaboration with R&D and deployment teams.
+Maintain Design History File (DHF) and software quality documentation
+Partner with Software Engineering, Systems Engineering, Product Management, Regulatory Affairs, Clinical Affairs, and Manufacturing teams and provide guidance on software quality best practices.
+Mentor junior quality engineers and support organizational capability building
+
+
+What You Will Need-
+
+Required Skills-
+
+
+Experience on Medical Device Development process; New Product Development process and various phases of new product development; experience on Risk Management, different Risk Analysis tools and techniques and experience on ISO 14971
+Understanding of Quality Management Systems. (ISO 13485, 21 CRF 820, ISO 9001) and well versed with change control process
+Experience in following technical areas is recommended - Software Development Life Cycle (SDLC); Risk Management / FMEA; Verification & Validation (V&V); Defect Management Systems (Jira, Azure DevOps, etc.); Requirements Traceability; Root Cause Analysis (RCA); Cybersecurity and Product Security concepts and change control process; Jira, Testrail, TrackWise, Salesforce, slack
+Education- Bachelor's degree in Computer Science, Software Engineering, Electronics Engineering, Biomedical Engineering, or related discipline/ Master's degree preferred
+Experience- 5 years- 7 years; 4 years in relevant Software Quality Assurance, Software Engineering, or Quality Engineering.
+Experience working in regulated environments (Medical Devices, Healthcare Software, Automotive, Aerospace, etc.).
+
+
+Preferred Skills-
+
+
+Should be ready to travel to divisions as required.
+Effective interpersonal, communications skills.
+Good understanding of Agile and traditional SDLC methodologies
+
+
+Stryker is a global leader in medical technologies and, together with its customers, is driven to make healthcare better. The company offers innovative products and services in MedSurg, Neurotechnology, Orthopaedics and Spine that help improve patient and healthcare outcomes. Alongside its customers around the world, Stryker impacts more than 150 million patients annually.
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Appliances, Electrical, and Electronics Manufacturing, Industrial Machinery Manufacturing, and Medical Equipment Manufacturing
+  
+
+Referrals increase your chances of interviewing at Stryker by 2x
+
+See who you know
+
+Get notified about new Senior Quality Engineer jobs in Gurugram, Haryana, India.
+
+Sign in to create job alert
+Jobs
+Senior Quality Engineer jobs
+Senior Advance Quality Engineer
+Similar jobs
+Senior Engineer - Quality
+Senior Engineer - Quality
+Faurecia
+Manesar, Haryana, India
+1 month ago
+Senior Quality Engineer - Complaints Handling
+Senior Quality Engineer - Complaints Handling
+Stryker
+Gurugram, Haryana, India
+1 week ago
+Senior Engineer- Quality
+Senior Engineer- Quality
+WIKA Group
+Palwal, Haryana, India
+2 months ago
+Senior Supplier Quality Engineer
+Senior Supplier Quality Engineer
+AMETEK
+Delhi, India
+1 week ago
+Senior Quality Engineer
+Senior Quality Engineer
+Bechtel Corporation
+Gurugram, Haryana, India
+1 week ago
+Senior – Quality Engineer, Pilani
+Senior – Quality Engineer, Pilani
+Turner & Townsend
+Greater Delhi Area
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior QA Engineer — Quality Engineering & Automation
+Senior QA Engineer — Quality Engineering & Automation
+
+Aspire
+
+Gurgaon, Haryana, India
+1 day ago
+Quality Engineer
+Quality Engineer
+
+Questhiring
+
+Gurugram, Haryana, India
+₹1,800,000 - ₹2,800,000
+1 day ago
+Quality Engineering Lead
+Quality Engineering Lead
+
+Accenture in India
+
+Gurugram, Haryana, India
+1 week ago
+Quality Assurance Engineer (Automation)
+Quality Assurance Engineer (Automation)
+
+PayPay India
+
+Gurugram, Haryana, India
+2 days ago
+Aeronautical Quality Engineer
+
+Gérard PIAU
+
+New Delhi, Delhi, India
+3 months ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+
+Prospecta Software
+
+Gurugram, Haryana, India
+1 week ago
+Quality Engineer Technical Lead
+Quality Engineer Technical Lead
+
+Thales
+
+Noida, Uttar Pradesh, India
+2 weeks ago
+Quality Engineer
+Quality Engineer
+
+Indication Instruments Limited
+
+Faridabad, Haryana, India
+2 weeks ago
+Quality Manager in Rolling Stock Projects
+Quality Manager in Rolling Stock Projects
+
+Siemens
+
+Gurugram, Haryana, India
+15 hours ago
+Inspection Engineer (Project) - GHAVP 1 & 2
+Inspection Engineer (Project) - GHAVP 1 & 2
+
+Larsen & Toubro
+
+Delhi, Delhi, India
+2 months ago
+Similar Searches
+Senior Quality Engineer jobs
+1,424 open jobs
+Device Engineer jobs
+736 open jobs
+Software Test Engineer jobs
+3,583 open jobs
+Change Manager jobs
+8,241 open jobs
+Quality Engineer jobs
+25,348 open jobs
+Senior Project Manager jobs
+4,943 open jobs
+Supplier Quality Engineer jobs
+811 open jobs
+Engineer jobs
+71,158 open jobs
+Staff Quality Engineer jobs
+351 open jobs
+Assistant Manager Manufacturing jobs
+52 open jobs
+Principal Quality Engineer jobs
+583 open jobs
+Senior Software Quality Engineer jobs
+717 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Stryker
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,277 @@
+Title: DevOps Engineer
+Company: APM
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-apm-4425763646
+Posted: 2026-10-01
+Deadline: N/A
+Reason: The DevOps Engineer role at APM in Melbourne, Australia matches Priya’s expertise in CI/CD pipelines (GitHub Actions, Azure DevOps), Infrastructure as Code (Terraform), and automation, along with her experience in regulated environments and cloud platforms (Azure).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+APM  Melbourne, Victoria, Australia
+1 day ago  155 applicants
+  
+
+See who APM has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+The Role
+
+The DevOps Engineer plays a key role in designing, building, and operating APM’s cloud and platform capabilities, enabling secure, reliable, and scalable technology delivery across the organisation.
+
+This role is responsible for driving automation, standardisation, and DevSecOps practices across the technology lifecycle, supporting both infrastructure and application delivery through modern engineering approaches.
+
+Based in Perth, Sydney, or Melbourne, this is an exciting opportunity to work within a global environment and contribute to the evolution of APM’s cloud platforms and engineering capability.
+
+In This Role You Will
+
+
+Design, build, and operate Azure cloud environments across development, test, and production
+Develop and maintain CI/CD pipelines using Azure DevOps and/or GitHub Actions
+Implement and manage Infrastructure as Code (IaC) using Terraform
+Embed DevSecOps practices, including security controls, scanning, and governance in pipelines
+Automate infrastructure and application delivery to improve reliability and reduce manual effort
+Implement monitoring, logging, and alerting using Azure-native tools
+Support incident response, problem management, and root cause analysis
+Collaborate with engineering, infrastructure, and security teams to improve platform maturity
+Contribute to platform standards, architecture, and roadmaps
+Drive continuous improvement through automation, standardisation, and optimisation initiatives
+Participate in an on-call support rotation to support critical services
+
+
+Skills You’ll Bring
+
+
+5+ years’ experience working in Azure / Microsoft cloud environments or Systems Engineering roles
+Strong hands-on experience with Terraform and Infrastructure as Code principles
+Proven experience building and managing CI/CD pipelines (Azure DevOps, GitHub Actions)
+Strong understanding of cloud architecture, networking, identity, and security
+Experience implementing DevSecOps practices, including security scanning and governance
+Knowledge of monitoring and observability tools (e.g. Azure Monitor, Log Analytics, App Insights)
+Familiarity with security frameworks and standards (e.g. NIST, ISO, CIS)
+Exposure to cloud security, vulnerability management, and compliance requirements
+Strong problem-solving skills and the ability to work in a fast-paced, evolving environment
+Excellent communication and collaboration skills across technical and business stakeholders
+
+
+What’s in it for you?
+
+Working with a global organisation, you’ll play a key role in shaping and evolving APM’s cloud and platform engineering capabilities.
+
+You’ll Have The Opportunity To
+
+
+Work with modern technologies and contribute to next-generation cloud platforms
+Embed best-practice DevOps and DevSecOps frameworks across a growing organisation
+Influence how applications and infrastructure are delivered at scale
+Grow your career within a global business spanning 11 countries
+
+
+We offer flexible / hybrid working, access to the latest tools and technology, additional leave options, health discounts, and a comprehensive range of employee benefits.
+
+About APM Group
+
+We’re a diverse team of over 16,000 people across 11 countries with a shared purpose - to enable better lives. Our purpose is the common thread that lives in everything we do, and it starts with enabling better lives for our employees and their families too.
+
+Our work enables the people we serve to realise their ambitions and aspirations through sustainable employment, independence, better health, and wellbeing, and increased social participation.
+
+When you join APM, you’ll have the opportunity to grow your career across global brands and geographies while making a meaningful difference.
+
+At APM we are strengthened by diversity. We are committed to creating a workplace where everyone feels included, respected, and valued. We encourage applications from people of all ages, nationalities, abilities, and cultures, including Aboriginal and Torres Strait Islander peoples, the LGBTQI+ community, and people with disability.
+
+Ready to Join?
+
+Click APPLY now and submit your application via our online recruitment platform.
+
+For a confidential discussion, please contact Shane Bhan at Shane.bhan@apm.net.au.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Health and Human Services
+  
+
+Referrals increase your chances of interviewing at APM by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Marketing Team Lead jobs
+DevOps Engineer
+Similar jobs
+Cloud & DevOps Engineer
+Cloud & DevOps Engineer
+Accenture Australia
+Melbourne, Victoria, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Verra Mobility
+South Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Verra Mobility
+Melbourne, Victoria, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Precisely
+Melbourne, Victoria, Australia
+2 weeks ago
+Software Engineer, DevOps
+Software Engineer, DevOps
+H2O.ai
+Melbourne, Victoria, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+Slalom
+Melbourne, Victoria, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+Liberty
+
+Melbourne, Victoria, Australia
+3 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Transurban
+
+Melbourne, Victoria, Australia
+3 weeks ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Future Secure AI
+
+Melbourne, Victoria, Australia
+1 day ago
+Platform Engineer - Core Data Platforms
+Platform Engineer - Core Data Platforms
+
+Suncorp Group
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+IAG
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Engineer (Remote in AU)
+Cloud Engineer (Remote in AU)
+
+Budgetly
+
+Melbourne, Victoria, Australia
+1 week ago
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Melbourne, Victoria, Australia
+20 hours ago
+Senior Cloud / DevOps Engineer
+Senior Cloud / DevOps Engineer
+
+Eightcap
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Macquarie Group
+
+Melbourne, Victoria, Australia
+1 week ago
+DevOps Engineer – AI & Data Science
+DevOps Engineer – AI & Data Science
+
+DFP Recruitment
+
+Melbourne, Victoria, Australia
+1 week ago
+Similar Searches
+Marketing Team Lead jobs
+1,315 open jobs
+Teaching Specialist jobs
+2,020 open jobs
+Communications Executive jobs
+768 open jobs
+Exercise Physiologist jobs
+306 open jobs
+Payroll Accountant jobs
+304 open jobs
+Senior Content Producer jobs
+177 open jobs
+Physiotherapist jobs
+1,365 open jobs
+Customer Service Analyst jobs
+2,092 open jobs
+Chartered Financial Analyst jobs
+309 open jobs
+Head of Communications jobs
+326 open jobs
+Employment Manager jobs
+1,623 open jobs
+Director of Public Works jobs
+10 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
